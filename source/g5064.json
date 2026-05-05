@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "τέσσαρες",
+            "transliteration": "téssares"
+        },
+        {
+            "unicode": "τέσσαρα",
+            "transliteration": "téssara"
+        }
+    ],
+    "description": "four",
+    "definition": {
+        "four": {}
+    },
+    "origin": "a plural number",
+    "related": []
+}

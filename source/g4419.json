@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πτερύγιον",
+            "transliteration": "pterýgion"
+        }
+    ],
+    "description": "a winglet, i.e., (figuratively) extremity (top corner)",
+    "definition": {
+        "a wing, a little wing": {},
+        "any pointed extremity": {
+            "of fins of fishes": {},
+            "of part of a dress hanging down in the form of a wing": {},
+            "of the top of the temple at jerusalem": {}
+        }
+    },
+    "origin": "neuter of a presumed derivative of g4420",
+    "related": [
+        "g4420"
+    ]
+}

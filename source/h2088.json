@@ -1,0 +1,48 @@
+{
+    "originalWords": "זה",
+    "description": "the masculine demonstrative pronoun, this or that",
+    "definition": {
+        "this, this one, here, which, this...that, the one...the other, another, such": {
+            "(alone)": {
+                "this one": {},
+                "this...that, the one...the other, another": {}
+            },
+            "(appos to subst)": {
+                "this": {}
+            },
+            "(as predicate)": {
+                "this, such": {}
+            },
+            "(enclitically)": {
+                "then": {},
+                "who, whom": {},
+                "how now, what now": {},
+                "what now": {},
+                "wherefore now": {},
+                "behold here": {},
+                "just now": {},
+                "now, now already": {}
+            },
+            "(poetry)": {
+                "wherein, which, those who": {}
+            },
+            "(with prefixes)": {
+                "in this (place) here, then": {},
+                "on these conditions, herewith, thus provided, by, through this, for this cause, in this matter": {},
+                "thus and thus": {},
+                "as follows, things such as these, accordingly, to that effect, in like manner, thus and thus": {},
+                "from here, hence, on one side...on the other side": {},
+                "on this account": {},
+                "in spite of this, which, whence, how": {}
+            }
+        }
+    },
+    "origin": "a primitive word",
+    "related": [
+        "h2063",
+        "h2090",
+        "h2097",
+        "h2098"
+    ],
+    "notes": "compare h2063, h2090, h2097, h2098."
+}

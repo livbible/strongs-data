@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Ἀχαϊκός",
+            "transliteration": "Achaïkós"
+        }
+    ],
+    "description": "an achaian; achaicus, a christian",
+    "literal": "belonging to achaia",
+    "definition": {
+        "the name of a christian in corinth": {}
+    },
+    "origin": "from g0882",
+    "related": [
+        "g0882"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀνθύπατος",
+            "transliteration": "anthýpatos"
+        }
+    ],
+    "description": "instead of the highest officer, i.e., (specially) a roman proconsul",
+    "definition": {
+        "a proconsul": {
+            "a roman ruler": {}
+        }
+    },
+    "origin": "from g0473 and a superlative of g5228",
+    "related": [
+        "g0473",
+        "g5228"
+    ],
+    "notes": "the emperor augustus divided the roman provinces into senatorial and imperial. the former were governed by proconsuls; the later by legates of the emperor, sometimes called propraetors."
+}

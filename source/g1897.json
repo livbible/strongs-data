@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐπείπερ",
+            "transliteration": "epeíper"
+        }
+    ],
+    "description": "since indeed (of cause)",
+    "definition": {
+        "since indeed, since at all events": {}
+    },
+    "origin": "from g1893 and g4007",
+    "related": [
+        "g1893",
+        "g4007"
+    ]
+}

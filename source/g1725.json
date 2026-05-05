@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἔναντι",
+            "transliteration": "énanti"
+        }
+    ],
+    "description": "in front (i.e., figuratively, presence) of",
+    "definition": {
+        "before": {}
+    },
+    "origin": "from g1722 and g0473",
+    "related": [
+        "g0473",
+        "g1722"
+    ]
+}

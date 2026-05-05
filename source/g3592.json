@@ -1,0 +1,25 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὅδε",
+            "transliteration": "hóde"
+        },
+        {
+            "unicode": "ἥδε",
+            "transliteration": "hḗde"
+        },
+        {
+            "unicode": "τόδε",
+            "transliteration": "tóde"
+        }
+    ],
+    "description": "the same, i.e., this or that one (plural these or those); often used as a personal pronoun",
+    "definition": {
+        "this one here, these things, as follows, thus": {}
+    },
+    "origin": "from g3588 and g1161",
+    "related": [
+        "g1161",
+        "g3588"
+    ]
+}

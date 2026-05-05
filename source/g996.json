@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "βοήθεια",
+            "transliteration": "boḗtheia"
+        }
+    ],
+    "description": "aid; specially, a rope or chain for frapping a vessel",
+    "definition": {
+        "help": {}
+    },
+    "origin": "from g0998",
+    "related": [
+        "g0998"
+    ]
+}

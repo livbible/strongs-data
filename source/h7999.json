@@ -1,0 +1,41 @@
+{
+    "originalWords": "שלם",
+    "description": "to be safe (in mind, body or estate); figuratively, to be (causatively, make) completed; by implication, to be friendly; by extension, to reciprocate (in various applications)",
+    "definition": {
+        "to be in a covenant of peace, be at peace": {
+            "(qal)": {
+                "to be at peace": {},
+                "peaceful one (participle)": {}
+            },
+            "(pual) one in covenant of peace (participle)": {},
+            "(hiphil)": {
+                "to make peace with": {},
+                "to cause to be at peace": {}
+            },
+            "(hophal) to live in peace": {}
+        },
+        "to be complete, be sound": {
+            "(qal)": {
+                "to be complete, be finished, be ended": {},
+                "to be sound, be uninjured": {}
+            },
+            "(piel)": {
+                "to complete, finish": {},
+                "to make safe": {},
+                "to make whole or good, restore, make compensation": {},
+                "to make good, pay": {},
+                "to requite, recompense, reward": {}
+            },
+            "(pual)": {
+                "to be performed": {},
+                "to be repaid, be requited": {}
+            },
+            "(hiphil)": {
+                "to complete, perform": {},
+                "to make an end of": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κυκλόω",
+            "transliteration": "kyklóō"
+        }
+    ],
+    "description": "to encircle, i.e., surround",
+    "definition": {
+        "to go around, lead around": {},
+        "to surround, encircle, encompass": {
+            "of persons standing around": {},
+            "of besiegers": {}
+        }
+    },
+    "origin": "from the same as g2945",
+    "related": [
+        "g2945"
+    ]
+}

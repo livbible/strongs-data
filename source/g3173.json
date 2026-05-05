@@ -1,0 +1,39 @@
+{
+    "originalWords": [
+        {
+            "unicode": "μέγας",
+            "transliteration": "mégas"
+        }
+    ],
+    "description": "big (literally or figuratively, in a very wide application)",
+    "definition": {
+        "great": {
+            "of the external form or sensible appearance of things (or of persons)": {
+                "in particular, of space and its dimensions, as respects": {
+                    "mass and weight: great": {},
+                    "compass and extent: large, spacious": {},
+                    "measure and height: long": {},
+                    "stature and age: great, old": {}
+                }
+            },
+            "of number and quantity: numerous, large, abundant": {},
+            "of age: the elder": {},
+            "used of intensity and its degrees: with great effort, of the affections and emotions of the mind, of natural events powerfully affecting the senses: violent, mighty, strong": {}
+        },
+        "predicated of rank, as belonging to": {
+            "persons, eminent for ability, virtue, authority, power": {},
+            "things esteemed highly for their importance: of great moment, of great weight, importance": {},
+            "a thing to be highly esteemed for its excellence: excellent": {}
+        },
+        "splendid, prepared on a grand scale, stately": {},
+        "great things": {
+            "of god's preeminent blessings": {},
+            "of things which overstep the province of a created being, proud (presumptuous) things, full of arrogance, derogatory to the majesty of god": {}
+        }
+    },
+    "origin": "(including the prolonged forms, feminine ??????, plural ???????, etc.; compare also g3176, g3187)",
+    "related": [
+        "g3176",
+        "g3187"
+    ]
+}

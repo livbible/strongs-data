@@ -1,0 +1,27 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πιπράσκω",
+            "transliteration": "pipráskō"
+        },
+        {
+            "unicode": "πράω",
+            "transliteration": "práō"
+        }
+    ],
+    "description": "from the base of g4008); to traffic (by travelling), i.e., dispose of as merchandise or into slavery (literally or figuratively)",
+    "definition": {
+        "to sell": {
+            "of price, one into slavery": {},
+            "of the master to whom one is sold as a slave": {}
+        },
+        "metaphorically": {
+            "sold under sin, entirely under the control of the love of sinning": {},
+            "of one bribed to give himself up wholly to another's will": {}
+        }
+    },
+    "origin": "contracted from ????? (to traverse",
+    "related": [
+        "g4008"
+    ]
+}

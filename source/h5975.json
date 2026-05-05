@@ -1,0 +1,27 @@
+{
+    "originalWords": "עמד",
+    "description": "to stand, in various relations (literal and figurative, intransitive and transitive)",
+    "definition": {
+        "to stand, remain, endure, take one's stand": {
+            "(qal)": {
+                "to stand, take one's stand, be in a standing attitude, stand forth, take a stand, present oneself, attend upon, be or become servant of": {},
+                "to stand still, stop (moving or doing), cease": {},
+                "to tarry, delay, remain, continue, abide, endure, persist, be steadfast": {},
+                "to make a stand, hold one's ground": {},
+                "to stand upright, remain standing, stand up, rise, be erect, be upright": {},
+                "to arise, appear, come on the scene, stand forth, appear, rise up or against": {},
+                "to stand with, take one's stand, be appointed, grow flat, grow insipid": {}
+            },
+            "(hiphil)": {
+                "to station, set": {},
+                "to cause to stand firm, maintain": {},
+                "to cause to stand up, cause to set up, erect": {},
+                "to present (one) before (king)": {},
+                "to appoint, ordain, establish": {}
+            },
+            "(hophal) to be presented, be caused to stand, be stood before": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀδηλότης",
+            "transliteration": "adēlótēs"
+        }
+    ],
+    "description": "uncertainty",
+    "definition": {
+        "uncertainty": {}
+    },
+    "origin": "from g0082",
+    "related": [
+        "g0082"
+    ]
+}

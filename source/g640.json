@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀπορία",
+            "transliteration": "aporía"
+        }
+    ],
+    "description": "a (state of) quandary",
+    "definition": {
+        "the state of one who is in perplexity": {}
+    },
+    "origin": "from the same as g0639",
+    "related": [
+        "g0639"
+    ]
+}

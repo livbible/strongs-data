@@ -1,0 +1,30 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἔρημος",
+            "transliteration": "érēmos"
+        }
+    ],
+    "description": "lonesome, i.e., (by implication) waste (usually as a noun, g5561 being implied)",
+    "definition": {
+        "solitary, lonely, desolate, uninhabited": {
+            "used of places": {
+                "a desert, wilderness": {},
+                "deserted places, lonely regions": {},
+                "an uncultivated region fit for pasturage": {}
+            },
+            "used of persons": {
+                "deserted by others": {},
+                "deprived of the aid and protection of others, especially of friends, acquaintances, kindred": {},
+                "bereft": {
+                    "of a flock deserted by the shepherd": {},
+                    "of a women neglected by her husband, from whom the husband withholds himself": {}
+                }
+            }
+        }
+    },
+    "origin": "of uncertain affinity",
+    "related": [
+        "g5561"
+    ]
+}

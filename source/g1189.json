@@ -1,0 +1,23 @@
+{
+    "originalWords": [
+        {
+            "unicode": "δέομαι",
+            "transliteration": "déomai"
+        }
+    ],
+    "description": "to beg (as binding oneself), i.e., petition",
+    "definition": {
+        "to want, lack": {},
+        "to desire, long for": {},
+        "to ask, beg": {
+            "the thing asked for": {},
+            "to pray, make supplications": {}
+        }
+    },
+    "origin": "middle voice of g1210",
+    "related": [
+        "g1210",
+        "g4441"
+    ],
+    "notes": "compare g4441."
+}

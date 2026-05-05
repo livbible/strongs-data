@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κλάσις",
+            "transliteration": "klásis"
+        }
+    ],
+    "description": "fracture (the act)",
+    "definition": {
+        "a breaking": {}
+    },
+    "origin": "from g2806",
+    "related": [
+        "g2806"
+    ]
+}

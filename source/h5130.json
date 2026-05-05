@@ -1,0 +1,23 @@
+{
+    "originalWords": "נוף",
+    "description": "to quiver (i.e., vibrate up and down, or rock to and fro); used in a great variety of applications (including sprinkling, beckoning, rubbing, bastinadoing, sawing, waving, etc.)",
+    "definition": {
+        "to move to and fro, wave, besprinkle": {
+            "(qal) to besprinkle, sprinkle": {},
+            "(polel) to wave, brandish (in threat)": {},
+            "(hiphil) to swing, wield, wave": {
+                "to wield": {},
+                "to wave or shake (the hand)": {
+                    "to wave (hand)": {},
+                    "to shake or brandish against": {},
+                    "to swing to and fro": {}
+                },
+                "to wave (an offering), offer": {},
+                "to shed abroad": {}
+            },
+            "(hophal) to be waved": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

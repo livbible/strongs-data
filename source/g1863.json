@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐπάγω",
+            "transliteration": "epágō"
+        }
+    ],
+    "description": "to superinduce, i.e., inflict (an evil), charge (a crime)",
+    "definition": {
+        "to lead or bring upon": {},
+        "to bring a thing on one": {
+            "to cause something to befall one, usually something evil": {}
+        }
+    },
+    "origin": "from g1909 and g0071",
+    "related": [
+        "g0071",
+        "g1909"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Δεκάπολις",
+            "transliteration": "Dekápolis"
+        }
+    ],
+    "description": "the ten-city region; the decapolis, a district in syria",
+    "literal": "ten cities",
+    "definition": {
+        "a track of land so called from the ten cities that were in it": {
+            "according to pliny, these cities were: damascus, opoton, philadelphia, raphana, scythopolis, gadara, hippondion, pella, galasa, and canatha (gill)": {}
+        }
+    },
+    "origin": "from g1176 and g4172",
+    "related": [
+        "g1176",
+        "g4172"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "αὐλητής",
+            "transliteration": "aulētḗs"
+        }
+    ],
+    "description": "a flute-player",
+    "definition": {
+        "a flute player": {}
+    },
+    "origin": "from g0832",
+    "related": [
+        "g0832"
+    ]
+}

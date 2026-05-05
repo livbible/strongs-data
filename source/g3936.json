@@ -1,0 +1,45 @@
+{
+    "originalWords": [
+        {
+            "unicode": "παρίστημι",
+            "transliteration": "parístēmi"
+        },
+        {
+            "unicode": "παριστάνω",
+            "transliteration": "paristánō"
+        }
+    ],
+    "description": "to stand beside, i.e., (transitively) to exhibit, proffer, (specially), recommend, (figuratively) substantiate; or (intransitively) to be at hand (or ready), aid",
+    "definition": {
+        "to place beside or near": {
+            "to set at hand": {
+                "to present": {},
+                "to proffer": {},
+                "to provide": {},
+                "to place a person or thing at one's disposal": {},
+                "to present a person for another to see and question": {},
+                "to present or show": {},
+                "to bring to, bring near": {},
+                "metaphorically i.e., to bring into one's fellowship or intimacy": {}
+            },
+            "to present (show) by argument, to prove": {}
+        },
+        "to stand beside, stand by or near, to be at hand, be present": {
+            "to stand by": {
+                "to stand beside one, a bystander": {}
+            },
+            "to appear": {},
+            "to be at hand, stand ready": {},
+            "to stand by to help, to succour": {},
+            "to be present": {
+                "to have come": {},
+                "of time": {}
+            }
+        }
+    },
+    "origin": "from g3844 and g2476",
+    "related": [
+        "g2476",
+        "g3844"
+    ]
+}

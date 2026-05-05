@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "εὐτραπελία",
+            "transliteration": "eutrapelía"
+        }
+    ],
+    "description": "witticism, i.e., (in a vulgar sense) ribaldry",
+    "definition": {
+        "pleasantry, humour, facetiousness": {},
+        "in a bad sense": {
+            "scurrility, ribaldry, low jesting": {}
+        }
+    },
+    "origin": "from a compound of g2095 and a derivative of the base of g5157 (meaning well-turned, i.e. ready at repartee, jocose)",
+    "related": [
+        "g2095",
+        "g5157"
+    ]
+}

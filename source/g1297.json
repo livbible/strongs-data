@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "διάταγμα",
+            "transliteration": "diátagma"
+        }
+    ],
+    "description": "an arrangement, i.e., (authoritative) edict",
+    "definition": {
+        "an injunction, mandate": {}
+    },
+    "origin": "from g1299",
+    "related": [
+        "g1299"
+    ]
+}

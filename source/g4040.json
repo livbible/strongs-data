@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "περίοικος",
+            "transliteration": "períoikos"
+        }
+    ],
+    "description": "housed around, i.e., neighboring (used elliptically as a noun)",
+    "definition": {
+        "dwelling around, a neighbour": {}
+    },
+    "origin": "from g4012 and g3624",
+    "related": [
+        "g3624",
+        "g4012"
+    ]
+}

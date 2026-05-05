@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐνύπνιον",
+            "transliteration": "enýpnion"
+        }
+    ],
+    "description": "something seen in sleep, i.e., a dream (vision in a dream)",
+    "definition": {
+        "a dream": {}
+    },
+    "origin": "from g1722 and g5258",
+    "related": [
+        "g1722",
+        "g5258"
+    ]
+}

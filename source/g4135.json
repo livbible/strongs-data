@@ -1,0 +1,29 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πληροφορέω",
+            "transliteration": "plērophoréō"
+        }
+    ],
+    "description": "to carry out fully (in evidence), i.e., completely assure (or convince), entirely accomplish",
+    "definition": {
+        "to bear or bring full, to make full": {
+            "to cause a thing to be shown to the full": {
+                "to fulfil the ministry in every part": {}
+            },
+            "to carry through to the end, accomplish": {
+                "things that have been accomplished": {}
+            },
+            "to fill one with any thought, conviction, or inclination": {
+                "to make one certain, to persuade, convince one": {},
+                "to be persuaded, persuaded, fully convinced or assured": {},
+                "to render inclined or bent on": {}
+            }
+        }
+    },
+    "origin": "from g4134 and g5409",
+    "related": [
+        "g4134",
+        "g5409"
+    ]
+}

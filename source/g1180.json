@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "δεκατέσσαρες",
+            "transliteration": "dekatéssares"
+        }
+    ],
+    "description": "ten and four, i.e., fourteen",
+    "definition": {
+        "fourteen": {}
+    },
+    "origin": "from g1176 and g5064",
+    "related": [
+        "g1176",
+        "g5064"
+    ]
+}

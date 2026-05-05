@@ -1,0 +1,19 @@
+{
+    "originalWords": "לוז",
+    "description": "to turn aside , i.e., (literally) to depart, (figuratively) be perverse",
+    "definition": {
+        "to depart, turn aside": {
+            "(qal) to depart": {},
+            "(niphal)": {
+                "to go wrong, go crooked": {},
+                "devious, perverse (participle)": {}
+            },
+            "(hiphil)": {
+                "to be lost from view": {},
+                "to become devious": {}
+            }
+        }
+    },
+    "origin": "a primitive root; (compare h3867, h3874 and h3885)",
+    "related": []
+}

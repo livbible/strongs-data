@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "παρεκτός",
+            "transliteration": "parektós"
+        }
+    ],
+    "description": "near outside, i.e., besides",
+    "definition": {
+        "except, with the exception of (a thing)": {},
+        "besides": {}
+    },
+    "origin": "from g3844 and g1622",
+    "related": [
+        "g1622",
+        "g3844"
+    ]
+}

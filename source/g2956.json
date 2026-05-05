@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Κυρηναῖος",
+            "transliteration": "Kyrēnaîos"
+        }
+    ],
+    "description": "i.e., cyrenaean, i.e., inhabitant of cyrene",
+    "definition": {
+        "a native of cyrene": {}
+    },
+    "origin": "from g2957",
+    "related": [
+        "g2957"
+    ]
+}

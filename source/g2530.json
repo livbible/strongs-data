@@ -1,0 +1,22 @@
+{
+    "originalWords": [
+        {
+            "unicode": "καθότι",
+            "transliteration": "kathóti"
+        }
+    ],
+    "description": "and g3739 and g5100; according to which certain thing, i.e., as far (or inasmuch) as",
+    "definition": {
+        "according to what": {
+            "as far as, according as": {},
+            "because that, because": {},
+            "as just as": {}
+        }
+    },
+    "origin": "from g2596",
+    "related": [
+        "g2596",
+        "g3739",
+        "g5100"
+    ]
+}

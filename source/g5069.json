@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "τετράδιον",
+            "transliteration": "tetrádion"
+        }
+    ],
+    "description": "a quaternion or squad (picket) of four roman soldiers",
+    "definition": {
+        "a quaternion, a group of four soldiers": {}
+    },
+    "origin": "neuter of a presumed derivative of ?????? (a tetrad; from g5064)",
+    "related": [
+        "g5064"
+    ],
+    "notes": "among the romans, a quaternion was the usual number of guards to which the custody of captives and prisoners was entrusted; two soldiers were confined with the prisoner and two kept guard outside. four quaternions of soldiers would be used to guard one all night, one for each of the four night watches."
+}

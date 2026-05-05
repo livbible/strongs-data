@@ -1,0 +1,25 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὑπερβαίνω",
+            "transliteration": "hyperbaínō"
+        }
+    ],
+    "description": "to transcend, i.e., (figuratively) to overreach",
+    "definition": {
+        "to step over, beyond": {},
+        "metaphorically": {
+            "to transgress": {},
+            "to overstep the proper limits": {},
+            "trespass, do wrong, sin": {
+                "of one who defrauds another in business": {}
+            },
+            "overreaches": {}
+        }
+    },
+    "origin": "from g5228 and the base of g0939",
+    "related": [
+        "g0939",
+        "g5228"
+    ]
+}

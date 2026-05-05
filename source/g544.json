@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀπειθέω",
+            "transliteration": "apeithéō"
+        }
+    ],
+    "description": "to disbelieve (wilfully and perversely)",
+    "definition": {
+        "not to allow one's self to be persuaded": {
+            "to refuse or withhold belief": {},
+            "to refuse belief and obedience": {}
+        },
+        "not to comply with": {}
+    },
+    "origin": "from g0545",
+    "related": [
+        "g0545"
+    ]
+}

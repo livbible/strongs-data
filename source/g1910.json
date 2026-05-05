@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐπιβαίνω",
+            "transliteration": "epibaínō"
+        }
+    ],
+    "description": "to walk upon, i.e., mount, ascend, embark, arrive",
+    "definition": {
+        "to get upon, mount": {
+            "to embark in": {},
+            "to go aboard (a ship)": {}
+        },
+        "to set foot in, enter": {}
+    },
+    "origin": "from g1909 and the base of g0939",
+    "related": [
+        "g0939",
+        "g1909"
+    ]
+}

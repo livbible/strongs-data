@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πεντακόσιοι",
+            "transliteration": "pentakósioi"
+        }
+    ],
+    "description": "five hundred",
+    "definition": {
+        "five hundred": {}
+    },
+    "origin": "from g4002 and g1540",
+    "related": [
+        "g1540",
+        "g4002"
+    ]
+}

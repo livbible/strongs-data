@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀπρόσιτος",
+            "transliteration": "aprósitos"
+        }
+    ],
+    "description": "inaccessible",
+    "definition": {
+        "unapproachable, inaccessible": {}
+    },
+    "origin": "from g0001 (as a negative particle) and a derivative of a comparative of g4314 and ???? (to go)",
+    "related": [
+        "g0001",
+        "g4314"
+    ]
+}

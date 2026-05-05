@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "βρώσιμος",
+            "transliteration": "brṓsimos"
+        }
+    ],
+    "description": "eatable",
+    "definition": {
+        "eatable": {}
+    },
+    "origin": "from g1035",
+    "related": [
+        "g1035"
+    ]
+}

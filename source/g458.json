@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀνομία",
+            "transliteration": "anomía"
+        }
+    ],
+    "description": "illegality, i.e., violation of law or (genitive case) wickedness",
+    "definition": {
+        "the condition of without law": {
+            "because ignorant of it": {},
+            "because of violating it": {}
+        },
+        "contempt and violation of law, iniquity, wickedness": {}
+    },
+    "origin": "from g0459",
+    "related": [
+        "g0459"
+    ]
+}

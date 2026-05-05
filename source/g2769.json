@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κεράτιον",
+            "transliteration": "kerátion"
+        }
+    ],
+    "description": "something horned, i.e., (specially) the pod of the carob-tree",
+    "definition": {
+        "a little horn": {},
+        "the husk of a fruit, perhaps the name of the fruit": {}
+    },
+    "origin": "neuter of a presumed derivative of g2768",
+    "related": [
+        "g2768"
+    ],
+    "notes": "this fruit is believed to be the ceratonia silqua or carobtree species, also called john's bread (from the notion that its pods, which resemble those of the \"locust\" constituted the food of the baptist). this fruit was shaped like a horn and has a sweet taste; it was and is used not only for fattening swine, but as food by the lower classes."
+}

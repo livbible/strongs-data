@@ -1,0 +1,23 @@
+{
+    "originalWords": "רדף",
+    "description": "to run after (usually with hostile intent; figuratively [of time] gone by)",
+    "definition": {
+        "to be behind, follow after, pursue, persecute, run after": {
+            "(qal)": {
+                "to pursue, put to flight, chase, dog, attend closely upon": {},
+                "to persecute, harass (figuratively)": {},
+                "to follow after, aim to secure (figuratively)": {},
+                "to run after (a bribe) (figuratively)": {}
+            },
+            "(niphal)": {
+                "to be pursued": {},
+                "one pursued (participle)": {}
+            },
+            "(piel) to pursue ardently, aim eagerly to secure, pursue": {},
+            "(pual) to be pursued, be chased away": {},
+            "(hiphil) to pursue, chase": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

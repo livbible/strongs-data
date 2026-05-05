@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐμπόριον",
+            "transliteration": "empórion"
+        }
+    ],
+    "description": "a mart (\"emporium\")",
+    "definition": {
+        "a place were trade is carried on, especially a seaport": {
+            "a mart, an emporium": {}
+        }
+    },
+    "origin": "neuter from g1713",
+    "related": [
+        "g1713"
+    ]
+}

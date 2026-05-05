@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἄριστον",
+            "transliteration": "áriston"
+        }
+    ],
+    "description": "the best meal (or breakfast; perhaps from ??? (\"early\")), i.e., luncheon",
+    "definition": {
+        "the first food taken early in the morning before work, breakfast": {},
+        "later usage: dinner": {}
+    },
+    "origin": "apparently neuter of a superlative from the same as g0730",
+    "related": [
+        "g0730"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀγών",
+            "transliteration": "agṓn"
+        }
+    ],
+    "description": "properly, a place of assembly (as if led), i.e., (by implication) a contest (held there); figuratively, an effort or anxiety",
+    "definition": {
+        "an assembly,": {
+            "a place of assembly: especially an assembly met to see games": {},
+            "the place of contest, the arena or stadium": {}
+        },
+        "the assembly of the greeks at their national games": {
+            "hence the contest for a prize at their games": {},
+            "generally, any struggle or contest": {},
+            "a battle": {},
+            "an action at law, trial": {}
+        }
+    },
+    "origin": "from g0071",
+    "related": [
+        "g0071"
+    ]
+}

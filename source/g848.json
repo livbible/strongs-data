@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "αὑτοῦ",
+            "transliteration": "hautoû"
+        }
+    ],
+    "description": "self (in some oblique case or reflexive relation)",
+    "definition": {
+        "of himself, herself, itself": {}
+    },
+    "origin": "contracted for g1438",
+    "related": [
+        "g1438"
+    ]
+}

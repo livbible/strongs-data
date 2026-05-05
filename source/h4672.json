@@ -1,0 +1,52 @@
+{
+    "originalWords": "מצא",
+    "description": "properly, to come forth to, i.e., appear or exist; transitively, to attain, i.e., find or acquire; figuratively, to occur, meet or be present",
+    "definition": {
+        "to find, attain to": {
+            "(qal)": {
+                "to find": {
+                    "to find, secure, acquire, get (thing sought)": {},
+                    "to find (what is lost)": {},
+                    "to meet, encounter": {},
+                    "to find (a condition)": {},
+                    "to learn, devise": {}
+                },
+                "to find out": {
+                    "to find out": {},
+                    "to detect": {},
+                    "to guess": {}
+                },
+                "to come upon, light upon": {
+                    "to happen upon, meet, fall in with": {},
+                    "to hit": {},
+                    "to befall": {}
+                }
+            },
+            "(niphal)": {
+                "to be found": {
+                    "to be encountered, be lighted upon, be discovered": {},
+                    "to appear, be recognized": {},
+                    "to be discovered, be detected": {},
+                    "to be gained, be secured": {}
+                },
+                "to be, be found": {
+                    "to be found in": {},
+                    "to be in the possession of": {},
+                    "to be found in (a place), happen to be": {},
+                    "to be left (after war)": {},
+                    "to be present": {},
+                    "to prove to be": {},
+                    "to be found sufficient, be enough": {}
+                }
+            },
+            "(hiphil)": {
+                "to cause to find, attain": {},
+                "to cause to light upon, come upon, come": {},
+                "to cause to encounter": {},
+                "to present (offering)": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

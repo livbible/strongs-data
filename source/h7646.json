@@ -1,0 +1,23 @@
+{
+    "originalWords": "שבע",
+    "description": "to sate, i.e., fill to satisfaction (literally or figuratively)",
+    "definition": {
+        "to be satisfied, be sated, be fulfilled, be surfeited": {
+            "(qal)": {
+                "to be sated (with food)": {},
+                "to be sated, be satisfied with, be fulfilled, be filled, have one's fill of (have desire satisfied)": {},
+                "to have in excess, be surfeited, be surfeited with": {
+                    "to be weary of (figuratively)": {}
+                }
+            },
+            "(piel) to satisfy": {},
+            "(hiphil)": {
+                "to satisfy": {},
+                "to enrich": {},
+                "to sate, glut (with the undesired)": {}
+            }
+        }
+    },
+    "origin": "or ???????; a primitive root",
+    "related": []
+}

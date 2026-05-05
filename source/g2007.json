@@ -1,0 +1,25 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐπιτίθημι",
+            "transliteration": "epitíthēmi"
+        }
+    ],
+    "description": "to impose (in a friendly or hostile sense)",
+    "definition": {
+        "in the active voice": {
+            "to put or lay upon": {},
+            "to add to": {}
+        },
+        "in the middle voice": {
+            "to have put on, bid to be laid on": {},
+            "to lay or throw one's self upon": {},
+            "to attack one, to make an assault on one": {}
+        }
+    },
+    "origin": "from g1909 and g5087",
+    "related": [
+        "g1909",
+        "g5087"
+    ]
+}

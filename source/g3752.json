@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὅταν",
+            "transliteration": "hótan"
+        }
+    ],
+    "description": "whenever (implying hypothesis or more or less uncertainty); also causatively (conjunctionally) inasmuch as",
+    "definition": {
+        "when, whenever, as long as, as soon as": {}
+    },
+    "origin": "from g3753 and g0302",
+    "related": [
+        "g0302",
+        "g3753"
+    ]
+}

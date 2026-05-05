@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Εὔβουλος",
+            "transliteration": "Eúboulos"
+        }
+    ],
+    "description": "good-willer; eubulus, a christian",
+    "literal": "prudent",
+    "definition": {
+        "a christian at rome": {}
+    },
+    "origin": "from g2095 and g1014",
+    "related": [
+        "g1014",
+        "g2095"
+    ]
+}

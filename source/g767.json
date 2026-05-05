@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἄσημος",
+            "transliteration": "ásēmos"
+        }
+    ],
+    "description": "unmarked, i.e., (figuratively) ignoble",
+    "definition": {
+        "unmarked or unstamped": {
+            "of money": {}
+        },
+        "unknown, of no mark, insignificant, ignoble": {}
+    },
+    "origin": "from g0001 (as a negative particle) and the base of g4591",
+    "related": [
+        "g0001",
+        "g4591"
+    ]
+}

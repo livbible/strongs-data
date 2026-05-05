@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "καίτοι",
+            "transliteration": "kaítoi"
+        }
+    ],
+    "description": "and yet, i.e., nevertheless",
+    "definition": {
+        "and yet, although": {}
+    },
+    "origin": "from g2532 and g5104",
+    "related": [
+        "g2532",
+        "g5104"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "περιοχή",
+            "transliteration": "periochḗ"
+        }
+    ],
+    "description": "a being held around, i.e., (concretely) a passage (of scripture, as circumscribed)",
+    "definition": {
+        "an encompassing, compass, circuit": {},
+        "that which is contained": {
+            "the contents of any writing": {}
+        }
+    },
+    "origin": "from g4023",
+    "related": [
+        "g4023"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "originalWords": "קשה",
+    "description": "properly, to be dense, i.e., tough or severe (in various applications)",
+    "definition": {
+        "to be hard, be severe, be fierce, be harsh": {
+            "(qal)": {
+                "to be hard, be difficult": {},
+                "to be hard, be severe": {}
+            },
+            "(niphal)": {
+                "to be ill-treated": {},
+                "to be hard pressed": {}
+            },
+            "(piel) to have severe labor (of women)": {},
+            "(hiphil)": {
+                "to make difficult, make difficulty": {},
+                "to make severe, make burdensome": {},
+                "to make hard, make stiff, make stubborn": {
+                    "of obstinacy (figuratively)": {}
+                },
+                "to show stubbornness": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

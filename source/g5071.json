@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "τετρακόσιοι",
+            "transliteration": "tetrakósioi"
+        },
+        {
+            "unicode": "τετρακόσια",
+            "transliteration": "tetrakósia"
+        }
+    ],
+    "description": "four hundred",
+    "definition": {
+        "four hundred": {}
+    },
+    "origin": "plural from g5064 and g1540",
+    "related": [
+        "g1540",
+        "g5064"
+    ]
+}

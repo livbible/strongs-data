@@ -1,0 +1,23 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀλλά",
+            "transliteration": "allá"
+        }
+    ],
+    "description": "properly, other things, i.e., (adverbially) contrariwise (in many relations)",
+    "definition": {
+        "but": {
+            "nevertheless, notwithstanding": {},
+            "an objection": {},
+            "an exception": {},
+            "a restriction": {},
+            "nay, rather, yea, moreover": {},
+            "forms a transition to the cardinal matter": {}
+        }
+    },
+    "origin": "neuter plural of g0243",
+    "related": [
+        "g0243"
+    ]
+}

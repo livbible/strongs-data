@@ -1,0 +1,21 @@
+{
+    "originalWords": "נקם",
+    "description": "to grudge, i.e., avenge or punish",
+    "definition": {
+        "to avenge, take vengeance, revenge, avenge oneself, be avenged, be punished": {
+            "(qal)": {
+                "to avenge, take vengeance": {},
+                "to entertain revengeful feelings": {}
+            },
+            "(niphal)": {
+                "to avenge oneself": {},
+                "to suffer vengeance": {}
+            },
+            "(piel) to avenge": {},
+            "(hophal) to be avenged, vengeance be taken (for blood)": {},
+            "(hithpael) to avenge oneself": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

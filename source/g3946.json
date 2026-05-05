@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "παρόμοιος",
+            "transliteration": "parómoios"
+        }
+    ],
+    "description": "alike nearly, i.e., similar",
+    "definition": {
+        "like": {}
+    },
+    "origin": "from g3844 and g3664",
+    "related": [
+        "g3664",
+        "g3844"
+    ]
+}

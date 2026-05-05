@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀλεκτοροφωνία",
+            "transliteration": "alektorophōnía"
+        }
+    ],
+    "description": "cock-crow, i.e., the third night-watch",
+    "definition": {
+        "the crowing of a cock or rooster, cock-crowing": {
+            "used of the third watch of the night": {}
+        }
+    },
+    "origin": "from g0220 and g5456",
+    "related": [
+        "g0220",
+        "g5456"
+    ]
+}

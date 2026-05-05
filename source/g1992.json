@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐπιστολή",
+            "transliteration": "epistolḗ"
+        }
+    ],
+    "description": "a written message",
+    "definition": {
+        "a letter, epistle": {}
+    },
+    "origin": "from g1989",
+    "related": [
+        "g1989"
+    ]
+}

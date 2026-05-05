@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἄνομος",
+            "transliteration": "ánomos"
+        }
+    ],
+    "description": "lawless, i.e., (negatively) not subject to (the jewish) law; (by implication, a gentile), or (positively) wicked",
+    "definition": {
+        "destitute of (the mosaic) law": {
+            "of the gentiles": {}
+        },
+        "departing from the law, a violator of the law, lawless, wicked": {}
+    },
+    "origin": "from g0001 (as a negative particle) and g3551",
+    "related": [
+        "g0001",
+        "g3551"
+    ]
+}

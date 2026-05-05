@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὑμᾶς",
+            "transliteration": "hymâs"
+        }
+    ],
+    "description": "you (as the objective of a verb or preposition)",
+    "definition": {
+        "you": {}
+    },
+    "origin": "accusative case of g5210",
+    "related": [
+        "g5210"
+    ]
+}

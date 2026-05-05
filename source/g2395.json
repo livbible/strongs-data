@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἰατρός",
+            "transliteration": "iatrós"
+        }
+    ],
+    "description": "a physician",
+    "definition": {
+        "a physician": {}
+    },
+    "origin": "from g2390",
+    "related": [
+        "g2390"
+    ]
+}

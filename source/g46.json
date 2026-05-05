@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἄγναφος",
+            "transliteration": "ágnaphos"
+        }
+    ],
+    "description": "properly, unfulled, i.e., (by implication) new (cloth)",
+    "definition": {
+        "unmilled, unfulled, undressed, unprocessed, new": {}
+    },
+    "origin": "from g0001 (as a negative particle) and the same as g1102",
+    "related": [
+        "g0001",
+        "g1102"
+    ]
+}

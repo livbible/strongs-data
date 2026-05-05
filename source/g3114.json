@@ -1,0 +1,22 @@
+{
+    "originalWords": [
+        {
+            "unicode": "μακροθυμέω",
+            "transliteration": "makrothyméō"
+        }
+    ],
+    "description": "to be long-spirited, i.e., (objectively) forbearing or (subjectively) patient",
+    "definition": {
+        "to be of a long spirit, not to lose heart": {
+            "to persevere patiently and bravely in enduring misfortunes and troubles": {},
+            "to be patient in bearing the offenses and injuries of others": {
+                "to be mild and slow in avenging": {},
+                "to be longsuffering, slow to anger, slow to punish": {}
+            }
+        }
+    },
+    "origin": "from the same as g3116",
+    "related": [
+        "g3116"
+    ]
+}

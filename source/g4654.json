@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "σκοτίζω",
+            "transliteration": "skotízō"
+        }
+    ],
+    "description": "to obscure (literally or figuratively)",
+    "definition": {
+        "to cover with darkness, to darken": {},
+        "to be covered with darkness, be darkened": {
+            "of heavenly bodies as deprived of light": {},
+            "metaphorically": {
+                "of the eyes": {},
+                "of the understanding": {},
+                "of the mind": {}
+            }
+        }
+    },
+    "origin": "from g4655",
+    "related": [
+        "g4655"
+    ]
+}

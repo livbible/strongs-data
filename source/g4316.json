@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "προσαγορεύω",
+            "transliteration": "prosagoreúō"
+        }
+    ],
+    "description": "to address, i.e., salute by name",
+    "definition": {
+        "to speak to, to address, accost, salute": {},
+        "especially to address or accost by some name, call by name": {},
+        "to give a name in public, to style": {}
+    },
+    "origin": "from g4314 and a derivative of g0058 (mean to harangue)",
+    "related": [
+        "g0058",
+        "g4314"
+    ]
+}

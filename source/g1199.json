@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "δεσμόν",
+            "transliteration": "desmón"
+        },
+        {
+            "unicode": "δεσμός",
+            "transliteration": "desmós"
+        }
+    ],
+    "description": "a band, i.e., ligament (of the body) or shackle (of a prisoner); figuratively, an impediment or disability",
+    "definition": {
+        "a band or bond": {}
+    },
+    "origin": "neuter and masculine respectively from g1210",
+    "related": [
+        "g1210"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "παραπορεύομαι",
+            "transliteration": "paraporeúomai"
+        }
+    ],
+    "description": "to travel near",
+    "definition": {
+        "to proceed at the side, go past, pass by": {}
+    },
+    "origin": "from g3844 and g4198",
+    "related": [
+        "g3844",
+        "g4198"
+    ]
+}

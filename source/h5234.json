@@ -1,0 +1,31 @@
+{
+    "originalWords": "נכר",
+    "description": "properly, to scrutinize, i.e., look intently at; hence (with recognition implied), to acknowledge, be acquainted with, care for, respect, revere, or (with suspicion implied), to disregard, ignore, be strange toward, reject, resign, dissimulate (as if ignorant or disowning)",
+    "definition": {
+        "to recognize, acknowledge, know, respect, discern, regard": {
+            "(niphal) to be recognized": {},
+            "(piel) to regard": {},
+            "(hiphil)": {
+                "to regard, observe, pay attention to, pay regard to, notice": {},
+                "to recognize (as formerly known), perceive": {},
+                "to be willing to recognize or acknowledge, acknowledge with honor": {},
+                "to be acquainted with": {},
+                "to distinguish, understand": {}
+            },
+            "(hithpael) to make oneself known": {}
+        },
+        "to act or treat as foreign or strange, disguise, misconstrue": {
+            "(niphal) to disguise oneself": {},
+            "(piel)": {
+                "to treat as foreign (profane)": {},
+                "to misconstrue": {}
+            },
+            "(hithpael)": {
+                "to act as alien": {},
+                "to disguise oneself": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

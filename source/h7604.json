@@ -1,0 +1,23 @@
+{
+    "originalWords": "שאר",
+    "description": "properly, to swell up, i.e., be (causatively, make) redundant",
+    "definition": {
+        "to remain, be left over, be left behind": {
+            "(qal) to remain": {},
+            "(niphal)": {
+                "to be left over, be left alive, survive": {
+                    "remainder, remnant (participle)": {}
+                },
+                "to be left behind": {}
+            },
+            "(hiphil)": {
+                "to leave over, spare": {},
+                "to leave or keep over": {},
+                "to have left": {},
+                "to leave (as a gift)": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

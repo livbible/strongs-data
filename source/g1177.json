@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "δεκαδύο",
+            "transliteration": "dekadýo"
+        }
+    ],
+    "description": "two and ten, i.e., twelve",
+    "definition": {
+        "twelve": {}
+    },
+    "origin": "from g1176 and g1417",
+    "related": [
+        "g1176",
+        "g1417"
+    ]
+}

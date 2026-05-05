@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὑπάντησις",
+            "transliteration": "hypántēsis"
+        }
+    ],
+    "description": "an encounter or concurrence (with g1519 for infinitive, in order to fall in with)",
+    "definition": {
+        "to go to meet": {}
+    },
+    "origin": "from g5221",
+    "related": [
+        "g1519",
+        "g5221"
+    ]
+}

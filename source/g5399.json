@@ -1,0 +1,27 @@
+{
+    "originalWords": [
+        {
+            "unicode": "φοβέω",
+            "transliteration": "phobéō"
+        }
+    ],
+    "description": "to frighten, i.e., (passively) to be alarmed; by analogy, to be in awe of, i.e., revere",
+    "definition": {
+        "to put to flight by terrifying (to scare away)": {
+            "to put to flight, to flee": {},
+            "to fear, be afraid": {
+                "to be struck with fear, to be seized with alarm": {
+                    "of those startled by strange sights or occurrences": {},
+                    "of those struck with amazement": {}
+                },
+                "to fear, be afraid of one": {},
+                "to fear (i.e., hesitate) to do something (for fear of harm)": {}
+            },
+            "to reverence, venerate, to treat with deference or reverential obedience": {}
+        }
+    },
+    "origin": "from g5401",
+    "related": [
+        "g5401"
+    ]
+}

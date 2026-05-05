@@ -1,0 +1,24 @@
+{
+    "originalWords": "חרם",
+    "description": "to seclude; specifically (by a ban) to devote to religious uses (especially destruction); physical and reflexive, to be blunt as to the nose",
+    "definition": {
+        "to ban, devote, destroy utterly, completely destroy, dedicate for destruction, exterminate": {
+            "(hiphil)": {
+                "to prohibit (for common use), ban": {},
+                "to consecrate, devote, dedicate for destruction": {},
+                "to exterminate, completely destroy": {}
+            },
+            "(hophal)": {
+                "to be put under the ban, be devoted to destruction": {},
+                "to be devoted, be forfeited": {},
+                "to be completely destroyed": {}
+            }
+        },
+        "to split, slit, mutilate (a part of the body)": {
+            "(qal) to mutilate": {},
+            "(hiphil) to divide": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

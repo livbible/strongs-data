@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πλεῖστος",
+            "transliteration": "pleîstos"
+        }
+    ],
+    "description": "the largest number or very large",
+    "definition": {
+        "most": {},
+        "at the very most": {}
+    },
+    "origin": "irregular superlative of g4183",
+    "related": [
+        "g4183"
+    ]
+}

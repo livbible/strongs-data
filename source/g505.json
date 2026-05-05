@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀνυπόκριτος",
+            "transliteration": "anypókritos"
+        }
+    ],
+    "description": "undissembled, i.e., sincere",
+    "definition": {
+        "unfeigned, undisguised, sincere": {}
+    },
+    "origin": "from g0001 (as a negative particle) and a presumed derivative of g5271",
+    "related": [
+        "g0001",
+        "g5271"
+    ]
+}

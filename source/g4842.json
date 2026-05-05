@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "συμπέμπω",
+            "transliteration": "sympémpō"
+        }
+    ],
+    "description": "to despatch in company",
+    "definition": {
+        "to send together with": {}
+    },
+    "origin": "from g4862 and g3992",
+    "related": [
+        "g3992",
+        "g4862"
+    ]
+}

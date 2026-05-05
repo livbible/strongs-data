@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀρχή",
+            "transliteration": "archḗ"
+        }
+    ],
+    "description": "(properly abstract) a commencement, or (concretely) chief (in various applications of order, time, place, or rank)",
+    "definition": {
+        "beginning, origin": {},
+        "the person or thing that commences, the first person or thing in a series, the leader": {},
+        "that by which anything begins to be, the origin, the active cause": {},
+        "the extremity of a thing": {
+            "of the corners of a sail": {}
+        },
+        "the first place, principality, rule, magistracy": {
+            "of angels and demons": {}
+        }
+    },
+    "origin": "from g0756",
+    "related": [
+        "g0756"
+    ]
+}

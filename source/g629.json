@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀπολύτρωσις",
+            "transliteration": "apolýtrōsis"
+        }
+    ],
+    "description": "(the act) ransom in full, i.e., (figuratively) riddance, or (specially) christian salvation",
+    "definition": {
+        "a releasing effected by payment of ransom": {
+            "redemption, deliverance": {},
+            "liberation procured by the payment of a ransom": {}
+        }
+    },
+    "origin": "from a compound of g0575 and g3083",
+    "related": [
+        "g0575",
+        "g3083"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "δυσεντερία",
+            "transliteration": "dysentería"
+        }
+    ],
+    "description": "a \"dysentery\"",
+    "definition": {
+        "dysentery, bowel ailment": {}
+    },
+    "origin": "from g1418 and a comparative of g1787 (meaning a bowel)",
+    "related": [
+        "g1418",
+        "g1787"
+    ]
+}

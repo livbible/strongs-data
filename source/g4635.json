@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "σκηνοποιός",
+            "transliteration": "skēnopoiós"
+        }
+    ],
+    "description": "a manufacturer of tents",
+    "definition": {
+        "a tentmaker": {},
+        "one that makes small portable tents, of leather or cloth of goat's hair or linen, for the use of travellers": {}
+    },
+    "origin": "from g4633 and g4160",
+    "related": [
+        "g4160",
+        "g4633"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "originalWords": "כאב",
+    "description": "properly, to feel pain; by implication, to grieve; figuratively, to spoil",
+    "definition": {
+        "to be in pain, be sore, have pain, be sorrowful": {
+            "(qal)": {
+                "to be in pain (physical)": {},
+                "to be in pain (mental)": {}
+            },
+            "(hiphil)": {
+                "to cause pain, hurt, mar": {},
+                "pain, mar (participle)": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

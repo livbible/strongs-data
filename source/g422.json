@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀνεπαίσχυντος",
+            "transliteration": "anepaíschyntos"
+        }
+    ],
+    "description": "not ashamed, i.e., irreprehensible",
+    "definition": {
+        "having no cause to be ashamed": {}
+    },
+    "origin": "from g0001 (as a negative particle) and a presumed derivative of a compound of g1909 and g0153",
+    "related": [
+        "g0001",
+        "g0153",
+        "g1909"
+    ]
+}

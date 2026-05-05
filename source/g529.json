@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀπάντησις",
+            "transliteration": "apántēsis"
+        }
+    ],
+    "description": "a (friendly) encounter",
+    "definition": {
+        "to meet one": {}
+    },
+    "origin": "from g0528",
+    "related": [
+        "g0528"
+    ]
+}

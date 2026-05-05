@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "μακρός",
+            "transliteration": "makrós"
+        }
+    ],
+    "description": "long (in place (distant) or time (neuter plural))",
+    "definition": {
+        "long": {
+            "of place: remote, distant, far off": {},
+            "of time: long, long lasting": {}
+        }
+    },
+    "origin": "from g3372",
+    "related": [
+        "g3372"
+    ]
+}

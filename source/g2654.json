@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "καταναλίσκω",
+            "transliteration": "katanalískō"
+        }
+    ],
+    "description": "to consume utterly",
+    "definition": {
+        "to consume": {
+            "of fire": {}
+        }
+    },
+    "origin": "from g2596 and g0355",
+    "related": [
+        "g0355",
+        "g2596"
+    ]
+}

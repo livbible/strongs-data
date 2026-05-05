@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "εἰ μή",
+            "transliteration": "ei mḗ"
+        }
+    ],
+    "description": "if not",
+    "definition": {
+        "if not, except, but": {}
+    },
+    "origin": "from g1487 and g3361",
+    "related": [
+        "g1487",
+        "g3361"
+    ]
+}

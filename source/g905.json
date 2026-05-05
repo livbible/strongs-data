@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "βαλάντιον",
+            "transliteration": "balántion"
+        }
+    ],
+    "description": "a pouch (for money)",
+    "definition": {
+        "a money bag, purse": {}
+    },
+    "origin": "probably remotely from g0906 (as a depository)",
+    "related": [
+        "g0906"
+    ]
+}

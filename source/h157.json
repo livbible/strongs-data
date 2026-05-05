@@ -1,0 +1,33 @@
+{
+    "originalWords": "אהב",
+    "description": "to have affection for (sexually or otherwise)",
+    "definition": {
+        "to love": {
+            "(qal)": {
+                "human love for another, includes family, and sexual": {},
+                "human appetite for objects such as food, drink, sleep, wisdom": {},
+                "human love for or to god": {},
+                "act of being a friend": {
+                    "lover (participle)": {},
+                    "friend (participle)": {}
+                },
+                "god's love toward man": {
+                    "to individual men": {},
+                    "to people israel": {},
+                    "to righteousness": {}
+                }
+            },
+            "(niphal)": {
+                "lovely (participle)": {},
+                "loveable (participle)": {}
+            },
+            "(piel)": {
+                "friends": {},
+                "lovers (figurative for adulterers)": {}
+            }
+        },
+        "to like": {}
+    },
+    "origin": "or ????? ; a primitive root",
+    "related": []
+}

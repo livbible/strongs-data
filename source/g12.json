@@ -1,0 +1,23 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἄβυσσος",
+            "transliteration": "ábyssos"
+        }
+    ],
+    "description": "depthless, i.e., (specially) (infernal) \"abyss\"",
+    "definition": {
+        "bottomless": {},
+        "unbounded": {},
+        "the abyss": {
+            "the pit": {},
+            "the immeasurable depth": {},
+            "of orcus, a very deep gulf or chasm in the lowest parts of the earth used as the common receptacle of the dead and especially as the abode of demons": {}
+        }
+    },
+    "origin": "from g0001 (as a negative particle) and a variation of g1037",
+    "related": [
+        "g0001",
+        "g1037"
+    ]
+}

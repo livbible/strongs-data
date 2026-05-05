@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "διάγνωσις",
+            "transliteration": "diágnōsis"
+        }
+    ],
+    "description": "(magisterial) examination (\"diagnosis\")",
+    "definition": {
+        "to distinguish": {},
+        "in a legal sense, examination, opinion, decision": {}
+    },
+    "origin": "from g1231",
+    "related": [
+        "g1231"
+    ]
+}

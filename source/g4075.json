@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πετρώδης",
+            "transliteration": "petrṓdēs"
+        }
+    ],
+    "description": "rock-like, i.e., rocky",
+    "definition": {
+        "rocky, stony": {
+            "of a ground full of rocks": {}
+        }
+    },
+    "origin": "from g4073 and g1491",
+    "related": [
+        "g1491",
+        "g4073"
+    ]
+}

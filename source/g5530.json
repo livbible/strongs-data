@@ -1,0 +1,23 @@
+{
+    "originalWords": [
+        {
+            "unicode": "χράομαι",
+            "transliteration": "chráomai"
+        }
+    ],
+    "description": "to furnish what is needed; (give an oracle, \"graze\" (touch slightly), light upon, etc.), i.e., (by implication) to employ or (by extension) to act towards one in a given manner",
+    "definition": {
+        "to receive a loan": {},
+        "borrow": {},
+        "to take for one's use, to use": {
+            "to make use of a thing": {}
+        }
+    },
+    "origin": "middle voice of a primary verb (perhaps rather from g5495, to handle)",
+    "related": [
+        "g5495",
+        "g5531",
+        "g5534"
+    ],
+    "notes": "compare g5531; g5534."
+}

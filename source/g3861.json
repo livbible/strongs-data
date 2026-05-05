@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "παράδοξος",
+            "transliteration": "parádoxos"
+        }
+    ],
+    "description": "contrary to expectation, i.e., extraordinary (\"paradox\")",
+    "definition": {
+        "unexpected, uncommon, incredible, wonderful": {}
+    },
+    "origin": "from g3844 and g1391 (in the sense of seeming)",
+    "related": [
+        "g1391",
+        "g3844"
+    ]
+}

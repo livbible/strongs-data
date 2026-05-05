@@ -1,0 +1,29 @@
+{
+    "originalWords": "הפך",
+    "description": "to turn about or over; by implication, to change, overturn, return, pervert",
+    "definition": {
+        "to turn, overthrow, overturn": {
+            "(qal)": {
+                "to overturn, overthrow": {},
+                "to turn, turn about, turn over, turn around": {},
+                "to change, transform": {}
+            },
+            "(niphal)": {
+                "to turn oneself, turn, turn back": {},
+                "to change oneself": {},
+                "to be perverse": {},
+                "to be turned, be turned over, be changed, be turned against": {},
+                "to be reversed": {},
+                "to be overturned, be overthrown": {},
+                "to be upturned": {}
+            },
+            "(hithpael)": {
+                "to transform oneself": {},
+                "to turn this way and that, turn every way": {}
+            },
+            "(hophal) to turn on someone": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

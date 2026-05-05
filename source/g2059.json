@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἑρμηνεύω",
+            "transliteration": "hermēneúō"
+        }
+    ],
+    "description": "to translate",
+    "definition": {
+        "to explain in words, expound": {},
+        "to interpret": {
+            "to translate what has been spoken or written in a foreign tongue into the vernacular": {}
+        }
+    },
+    "origin": "from a presumed derivative of g2060 (as the god of language)",
+    "related": [
+        "g2060"
+    ]
+}

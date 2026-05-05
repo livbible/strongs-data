@@ -1,0 +1,17 @@
+{
+    "originalWords": "כזב",
+    "description": "to lie (i.e., deceive), literally or figuratively",
+    "definition": {
+        "to lie, tell a lie, be a liar, be found a liar, be in vain, fail": {
+            "(qal) liar (participle)": {},
+            "(niphal) to be proven to be lying": {},
+            "(piel)": {
+                "to lie, tell a lie, tell a lie with, deceive": {},
+                "to disappoint, fail": {}
+            },
+            "(hiphil) to make a liar, prove to be a liar": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

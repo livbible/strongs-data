@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὑπάρχω",
+            "transliteration": "hypárchō"
+        }
+    ],
+    "description": "to begin under (quietly), i.e., come into existence (be present or at hand); expletively, to exist (as copula or subordinate to an adjective, participle, adverb or preposition, or as an auxiliary to a principal (verb)",
+    "definition": {
+        "to begin below, to make a beginning": {
+            "to begin": {}
+        },
+        "to come forth, hence to be there, be ready, be at hand": {},
+        "to be": {}
+    },
+    "origin": "from g5259 and g0756",
+    "related": [
+        "g0756",
+        "g5259"
+    ]
+}

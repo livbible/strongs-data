@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "τυφόω",
+            "transliteration": "typhóō"
+        }
+    ],
+    "description": "to envelop with smoke, i.e., (figuratively) to inflate with self-conceit",
+    "definition": {
+        "to raise a smoke, to wrap in a mist": {
+            "metaphorically": {
+                "to make proud, puff up with pride, render insolent": {},
+                "to be puffed up with haughtiness or pride": {}
+            }
+        },
+        "to blind with pride or conceit, to render foolish or stupid": {
+            "beclouded, besotted": {}
+        }
+    },
+    "origin": "from a derivative of g5188",
+    "related": [
+        "g5188"
+    ]
+}

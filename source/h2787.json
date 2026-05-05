@@ -1,0 +1,20 @@
+{
+    "originalWords": "חרר",
+    "description": "to glow, i.e., literally (to melt, burn, dry up) or figuratively (to show or incite passion)",
+    "definition": {
+        "to burn, be hot, be scorched, be charred": {
+            "(qal)": {
+                "to be hot, be scorched": {},
+                "to burn, be burned": {}
+            },
+            "(niphal)": {
+                "to be scorched, be burned": {},
+                "to burn": {},
+                "to be dry, be angry": {}
+            },
+            "(pilpel) to cause to burn": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

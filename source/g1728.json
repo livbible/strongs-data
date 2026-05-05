@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐνάρχομαι",
+            "transliteration": "enárchomai"
+        }
+    ],
+    "description": "to commence on",
+    "definition": {
+        "to begin, to make a beginning": {}
+    },
+    "origin": "from g1722 and g0756",
+    "related": [
+        "g0756",
+        "g0757",
+        "g1722"
+    ]
+}

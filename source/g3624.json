@@ -1,0 +1,29 @@
+{
+    "originalWords": [
+        {
+            "unicode": "οἶκος",
+            "transliteration": "oîkos"
+        }
+    ],
+    "description": "a dwelling (more or less extensive, literal or figurative); by implication, a family (more or less related, literally or figuratively)",
+    "definition": {
+        "a house": {
+            "an inhabited house, home": {},
+            "any building whatever": {
+                "of a palace": {},
+                "the house of god, the tabernacle": {}
+            },
+            "any dwelling place": {
+                "of the human body as the abode of demons that possess it": {},
+                "of tents, and huts, and later, of the nests, stalls, lairs, of animals": {},
+                "the place where one has fixed his residence, one's settled abode, domicile": {}
+            }
+        },
+        "the inmates of a house, all the persons forming one family, a household": {
+            "the family of god, of the christian church, of the church of the old and new testaments": {}
+        },
+        "stock, race, descendants of one": {}
+    },
+    "origin": "of uncertain affinity",
+    "related": []
+}

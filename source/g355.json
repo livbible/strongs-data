@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀναλίσκω",
+            "transliteration": "analískō"
+        }
+    ],
+    "description": "properly, to use up, i.e., destroy",
+    "definition": {
+        "to expend": {
+            "to consume, e.g., spend money": {}
+        },
+        "to consume, use up, destroy": {}
+    },
+    "origin": "from g0303 and a form of the alternate of g0138",
+    "related": [
+        "g0138",
+        "g0303"
+    ]
+}

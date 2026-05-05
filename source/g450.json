@@ -1,0 +1,34 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀνίστημι",
+            "transliteration": "anístēmi"
+        }
+    ],
+    "description": "to stand up (literal or figurative, transitive or intransitive)",
+    "definition": {
+        "to cause to rise up, raise up": {
+            "raise up from laying down": {},
+            "to raise up from the dead": {},
+            "to raise up, cause to be born, to cause to appear, bring forward": {}
+        },
+        "to rise, stand up": {
+            "of persons lying down, of persons lying on the ground": {},
+            "of persons seated": {},
+            "of those who leave a place to go elsewhere": {
+                "of those who prepare themselves for a journey": {}
+            },
+            "of the dead": {}
+        },
+        "at arise, appear, stand forth": {
+            "of kings prophets, priests, leaders of insurgents": {},
+            "of those about to enter into conversation or dispute with anyone, or to undertake some business, or attempt something against others": {},
+            "to rise up against any one": {}
+        }
+    },
+    "origin": "from g0303 and g2476",
+    "related": [
+        "g0303",
+        "g2476"
+    ]
+}

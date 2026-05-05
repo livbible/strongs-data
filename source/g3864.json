@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "παραθαλάσσιος",
+            "transliteration": "parathalássios"
+        }
+    ],
+    "description": "along the sea, i.e., maritime (lacustrine)",
+    "definition": {
+        "besides the sea, by the sea": {}
+    },
+    "origin": "from g3844 and g2281",
+    "related": [
+        "g2281",
+        "g3844"
+    ]
+}

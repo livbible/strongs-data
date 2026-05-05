@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πολιτεία",
+            "transliteration": "politeía"
+        }
+    ],
+    "description": "citizenship; concretely, a community",
+    "definition": {
+        "the administration of civil affairs": {},
+        "a state or commonwealth": {},
+        "citizenship, the rights of a citizen": {}
+    },
+    "origin": "from g4177 (\"polity\")",
+    "related": [
+        "g4177"
+    ]
+}

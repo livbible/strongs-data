@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "βραδύνω",
+            "transliteration": "bradýnō"
+        }
+    ],
+    "description": "to delay",
+    "definition": {
+        "to delay, be slow": {
+            "to render slowly, retard": {},
+            "to be long, to tarry, loiter": {}
+        }
+    },
+    "origin": "from g1021",
+    "related": [
+        "g1021"
+    ]
+}

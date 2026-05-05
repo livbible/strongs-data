@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ῥύσις",
+            "transliteration": "rhýsis"
+        }
+    ],
+    "description": "a flux (of blood)",
+    "definition": {
+        "a flowing issue": {}
+    },
+    "origin": "from g4506 in the sense of its congener g4482",
+    "related": [
+        "g4482",
+        "g4506"
+    ]
+}

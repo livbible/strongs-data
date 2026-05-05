@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "μαρτυρία",
+            "transliteration": "martyría"
+        }
+    ],
+    "description": "evidence given (judicially or genitive case)",
+    "definition": {
+        "a testifying": {
+            "the office committed to the prophets of testifying concerning future events": {}
+        },
+        "what one testifies, testimony, i.e., before a judge": {}
+    },
+    "origin": "from g3144",
+    "related": [
+        "g3144"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ταύτῃ",
+            "transliteration": "taútēi"
+        },
+        {
+            "unicode": "ταύτην",
+            "transliteration": "taútēn"
+        },
+        {
+            "unicode": "ταύτης",
+            "transliteration": "taútēs"
+        }
+    ],
+    "description": "(towards or of) this",
+    "definition": {
+        "this, that, the same": {}
+    },
+    "origin": "dative case, accusative case and genitive case respectively of the feminine singular of g3778",
+    "related": [
+        "g3778"
+    ]
+}

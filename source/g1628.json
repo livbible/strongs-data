@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐκφεύγω",
+            "transliteration": "ekpheúgō"
+        }
+    ],
+    "description": "to flee out",
+    "definition": {
+        "to flee out of, flee away": {
+            "to seek safety in flight": {},
+            "to escape": {}
+        }
+    },
+    "origin": "from g1537 and g5343",
+    "related": [
+        "g1537",
+        "g5343"
+    ]
+}

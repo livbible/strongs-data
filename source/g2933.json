@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κτῆμα",
+            "transliteration": "ktēma"
+        }
+    ],
+    "description": "an acquirement, i.e., estate",
+    "definition": {
+        "a possession": {
+            "of property, lands, estates": {}
+        }
+    },
+    "origin": "from g2932",
+    "related": [
+        "g2932"
+    ]
+}

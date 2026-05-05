@@ -1,0 +1,22 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἡλικία",
+            "transliteration": "hēlikía"
+        }
+    ],
+    "description": "maturity (in years or size)",
+    "definition": {
+        "age, time of life": {
+            "age, term or length of life": {},
+            "adult age, maturity": {},
+            "suitable age for anything": {},
+            "metaphorically of an attained state fit for a thing": {}
+        },
+        "stature, i.e., in height and comeliness of stature": {}
+    },
+    "origin": "from the same as g2245",
+    "related": [
+        "g2245"
+    ]
+}

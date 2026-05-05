@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἔμφοβος",
+            "transliteration": "émphobos"
+        }
+    ],
+    "description": "in fear, i.e., alarmed",
+    "definition": {
+        "thrown into fear, terrified, affrighted": {}
+    },
+    "origin": "from g1722 and g5401",
+    "related": [
+        "g1722",
+        "g5401"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀναζάω",
+            "transliteration": "anazáō"
+        }
+    ],
+    "description": "to recover life (literally or figuratively)",
+    "definition": {
+        "live again, recover life": {
+            "to be restored to a correct life": {
+                "of one who returns to a better moral state": {}
+            },
+            "to revive, regain strength and vigour": {}
+        }
+    },
+    "origin": "from g0303 and g2198",
+    "related": [
+        "g0303",
+        "g2198"
+    ]
+}

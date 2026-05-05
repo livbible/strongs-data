@@ -1,0 +1,20 @@
+{
+    "originalWords": "חשך",
+    "description": "to be dark (as withholding light); transitively, to darken",
+    "definition": {
+        "to be or become dark, grow dim, be darkened, be black, be hidden": {
+            "(qal)": {
+                "to be or grow dark": {},
+                "to have a dark color": {},
+                "to grow dim": {}
+            },
+            "(hiphil)": {
+                "to make dark, cause to be dark": {},
+                "to hide, conceal": {},
+                "to obscure, confuse (figuratively)": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀναμένω",
+            "transliteration": "anaménō"
+        }
+    ],
+    "description": "to await",
+    "definition": {
+        "to wait for one (with the added notion of patience and trust)": {}
+    },
+    "origin": "from g0303 and g3306",
+    "related": [
+        "g0303",
+        "g3306"
+    ]
+}

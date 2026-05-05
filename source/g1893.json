@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐπεί",
+            "transliteration": "epeí"
+        }
+    ],
+    "description": "thereupon, i.e., since (of time or cause)",
+    "definition": {
+        "when, since": {
+            "of time: after": {},
+            "of cause: since, seeing that, because": {}
+        }
+    },
+    "origin": "from g1909 and g1487",
+    "related": [
+        "g1487",
+        "g1909"
+    ]
+}

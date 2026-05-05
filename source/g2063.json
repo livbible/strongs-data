@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐρυθρός",
+            "transliteration": "erythrós"
+        }
+    ],
+    "description": "red, i.e., (with g2281) the red sea",
+    "definition": {
+        "the red sea": {
+            "the upper part of the arabian gulf (perhaps also called the heropolitie gulf or gulf of suez)": {}
+        }
+    },
+    "origin": "of uncertain affinity",
+    "related": [
+        "g2281"
+    ],
+    "notes": "the sea through which the israelites made their passage out of egypt to the shore of arabia."
+}

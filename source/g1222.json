@@ -1,0 +1,22 @@
+{
+    "originalWords": [
+        {
+            "unicode": "δήπου",
+            "transliteration": "dḗpou"
+        }
+    ],
+    "description": "a particle of asseveration; indeed doubtless",
+    "definition": {
+        "it is used when something is affirmed in a slightly ironical manner, as if with an pretence of uncertainty": {
+            "perhaps": {},
+            "doubtless": {},
+            "verily": {},
+            "truly": {}
+        }
+    },
+    "origin": "from g1211 and g4225",
+    "related": [
+        "g1211",
+        "g4225"
+    ]
+}

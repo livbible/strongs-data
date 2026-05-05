@@ -1,0 +1,31 @@
+{
+    "originalWords": "ילד",
+    "description": "to bear young; causatively, to beget; medically, to act as midwife; specifically, to show lineage",
+    "definition": {
+        "to bear, bring forth, beget, gender, travail": {
+            "(qal)": {
+                "to bear, bring forth": {
+                    "of child birth": {},
+                    "of distress (simile)": {},
+                    "of wicked (behavior)": {}
+                },
+                "to beget": {}
+            },
+            "(niphal) to be born": {},
+            "(piel)": {
+                "to cause or help to bring forth": {},
+                "to assist or tend as a midwife": {},
+                "midwife (participle)": {}
+            },
+            "(pual) to be born": {},
+            "(hiphil)": {
+                "to beget (a child)": {},
+                "to bear (figurative for wicked bringing forth iniquity)": {}
+            },
+            "(hophal) day of birth, birthday (infinitive)": {},
+            "(hithpael) to declare one's birth (pedigree)": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

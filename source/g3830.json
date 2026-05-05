@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πανδοχεύς",
+            "transliteration": "pandocheús"
+        }
+    ],
+    "description": "an innkeeper (warden of a caravanserai)",
+    "definition": {
+        "an inn keeper, host": {}
+    },
+    "origin": "from the same as g3829",
+    "related": [
+        "g3829"
+    ]
+}

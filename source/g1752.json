@@ -1,0 +1,23 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἕνεκα",
+            "transliteration": "héneka"
+        },
+        {
+            "unicode": "ἕνεκεν",
+            "transliteration": "héneken"
+        },
+        {
+            "unicode": "εἵνεκεν",
+            "transliteration": "heíneken"
+        }
+    ],
+    "description": "on account of",
+    "definition": {
+        "on account of, for the sake of, for": {},
+        "for this cause, therefore": {}
+    },
+    "origin": "of uncertain affinity",
+    "related": []
+}

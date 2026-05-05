@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "προθέσμιος",
+            "transliteration": "prothésmios"
+        }
+    ],
+    "description": "fixed beforehand, i.e., (feminine with g2250 implied) a designated day",
+    "definition": {
+        "set beforehand, appointed or determined beforehand, prearranged": {}
+    },
+    "origin": "from g4253 and a derivative of g5087",
+    "related": [
+        "g2250",
+        "g4253",
+        "g5087"
+    ]
+}

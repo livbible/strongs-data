@@ -1,0 +1,22 @@
+{
+    "originalWords": "בכר",
+    "description": "to give the birthright",
+    "definition": {
+        "to be born first": {
+            "(piel)": {
+                "to bear early, new fruit": {},
+                "to give the right of the firstborn": {
+                    "to make as firstborn": {},
+                    "to constitute as firstborn": {}
+                }
+            },
+            "(pual)": {
+                "to be born a firstling": {},
+                "to be made a firstling": {}
+            },
+            "(hiphil) one bearing her first child": {}
+        }
+    },
+    "origin": "a primitive root; properly, to burst the womb, i.e., (causatively) bear or make early fruit (of woman or tree); also (as denominative from h1061)",
+    "related": []
+}

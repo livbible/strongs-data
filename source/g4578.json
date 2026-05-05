@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "σεισμός",
+            "transliteration": "seismós"
+        }
+    ],
+    "description": "a commotion, i.e., (of the air) a gale, (of the ground) an earthquake",
+    "definition": {
+        "a shaking, a commotion": {},
+        "a tempest": {},
+        "an earthquake": {}
+    },
+    "origin": "from g4579",
+    "related": [
+        "g4579"
+    ]
+}

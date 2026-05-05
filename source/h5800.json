@@ -1,0 +1,23 @@
+{
+    "originalWords": "עזב",
+    "description": "to loosen, i.e., relinquish, permit, etc",
+    "definition": {
+        "to leave, loose, forsake": {
+            "(qal) to leave": {
+                "to depart from, leave behind, leave, let alone": {},
+                "to leave, abandon, forsake, neglect, apostatise": {},
+                "to let loose, set free, let go, free": {}
+            },
+            "(niphal)": {
+                "to be left to": {},
+                "to be forsaken": {}
+            },
+            "(pual) to be deserted": {}
+        },
+        "to restore, repair": {
+            "(qal) to repair": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

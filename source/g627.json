@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀπολογία",
+            "transliteration": "apología"
+        }
+    ],
+    "description": "a plea (\"apology\")",
+    "definition": {
+        "verbal defense, speech in defense": {},
+        "a reasoned statement or argument": {}
+    },
+    "origin": "from the same as g0626",
+    "related": [
+        "g0626"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐξηχέομαι",
+            "transliteration": "exēchéomai"
+        }
+    ],
+    "description": "to \"echo\" forth, i.e., resound (be generally reported)",
+    "definition": {
+        "to sound forth, emit, sound, resound": {}
+    },
+    "origin": "middle voice from g1537 and g2278",
+    "related": [
+        "g1537",
+        "g2278"
+    ]
+}

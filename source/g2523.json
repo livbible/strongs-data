@@ -1,0 +1,25 @@
+{
+    "originalWords": [
+        {
+            "unicode": "καθίζω",
+            "transliteration": "kathízō"
+        }
+    ],
+    "description": "to seat down, i.e., set (figuratively, appoint); intransitively, to sit (down); figuratively, to settle (hover, dwell)",
+    "definition": {
+        "to make to sit down": {
+            "to set, appoint, to confer a kingdom on one": {}
+        },
+        "intransitively": {
+            "to sit down": {},
+            "to sit": {
+                "to have fixed one's abode": {},
+                "to sojourn, to settle, settle down": {}
+            }
+        }
+    },
+    "origin": "another (active) form for g2516",
+    "related": [
+        "g2516"
+    ]
+}

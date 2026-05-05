@@ -1,0 +1,24 @@
+{
+    "originalWords": "ערה",
+    "description": "to be (causatively, make) bare; hence, to empty, pour out, demolish",
+    "definition": {
+        "to be bare, be nude, uncover, leave destitute, discover, empty, raze, pour out": {
+            "(piel)": {
+                "to bare, lay bare": {},
+                "to lay bare by emptying, empty": {},
+                "to pour out": {}
+            },
+            "(hiphil)": {
+                "to make naked, strip bare (of sexual offences)": {},
+                "to pour out": {}
+            },
+            "(niphal) to be poured out, be exposed": {},
+            "(hithpael)": {
+                "to expose oneself, make oneself naked": {},
+                "pouring oneself, spreading oneself (participle)": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

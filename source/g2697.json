@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κατάσχεσις",
+            "transliteration": "katáschesis"
+        }
+    ],
+    "description": "a holding down, i.e., occupancy",
+    "definition": {
+        "a holding back, hindering": {},
+        "a holding fast, possession": {}
+    },
+    "origin": "from g2722",
+    "related": [
+        "g2722"
+    ]
+}

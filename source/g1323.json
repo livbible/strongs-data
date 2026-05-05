@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "δίδραχμον",
+            "transliteration": "dídrachmon"
+        }
+    ],
+    "description": "a double drachma (didrachm)",
+    "definition": {
+        "a didrachmon or double drachma, a silver coin equal to two attic drachmas or one alexandrian, or one half a shekel": {}
+    },
+    "origin": "from g1364 and g1406",
+    "related": [
+        "g1364",
+        "g1406"
+    ]
+}

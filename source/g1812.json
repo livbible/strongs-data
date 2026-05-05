@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἑξακόσιοι",
+            "transliteration": "hexakósioi"
+        }
+    ],
+    "description": "six hundred",
+    "definition": {
+        "six hundred": {}
+    },
+    "origin": "plural ordinal from g1803 and g1540",
+    "related": [
+        "g1540",
+        "g1803"
+    ]
+}

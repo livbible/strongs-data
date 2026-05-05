@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀποφθέγγομαι",
+            "transliteration": "apophthéngomai"
+        }
+    ],
+    "description": "to enunciate plainly, i.e., declare",
+    "definition": {
+        "to speak out, speak forth, pronounce": {
+            "not a word of everyday speech but one \"belonging to dignified and elevated discourse\"": {}
+        }
+    },
+    "origin": "from g0575 and g5350",
+    "related": [
+        "g0575",
+        "g5350"
+    ]
+}

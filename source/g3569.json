@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "τανῦν",
+            "transliteration": "tanŷn"
+        },
+        {
+            "unicode": "τὰ νῦν",
+            "transliteration": "tà nŷn"
+        }
+    ],
+    "description": "the things now, i.e., (adverbially) at present",
+    "definition": {
+        "now, the present": {}
+    },
+    "origin": "from neuter plural of g3588 and g3568",
+    "related": [
+        "g3568",
+        "g3588"
+    ]
+}

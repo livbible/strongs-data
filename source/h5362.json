@@ -1,0 +1,19 @@
+{
+    "originalWords": "נקף",
+    "description": "to strike with more or less violence (beat, fell, corrode); by implication (of attack) to knock together, i.e., surround or circulate",
+    "definition": {
+        "to strike, strike off": {
+            "(piel) to strike off skin": {}
+        },
+        "to go around, compass, round": {
+            "(qal) to go around": {},
+            "(hiphil)": {
+                "to go around, surround, encompass, enclose": {},
+                "to make the round, complete the circuit": {},
+                "to make round, round off": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

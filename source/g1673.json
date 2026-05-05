@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Ἑλληνικός",
+            "transliteration": "Hellēnikós"
+        }
+    ],
+    "description": "hellenic, i.e., grecian (in language)",
+    "definition": {
+        "a grecian": {}
+    },
+    "origin": "from g1672",
+    "related": [
+        "g1672"
+    ]
+}

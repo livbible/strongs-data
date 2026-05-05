@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἔμπορος",
+            "transliteration": "émporos"
+        }
+    ],
+    "description": "a (wholesale) tradesman",
+    "definition": {
+        "one on a journey, whether by sea or by land, especially for trade": {},
+        "a merchant as opposed to a retailer or petty tradesman": {}
+    },
+    "origin": "from g1722 and the base of g4198",
+    "related": [
+        "g1722",
+        "g4198"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἱερόν",
+            "transliteration": "hierón"
+        }
+    ],
+    "description": "a sacred place, i.e., the entire precincts (whereas g3485 denotes the central sanctuary itself) of the temple (at jerusalem or elsewhere)",
+    "definition": {
+        "a sacred place, temple": {
+            "used of the temple of artemis at ephesus": {},
+            "used of the temple at jerusalem": {}
+        }
+    },
+    "origin": "neuter of g2413",
+    "related": [
+        "g2413",
+        "g3485"
+    ],
+    "notes": "the temple of jerusalem consisted of the whole of the sacred enclosure, embracing the entire aggregate of buildings, balconies, porticos, courts (that is that of the men of israel, that of the women, and that of the priests), belonging to the temple; the latter designates the sacred edifice properly so called, consisting of two parts, the \"sanctuary\" or \"holy place\" (which no one except the priests was allowed to enter), and the \"holy of holies\" or \"the most holy place\" (which was entered only on the great day of atonement by the high priest alone). also there were the courts where jesus or the apostles taught or encountered adversaries; also the courts of the temple out of which jesus drove the buyers and sellers and the money changers, court of the women."
+}

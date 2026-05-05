@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πότε",
+            "transliteration": "póte"
+        }
+    ],
+    "description": "interrogative adverb, at what time",
+    "definition": {
+        "when?, at what time?": {}
+    },
+    "origin": "from the base of g4226 and g5037",
+    "related": [
+        "g4226",
+        "g5037"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "παραμυθέομαι",
+            "transliteration": "paramythéomai"
+        }
+    ],
+    "description": "to relate near, i.e., (by implication) encourage, console",
+    "definition": {
+        "to speak to, address one, whether by way of admonition and incentive, or to calm and console": {
+            "to encourage, console": {}
+        }
+    },
+    "origin": "from g3844 and the middle voice of a derivative of g3454",
+    "related": [
+        "g3454",
+        "g3844"
+    ]
+}

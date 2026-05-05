@@ -1,0 +1,33 @@
+{
+    "originalWords": [
+        {
+            "unicode": "δέχομαι",
+            "transliteration": "déchomai"
+        }
+    ],
+    "description": "to receive (in various applications, literally or figuratively)",
+    "definition": {
+        "to take with the hand": {
+            "to take hold of, take up": {}
+        },
+        "to take up, receive": {
+            "used of a place receiving one": {},
+            "to receive or grant access to, a visitor, not to refuse intercourse or friendship": {
+                "to receive hospitality": {},
+                "to receive into one's family to bring up or educate": {}
+            },
+            "of the thing offered in speaking, teaching, instructing": {
+                "to receive favorably, give ear to, embrace, make one's own, approve, not to reject": {}
+            },
+            "to receive, i.e., to take upon one's self, sustain, bear, endure": {}
+        },
+        "to receive, get": {
+            "to learn": {}
+        }
+    },
+    "origin": "middle voice of a primary verb",
+    "related": [
+        "g2983"
+    ],
+    "notes": "compare g2983."
+}

@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "καταστρέφω",
+            "transliteration": "katastréphō"
+        }
+    ],
+    "description": "to turn upside down, i.e., upset",
+    "definition": {
+        "to turn over, turn under": {
+            "the soil with a plough": {}
+        },
+        "to overturn, overthrow, throw down": {}
+    },
+    "origin": "from g2596 and g4762",
+    "related": [
+        "g2596",
+        "g4762"
+    ]
+}

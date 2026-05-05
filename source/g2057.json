@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Ἑρμᾶς",
+            "transliteration": "Hermâs"
+        }
+    ],
+    "description": "hermas, a christian",
+    "literal": "mercury",
+    "definition": {
+        "a christian known by paul": {}
+    },
+    "origin": "probably from g2060",
+    "related": [
+        "g2060"
+    ],
+    "notes": "according to tradition, he was one of the seventy disciples, and afterwards bishop of dalmatia in ad 55."
+}

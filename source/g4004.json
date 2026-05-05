@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πεντήκοντα",
+            "transliteration": "pentḗkonta"
+        }
+    ],
+    "description": "fifty",
+    "definition": {
+        "fifty": {}
+    },
+    "origin": "multiplicative of g4002",
+    "related": [
+        "g4002"
+    ]
+}

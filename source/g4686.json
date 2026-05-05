@@ -1,0 +1,25 @@
+{
+    "originalWords": [
+        {
+            "unicode": "σπεῖρα",
+            "transliteration": "speîra"
+        }
+    ],
+    "description": "a coil (spira, \"spire\"), i.e., (figuratively) a mass of men (a roman military cohort; also (by analogy) a squad of levitical janitors)",
+    "definition": {
+        "anything rolled into a circle or ball, anything wound, rolled up, folded together": {},
+        "a military cohort": {
+            "the tenth part of legion": {
+                "about 600 men i.e., legionaries": {},
+                "if auxiliaries either 500 or 1000": {},
+                "a maniple, or the thirtieth part of a legion": {}
+            },
+            "any band, company, or detachment, of soldiers": {}
+        }
+    },
+    "origin": "of immediate latin origin, but ultimately a derivative of g0138 in the sense of its cognate g1507",
+    "related": [
+        "g0138",
+        "g1507"
+    ]
+}

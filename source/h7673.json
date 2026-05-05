@@ -1,0 +1,23 @@
+{
+    "originalWords": "שבת",
+    "description": "to repose, i.e., desist from exertion; used in many implied relations (causative, figurative or specific)",
+    "definition": {
+        "to cease, desist, rest": {
+            "(qal)": {
+                "to cease": {},
+                "to rest, desist (from labor)": {}
+            },
+            "(niphal) to cease": {},
+            "(hiphil)": {
+                "to cause to cease, put an end to": {},
+                "to exterminate, destroy": {},
+                "to cause to desist from": {},
+                "to remove": {},
+                "to cause to fail": {}
+            }
+        },
+        "(qal) to keep or observe the sabbath": {}
+    },
+    "origin": "a primitive root",
+    "related": []
+}

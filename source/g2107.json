@@ -1,0 +1,23 @@
+{
+    "originalWords": [
+        {
+            "unicode": "εὐδοκία",
+            "transliteration": "eudokía"
+        }
+    ],
+    "description": "satisfaction, i.e., (subjectively) delight, or (objectively) kindness, wish, purpose",
+    "definition": {
+        "will, choice": {
+            "good will, kindly intent, benevolence": {}
+        },
+        "delight, pleasure, satisfaction": {},
+        "desire": {
+            "for delight in any absent thing easily produces longing for it": {}
+        }
+    },
+    "origin": "from a presumed compound of g2095 and the base of g1380",
+    "related": [
+        "g1380",
+        "g2095"
+    ]
+}

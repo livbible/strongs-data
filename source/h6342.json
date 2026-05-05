@@ -1,0 +1,16 @@
+{
+    "originalWords": "פחד",
+    "description": "to be startled (by a sudden alarm); hence, to fear in general",
+    "definition": {
+        "to fear, tremble, revere, dread, be in awe or dread": {
+            "(qal)": {
+                "to be in dread": {},
+                "to be in awe": {}
+            },
+            "(piel) to be in great dread": {},
+            "(hiphil) to cause to dread": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

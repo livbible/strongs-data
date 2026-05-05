@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "εἰ καί",
+            "transliteration": "ei kaí"
+        }
+    ],
+    "description": "if also (or even)",
+    "definition": {
+        "even, if, although": {}
+    },
+    "origin": "from g1487 and g2532",
+    "related": [
+        "g1487",
+        "g2532"
+    ]
+}

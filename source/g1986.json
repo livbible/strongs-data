@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐπισπάομαι",
+            "transliteration": "epispáomai"
+        }
+    ],
+    "description": "to draw over, i.e., (with g0203 implied) efface the mark of circumcision (by recovering with the foreskin)",
+    "definition": {
+        "to draw on (let him not draw on his foreskin)": {}
+    },
+    "origin": "from g1909 and g4685",
+    "related": [
+        "g0203",
+        "g1909",
+        "g4685"
+    ],
+    "notes": "from the days of antiochus epiphanes [175164 bc] down, there had been jews who, in order to conceal from heathen persecutors or scoffers the external sign of their nationality, circumcision, sought artificially to compel nature to reproduce the prepuce, by extending or drawing forward with an iron instrument the remnant of it still left, so as to cover the glands."
+}

@@ -1,0 +1,18 @@
+{
+    "originalWords": "רחק",
+    "description": "to widen (in any direction), i.e., (intransitively) recede or (transitively) remove (literally or figuratively, of place or relation)",
+    "definition": {
+        "(v) to be or become far, be or become distant, be removed, go far away": {
+            "(qal) to be far, be distant": {},
+            "(piel) to send far away, extend": {},
+            "(hiphil)": {
+                "to make or exhibit distance, be gone far": {},
+                "to remove, put far away": {}
+            }
+        },
+        "(niphal) loose": {},
+        "(v inf) (used as an adverb) at a distance": {}
+    },
+    "origin": "a primitive root",
+    "related": []
+}

@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "τουτέστι",
+            "transliteration": "toutésti"
+        }
+    ],
+    "description": "that is",
+    "definition": {
+        "that is": {}
+    },
+    "origin": "contraction for g5124 and g2076",
+    "related": [
+        "g2076",
+        "g5124"
+    ]
+}

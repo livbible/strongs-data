@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἄφαντος",
+            "transliteration": "áphantos"
+        }
+    ],
+    "description": "non-manifested, i.e., invisible",
+    "definition": {
+        "taken out of sight, made invisible": {}
+    },
+    "origin": "from g0001 (as a negative particle) and a derivative of g5316",
+    "related": [
+        "g0001",
+        "g5316"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἔνοχος",
+            "transliteration": "énochos"
+        }
+    ],
+    "description": "liable to (a condition, penalty or imputation)",
+    "definition": {
+        "bound, under obligation, subject to, liable": {
+            "used of one who is held by, possessed with love, and zeal for anything": {},
+            "in a forensic sense, denoting the connection of a person either with his crime, or with the penalty or trial, or with that against whom or which he has offended": {
+                "guilty, worthy of punishment": {},
+                "guilty of anything": {},
+                "of the crime": {},
+                "of the penalty": {},
+                "liable to this or that tribunal i.e., the punishment to by imposed by this or that tribunal": {},
+                "of the place where punishment is to be suffered": {}
+            }
+        }
+    },
+    "origin": "from g1758",
+    "related": [
+        "g1758"
+    ]
+}

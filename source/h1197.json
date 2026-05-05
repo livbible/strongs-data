@@ -1,0 +1,32 @@
+{
+    "originalWords": "בער",
+    "description": "to kindle, i.e., consume (by fire or by eating)",
+    "definition": {
+        "to burn, consume, kindle, be kindled": {
+            "(qal)": {
+                "to begin to burn, be kindled, start burning": {},
+                "to burn, be burning": {},
+                "to burn, consume": {},
+                "jehovah's wrath, human wrath (figuratively)": {}
+            },
+            "(piel)": {
+                "to kindle, burn": {},
+                "to consume, remove (of guilt) (figuratively)": {}
+            },
+            "(hiphil)": {
+                "to kindle": {},
+                "to burn up": {},
+                "to consume (destroy)": {}
+            },
+            "(pual) to burn": {}
+        },
+        "(v denom) to be stupid, brutish, barbarous": {
+            "(qal) to be stupid, dull-hearted, unreceptive": {},
+            "(niphal) to be stupid, dull-hearted": {},
+            "(piel) to feed, graze": {},
+            "(hiphil) to cause to be grazed over": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἁλυκός",
+            "transliteration": "halykós"
+        }
+    ],
+    "description": "briny",
+    "definition": {
+        "salt": {}
+    },
+    "origin": "from g0251",
+    "related": [
+        "g0251"
+    ]
+}

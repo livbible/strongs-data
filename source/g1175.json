@@ -1,0 +1,22 @@
+{
+    "originalWords": [
+        {
+            "unicode": "δεισιδαιμονία",
+            "transliteration": "deisidaimonía"
+        }
+    ],
+    "description": "religion",
+    "definition": {
+        "in a good sense": {
+            "reverencing god or the gods, pious, religious": {}
+        },
+        "in a bad sense": {
+            "superstitious": {}
+        },
+        "religious": {}
+    },
+    "origin": "from the same as g1174",
+    "related": [
+        "g1174"
+    ]
+}

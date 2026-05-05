@@ -1,0 +1,29 @@
+{
+    "originalWords": "חרש",
+    "description": "to scratch, i.e., (by implication) to engrave, plough; hence (from the use of tools) to fabricate (of any material); figuratively, to devise (in a bad sense); hence (from the idea of secrecy) to be silent, to let alone; hence (by implication) to be deaf (as an accompaniment of dumbness)",
+    "definition": {
+        "to cut in, plough, engrave, devise": {
+            "(qal)": {
+                "to cut in, engrave": {},
+                "to plough": {},
+                "to devise": {}
+            },
+            "(niphal) to be ploughed": {},
+            "(hiphil) to plot evil": {}
+        },
+        "to be silent, be dumb, be speechless, be deaf": {
+            "(qal)": {
+                "to be silent": {},
+                "to be deaf": {}
+            },
+            "(hiphil)": {
+                "to be silent, keep quiet": {},
+                "to make silent": {},
+                "to be deaf, show deafness": {}
+            },
+            "(hithpael) to remain silent": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

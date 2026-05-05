@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Ἡρωδίων",
+            "transliteration": "Hērōdíōn"
+        }
+    ],
+    "description": "herodion, a christian",
+    "literal": "heroic",
+    "definition": {
+        "a certain christian": {}
+    },
+    "origin": "from g2264",
+    "related": [
+        "g2264"
+    ]
+}

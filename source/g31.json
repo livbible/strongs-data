@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀγγελία",
+            "transliteration": "angelía"
+        }
+    ],
+    "description": "an announcement, i.e., (by implication) precept",
+    "definition": {
+        "message, announcement, news": {},
+        "a proclamation, command, order": {}
+    },
+    "origin": "from g0032",
+    "related": [
+        "g0032"
+    ]
+}

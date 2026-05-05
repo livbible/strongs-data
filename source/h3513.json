@@ -1,0 +1,33 @@
+{
+    "originalWords": "כבד",
+    "description": "to be heavy, i.e., in a bad sense (burdensome, severe, dull) or in a good sense (numerous, rich, honorable); causatively, to make weighty (in the same two senses)",
+    "definition": {
+        "to be heavy, be weighty, be grievous, be hard, be rich, be honorable, be glorious, be burdensome, be honored": {
+            "(qal)": {
+                "to be heavy": {},
+                "to be heavy, be insensible, be dull": {},
+                "to be honored": {}
+            },
+            "(niphal)": {
+                "to be made heavy, be honored, enjoy honor, be made abundant": {},
+                "to get oneself glory or honor, gain glory": {}
+            },
+            "(piel)": {
+                "to make heavy, make dull, make insensible": {},
+                "to make honorable, honor, glorify": {}
+            },
+            "(pual) to be made honorable, be honored": {},
+            "(hiphil)": {
+                "to make heavy": {},
+                "to make heavy, make dull, make unresponsive": {},
+                "to cause to be honored": {}
+            },
+            "(hithpael)": {
+                "to make oneself heavy, make oneself dense, make oneself numerous": {},
+                "to honor oneself": {}
+            }
+        }
+    },
+    "origin": "or ??????; a primitive root",
+    "related": []
+}

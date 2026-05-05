@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κτίσμα",
+            "transliteration": "ktísma"
+        }
+    ],
+    "description": "an original formation (concretely), i.e., product (created thing)",
+    "definition": {
+        "thing founded": {},
+        "created thing": {}
+    },
+    "origin": "from g2936",
+    "related": [
+        "g2936"
+    ]
+}

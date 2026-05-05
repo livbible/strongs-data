@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐπιπορεύομαι",
+            "transliteration": "epiporeúomai"
+        }
+    ],
+    "description": "to journey further, i.e., travel on (reach)",
+    "definition": {
+        "to go or journey to": {},
+        "to go to, traverse": {
+            "regions, cities": {}
+        },
+        "to make a hostile inroad, overrun, march over": {}
+    },
+    "origin": "from g1909 and g4198",
+    "related": [
+        "g1909",
+        "g4198"
+    ]
+}

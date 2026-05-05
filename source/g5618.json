@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὥσπερ",
+            "transliteration": "hṓsper"
+        }
+    ],
+    "description": "just as, i.e., exactly like",
+    "definition": {
+        "just as, even as": {}
+    },
+    "origin": "from g5613 and g4007",
+    "related": [
+        "g4007",
+        "g5613"
+    ]
+}

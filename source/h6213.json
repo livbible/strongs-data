@@ -1,0 +1,41 @@
+{
+    "originalWords": "עשה",
+    "description": "to do or make, in the broadest sense and widest application",
+    "definition": {
+        "to do, fashion, accomplish, make": {
+            "(qal)": {
+                "to do, work, make, produce": {
+                    "to do": {},
+                    "to work": {},
+                    "to deal (with)": {},
+                    "to act, act with effect, effect": {}
+                },
+                "to make": {
+                    "to make": {},
+                    "to produce": {},
+                    "to prepare": {},
+                    "to make (an offering)": {},
+                    "to attend to, put in order": {},
+                    "to observe, celebrate": {},
+                    "to acquire (property)": {},
+                    "to appoint, ordain, institute": {},
+                    "to bring about": {},
+                    "to use": {},
+                    "to spend, pass": {}
+                }
+            },
+            "(niphal)": {
+                "to be done": {},
+                "to be made": {},
+                "to be produced": {},
+                "to be offered": {},
+                "to be observed": {},
+                "to be used": {}
+            },
+            "(pual) to be made": {}
+        },
+        "(piel) to press, squeeze": {}
+    },
+    "origin": "a primitive root",
+    "related": []
+}

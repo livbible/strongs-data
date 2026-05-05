@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Ἀθηναῖος",
+            "transliteration": "Athēnaîos"
+        }
+    ],
+    "description": "an athenaean or inhabitant of athenae",
+    "definition": {
+        "a person who lives in athens, an athenian": {}
+    },
+    "origin": "from g0116",
+    "related": [
+        "g0116"
+    ]
+}

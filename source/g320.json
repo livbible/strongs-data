@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀνάγνωσις",
+            "transliteration": "anágnōsis"
+        }
+    ],
+    "description": "(the act of) reading",
+    "definition": {
+        "knowing": {
+            "a knowing again, owning": {},
+            "reading": {}
+        }
+    },
+    "origin": "from g0314",
+    "related": [
+        "g0314"
+    ]
+}

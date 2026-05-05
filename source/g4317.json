@@ -1,0 +1,25 @@
+{
+    "originalWords": [
+        {
+            "unicode": "προσάγω",
+            "transliteration": "proságō"
+        }
+    ],
+    "description": "to lead towards, i.e., (transitively) to conduct near (summon, present), or (intransitively) to approach",
+    "definition": {
+        "to lead, to bring": {
+            "to open a way of access, for one to god": {
+                "to render one acceptable to god": {}
+            },
+            "in a forensic sense, to summon (to trial or punishment)": {}
+        },
+        "to draw near to, approach": {
+            "the land which a sailor is approaching seeming to approach him": {}
+        }
+    },
+    "origin": "from g4314 and g0071",
+    "related": [
+        "g0071",
+        "g4314"
+    ]
+}

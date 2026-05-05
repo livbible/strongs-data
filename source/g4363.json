@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "προσπίπτω",
+            "transliteration": "prospíptō"
+        }
+    ],
+    "description": "to fall towards, i.e., (gently) prostrate oneself (in supplication or homage), or (violently) to rush upon (in storm)",
+    "definition": {
+        "to fall forwards, fall down, prostrate one's self before, in homage or supplication: at one's feet": {},
+        "to rush upon, beat against": {
+            "of winds beating upon a house": {}
+        }
+    },
+    "origin": "from g4314 and g4098",
+    "related": [
+        "g4098",
+        "g4314"
+    ]
+}

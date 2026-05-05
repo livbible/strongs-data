@@ -1,0 +1,18 @@
+{
+    "originalWords": "שמד",
+    "description": "to desolate",
+    "definition": {
+        "to destroy, exterminate, be destroyed, be exterminated": {
+            "(niphal)": {
+                "to be annihilated, be exterminated": {},
+                "to be destroyed, be devastated": {}
+            },
+            "(hiphil)": {
+                "to annihilate, exterminate": {},
+                "to destroy": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

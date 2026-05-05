@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "νόμισμα",
+            "transliteration": "nómisma"
+        }
+    ],
+    "description": "what is reckoned as of value (after the latin <i>numisma</i>), i.e., current coin",
+    "definition": {
+        "anything received and sanctioned by usage or law": {},
+        "money, (current) coin, legal tender": {}
+    },
+    "origin": "from g3543",
+    "related": [
+        "g3543"
+    ]
+}

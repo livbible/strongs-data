@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐπειδήπερ",
+            "transliteration": "epeidḗper"
+        }
+    ],
+    "description": "since indeed (of cause)",
+    "definition": {
+        "seeing that, forasmuch as": {}
+    },
+    "origin": "from g1894 and g4007",
+    "related": [
+        "g1894",
+        "g4007"
+    ]
+}

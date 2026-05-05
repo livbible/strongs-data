@@ -1,0 +1,31 @@
+{
+    "originalWords": "נוח",
+    "description": "to rest, i.e., settle down; used in a great variety of applications, literal and figurative, intransitive, transitive and causative (to dwell, stay, let fall, place, let alone, withdraw, give comfort, etc.)",
+    "definition": {
+        "to rest": {
+            "(qal)": {
+                "to rest, settle down and remain": {},
+                "to repose, have rest, be quiet": {}
+            },
+            "(hiph)": {
+                "to cause to rest, give rest to, make quiet": {},
+                "to cause to rest, cause to alight, set down": {},
+                "to lay or set down, deposit, let lie, place": {},
+                "to let remain, leave": {},
+                "to leave, depart from": {},
+                "to abandon": {},
+                "to permit": {}
+            },
+            "(hoph)": {
+                "to obtain rest, be granted rest": {},
+                "to be left, be placed": {},
+                "open space (subst)": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": [
+        "h3241"
+    ],
+    "notes": "compare h3241."
+}

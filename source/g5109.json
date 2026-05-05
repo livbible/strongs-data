@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "τοῖχος",
+            "transliteration": "toîchos"
+        }
+    ],
+    "description": "a wall",
+    "definition": {
+        "a wall (of a house)": {}
+    },
+    "origin": "another form of g5038",
+    "related": [
+        "g5038"
+    ]
+}

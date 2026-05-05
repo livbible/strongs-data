@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀφεδρών",
+            "transliteration": "aphedrṓn"
+        }
+    ],
+    "description": "a place of sitting apart, i.e., a privy",
+    "definition": {
+        "a place where the human waste discharges are dumped": {
+            "a privy, sink, toilet": {}
+        }
+    },
+    "origin": "from a compound of g0575 and the base of g1476",
+    "related": [
+        "g0575",
+        "g1476"
+    ]
+}

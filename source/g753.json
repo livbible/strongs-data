@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀρχιτέκτων",
+            "transliteration": "architéktōn"
+        }
+    ],
+    "description": "a chief constructor, i.e., \"architect\"",
+    "definition": {
+        "a master builder, an architect, the superintendent in the erection of buildings": {}
+    },
+    "origin": "from g0746 and g5045",
+    "related": [
+        "g0746",
+        "g5045"
+    ]
+}

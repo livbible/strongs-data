@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἄσιτος",
+            "transliteration": "ásitos"
+        }
+    ],
+    "description": "without (taking) food",
+    "definition": {
+        "fasting, without having eaten": {}
+    },
+    "origin": "from g0001 (as a negative particle) and g4621",
+    "related": [
+        "g0001",
+        "g4621"
+    ]
+}

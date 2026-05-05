@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "χειραγωγός",
+            "transliteration": "cheiragōgós"
+        }
+    ],
+    "description": "a hand-leader, i.e., personal conductor (of a blind person)",
+    "definition": {
+        "leading one by the hand": {}
+    },
+    "origin": "from g5495 and a reduplicated form of g0071",
+    "related": [
+        "g0071",
+        "g5495"
+    ]
+}

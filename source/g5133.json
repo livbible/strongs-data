@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "τραπεζίτης",
+            "transliteration": "trapezítēs"
+        }
+    ],
+    "description": "a money-broker or banker",
+    "definition": {
+        "a money changer, broker, banker": {},
+        "one who exchanges money for a fee, and pays interest on deposits": {}
+    },
+    "origin": "from g5132",
+    "related": [
+        "g5132"
+    ]
+}

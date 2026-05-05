@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐκκόπτω",
+            "transliteration": "ekkóptō"
+        }
+    ],
+    "description": "to exscind; figuratively, to frustrate",
+    "definition": {
+        "to cut out, cut off": {
+            "of a tree": {}
+        },
+        "metaphorically to cut off occasion": {}
+    },
+    "origin": "from g1537 and g2875",
+    "related": [
+        "g1537",
+        "g2875"
+    ]
+}

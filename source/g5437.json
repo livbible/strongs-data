@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "φυγή",
+            "transliteration": "phygḗ"
+        }
+    ],
+    "description": "a fleeing, i.e., escape",
+    "definition": {
+        "flight": {}
+    },
+    "origin": "from g5343",
+    "related": [
+        "g5343"
+    ]
+}

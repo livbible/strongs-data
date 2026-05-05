@@ -1,0 +1,23 @@
+{
+    "originalWords": [
+        {
+            "unicode": "παρακύπτω",
+            "transliteration": "parakýptō"
+        }
+    ],
+    "description": "to bend beside, i.e., lean over (so as to peer within)",
+    "definition": {
+        "to stoop to a thing in order to look at it": {},
+        "to look at with head bowed forward": {},
+        "to look into with the body bent": {},
+        "to stoop and look into": {},
+        "metaphorically to look carefully into, inspect curiously": {
+            "of one who would become acquainted with something": {}
+        }
+    },
+    "origin": "from g3844 and g2955",
+    "related": [
+        "g2955",
+        "g3844"
+    ]
+}

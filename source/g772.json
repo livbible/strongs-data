@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀσθενής",
+            "transliteration": "asthenḗs"
+        }
+    ],
+    "description": "strengthless (in various applications, literal, figurative and moral)",
+    "definition": {
+        "weak, infirm, feeble": {}
+    },
+    "origin": "from g0001 (as a negative particle) and the base of g4599",
+    "related": [
+        "g0001",
+        "g4599"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "συγκοινωνός",
+            "transliteration": "synkoinōnós"
+        }
+    ],
+    "description": "a co-participant",
+    "definition": {
+        "participant with others in anything, joint partner": {}
+    },
+    "origin": "from g4862 and g2844",
+    "related": [
+        "g2844",
+        "g4862"
+    ]
+}

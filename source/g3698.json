@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὁπότε",
+            "transliteration": "hopóte"
+        }
+    ],
+    "description": "what(-ever) then, i.e., (of time) as soon as",
+    "definition": {
+        "when": {}
+    },
+    "origin": "from g3739 and g4218",
+    "related": [
+        "g3739",
+        "g4218"
+    ]
+}

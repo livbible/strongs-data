@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "γυνή",
+            "transliteration": "gynḗ"
+        }
+    ],
+    "description": "a woman; specially, a wife",
+    "definition": {
+        "a woman of any age, whether a virgin, or married, or a widow": {},
+        "a wife": {
+            "of a betrothed woman": {}
+        }
+    },
+    "origin": "probably from the base of g1096",
+    "related": [
+        "g1096"
+    ]
+}

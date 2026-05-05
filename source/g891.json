@@ -1,0 +1,22 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἄχρι",
+            "transliteration": "áchri"
+        },
+        {
+            "unicode": "ἄχρις",
+            "transliteration": "áchris"
+        }
+    ],
+    "description": "(of time) until or (of place) up to",
+    "definition": {
+        "until, unto, etc.": {}
+    },
+    "origin": "akin to g0206 (through the idea of a terminus)",
+    "related": [
+        "g0206",
+        "g3360"
+    ],
+    "notes": "compare g3360."
+}

@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Ἀβραάμ",
+            "transliteration": "Abraám"
+        }
+    ],
+    "description": "abraham, the hebrew patriarch",
+    "literal": "father of a multitude",
+    "definition": {
+        "the son of terah and the founder of the jewish nation": {}
+    },
+    "origin": "of hebrew origin (h0085)",
+    "related": [
+        "h0085"
+    ]
+}

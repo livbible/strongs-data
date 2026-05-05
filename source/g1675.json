@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Ἑλληνιστής",
+            "transliteration": "Hellēnistḗs"
+        }
+    ],
+    "description": "a hellenist or greek-speaking jew",
+    "definition": {
+        "a hellenist": {
+            "one who imitates the manners and customs or the worship of the greeks, and use the greek tongue": {},
+            "used in the new testament of jews born in foreign lands and speaking greek": {}
+        }
+    },
+    "origin": "from a derivative of g1672",
+    "related": [
+        "g1672"
+    ]
+}

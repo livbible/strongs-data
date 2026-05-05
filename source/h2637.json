@@ -1,0 +1,17 @@
+{
+    "originalWords": "חסר",
+    "description": "to lack; by implication, to fail, want, lessen",
+    "definition": {
+        "to lack, be without, decrease, be lacking, have a need": {
+            "(qal)": {
+                "to lack": {},
+                "to be lacking": {},
+                "to diminish, decrease": {}
+            },
+            "(piel) to cause to lack": {},
+            "(hiphil) to cause to be lacking": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "βασίλειον",
+            "transliteration": "basíleion"
+        }
+    ],
+    "description": "a palace",
+    "definition": {
+        "the royal palace": {}
+    },
+    "origin": "neuter of g0934",
+    "related": [
+        "g0934"
+    ]
+}

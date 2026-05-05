@@ -1,0 +1,23 @@
+{
+    "name": "@livbible/strongs",
+    "exports": "./source/mod.ts",
+    "version": "1.0.0",
+    "tasks": {
+        "build": "deno -A scripts/build-npm.ts"
+    },
+    "compilerOptions": {
+        "lib": [
+            "es2022",
+            "deno.ns",
+            "dom"
+        ]
+    },
+    "fmt": {
+        "indentWidth": 4,
+        "lineWidth": 512,
+        "semiColons": false
+    },
+    "imports": {
+        "@deno/dnt": "jsr:@deno/dnt@^0.42.3"
+    }
+}

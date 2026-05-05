@@ -1,0 +1,30 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κατεσθίω",
+            "transliteration": "katesthíō"
+        }
+    ],
+    "description": "to eat up, i.e., devour (literally or figuratively)",
+    "definition": {
+        "to consume by eating, to eat up, devour": {
+            "of birds": {},
+            "of a dragon": {},
+            "of a man eating up the little book": {
+                "to ruin (by the infliction of injuries)": {}
+            }
+        },
+        "metaphorically": {
+            "to devour i.e., squander, waste: substance": {},
+            "to devour i.e., forcibly appropriate: widows' property": {},
+            "to strip one of his goods": {},
+            "by fire, to devour i.e., to utterly consume, destroy": {},
+            "of the consumption of the strength of body and mind by strong emotions": {}
+        }
+    },
+    "origin": "from g2596 and g2068 (including its alternate)",
+    "related": [
+        "g2068",
+        "g2596"
+    ]
+}

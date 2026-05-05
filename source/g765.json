@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀσεβής",
+            "transliteration": "asebḗs"
+        }
+    ],
+    "description": "irreverent, i.e., (by extension) impious or wicked",
+    "definition": {
+        "destitute of reverential awe towards god, condemning god, impious": {}
+    },
+    "origin": "from g0001 (as a negative particle) and a presumed derivative of g4576",
+    "related": [
+        "g0001",
+        "g4576"
+    ]
+}

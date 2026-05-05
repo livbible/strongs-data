@@ -1,0 +1,32 @@
+{
+    "originalWords": [
+        {
+            "unicode": "φιλέω",
+            "transliteration": "philéō"
+        }
+    ],
+    "description": "to be a friend to (fond of (an individual or an object)), i.e., have affection for (denoting personal attachment, as a matter of sentiment or feeling; while g0025 is wider, embracing especially the judgment and the deliberate assent of the will as a matter of principle, duty and propriety: the two thus stand related very much as g2309 and g1014, or as g2372 and g3563 respectively; the former being chiefly of the heart and the latter of the head); specially, to kiss (as a mark of tenderness)",
+    "definition": {
+        "to love": {
+            "to approve of": {},
+            "to like": {},
+            "sanction": {},
+            "to treat affectionately or kindly, to welcome, befriend": {}
+        },
+        "to show signs of love": {
+            "to kiss": {}
+        },
+        "to be fond of doing": {
+            "be wont, use to do": {}
+        }
+    },
+    "origin": "from g5384",
+    "related": [
+        "g0025",
+        "g1014",
+        "g2309",
+        "g2372",
+        "g3563",
+        "g5384"
+    ]
+}

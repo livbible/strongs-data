@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὄξος",
+            "transliteration": "óxos"
+        }
+    ],
+    "description": "vinegar, i.e., sour wine",
+    "definition": {
+        "vinegar": {
+            "the mixture of sour wine or vinegar and water which the roman soldiers were accustomed to drink": {}
+        }
+    },
+    "origin": "from g3691",
+    "related": [
+        "g3691"
+    ]
+}

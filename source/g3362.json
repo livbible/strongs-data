@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐὰν μή",
+            "transliteration": "eàn mḗ"
+        }
+    ],
+    "description": "if not, i.e., unless",
+    "definition": {
+        "if not, unless, whoever ... not": {}
+    },
+    "origin": "i.e. g1437 and g3361",
+    "related": [
+        "g1437",
+        "g3361"
+    ]
+}

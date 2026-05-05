@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "περιμένω",
+            "transliteration": "periménō"
+        }
+    ],
+    "description": "to stay around, i.e., await",
+    "definition": {
+        "to wait for": {}
+    },
+    "origin": "from g4012 and g3306",
+    "related": [
+        "g3306",
+        "g4012"
+    ]
+}

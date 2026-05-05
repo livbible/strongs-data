@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "προέρχομαι",
+            "transliteration": "proérchomai"
+        }
+    ],
+    "description": "to go onward, precede (in place or time)",
+    "definition": {
+        "to go forward, go on": {},
+        "to go before": {
+            "to go before, precede": {},
+            "to go before, in the advance of another": {}
+        }
+    },
+    "origin": "from g4253 and g2064 (including its alternate)",
+    "related": [
+        "g2064",
+        "g4253"
+    ]
+}

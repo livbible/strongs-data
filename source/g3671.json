@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὁμολογία",
+            "transliteration": "homología"
+        }
+    ],
+    "description": "acknowledgment",
+    "definition": {
+        "profession": {
+            "subjectively: whom we profess to be ours": {},
+            "objectively: profession [confession] i.e., what one professes [confesses]": {}
+        }
+    },
+    "origin": "from the same as g3670",
+    "related": [
+        "g3670"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πρωτοστάτης",
+            "transliteration": "prōtostátēs"
+        }
+    ],
+    "description": "one standing first in the ranks, i.e., a captain (champion)",
+    "definition": {
+        "one who stands in the front rank": {
+            "a leader, chief, champion": {}
+        }
+    },
+    "origin": "from g4413 and g2476",
+    "related": [
+        "g2476",
+        "g4413"
+    ]
+}

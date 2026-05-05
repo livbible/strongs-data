@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Ἱεροσολυμίτης",
+            "transliteration": "Hierosolymítēs"
+        }
+    ],
+    "description": "a hierosolymite, i.e., inhabitant of hierosolyma",
+    "definition": {
+        "a citizen or inhabitant of jerusalem": {}
+    },
+    "origin": "from g2414",
+    "related": [
+        "g2414"
+    ]
+}

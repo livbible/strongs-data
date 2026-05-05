@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἄθεος",
+            "transliteration": "átheos"
+        }
+    ],
+    "description": "godless",
+    "definition": {
+        "without god, knowing and worshipping no god": {},
+        "denying the gods, especially the recognized gods of the state": {},
+        "godless, ungodly": {},
+        "abandoned by the gods": {}
+    },
+    "origin": "from g0001 (as a negative particle) and g2316",
+    "related": [
+        "g0001",
+        "g2316"
+    ]
+}

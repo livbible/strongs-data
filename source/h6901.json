@@ -1,0 +1,19 @@
+{
+    "originalWords": "קבל",
+    "description": "to admit, i.e., take (literally or figuratively)",
+    "definition": {
+        "to take, receive, be before": {
+            "(piel)": {
+                "to take, choose, receive": {},
+                "to accept": {},
+                "to accept, assume": {}
+            },
+            "(hiphil)": {
+                "to show oppositeness": {},
+                "to correspond, receive one to the other": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

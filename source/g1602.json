@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐκπλέω",
+            "transliteration": "ekpléō"
+        }
+    ],
+    "description": "to depart by ship",
+    "definition": {
+        "to sail from, sail away, depart by ship": {}
+    },
+    "origin": "from g1537 and g4126",
+    "related": [
+        "g1537",
+        "g4126"
+    ]
+}

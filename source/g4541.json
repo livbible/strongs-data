@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Σαμαρείτης",
+            "transliteration": "Samareítēs"
+        }
+    ],
+    "description": "a samarite, i.e., inhabitant of samaria",
+    "definition": {
+        "a samaritan,": {
+            "an inhabitant of the city of samaria": {},
+            "an inhabitant of the region of samaria": {}
+        }
+    },
+    "origin": "from g4540",
+    "related": [
+        "g4540"
+    ]
+}

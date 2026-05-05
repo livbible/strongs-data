@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὅτε",
+            "transliteration": "hóte"
+        }
+    ],
+    "description": "at which (thing) too, i.e., when",
+    "definition": {
+        "when whenever, while, as long as": {}
+    },
+    "origin": "from g3739 and g5037",
+    "related": [
+        "g3739",
+        "g5037"
+    ]
+}

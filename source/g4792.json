@@ -1,0 +1,22 @@
+{
+    "originalWords": [
+        {
+            "unicode": "συγκομίζω",
+            "transliteration": "synkomízō"
+        }
+    ],
+    "description": "to convey together, i.e., collect or bear away in company with others",
+    "definition": {
+        "to carry or bring together, to collect": {
+            "to house crops, gather into granaries": {}
+        },
+        "to carry with others, help in carrying out, the dead to be buried or burned": {
+            "to bury": {}
+        }
+    },
+    "origin": "from g4862 and g2865",
+    "related": [
+        "g2865",
+        "g4862"
+    ]
+}

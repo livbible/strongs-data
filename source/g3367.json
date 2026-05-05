@@ -1,0 +1,25 @@
+{
+    "originalWords": [
+        {
+            "unicode": "μηδείς",
+            "transliteration": "mēdeís"
+        },
+        {
+            "unicode": "μηδεμία",
+            "transliteration": "mēdemía"
+        },
+        {
+            "unicode": "μηδέν",
+            "transliteration": "mēdén"
+        }
+    ],
+    "description": "not even one (man, woman, thing)",
+    "definition": {
+        "nobody, no one, nothing": {}
+    },
+    "origin": "from g3361 and g1520",
+    "related": [
+        "g1520",
+        "g3361"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀδύνατος",
+            "transliteration": "adýnatos"
+        }
+    ],
+    "description": "unable, i.e., weak (literally or figuratively); passively, impossible",
+    "definition": {
+        "without strength, impotent, powerless, weakly, disabled": {},
+        "unable to be done, impossible": {}
+    },
+    "origin": "from g0001 (as a negative particle) and g1415",
+    "related": [
+        "g0001",
+        "g1415"
+    ]
+}

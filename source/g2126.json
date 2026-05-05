@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "εὐλαβής",
+            "transliteration": "eulabḗs"
+        }
+    ],
+    "description": "taking well (carefully), i.e., circumspect (religiously, pious)",
+    "definition": {
+        "taking hold well": {
+            "carefully and surely": {},
+            "cautiously": {}
+        },
+        "reverencing god, pious, religious": {}
+    },
+    "origin": "from g2095 and g2983",
+    "related": [
+        "g2095",
+        "g2983"
+    ]
+}

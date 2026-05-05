@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐν",
+            "transliteration": "en"
+        }
+    ],
+    "description": "\"in,\" at, (up-)on, by, etc",
+    "definition": {
+        "in, by, with": {}
+    },
+    "origin": "a primary preposition denoting (fixed) position (in place, time or state), and (by implication) instrumentality (medially or constructively), i.e. a relation of rest (intermediate between g1519 and g1537)",
+    "related": [
+        "g1519",
+        "g1537"
+    ],
+    "notes": "often used in compounds, with substantially the same import; rarely with verbs of motion, and then not to indicate direction, except (elliptically) by a separate (and different) preposition."
+}

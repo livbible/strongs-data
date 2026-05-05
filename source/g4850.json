@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "συμπρεσβύτερος",
+            "transliteration": "sympresbýteros"
+        }
+    ],
+    "description": "a co-presbyter",
+    "definition": {
+        "a fellow elder": {}
+    },
+    "origin": "from g4862 and g4245",
+    "related": [
+        "g4245",
+        "g4862"
+    ]
+}

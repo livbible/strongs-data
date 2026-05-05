@@ -1,0 +1,20 @@
+{
+    "originalWords": "שבע",
+    "description": "to seven oneself, i.e., swear (as if by repeating a declaration seven times)",
+    "definition": {
+        "to swear, adjure": {
+            "(qal) sworn (participle)": {},
+            "(niphal)": {
+                "to swear, take an oath": {},
+                "to swear (of jehovah by himself)": {},
+                "to curse": {}
+            },
+            "(hiphil)": {
+                "to cause to take an oath": {},
+                "to adjure": {}
+            }
+        }
+    },
+    "origin": "a primitive root; properly to be complete, but used only as a denominative from h7651",
+    "related": []
+}

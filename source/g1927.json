@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐπιδημέω",
+            "transliteration": "epidēméō"
+        }
+    ],
+    "description": "to make oneself at home, i.e., (by extension) to reside (in a foreign country)",
+    "definition": {
+        "to be present among one's people, in one's city or one's native land": {},
+        "to be a sojourner": {
+            "of a foreign resident, among any people, in any country": {}
+        }
+    },
+    "origin": "from a compound of g1909 and g1218",
+    "related": [
+        "g1218",
+        "g1909"
+    ]
+}

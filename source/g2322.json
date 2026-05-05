@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "θεραπεία",
+            "transliteration": "therapeía"
+        }
+    ],
+    "description": "attendance (specially, medical, i.e., cure); figuratively and collectively, domestics",
+    "definition": {
+        "service rendered by one to another": {},
+        "specifically medical service: curing, healing": {},
+        "household service": {
+            "body of attendants, servants, domestics": {}
+        }
+    },
+    "origin": "from g2323",
+    "related": [
+        "g2323"
+    ]
+}

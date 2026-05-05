@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πετεινόν",
+            "transliteration": "peteinón"
+        }
+    ],
+    "description": "a flying animal, i.e., bird",
+    "definition": {
+        "flying, winged": {},
+        "flying or winged animals, birds": {
+            "the birds of the heaven, i.e., flying in the heaven (air)": {}
+        }
+    },
+    "origin": "neuter of a derivative of g4072",
+    "related": [
+        "g4072"
+    ]
+}

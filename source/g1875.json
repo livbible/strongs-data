@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐπάν",
+            "transliteration": "epán"
+        }
+    ],
+    "description": "a particle of indefinite contemporaneousness; whenever, as soon as",
+    "definition": {
+        "after, when": {}
+    },
+    "origin": "from g1909 and g0302",
+    "related": [
+        "g0302",
+        "g1909"
+    ]
+}

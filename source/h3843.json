@@ -1,0 +1,13 @@
+{
+    "originalWords": "לבנה",
+    "description": "a brick (from the whiteness of the clay)",
+    "definition": {
+        "tile, brick": {
+            "brick": {},
+            "tile": {},
+            "pavement": {}
+        }
+    },
+    "origin": "from h3835",
+    "related": []
+}

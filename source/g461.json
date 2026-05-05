@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀνορθόω",
+            "transliteration": "anorthóō"
+        }
+    ],
+    "description": "to straighten up",
+    "definition": {
+        "to set up, make erect": {
+            "of a deformed person": {}
+        },
+        "to rear again, build anew": {}
+    },
+    "origin": "from g0303 and a derivative of the base of g3717",
+    "related": [
+        "g0303",
+        "g3717"
+    ]
+}

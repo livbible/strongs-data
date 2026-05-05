@@ -1,0 +1,26 @@
+{
+    "originalWords": "ברית",
+    "description": "a compact (because made by passing between pieces of flesh)",
+    "definition": {
+        "covenant, alliance, pledge": {
+            "between men": {
+                "treaty, alliance, league (man to man)": {},
+                "constitution, ordinance (monarch to subjects)": {},
+                "agreement, pledge (man to man)": {},
+                "alliance (of friendship)": {},
+                "alliance (of marriage)": {}
+            },
+            "between god and man": {
+                "alliance (of friendship)": {},
+                "covenant (divine ordinance with signs or pledges)": {}
+            }
+        },
+        "(phrases)": {
+            "covenant making": {},
+            "covenant keeping": {},
+            "covenant violation": {}
+        }
+    },
+    "origin": "from h1262 (in the sense of cutting [like h1254])",
+    "related": []
+}

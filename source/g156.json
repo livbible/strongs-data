@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "αἰτία",
+            "transliteration": "aitía"
+        }
+    ],
+    "description": "a cause (as if asked for), i.e., (logical) reason (motive, matter), (legal) crime (alleged or proved)",
+    "definition": {
+        "cause, reason": {},
+        "cause for which one is worthy of punishment, crime": {},
+        "charge of crime, accusation": {}
+    },
+    "origin": "from the same as g0154",
+    "related": [
+        "g0154"
+    ]
+}

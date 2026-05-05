@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀνώτερος",
+            "transliteration": "anṓteros"
+        }
+    ],
+    "description": "upper, i.e., (neuter as adverb) to a more conspicuous place, in a former part of the book",
+    "definition": {
+        "higher": {
+            "of motion: to a higher place, up higher": {},
+            "of rest: in a higher place, above": {}
+        }
+    },
+    "origin": "comparative degree of g0507",
+    "related": [
+        "g0507"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "originalWords": "שמר",
+    "description": "properly, to hedge about (as with thorns), i.e., guard; generally, to protect, attend to, etc",
+    "definition": {
+        "to keep, guard, observe, give heed": {
+            "(qal)": {
+                "to keep, have charge of": {},
+                "to keep, guard, keep watch and ward, protect, save life": {
+                    "watch, watchman (participle)": {}
+                },
+                "to watch for, wait for": {},
+                "to watch, observe": {},
+                "to keep, retain, treasure up (in memory)": {},
+                "to keep (within bounds), restrain": {},
+                "to observe, celebrate, keep (sabbath or covenant or commands), perform (vow)": {},
+                "to keep, preserve, protect": {},
+                "to keep, reserve": {}
+            },
+            "(niphal)": {
+                "to be on one's guard, take heed, take care, beware": {},
+                "to keep oneself, refrain, abstain": {},
+                "to be kept, be guarded": {}
+            },
+            "(piel) to keep, pay heed": {},
+            "(hithpael) to keep oneself from": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

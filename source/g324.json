@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀναδέχομαι",
+            "transliteration": "anadéchomai"
+        }
+    ],
+    "description": "to entertain (as a guest)",
+    "definition": {
+        "to take up, take upon's self, undertake, assume": {},
+        "to receive, entertain anyone hospitably": {}
+    },
+    "origin": "from g0303 and g1209",
+    "related": [
+        "g0303",
+        "g1209"
+    ]
+}

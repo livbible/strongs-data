@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀσφαλής",
+            "transliteration": "asphalḗs"
+        }
+    ],
+    "description": "secure (literally or figuratively)",
+    "definition": {
+        "firm (that which can be relied on)": {},
+        "certain, true": {},
+        "suited to confirm": {}
+    },
+    "origin": "from g0001 (as a negative particle) and sphallo (to \"fail\")",
+    "related": [
+        "g0001"
+    ]
+}

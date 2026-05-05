@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Λαοδίκεια",
+            "transliteration": "Laodíkeia"
+        }
+    ],
+    "description": "laodicia, a place in asia minor",
+    "literal": "justice of the people",
+    "definition": {
+        "a city of phrygia, situated on the river lycus not far from colosse": {}
+    },
+    "origin": "from a compound of g2992 and g1349",
+    "related": [
+        "g1349",
+        "g2992"
+    ],
+    "notes": "laodicea was destroyed by an earthquake in ad 66 and rebuilt by marcus aurelius. it was the location of a christian church."
+}

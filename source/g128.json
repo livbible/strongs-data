@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Αἰθίοψ",
+            "transliteration": "Aithíops"
+        }
+    ],
+    "description": "an ethiopian (as a blackamoor)",
+    "literal": "black",
+    "definition": {
+        "an ethiopian": {}
+    },
+    "origin": "from ???? (to scorch) and ?? (the face, from g3700)",
+    "related": [
+        "g3700"
+    ]
+}

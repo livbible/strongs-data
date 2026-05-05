@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πιστόω",
+            "transliteration": "pistóō"
+        }
+    ],
+    "description": "to assure",
+    "definition": {
+        "to make faithful, render trustworthy": {
+            "to make firm, establish": {}
+        },
+        "to be firmly persuaded of": {
+            "to be assured of": {}
+        }
+    },
+    "origin": "from g4103",
+    "related": [
+        "g4103"
+    ]
+}

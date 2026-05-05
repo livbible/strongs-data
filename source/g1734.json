@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἑνδέκατος",
+            "transliteration": "hendékatos"
+        }
+    ],
+    "description": "eleventh",
+    "definition": {
+        "eleventh": {}
+    },
+    "origin": "ordinal from g1733",
+    "related": [
+        "g1733"
+    ]
+}

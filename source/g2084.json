@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἑτερόγλωσσος",
+            "transliteration": "heteróglōssos"
+        }
+    ],
+    "description": "other- tongued, i.e., a foreigner",
+    "definition": {
+        "one who speaks a foreign language": {}
+    },
+    "origin": "from g2087 and g1100",
+    "related": [
+        "g1100",
+        "g2087"
+    ]
+}

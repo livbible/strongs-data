@@ -1,0 +1,26 @@
+{
+    "originalWords": "שאל",
+    "description": "to inquire; by implication, to request; by extension, to demand",
+    "definition": {
+        "to ask, enquire, borrow, beg": {
+            "(qal)": {
+                "to ask, ask for": {},
+                "to ask (as a favor), borrow": {},
+                "to enquire, enquire of": {},
+                "to enquire of, consult (of deity, oracle)": {},
+                "to seek": {}
+            },
+            "(niphal) to ask for oneself, ask leave of absence": {},
+            "(piel)": {
+                "to enquire, enquire carefully": {},
+                "to beg, practise beggary": {}
+            },
+            "(hiphil)": {
+                "to be given on request": {},
+                "to grant, make over to, let (one) ask (successfully) or give or lend on request (then) grant or make over to": {}
+            }
+        }
+    },
+    "origin": "or ??????; a primitive root",
+    "related": []
+}

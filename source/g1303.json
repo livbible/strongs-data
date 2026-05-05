@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "διατίθεμαι",
+            "transliteration": "diatíthemai"
+        }
+    ],
+    "description": "to put apart, i.e., (figuratively) dispose (by assignment, compact, or bequest)",
+    "definition": {
+        "to arrange, dispose of, one's own affairs": {
+            "of something that belongs to one": {},
+            "to dispose of by will, make a testament": {}
+        },
+        "to make a covenant, enter into a covenant, with one": {}
+    },
+    "origin": "middle voice from g1223 and g5087",
+    "related": [
+        "g1223",
+        "g5087"
+    ]
+}

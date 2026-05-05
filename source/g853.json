@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀφανίζω",
+            "transliteration": "aphanízō"
+        }
+    ],
+    "description": "to render unapparent, i.e., (actively) consume (becloud), or (passively) disappear (be destroyed)",
+    "definition": {
+        "to snatch out of sight, to put out of view, to make unseen": {},
+        "to cause to vanish away, to destroy, consume": {},
+        "to deprive of lustre, render unsightly": {
+            "to disfigure": {}
+        }
+    },
+    "origin": "from g0852",
+    "related": [
+        "g0852"
+    ]
+}

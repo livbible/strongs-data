@@ -1,0 +1,18 @@
+{
+    "originalWords": "כנע",
+    "description": "properly, to bend the knee; hence, to humiliate, vanquish",
+    "definition": {
+        "to be humble, be humbled, be subdued, be brought down, be low, be under, be brought into subjection": {
+            "(niphal)": {
+                "to humble oneself": {},
+                "to be humbled, be subdued": {}
+            },
+            "(hiphil)": {
+                "to humble": {},
+                "to subdue": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

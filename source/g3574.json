@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "νυχθήμερον",
+            "transliteration": "nychthḗmeron"
+        }
+    ],
+    "description": "a day-and-night, i.e., full day of twenty-four hours",
+    "definition": {
+        "a night and a day, the space of twenty four hours": {}
+    },
+    "origin": "from g3571 and g2250",
+    "related": [
+        "g2250",
+        "g3571"
+    ]
+}

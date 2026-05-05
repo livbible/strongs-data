@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "αἱμοῤῥέω",
+            "transliteration": "haimorrhéō"
+        }
+    ],
+    "description": "to flow blood, i.e., have a haemorrhage",
+    "definition": {
+        "to suffer from a flow of blood, to have a discharge of blood, to lose blood": {}
+    },
+    "origin": "from g0129 and g4482",
+    "related": [
+        "g0129",
+        "g4482"
+    ]
+}

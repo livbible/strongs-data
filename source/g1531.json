@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "εἰσπορεύομαι",
+            "transliteration": "eisporeúomai"
+        }
+    ],
+    "description": "to enter (literally or figuratively)",
+    "definition": {
+        "to go into, enter": {
+            "of persons": {},
+            "of things": {
+                "to be carried into or put into": {},
+                "as food into a mouth": {}
+            }
+        },
+        "metaphorically of affections entering the soul": {}
+    },
+    "origin": "from g1519 and g4198",
+    "related": [
+        "g1519",
+        "g4198"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀγωνία",
+            "transliteration": "agōnía"
+        }
+    ],
+    "description": "a struggle (properly, the state), i.e., (figuratively) anguish",
+    "definition": {
+        "a struggle for victory": {
+            "gymnastic exercise, wrestling": {}
+        },
+        "of severe mental struggles and emotions, agony, anguish": {}
+    },
+    "origin": "from g0073",
+    "related": [
+        "g0073"
+    ]
+}

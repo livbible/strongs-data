@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "συνεργός",
+            "transliteration": "synergós"
+        }
+    ],
+    "description": "a co-laborer, i.e., coadjutor",
+    "definition": {
+        "a companion in work, fellow worker": {}
+    },
+    "origin": "from a presumed compound of g4862 and the base of g2041",
+    "related": [
+        "g2041",
+        "g4862"
+    ]
+}

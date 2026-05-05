@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "θόρυβος",
+            "transliteration": "thórybos"
+        }
+    ],
+    "description": "a disturbance",
+    "definition": {
+        "a noise, tumult, uproar": {
+            "of persons wailing": {},
+            "of a clamorous and excited multitude": {},
+            "of riotous persons": {}
+        },
+        "a tumult, as a breach of public order": {}
+    },
+    "origin": "from the base of g2360",
+    "related": [
+        "g2360"
+    ]
+}

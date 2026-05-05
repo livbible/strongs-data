@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πόμα",
+            "transliteration": "póma"
+        }
+    ],
+    "description": "a beverage",
+    "definition": {
+        "drink": {}
+    },
+    "origin": "from the alternate of g4095",
+    "related": [
+        "g4095"
+    ]
+}

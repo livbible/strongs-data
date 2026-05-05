@@ -1,0 +1,33 @@
+{
+    "originalWords": "נדח",
+    "description": "to push off; used in a great variety of applications, literally and figuratively (to expel, mislead, strike, inflict, etc.)",
+    "definition": {
+        "to impel, thrust, drive away, banish": {
+            "(qal)": {
+                "to impel": {},
+                "to thrust away, banish": {}
+            },
+            "(niphal)": {
+                "to be impelled": {},
+                "to be thrust out, be banished": {
+                    "banished, outcast (participle)": {}
+                },
+                "to be driven away": {},
+                "to be thrust away, thrust aside": {}
+            },
+            "(pual) to be thrust into": {
+                "thrust (participle)": {}
+            },
+            "(hiphil)": {
+                "to thrust, move, impel": {},
+                "to thrust out, banish": {},
+                "to thrust away, thrust aside": {}
+            },
+            "(hophal) to be chased, be hunted": {
+                "chased, hunted (participle)": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

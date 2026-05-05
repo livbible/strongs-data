@@ -1,0 +1,36 @@
+{
+    "originalWords": "כרת",
+    "description": "to cut (off, down or asunder); by implication, to destroy or consume; specifically, to covenant (i.e., make an alliance or bargain, originally by cutting flesh and passing between the pieces)",
+    "definition": {
+        "to cut, cut off, cut down, cut off a body part, cut out, eliminate, kill, cut a covenant": {
+            "(qal)": {
+                "to cut off": {
+                    "to cut off a body part, behead": {}
+                },
+                "to cut down": {},
+                "to hew": {},
+                "to cut or make a covenant": {}
+            },
+            "(niphal)": {
+                "to be cut off": {},
+                "to be cut down": {},
+                "to be chewed": {},
+                "to be cut off, fail": {}
+            },
+            "(pual)": {
+                "to be cut off": {},
+                "to be cut down": {}
+            },
+            "(hiphil)": {
+                "to cut off": {},
+                "to cut off, destroy": {},
+                "to cut down, destroy": {},
+                "to take away": {},
+                "to permit to perish": {}
+            },
+            "(hophal) cut off": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

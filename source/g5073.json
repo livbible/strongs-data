@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "τετραπλόος",
+            "transliteration": "tetraplóos"
+        }
+    ],
+    "description": "quadruple",
+    "definition": {
+        "quadruple, fourfold": {}
+    },
+    "origin": "from g5064 and a derivative of the base of g4118",
+    "related": [
+        "g4118",
+        "g5064"
+    ]
+}

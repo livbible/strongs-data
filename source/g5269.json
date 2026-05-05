@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὑποζώννυμι",
+            "transliteration": "hypozṓnnymi"
+        }
+    ],
+    "description": "to gird under, i.e., frap (a vessel with cables across the keel, sides and deck)",
+    "definition": {
+        "to undergird": {
+            "to bind a ship together laterally: i.e., with girths or cables, to enable it to survive the force of waves and tempest": {}
+        }
+    },
+    "origin": "from g5259 and g2224",
+    "related": [
+        "g2224",
+        "g5259"
+    ]
+}

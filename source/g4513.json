@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Ῥωμαϊκός",
+            "transliteration": "Rhōmaïkós"
+        }
+    ],
+    "description": "romaic, i.e., latin",
+    "literal": "of rome's strength",
+    "definition": {
+        "the language spoken by the romans": {}
+    },
+    "origin": "from g4514",
+    "related": [
+        "g4514"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κρανίον",
+            "transliteration": "kraníon"
+        }
+    ],
+    "description": "a skull (\"cranium\")",
+    "definition": {
+        "a skull": {}
+    },
+    "origin": "diminutive of a derivative of the base of g2768",
+    "related": [
+        "g2768"
+    ]
+}

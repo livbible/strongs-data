@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "τελευτάω",
+            "transliteration": "teleutáō"
+        }
+    ],
+    "description": "to finish life (by implication, of g0979), i.e., expire (demise)",
+    "definition": {
+        "to finish, bring to and end, close": {},
+        "to have an end or close, come to an end": {}
+    },
+    "origin": "from a presumed derivative of g5055",
+    "related": [
+        "g0979",
+        "g5055"
+    ]
+}

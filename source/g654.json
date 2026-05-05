@@ -1,0 +1,27 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀποστρέφω",
+            "transliteration": "apostréphō"
+        }
+    ],
+    "description": "to turn away or back (literally or figuratively)",
+    "definition": {
+        "to turn away": {
+            "to remove anything from anyone": {},
+            "to turn him away from allegiance to any one": {},
+            "tempt to defect": {}
+        },
+        "to turn back, return, bring back": {
+            "of putting a sword back in its sheath": {},
+            "of judas returning money to temple": {}
+        },
+        "to turn one's self away, turn back, return": {},
+        "to turn one's self away from, deserting": {}
+    },
+    "origin": "from g0575 and g4762",
+    "related": [
+        "g0575",
+        "g4762"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀκατακάλυπτος",
+            "transliteration": "akatakályptos"
+        }
+    ],
+    "description": "unveiled",
+    "definition": {
+        "not covered, unveiled": {}
+    },
+    "origin": "from g0001 (as a negative particle) and a derivative of a compound of g2596 and g2572",
+    "related": [
+        "g0001",
+        "g2572",
+        "g2596"
+    ]
+}

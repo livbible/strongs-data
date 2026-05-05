@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀποκαλύπτω",
+            "transliteration": "apokalýptō"
+        }
+    ],
+    "description": "to take off the cover, i.e., disclose",
+    "definition": {
+        "to uncover, lay open what has been veiled or covered up": {
+            "disclose, make bare": {}
+        },
+        "to make known, make manifest, disclose what before was unknown": {}
+    },
+    "origin": "from g0575 and g2572",
+    "related": [
+        "g0575",
+        "g2572"
+    ]
+}

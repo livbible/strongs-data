@@ -1,0 +1,18 @@
+{
+    "originalWords": "דמה",
+    "description": "to be dumb or silent; hence, to fail or perish; trans. to destroy",
+    "definition": {
+        "to cease, cause to cease, cut off, destroy, perish": {
+            "(qal)": {
+                "to cease": {},
+                "to cause to cease, destroy": {}
+            },
+            "(niphal)": {
+                "to be cut off": {},
+                "to be undone, be cut off at sight of the theophany": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

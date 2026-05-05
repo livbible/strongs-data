@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "βραδύτης",
+            "transliteration": "bradýtēs"
+        }
+    ],
+    "description": "tardiness",
+    "definition": {
+        "slowness, delay": {}
+    },
+    "origin": "from g1021",
+    "related": [
+        "g1021"
+    ]
+}

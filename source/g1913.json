@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐπιβιβάζω",
+            "transliteration": "epibibázō"
+        }
+    ],
+    "description": "to cause to mount (an animal)",
+    "definition": {
+        "to cause to mount": {},
+        "to place upon": {}
+    },
+    "origin": "from g1909 and a reduplicated derivative of the base of g0939 (compare g0307)",
+    "related": [
+        "g0307",
+        "g0939",
+        "g1909"
+    ]
+}

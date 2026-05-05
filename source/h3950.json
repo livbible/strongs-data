@@ -1,0 +1,21 @@
+{
+    "originalWords": "לקט",
+    "description": "properly, to pick up, i.e., (generally) to gather; specifically, to glean",
+    "definition": {
+        "to pick up, gather, glean, gather up": {
+            "(qal)": {
+                "to pick up, gather": {},
+                "to glean": {}
+            },
+            "(piel)": {
+                "to gather, gather up": {},
+                "to collect (money)": {},
+                "to glean": {}
+            },
+            "(pual) to be picked up": {},
+            "(hithpael) to collect oneself": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

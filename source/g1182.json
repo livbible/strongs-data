@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "δέκατος",
+            "transliteration": "dékatos"
+        }
+    ],
+    "description": "tenth",
+    "definition": {
+        "the tenth": {}
+    },
+    "origin": "ordinal from g1176",
+    "related": [
+        "g1176"
+    ]
+}

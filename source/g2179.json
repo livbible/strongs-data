@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Ἐφεσῖνος",
+            "transliteration": "Ephesînos"
+        }
+    ],
+    "description": "ephesine, or situated at ephesus",
+    "definition": {
+        "a native or inhabitant of ephesus": {}
+    },
+    "origin": "from g2181",
+    "related": [
+        "g2181"
+    ]
+}

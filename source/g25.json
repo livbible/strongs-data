@@ -1,0 +1,23 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀγαπάω",
+            "transliteration": "agapáō"
+        }
+    ],
+    "description": "to love (in a social or moral sense)",
+    "definition": {
+        "of persons": {
+            "to welcome, to entertain, to be fond of, to love dearly": {}
+        },
+        "of things": {
+            "to be well pleased, to be contented at or with a thing": {}
+        }
+    },
+    "origin": "perhaps from ???? (much) (or compare h5689)",
+    "related": [
+        "h5689",
+        "g5368"
+    ],
+    "notes": "compare g5368."
+}

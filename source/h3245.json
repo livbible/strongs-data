@@ -1,0 +1,21 @@
+{
+    "originalWords": "יסד",
+    "description": "to set (literally or figuratively); intensively, to found; reflexively, to sit down together, i.e., settle, consult",
+    "definition": {
+        "to found, fix, establish, lay foundation": {
+            "(qal) to found, establish, begin": {},
+            "(niphal)": {
+                "to fix or seat themselves close together, sit in conclave": {},
+                "to be founded": {}
+            },
+            "(piel)": {
+                "to found": {},
+                "to establish, appoint, ordain": {}
+            },
+            "(pual) to be founded, be laid": {},
+            "(hophal) to be founded": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

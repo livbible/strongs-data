@@ -1,0 +1,23 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἄγριος",
+            "transliteration": "ágrios"
+        }
+    ],
+    "description": "wild (as pertaining to the country), literally (natural) or figuratively (fierce)",
+    "definition": {
+        "living or growing in the fields or woods": {
+            "of animals, wild, savage": {},
+            "of countries, wild, uncultivated, unreclaimed": {}
+        },
+        "of men and animals in a moral sense, wild savage, fierce": {
+            "boorish, rude": {},
+            "of any violent passion, vehement, furious": {}
+        }
+    },
+    "origin": "from g0068",
+    "related": [
+        "g0068"
+    ]
+}

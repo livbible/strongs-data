@@ -1,0 +1,28 @@
+{
+    "originalWords": [
+        {
+            "unicode": "φαίνω",
+            "transliteration": "phaínō"
+        }
+    ],
+    "description": "to lighten (shine), i.e., show (transitive or intransitive, literal or figurative)",
+    "definition": {
+        "to bring forth into the light, cause to shine, shed light": {},
+        "shine": {
+            "to shine, be bright or resplendent": {},
+            "to become evident, to be brought forth into the light, come to view, appear": {
+                "of growing vegetation, to come to light": {},
+                "to appear, be seen": {},
+                "exposed to view": {}
+            },
+            "to meet the eyes, strike the sight, become clear or manifest": {
+                "to be seen, appear": {}
+            },
+            "to appear to the mind, seem to one's judgment or opinion": {}
+        }
+    },
+    "origin": "prolongation for the base of g5457",
+    "related": [
+        "g5457"
+    ]
+}

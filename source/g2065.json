@@ -1,0 +1,22 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐρωτάω",
+            "transliteration": "erōtáō"
+        }
+    ],
+    "description": "to interrogate; by implication, to request",
+    "definition": {
+        "to question": {},
+        "to ask": {
+            "to request, entreat, beg, beseech": {}
+        }
+    },
+    "origin": "apparently from g2046 (compare g2045)",
+    "related": [
+        "g2045",
+        "g2046",
+        "g4441"
+    ],
+    "notes": "compare g4441."
+}

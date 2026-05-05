@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀνεκδιήγητος",
+            "transliteration": "anekdiḗgētos"
+        }
+    ],
+    "description": "not expounded in full, i.e., indescribable",
+    "definition": {
+        "the unspeakable, indescribable": {}
+    },
+    "origin": "from g0001 (as a negative particle) and a presumed derivative of g1555",
+    "related": [
+        "g0001",
+        "g1555"
+    ]
+}

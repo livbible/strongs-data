@@ -1,0 +1,25 @@
+{
+    "originalWords": [
+        {
+            "unicode": "λειτουργέω",
+            "transliteration": "leitourgéō"
+        }
+    ],
+    "description": "to be a public servant, i.e., (by analogy) to perform religious or charitable functions (worship, obey, relieve)",
+    "definition": {
+        "to serve the state at one's own cost": {
+            "to assume an office which must be administered at one's own expense": {},
+            "to discharge a public office at one's own cost": {},
+            "to render public service to the state": {}
+        },
+        "to do a service, perform a work": {
+            "of priests and levites who were busied with the sacred rites in the tabernacle or the temple": {},
+            "of christians serving christ, whether by prayer, or by instructing others concerning the way of salvation, or in some other way": {},
+            "of those who aid others with their resources, and relieve their poverty": {}
+        }
+    },
+    "origin": "from g3011",
+    "related": [
+        "g3011"
+    ]
+}

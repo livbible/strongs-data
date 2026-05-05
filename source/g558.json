@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀπελεύθερος",
+            "transliteration": "apeleútheros"
+        }
+    ],
+    "description": "one freed away, i.e., a freedman",
+    "definition": {
+        "a slave that has been released from servitude, a freeman": {}
+    },
+    "origin": "from g0575 and g1658",
+    "related": [
+        "g0575",
+        "g1658"
+    ]
+}

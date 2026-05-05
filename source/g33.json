@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἄγε",
+            "transliteration": "áge"
+        }
+    ],
+    "description": "properly, lead, i.e., come on",
+    "definition": {
+        "go to, come!, come now!": {}
+    },
+    "origin": "imperative of g0071",
+    "related": [
+        "g0071"
+    ]
+}

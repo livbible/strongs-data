@@ -1,0 +1,43 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πνεῦμα",
+            "transliteration": "pneûma"
+        }
+    ],
+    "description": "a current of air, i.e., breath (blast) or a breeze; by analogy or figuratively, a spirit, i.e., (human) the rational soul, (by implication) vital principle, mental disposition, etc., or (superhuman) an angel, demon, or (divine) god, christ's spirit, the holy spirit",
+    "definition": {
+        "a movement of air (a gentle blast": {
+            "of the wind, hence the wind itself": {},
+            "breath of nostrils or mouth": {}
+        },
+        "the spirit, i.e., the vital principal by which the body is animated": {
+            "the rational spirit, the power by which the human being feels, thinks, decides": {},
+            "the soul": {}
+        },
+        "a spirit, i.e., a simple essence, devoid of all or at least all grosser matter, and possessed of the power of knowing, desiring, deciding, and acting": {
+            "a life giving spirit": {},
+            "a human soul that has left the body": {},
+            "a spirit higher than man but lower than god, i.e., an angel": {
+                "used of demons, or evil spirits, who were conceived as inhabiting the bodies of men": {},
+                "the spiritual nature of christ, higher than the highest angels and equal to god, the divine nature of christ": {}
+            }
+        },
+        "of god": {
+            "god's power and agency distinguishable in thought from his essence in itself considered": {
+                "manifest in the course of affairs": {},
+                "by its influence upon the souls productive in the theocratic body (the church) of all the higher spiritual gifts and blessings": {},
+                "the third person of the trinity, the god the holy spirit": {}
+            }
+        },
+        "the disposition or influence which fills and governs the soul of any one": {
+            "the efficient source of any power, affection, emotion, desire, etc.": {}
+        }
+    },
+    "origin": "from g4154",
+    "related": [
+        "g4154",
+        "g5590"
+    ],
+    "notes": "compare g5590."
+}

@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀφρίζω",
+            "transliteration": "aphrízō"
+        }
+    ],
+    "description": "to froth at the mouth (in epilepsy)",
+    "definition": {
+        "to foam": {}
+    },
+    "origin": "from g0876",
+    "related": [
+        "g0876"
+    ]
+}

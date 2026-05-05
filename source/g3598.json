@@ -1,0 +1,23 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὁδός",
+            "transliteration": "hodós"
+        }
+    ],
+    "description": "a road; by implication, a progress (the route, act or distance); figuratively, a mode or means",
+    "definition": {
+        "properly": {
+            "a way": {
+                "a travelled way, road": {}
+            },
+            "a travellers way, journey, travelling": {}
+        },
+        "metaphorically": {
+            "a course of conduct": {},
+            "a way (i.e., manner) of thinking, feeling, deciding": {}
+        }
+    },
+    "origin": "apparently a primary word",
+    "related": []
+}

@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀνεκλάλητος",
+            "transliteration": "aneklálētos"
+        }
+    ],
+    "description": "not spoken out, i.e., (by implication) unutterable",
+    "definition": {
+        "unspeakable": {}
+    },
+    "origin": "from g0001 (as a negative particle) and a presumed derivative of g1583",
+    "related": [
+        "g0001",
+        "g1583"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀμέθυστος",
+            "transliteration": "améthystos"
+        }
+    ],
+    "description": "the \"amethyst\" (supposed to prevent intoxication)",
+    "definition": {
+        "amethyst, a precious stone of a violet and purple color": {}
+    },
+    "origin": "from g0001 (as a negative particle) and a derivative of g3184",
+    "related": [
+        "g0001",
+        "g3184"
+    ]
+}

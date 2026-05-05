@@ -1,0 +1,23 @@
+{
+    "originalWords": "קשר",
+    "description": "to tie, physically (gird, confine, compact) or mentally (in love, league)",
+    "definition": {
+        "to bind, tie, bind together, league together, conspire": {
+            "(qal)": {
+                "to bind, confine": {},
+                "to league together, conspire": {}
+            },
+            "(niphal) to be bound, be bound up": {},
+            "(piel)": {
+                "to bind on": {},
+                "to bind fast": {},
+                "to bind, tie": {},
+                "to bind to oneself": {}
+            },
+            "(pual) robust, vigorous (participle)": {},
+            "(hithpael) to conspire": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

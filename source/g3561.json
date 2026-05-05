@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "νουμηνία",
+            "transliteration": "noumēnía"
+        }
+    ],
+    "description": "the festival of new moon",
+    "definition": {
+        "new moon": {
+            "of the jewish festival of the new moon": {}
+        }
+    },
+    "origin": "feminine of a compound of g3501 and g3376 (as noun by implication, of g2250)",
+    "related": [
+        "g2250",
+        "g3376",
+        "g3501"
+    ]
+}

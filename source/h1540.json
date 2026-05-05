@@ -1,0 +1,43 @@
+{
+    "originalWords": "גלה",
+    "description": "to denude (especially in a disgraceful sense); by implication, to exile (captives being usually stripped); figuratively, to reveal",
+    "definition": {
+        "to uncover, remove": {
+            "(qal)": {
+                "to uncover": {},
+                "to remove, depart": {},
+                "to go into exile": {}
+            },
+            "(niphal)": {
+                "(reflexive)": {
+                    "to uncover oneself": {},
+                    "to discover or show oneself": {},
+                    "to reveal himself (of god)": {}
+                },
+                "(passive)": {
+                    "to be uncovered": {},
+                    "to be disclosed, be discovered": {},
+                    "to be revealed": {}
+                },
+                "to be removed": {}
+            },
+            "(piel)": {
+                "to uncover (nakedness)": {
+                    "nakedness": {},
+                    "general": {}
+                },
+                "to disclose, discover, lay bare": {},
+                "to make known, show, reveal": {}
+            },
+            "(pual) to be uncovered": {},
+            "(hiphil) to carry away into exile, take into exile": {},
+            "(hophal) to be taken into exile": {},
+            "(hithpael)": {
+                "to be uncovered": {},
+                "to reveal oneself": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

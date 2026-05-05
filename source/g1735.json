@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐνδέχεται",
+            "transliteration": "endéchetai"
+        }
+    ],
+    "description": "(impersonally) it is accepted in, i.e., admitted (possible)",
+    "definition": {
+        "to receive, admit, approve, allow": {},
+        "it can be allowed, is possible, may be": {}
+    },
+    "origin": "third person singular present of a compound of g1722 and g1209",
+    "related": [
+        "g1209",
+        "g1722"
+    ]
+}

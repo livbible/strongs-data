@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἄῤῥωστος",
+            "transliteration": "árrhōstos"
+        }
+    ],
+    "description": "infirm",
+    "definition": {
+        "without strength, weak, sick": {}
+    },
+    "origin": "from g0001 (as a negative particle) and a presumed derivative of g4517",
+    "related": [
+        "g0001",
+        "g4517"
+    ]
+}

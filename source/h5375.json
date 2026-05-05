@@ -1,0 +1,32 @@
+{
+    "originalWords": "נשא",
+    "description": "to lift, in a great variety of applications, literal and figurative, absolute and relative",
+    "definition": {
+        "to lift, bear up, carry, take": {
+            "(qal)": {
+                "to lift, lift up": {},
+                "to bear, carry, support, sustain, endure": {},
+                "to take, take away, carry off, forgive": {}
+            },
+            "(niphal)": {
+                "to be lifted up, be exalted": {},
+                "to lift oneself up, rise up": {},
+                "to be borne, be carried": {},
+                "to be taken away, be carried off, be swept away": {}
+            },
+            "(piel)": {
+                "to lift up, exalt, support, aid, assist": {},
+                "to desire, long (figuratively)": {},
+                "to carry, bear continuously": {},
+                "to take, take away": {}
+            },
+            "(hithpael) to lift oneself up, exalt oneself": {},
+            "(hiphil)": {
+                "to cause one to bear (iniquity)": {},
+                "to cause to bring, have brought": {}
+            }
+        }
+    },
+    "origin": "or ?????; (psalm 4:6 [7]), a primitive root",
+    "related": []
+}

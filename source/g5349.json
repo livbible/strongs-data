@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "φθαρτός",
+            "transliteration": "phthartós"
+        }
+    ],
+    "description": "decayed, i.e., (by implication) perishable",
+    "definition": {
+        "corruptible, perishing": {}
+    },
+    "origin": "from g5351",
+    "related": [
+        "g5351"
+    ]
+}

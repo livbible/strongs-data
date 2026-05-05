@@ -1,0 +1,23 @@
+{
+    "originalWords": [
+        {
+            "unicode": "φορτίον",
+            "transliteration": "phortíon"
+        }
+    ],
+    "description": "an invoice (as part of freight), i.e., (figuratively) a task or service",
+    "definition": {
+        "a burden, load": {
+            "of the freight or lading of a ship": {}
+        },
+        "metaphorically": {
+            "of burdensome rites": {},
+            "of the obligations christ lays upon his followers, and styles a \"burden\" by way of the contrast to the precepts of the pharisees, the observance of which was most oppressive": {},
+            "faults of the conscience which oppress the soul": {}
+        }
+    },
+    "origin": "diminutive of g5414",
+    "related": [
+        "g5414"
+    ]
+}

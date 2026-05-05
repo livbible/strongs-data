@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "συστέλλω",
+            "transliteration": "systéllō"
+        }
+    ],
+    "description": "to send (draw) together, i.e., enwrap (enshroud a corpse for burial), contract (an interval)",
+    "definition": {
+        "to place together": {
+            "to draw together, contact": {
+                "to diminish": {},
+                "to shorten, abridge": {},
+                "the time has been drawn together into a brief compass, is shortened": {}
+            },
+            "to roll together, wrap up, wrap around with bandages, etc., to enshroud": {}
+        }
+    },
+    "origin": "from g4862 and g4724",
+    "related": [
+        "g4724",
+        "g4862"
+    ]
+}

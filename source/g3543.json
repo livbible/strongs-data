@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "νομίζω",
+            "transliteration": "nomízō"
+        }
+    ],
+    "description": "properly, to do by law (usage), i.e., to accustom (passively, be usual); by extension, to deem or regard",
+    "definition": {
+        "to hold by custom or usage, own as a custom or usage, to follow a custom or usage": {
+            "it is the custom, it is the received usage": {}
+        },
+        "to deem, think, suppose": {}
+    },
+    "origin": "from g3551",
+    "related": [
+        "g3551"
+    ]
+}

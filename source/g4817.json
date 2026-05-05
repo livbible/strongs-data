@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "συλλογίζομαι",
+            "transliteration": "syllogízomai"
+        }
+    ],
+    "description": "to reckon together (with oneself), i.e., deliberate",
+    "definition": {
+        "to bring together accounts, reckon up, compute": {},
+        "to reckon with one's self, to reason": {}
+    },
+    "origin": "from g4862 and g3049",
+    "related": [
+        "g3049",
+        "g4862"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "καταριθμέω",
+            "transliteration": "katarithméō"
+        }
+    ],
+    "description": "to reckon among",
+    "definition": {
+        "to number with": {}
+    },
+    "origin": "from g2596 and g0705",
+    "related": [
+        "g0705",
+        "g2596"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀνάξιος",
+            "transliteration": "anáxios"
+        }
+    ],
+    "description": "unfit",
+    "definition": {
+        "unworthy, unfit for a thing": {}
+    },
+    "origin": "from g0001 (as a negative particle) and g0514",
+    "related": [
+        "g0001",
+        "g0514"
+    ]
+}

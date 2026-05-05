@@ -1,0 +1,23 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ῥέω",
+            "transliteration": "rhéō"
+        },
+        {
+            "unicode": "ἐρέω",
+            "transliteration": "eréō"
+        }
+    ],
+    "description": "to utter, i.e., speak or say",
+    "definition": {
+        "to pour forth, to utter": {}
+    },
+    "origin": "perhaps akin (or identical) with g4482 (through the idea of pouring forth)",
+    "related": [
+        "g2036",
+        "g3004",
+        "g4482"
+    ],
+    "notes": "compare g3004."
+}

@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Εὔτυχος",
+            "transliteration": "Eútychos"
+        }
+    ],
+    "description": "well- fated, i.e., fortunate; eutychus, a young man",
+    "literal": "fortunate",
+    "definition": {
+        "a youth restored to life by paul": {}
+    },
+    "origin": "from g2095 and a derivative of g5177",
+    "related": [
+        "g2095",
+        "g5177"
+    ]
+}

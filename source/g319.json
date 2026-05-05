@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀναγνωρίζομαι",
+            "transliteration": "anagnōrízomai"
+        }
+    ],
+    "description": "to make (oneself) known",
+    "definition": {
+        "to recognize": {}
+    },
+    "origin": "middle voice from g0303 and g1107",
+    "related": [
+        "g0303",
+        "g1107"
+    ]
+}

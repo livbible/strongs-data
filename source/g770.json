@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀσθενέω",
+            "transliteration": "asthenéō"
+        }
+    ],
+    "description": "to be feeble (in any sense)",
+    "definition": {
+        "to be weak, feeble, to be without strength, powerless": {},
+        "to be weak in means, needy, poor": {},
+        "to be feeble, sick": {}
+    },
+    "origin": "from g0772",
+    "related": [
+        "g0772"
+    ]
+}

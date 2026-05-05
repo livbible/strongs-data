@@ -1,0 +1,22 @@
+{
+    "originalWords": "עוד",
+    "description": "to duplicate or repeat; by implication, to protest, testify (as by reiteration); intensively, to encompass, restore (as a sort of reduplication)",
+    "definition": {
+        "to return, repeat, go about, do again": {
+            "(piel) to surround, go round and round": {},
+            "(pilel) to restore, relieve": {},
+            "(hithpalel) to be restored": {}
+        },
+        "to bear witness": {
+            "(qal) to bear witness, say again and again": {},
+            "(hiphil)": {
+                "to testify, bear witness": {},
+                "to cause to testify, take or call as witness, invoke": {},
+                "to protest, affirm solemnly, warn, exhort or enjoin solemnly, admonish, charge": {}
+            },
+            "(hophal) to protest, give warning": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

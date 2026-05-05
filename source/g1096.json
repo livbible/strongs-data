@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "γίνομαι",
+            "transliteration": "gínomai"
+        }
+    ],
+    "description": "to cause to be (\"gen\"-erate), i.e., (reflexively) to become (come into being), used with great latitude (literal, figurative, intensive, etc.)",
+    "definition": {
+        "to become, i.e., to come into existence, begin to be, receive being": {},
+        "to become, i.e., to come to pass, happen": {
+            "of events": {}
+        },
+        "to arise, appear in history, come upon the stage": {
+            "of men appearing in public": {}
+        },
+        "to be made, finished": {
+            "of miracles, to be performed, wrought": {}
+        },
+        "to become, be made": {}
+    },
+    "origin": "a prolongation and middle voice form of a primary verb",
+    "related": []
+}

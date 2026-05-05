@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πεντάκις",
+            "transliteration": "pentákis"
+        }
+    ],
+    "description": "five times",
+    "definition": {
+        "five times": {}
+    },
+    "origin": "multiplicative adverb from g4002",
+    "related": [
+        "g4002"
+    ]
+}

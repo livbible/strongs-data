@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "εἴσοδος",
+            "transliteration": "eísodos"
+        }
+    ],
+    "description": "an entrance (literally or figuratively)",
+    "definition": {
+        "an entrance": {
+            "the place or way leading into a place (as a gate)": {},
+            "the act of entering": {}
+        }
+    },
+    "origin": "from g1519 and g3598",
+    "related": [
+        "g1519",
+        "g3598"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀνάβλεψις",
+            "transliteration": "anáblepsis"
+        }
+    ],
+    "description": "restoration of sight",
+    "definition": {
+        "recovery of sight": {}
+    },
+    "origin": "from g0308",
+    "related": [
+        "g0308"
+    ]
+}

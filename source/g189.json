@@ -1,0 +1,23 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀκοή",
+            "transliteration": "akoḗ"
+        }
+    ],
+    "description": "hearing (the act, the sense or the thing heard)",
+    "definition": {
+        "the sense of hearing": {},
+        "the organ of hearing, the ear": {},
+        "the thing heard": {
+            "instruction, namely oral": {
+                "of preaching the gospel": {}
+            },
+            "hearsay, report or rumour": {}
+        }
+    },
+    "origin": "from g0191",
+    "related": [
+        "g0191"
+    ]
+}

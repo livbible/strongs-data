@@ -1,0 +1,23 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὑποκρίνομαι",
+            "transliteration": "hypokrínomai"
+        }
+    ],
+    "description": "to decide (speak or act) under a false part, i.e., (figuratively) dissemble (pretend)",
+    "definition": {
+        "to take up another's statements in reference to what one has decided for one's self": {
+            "to reply, answer": {}
+        },
+        "to make answer (speak) on the stage": {
+            "to impersonate anyone, play a part": {}
+        },
+        "to simulate, feign, pretend": {}
+    },
+    "origin": "middle voice from g5259 and g2919",
+    "related": [
+        "g2919",
+        "g5259"
+    ]
+}

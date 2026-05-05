@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Ἰουδαϊκός",
+            "transliteration": "Ioudaïkós"
+        }
+    ],
+    "description": "judac, i.e., resembling a judaean",
+    "definition": {
+        "jewish": {}
+    },
+    "origin": "from g2453",
+    "related": [
+        "g2453"
+    ]
+}

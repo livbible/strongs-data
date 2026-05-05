@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὄρος",
+            "transliteration": "óros"
+        }
+    ],
+    "description": "a mountain (as lifting itself above the plain)",
+    "definition": {
+        "a mountain": {}
+    },
+    "origin": "probably from an obsolete ??? (to rise or \"rear\"; perhaps akin to g0142; compare g3733)",
+    "related": [
+        "g0142",
+        "g3733"
+    ]
+}

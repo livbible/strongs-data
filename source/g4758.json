@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "στρατολογέω",
+            "transliteration": "stratologéō"
+        }
+    ],
+    "description": "to gather (or select) as a warrior, i.e., enlist in the army",
+    "definition": {
+        "to gather (collect) an army, to enlist soldiers": {
+            "of the commander": {}
+        }
+    },
+    "origin": "from a compound of the base of g4756 and g3004 (in its original sense)",
+    "related": [
+        "g3004",
+        "g4756"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "συμβούλιον",
+            "transliteration": "symboúlion"
+        }
+    ],
+    "description": "advisement; specially, a deliberative body, i.e., the provincial assessors or lay-court",
+    "definition": {
+        "counsel, which is given, taken, entered upon": {
+            "consult, deliberate": {}
+        },
+        "a council": {
+            "an assembly of counsellors or persons in consultation (the governors and procurators of provinces had a board of assessors or advisers with whom they took council before rendering judgment)": {}
+        }
+    },
+    "origin": "neuter of a presumed derivative of g4825",
+    "related": [
+        "g4825"
+    ]
+}

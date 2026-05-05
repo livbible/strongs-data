@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "δραχμή",
+            "transliteration": "drachmḗ"
+        }
+    ],
+    "description": "a drachma or (silver) coin (as handled)",
+    "definition": {
+        "a drachma, a greek silver coin about the same weight as a roman denarius": {}
+    },
+    "origin": "from g1405",
+    "related": [
+        "g1405"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "εὔκαιρος",
+            "transliteration": "eúkairos"
+        }
+    ],
+    "description": "well-timed, i.e., opportune",
+    "definition": {
+        "seasonable, timely, opportune": {}
+    },
+    "origin": "from g2095 and g2540",
+    "related": [
+        "g2095",
+        "g2540"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἔτι",
+            "transliteration": "éti"
+        }
+    ],
+    "description": "\"yet,\" still (of time or degree)",
+    "definition": {
+        "yet, still": {
+            "of time": {
+                "of a thing which went on formerly, whereas now a different state of things exists or has begun to exist": {},
+                "of a thing which continues at present": {
+                    "even, now": {}
+                },
+                "with negatives": {
+                    "no longer, no more": {}
+                }
+            },
+            "of degree and increase": {
+                "even, yet": {},
+                "besides, more, further": {}
+            }
+        }
+    },
+    "origin": "perhaps akin to g2094",
+    "related": [
+        "g2094"
+    ]
+}

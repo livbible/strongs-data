@@ -1,0 +1,48 @@
+{
+    "originalWords": "שוב",
+    "description": "to turn back (hence, away) transitively or intransitively, literally or figuratively (not necessarily with the idea of return to the starting point); generally to retreat; often adverbial, again",
+    "definition": {
+        "to return, turn back": {
+            "(qal)": {
+                "to turn back, return": {
+                    "to turn back": {},
+                    "to return, come or go back": {},
+                    "to return unto, go back, come back": {},
+                    "of dying": {},
+                    "of human relations (figuratively)": {},
+                    "of spiritual relations (figuratively)": {
+                        "to turn back (from god), apostatise": {},
+                        "to turn away (of god)": {},
+                        "to turn back (to god), repent": {},
+                        "turn back (from evil)": {}
+                    },
+                    "of inanimate things": {},
+                    "in repetition": {}
+                }
+            },
+            "(polel)": {
+                "to bring back": {},
+                "to restore, refresh, repair (figuratively)": {},
+                "to lead away (enticingly)": {},
+                "to show turning, apostatise": {}
+            },
+            "(pual) restored (participle)": {},
+            "(hiphil) to cause to return, bring back": {
+                "to bring back, allow to return, put back, draw back, give back, restore, relinquish, give in payment": {},
+                "to bring back, refresh, restore": {},
+                "to bring back, report to, answer": {},
+                "to bring back, make requital, pay (as recompense)": {},
+                "to turn back or backward, repel, defeat, repulse, hinder, reject, refuse": {},
+                "to turn away (face), turn toward": {},
+                "to turn against": {},
+                "to bring back to mind": {},
+                "to show a turning away": {},
+                "to reverse, revoke": {}
+            },
+            "(hophal) to be returned, be restored, be brought back": {},
+            "(pulal) brought back": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

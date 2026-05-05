@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐνδόμησις",
+            "transliteration": "endómēsis"
+        }
+    ],
+    "description": "a housing in (residence), i.e., structure",
+    "definition": {
+        "that which is build in": {
+            "the material built into a wall, i.e., of which the wall is composed": {},
+            "a mole built into the sea to form a breakwater, and so construct a harbor": {}
+        }
+    },
+    "origin": "from a compound of g1722 and a derivative of the base of g1218",
+    "related": [
+        "g1218",
+        "g1722"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πρόσωπον",
+            "transliteration": "prósōpon"
+        }
+    ],
+    "description": "the front (as being towards view), i.e., the countenance, aspect, appearance, surface; by implication, presence, person",
+    "definition": {
+        "the face": {
+            "the front of the human head": {},
+            "countenance, look": {
+                "the face so far forth as it is the organ of sight, and by it various movements and changes) the index of the inward thoughts and feelings": {}
+            },
+            "the appearance one presents by his wealth or property, his rank or low condition": {
+                "outward circumstances, external condition": {},
+                "used in expressions which denote to regard the person in one's judgment and treatment of men": {}
+            }
+        },
+        "the outward appearance of inanimate things": {}
+    },
+    "origin": "from g4314 and ?? (the visage, from g3700)",
+    "related": [
+        "g3700",
+        "g4314"
+    ]
+}

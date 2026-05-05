@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "βιβλίον",
+            "transliteration": "biblíon"
+        }
+    ],
+    "description": "a roll",
+    "definition": {
+        "a small book, a scroll, a written document": {},
+        "a sheet on which something has been written": {
+            "a bill of divorcement": {}
+        }
+    },
+    "origin": "a diminutive of g0976",
+    "related": [
+        "g0976"
+    ]
+}

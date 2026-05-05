@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "παραλογίζομαι",
+            "transliteration": "paralogízomai"
+        }
+    ],
+    "description": "to misreckon, i.e., delude",
+    "definition": {
+        "to reckon wrong, miscount": {},
+        "to cheat by false reckoning": {
+            "to deceive by false reasoning": {}
+        },
+        "to deceive, delude, circumvent": {}
+    },
+    "origin": "from g3844 and g3049",
+    "related": [
+        "g3049",
+        "g3844"
+    ]
+}

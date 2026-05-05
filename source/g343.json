@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀνακαλύπτω",
+            "transliteration": "anakalýptō"
+        }
+    ],
+    "description": "to unveil",
+    "definition": {
+        "to unveil or uncover (by drawing back a veil)": {}
+    },
+    "origin": "from g0303 (in the sense of reversal) and g2572",
+    "related": [
+        "g0303",
+        "g2572"
+    ]
+}

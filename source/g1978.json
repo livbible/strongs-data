@@ -1,0 +1,25 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐπίσημος",
+            "transliteration": "epísēmos"
+        }
+    ],
+    "description": "remarkable, i.e., (figuratively) eminent",
+    "definition": {
+        "having a mark on it, marked, stamped, coined": {},
+        "marked": {
+            "in a good sense": {
+                "of note, illustrious": {}
+            },
+            "in a bad sense": {
+                "notorious, infamous": {}
+            }
+        }
+    },
+    "origin": "from g1909 and some form of the base of g4591",
+    "related": [
+        "g1909",
+        "g4591"
+    ]
+}

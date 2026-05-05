@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐρέω",
+            "transliteration": "eréō"
+        }
+    ],
+    "description": "an alternate for g2036 in certain tenses; to utter, i.e., speak or say",
+    "definition": {
+        "to utter, speak, say": {}
+    },
+    "origin": "probably a fuller form of g4483",
+    "related": [
+        "g2036",
+        "g4483"
+    ]
+}

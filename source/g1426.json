@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "δυσφημία",
+            "transliteration": "dysphēmía"
+        }
+    ],
+    "description": "defamation",
+    "definition": {
+        "the condition of one who is defamed": {
+            "ill-repute, and the action of one who uses disgraceful language": {}
+        }
+    },
+    "origin": "from a compound of g1418 and g5345",
+    "related": [
+        "g1418",
+        "g5345"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "originalWords": "מעט",
+    "description": "properly, to pare off, i.e., lessen; intransitively, to be (or causatively, to make) small or few (or figuratively, ineffective)",
+    "definition": {
+        "to be or become small, be few, be diminished": {
+            "(qal)": {
+                "to diminish": {},
+                "to be too small": {}
+            },
+            "(piel) to become few": {},
+            "(hiphil)": {
+                "to make small, make few, diminish": {},
+                "to give less": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

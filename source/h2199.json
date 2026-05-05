@@ -1,0 +1,21 @@
+{
+    "originalWords": "זעק",
+    "description": "to shriek (from anguish or danger); by analogy, (as a herald) to announce or convene publicly",
+    "definition": {
+        "to cry, cry out, call, call for help": {
+            "(qal)": {
+                "to call (to one's aid)": {},
+                "to cry, cry out (in need)": {}
+            },
+            "(niphal) to be assembled, be called together, be joined together": {},
+            "(hiphil)": {
+                "to call, call out, call together, summon": {},
+                "to make a crying, proclaim": {},
+                "to have a proclamation made": {},
+                "to call out to, call out at": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀνθρωποκτόνος",
+            "transliteration": "anthrōpoktónos"
+        }
+    ],
+    "description": "a manslayer",
+    "definition": {
+        "a manslayer, murderer": {}
+    },
+    "origin": "from g0444 and ??????(to kill)",
+    "related": [
+        "g0444",
+        "g5406"
+    ],
+    "notes": "compare g5406."
+}

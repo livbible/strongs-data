@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "τετράγωνος",
+            "transliteration": "tetrágōnos"
+        }
+    ],
+    "description": "four-cornered, i.e., square",
+    "definition": {
+        "quadrangular, square": {}
+    },
+    "origin": "from g5064 and g1137",
+    "related": [
+        "g1137",
+        "g5064"
+    ]
+}

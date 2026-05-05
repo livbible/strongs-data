@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "παρίημι",
+            "transliteration": "paríēmi"
+        }
+    ],
+    "description": "to let by, i.e., relax",
+    "definition": {
+        "to let pass": {
+            "to pass by, neglect": {},
+            "to disregard, omit": {}
+        },
+        "to relax, loose, let go": {},
+        "relaxed, unstrung, weakened, exhausted": {}
+    },
+    "origin": "from g3844 and hiemi (to send)",
+    "related": [
+        "g3844"
+    ]
+}

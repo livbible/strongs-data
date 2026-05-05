@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἤ",
+            "transliteration": "ḗ"
+        }
+    ],
+    "description": "disjunctive, or; comparative, than",
+    "definition": {
+        "either, or, than": {}
+    },
+    "origin": "a primary particle of distinction between two connected terms",
+    "related": [
+        "g2235",
+        "g2260",
+        "g2273"
+    ],
+    "notes": "often used in connection with other particles. compare especially g2235, g2260, g2273."
+}

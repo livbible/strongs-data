@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐσθίω",
+            "transliteration": "esthíō"
+        }
+    ],
+    "description": "used only in certain tenses, the rest being supplied by g5315; to eat (usually literal)",
+    "definition": {
+        "to eat": {},
+        "to eat (consume) a thing": {
+            "to take food, eat a meal": {}
+        },
+        "metaphorically to devour, consume": {}
+    },
+    "origin": "strengthened for a primary ??? (to eat)",
+    "related": [
+        "g5315"
+    ]
+}

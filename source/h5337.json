@@ -1,0 +1,26 @@
+{
+    "originalWords": "נצל",
+    "description": "to snatch away, whether in a good or a bad sense",
+    "definition": {
+        "to snatch away, deliver, rescue, save, strip, plunder": {
+            "(niphal)": {
+                "to tear oneself away, deliver oneself": {},
+                "to be torn out or away, be delivered": {}
+            },
+            "(piel)": {
+                "to strip off, spoil": {},
+                "to deliver": {}
+            },
+            "(hiphil)": {
+                "to take away, snatch away": {},
+                "to rescue, recover": {},
+                "to deliver (from enemies or troubles or death)": {},
+                "to deliver from sin and guilt": {}
+            },
+            "(hophal) to be plucked out": {},
+            "(hithpael) to strip oneself": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

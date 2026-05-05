@@ -1,0 +1,19 @@
+{
+    "originalWords": "כחש",
+    "description": "to be untrue, in word (to lie, feign, disown) or deed (to disappoint, fail, cringe)",
+    "definition": {
+        "to deceive, lie, fail, grow lean, be disappointing, be untrue, be insufficient, be found liars, belie, deny, dissemble, deal falsely": {
+            "(qal) to become lean": {},
+            "(niphal) to cringe, feign obedience": {},
+            "(piel)": {
+                "to deceive, deny falsely": {},
+                "to act deceptively": {},
+                "to cringe": {},
+                "to disappoint, fail": {}
+            },
+            "(hithpael) to cringe, feign obedience": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

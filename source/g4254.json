@@ -1,0 +1,26 @@
+{
+    "originalWords": [
+        {
+            "unicode": "προάγω",
+            "transliteration": "proágō"
+        }
+    ],
+    "description": "to lead forward (magisterially); intransitively, to precede (in place or time (participle, previous))",
+    "definition": {
+        "to lead forward, lead forth": {
+            "one from a place in which he has lain hidden from view, as from a prison": {},
+            "in a forensic sense, to bring one forth to trial": {}
+        },
+        "to go before": {
+            "preceding, prior in time, previous": {},
+            "to proceed, go forward": {
+                "in a bad sense, to go further than is right or proper": {}
+            }
+        }
+    },
+    "origin": "from g4253 and g0071",
+    "related": [
+        "g0071",
+        "g4253"
+    ]
+}

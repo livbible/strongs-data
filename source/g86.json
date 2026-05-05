@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ᾅδης",
+            "transliteration": "háidēs"
+        }
+    ],
+    "description": "properly, unseen, i.e., \"hades\" or the place (state) of departed souls",
+    "definition": {
+        "name hades or pluto, the god of the lower regions": {},
+        "orcus, the nether world, the realm of the dead": {},
+        "the grave, death, hell": {}
+    },
+    "origin": "from g0001 (as negative particle) and g1492",
+    "related": [
+        "g0001",
+        "g1492"
+    ]
+}

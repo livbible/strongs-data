@@ -1,0 +1,27 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὑστερέω",
+            "transliteration": "hysteréō"
+        }
+    ],
+    "description": "to be later, i.e., (by implication) to be inferior; generally, to fall short (be deficient)",
+    "definition": {
+        "behind": {
+            "to come late or too tardily": {
+                "to be left behind in the race and so fail to reach the goal, to fall short of the end": {},
+                "metaphorically fail to become a partaker, fall back from": {}
+            },
+            "to be inferior in power, influence and rank": {
+                "of the person: to be inferior to": {}
+            },
+            "to fail, be wanting": {},
+            "to be in want of, lack": {}
+        },
+        "to suffer want, to be devoid of, to lack (be inferior) in excellence, worth": {}
+    },
+    "origin": "from g5306",
+    "related": [
+        "g5306"
+    ]
+}

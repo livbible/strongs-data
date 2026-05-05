@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πεντακισχίλιοι",
+            "transliteration": "pentakischílioi"
+        }
+    ],
+    "description": "five times a thousand",
+    "definition": {
+        "five thousand": {}
+    },
+    "origin": "from g3999 and g5507",
+    "related": [
+        "g3999",
+        "g5507"
+    ]
+}

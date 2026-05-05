@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "σύνειμι",
+            "transliteration": "sýneimi"
+        }
+    ],
+    "description": "to be in company with, i.e., present at the time",
+    "definition": {
+        "to be with": {}
+    },
+    "origin": "from g4862 and g1510 (including its various inflections)",
+    "related": [
+        "g1510",
+        "g4862"
+    ]
+}

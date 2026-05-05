@@ -1,0 +1,22 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀποστολή",
+            "transliteration": "apostolḗ"
+        }
+    ],
+    "description": "commission, i.e., (specially) apostolate",
+    "definition": {
+        "a sending away": {
+            "of the sending off of a fleet": {},
+            "of consuls with an army, i.e., of an expedition": {}
+        },
+        "a sending away, i.e., a dismissal, release": {},
+        "a thing sent, especially of gifts": {},
+        "in the new testament, the office and dignity of the apostles of christ, apostleship": {}
+    },
+    "origin": "from g0649",
+    "related": [
+        "g0649"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "μαντεύομαι",
+            "transliteration": "manteúomai"
+        }
+    ],
+    "description": "to divine, i.e., utter spells (under pretense of foretelling",
+    "definition": {
+        "to act as a seer": {
+            "deliver an oracle, prophesy, divine": {}
+        }
+    },
+    "origin": "from a derivative of g3105 (meaning a prophet, as supposed to rave through inspiration)",
+    "related": [
+        "g3105"
+    ]
+}

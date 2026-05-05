@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "διάλεκτος",
+            "transliteration": "diálektos"
+        }
+    ],
+    "description": "a (mode of) discourse, i.e., \"dialect\"",
+    "definition": {
+        "conversation, speech, discourse, language": {},
+        "the tongue or language peculiar to any people": {}
+    },
+    "origin": "from g1256",
+    "related": [
+        "g1256"
+    ]
+}

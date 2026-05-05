@@ -1,0 +1,29 @@
+{
+    "originalWords": [
+        {
+            "unicode": "λογίζομαι",
+            "transliteration": "logízomai"
+        }
+    ],
+    "description": "to take an inventory, i.e., estimate (literally or figuratively)",
+    "definition": {
+        "to reckon, count, compute, calculate, count over": {
+            "to take into account, to make an account of": {
+                "metaphorically to pass to one's account, to impute": {},
+                "a thing is reckoned as or to be something, i.e., as availing for or equivalent to something, as having the like force and weight": {}
+            },
+            "to number among, reckon with": {},
+            "to reckon or account": {}
+        },
+        "to reckon inward, count up or weigh the reasons, to deliberate": {},
+        "by reckoning up all the reasons, to gather or infer": {
+            "to consider, take into account, weigh, meditate on": {},
+            "to suppose, deem, judge": {},
+            "to determine, purpose, decide": {}
+        }
+    },
+    "origin": "middle voice from g3056",
+    "related": [
+        "g3056"
+    ]
+}

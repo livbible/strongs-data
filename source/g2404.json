@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Ἱεράπολις",
+            "transliteration": "Hierápolis"
+        }
+    ],
+    "description": "holy city; hierapolis, a place in asia minor",
+    "literal": "holy city",
+    "definition": {
+        "a city of phrygia, situated above the junction of the rivers lycus and maeander, near colosse and laodicea": {}
+    },
+    "origin": "from g2413 and g4172",
+    "related": [
+        "g2413",
+        "g4172"
+    ]
+}

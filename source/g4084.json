@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πιάζω",
+            "transliteration": "piázō"
+        }
+    ],
+    "description": "to squeeze, i.e., seize (gently by the hand (press), or officially (arrest), or in hunting (capture))",
+    "definition": {
+        "to lay hold of": {},
+        "to take, capture": {
+            "of fishes": {}
+        },
+        "to apprehend": {
+            "of a man, in order to imprison him": {}
+        }
+    },
+    "origin": "probably another form of g0971",
+    "related": [
+        "g0971",
+        "g4085"
+    ],
+    "notes": "compare g4085."
+}

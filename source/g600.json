@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀποκαθίστημι",
+            "transliteration": "apokathístēmi"
+        }
+    ],
+    "description": "to reconstitute (in health, home or organization)",
+    "definition": {
+        "to restore to its former state": {},
+        "to be in its former state": {}
+    },
+    "origin": "from g0575 and g2525",
+    "related": [
+        "g0575",
+        "g2525"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐπακούω",
+            "transliteration": "epakoúō"
+        }
+    ],
+    "description": "to hearken (favorably) to",
+    "definition": {
+        "to give ear to, listen to": {
+            "to perceive by the ear": {}
+        },
+        "to listen to": {
+            "to hear with favor, grant one's request": {}
+        }
+    },
+    "origin": "from g1909 and g0191",
+    "related": [
+        "g0191",
+        "g1909"
+    ]
+}

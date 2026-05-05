@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἁλιεύς",
+            "transliteration": "halieús"
+        }
+    ],
+    "description": "a sailor (as engaged on the salt water), i.e., (by implication) a fisher",
+    "definition": {
+        "a fisherman, fisher": {}
+    },
+    "origin": "from g0251",
+    "related": [
+        "g0251"
+    ]
+}

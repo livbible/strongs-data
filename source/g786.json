@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἄσπονδος",
+            "transliteration": "áspondos"
+        }
+    ],
+    "description": "literally, without libation (which usually accompanied a treaty), i.e., (by implication) truceless",
+    "definition": {
+        "without a treaty or covenant": {
+            "of things not mutually agreed upon e.g., abstinences from hostilities": {}
+        },
+        "that cannot be persuaded to enter into a covenant, implacable": {}
+    },
+    "origin": "from g0001 (as a negative particle) and a derivative of g4689",
+    "related": [
+        "g0001",
+        "g4689"
+    ]
+}

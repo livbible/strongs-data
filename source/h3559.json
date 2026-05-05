@@ -1,0 +1,38 @@
+{
+    "originalWords": "כון",
+    "description": "properly, to be erect (i.e., stand perpendicular); hence (causatively) to set up, in a great variety of applications, whether literal (establish, fix, prepare, apply), or figurative (appoint, render sure, proper or prosperous)",
+    "definition": {
+        "to be firm, be stable, be established": {
+            "(niphal)": {
+                "to be set up, be established, be fixed": {
+                    "to be firmly established": {},
+                    "to be established, be stable, be secure, be enduring": {},
+                    "to be fixed, be securely determined": {}
+                },
+                "to be directed aright, be fixed aright, be steadfast (moral sense)": {},
+                "to prepare, be ready": {},
+                "to be prepared, be arranged, be settled": {}
+            },
+            "(hiphil)": {
+                "to establish, set up, accomplish, do, make firm": {},
+                "to fix, make ready, prepare, provide, provide for, furnish": {},
+                "to direct toward (moral sense)": {},
+                "to arrange, order": {}
+            },
+            "(hophal)": {
+                "to be established, be fastened": {},
+                "to be prepared, be ready": {}
+            },
+            "(polel)": {
+                "to set up, establish": {},
+                "to constitute, make": {},
+                "to fix": {},
+                "to direct": {}
+            },
+            "(pulal) to be established, be prepared": {},
+            "(hithpolel) to be established, be restored": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

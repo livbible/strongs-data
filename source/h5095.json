@@ -1,0 +1,21 @@
+{
+    "originalWords": "נהל",
+    "description": "properly, to run with a sparkle, i.e., flow; hence (transitively), to conduct, and (by inference) to protect, sustain",
+    "definition": {
+        "to lead, give rest, lead with care, guide to a watering place or station, cause to rest, bring to a station or place of rest, guide, refresh": {
+            "(piel)": {
+                "to lead to a watering-place or station and cause to rest there": {},
+                "to lead or bring to a station or goal": {},
+                "to lead, guide": {},
+                "to give rest to": {},
+                "to refresh (with food)": {}
+            },
+            "(hithpael)": {
+                "to lead on": {},
+                "to journey by stations or stages": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

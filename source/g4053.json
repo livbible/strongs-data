@@ -1,0 +1,25 @@
+{
+    "originalWords": [
+        {
+            "unicode": "περισσός",
+            "transliteration": "perissós"
+        }
+    ],
+    "description": "superabundant (in quantity) or superior (in quality); by implication, excessive; adverbially (with g1537) violently; neuter (as noun) preeminence",
+    "definition": {
+        "exceeding some number or measure or rank or need": {
+            "over and above, more than is necessary, superadded": {
+                "exceeding abundantly, supremely": {},
+                "something further, more, much more than all, more plainly": {}
+            },
+            "superior, extraordinary, surpassing, uncommon": {
+                "pre-eminence, superiority, advantage, more eminent, more remarkable, more excellent": {}
+            }
+        }
+    },
+    "origin": "from g4012 (in the sense of beyond)",
+    "related": [
+        "g1537",
+        "g4012"
+    ]
+}

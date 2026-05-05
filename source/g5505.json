@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "χιλιάς",
+            "transliteration": "chiliás"
+        }
+    ],
+    "description": "one thousand (\"chiliad\")",
+    "definition": {
+        "a thousand, the number one thousand": {}
+    },
+    "origin": "from g5507",
+    "related": [
+        "g5507"
+    ]
+}

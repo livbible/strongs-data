@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "λούω",
+            "transliteration": "loúō"
+        }
+    ],
+    "description": "to bathe (the whole person; whereas g3538 means to wet a part only, and g4150 to wash, cleanse garments exclusively)",
+    "definition": {
+        "to bathe, wash": {
+            "of a dead person": {},
+            "washing to cleanse blood out of wounds": {}
+        }
+    },
+    "origin": "a primary verb",
+    "related": [
+        "g3538",
+        "g4150"
+    ]
+}

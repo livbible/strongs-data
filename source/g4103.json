@@ -1,0 +1,27 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πιστός",
+            "transliteration": "pistós"
+        }
+    ],
+    "description": "objectively, trustworthy; subjectively, trustful",
+    "definition": {
+        "trusty, faithful": {
+            "of persons who show themselves faithful in the transaction of business, the execution of commands, or the discharge of official duties": {},
+            "one who kept his plighted faith, worthy of trust": {},
+            "that can be relied on": {}
+        },
+        "easily persuaded": {
+            "believing, confiding, trusting": {},
+            "in the new testament one who trusts in god's promises": {
+                "one who is convinced that jesus has been raised from the dead": {},
+                "one who has become convinced that jesus is the messiah and author of salvation": {}
+            }
+        }
+    },
+    "origin": "from g3982",
+    "related": [
+        "g3982"
+    ]
+}

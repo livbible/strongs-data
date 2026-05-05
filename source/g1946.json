@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Ἐπικούρειος",
+            "transliteration": "Epikoúreios"
+        }
+    ],
+    "description": "an epicurean or follower of epicurus",
+    "literal": "a helper, defender",
+    "definition": {
+        "belonging to the sect of epicurius, the philosopher": {}
+    },
+    "origin": "from ????????? (compare g1947) (a noted philosopher)",
+    "related": [
+        "g1947"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "διαγίνομαι",
+            "transliteration": "diagínomai"
+        }
+    ],
+    "description": "to elapse meanwhile",
+    "definition": {
+        "to be through, continue": {},
+        "to be between, intervene, used of time, to have intervened, elapsed, passed meanwhile": {}
+    },
+    "origin": "from g1223 and g1096",
+    "related": [
+        "g1096",
+        "g1223"
+    ]
+}

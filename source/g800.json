@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀσύμφωνος",
+            "transliteration": "asýmphōnos"
+        }
+    ],
+    "description": "inharmonious (figuratively)",
+    "definition": {
+        "not agreeing in sound, dissonant, inharmonious, at variance": {}
+    },
+    "origin": "from g0001 (as a negative particle) and g4859",
+    "related": [
+        "g0001",
+        "g4859"
+    ]
+}

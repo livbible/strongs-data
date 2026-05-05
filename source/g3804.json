@@ -1,0 +1,23 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πάθημα",
+            "transliteration": "páthēma"
+        }
+    ],
+    "description": "something undergone, i.e., hardship or pain; subjectively, an emotion or influence",
+    "definition": {
+        "that which one suffers or has suffered": {
+            "externally, a suffering, misfortune, calamity, evil, affliction": {
+                "of the sufferings of christ": {},
+                "also the afflictions which christians must undergo in behalf of the same cause which christ patiently endured": {}
+            },
+            "of an inward state, an affliction, passion": {}
+        },
+        "an enduring, undergoing, suffering": {}
+    },
+    "origin": "from a presumed derivative of g3806",
+    "related": [
+        "g3806"
+    ]
+}

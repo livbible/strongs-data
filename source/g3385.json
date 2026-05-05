@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "μήτι",
+            "transliteration": "mḗti"
+        }
+    ],
+    "description": "whether at all",
+    "definition": {
+        "whether, at all, perchance": {}
+    },
+    "origin": "from g3361 and the neuter of g5100",
+    "related": [
+        "g3361",
+        "g5100"
+    ]
+}

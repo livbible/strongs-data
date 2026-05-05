@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐπέχω",
+            "transliteration": "epéchō"
+        }
+    ],
+    "description": "to hold upon, i.e., (by implication) to retain; (by extension) to detain; (with implication, of g3563) to pay attention to",
+    "definition": {
+        "to have or hold upon, apply, to observe, attend to": {
+            "to give attention to": {}
+        },
+        "to hold towards, hold forth, present": {},
+        "to check": {
+            "delay, stop, stay": {}
+        }
+    },
+    "origin": "from g1909 and g2192",
+    "related": [
+        "g1909",
+        "g2192",
+        "g3563"
+    ]
+}

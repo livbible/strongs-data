@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "διανόημα",
+            "transliteration": "dianóēma"
+        }
+    ],
+    "description": "something thought through, i.e., a sentiment",
+    "definition": {
+        "a thought": {}
+    },
+    "origin": "from a compound of g1223 and g3539",
+    "related": [
+        "g1223",
+        "g3539"
+    ]
+}

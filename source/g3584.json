@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ξηρός",
+            "transliteration": "xērós"
+        }
+    ],
+    "description": "arid; by implication, shrunken, earth (as opposed to water)",
+    "definition": {
+        "dry": {
+            "of members of the body deprived of their natural juices, shrunk, wasted, withered": {},
+            "of the land in distinction from the water": {}
+        }
+    },
+    "origin": "from the base of g3582 (through the idea of scorching)",
+    "related": [
+        "g3582"
+    ]
+}

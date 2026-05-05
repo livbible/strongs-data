@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "τρισχίλιοι",
+            "transliteration": "trischílioi"
+        }
+    ],
+    "description": "three times a thousand",
+    "definition": {
+        "three thousand": {}
+    },
+    "origin": "from g5151 and g5507",
+    "related": [
+        "g5151",
+        "g5507"
+    ]
+}

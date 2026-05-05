@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀναμάρτητος",
+            "transliteration": "anamártētos"
+        }
+    ],
+    "description": "sinless",
+    "definition": {
+        "sinless": {
+            "of one who has not sinned": {},
+            "of one who cannot sin": {}
+        }
+    },
+    "origin": "from g0001 (as a negative particle) and a presumed derivative of g0264",
+    "related": [
+        "g0001",
+        "g0264"
+    ]
+}

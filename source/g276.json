@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀμετάθετος",
+            "transliteration": "ametáthetos"
+        }
+    ],
+    "description": "unchangeable, or (neuter as abstract) unchangeability",
+    "definition": {
+        "not transposed, not to be transferred, fixed, unalterable": {}
+    },
+    "origin": "from g0001 (as a negative particle) and a derivative of g3346",
+    "related": [
+        "g0001",
+        "g3346"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κλισία",
+            "transliteration": "klisía"
+        }
+    ],
+    "description": "properly, reclination, i.e., (concretely and specially), a party at a meal",
+    "definition": {
+        "a hut erected to pass the night in": {},
+        "a tent": {},
+        "anything to recline on": {
+            "a chair in which to lean back the head": {},
+            "a reclining chair": {}
+        },
+        "a company reclining": {
+            "a row or party of persons reclining at meal": {}
+        }
+    },
+    "origin": "from a derivative of g2827",
+    "related": [
+        "g2827"
+    ]
+}

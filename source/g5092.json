@@ -1,0 +1,23 @@
+{
+    "originalWords": [
+        {
+            "unicode": "τιμή",
+            "transliteration": "timḗ"
+        }
+    ],
+    "description": "a value, i.e., money paid, or (concretely and collectively) valuables; by analogy, esteem (especially of the highest degree), or the dignity itself",
+    "definition": {
+        "a valuing by which the price is fixed": {
+            "of the price itself": {},
+            "of the price paid or received for a person or thing bought or sold": {}
+        },
+        "honor which belongs or is shown to one": {
+            "of the honor which one has by reason of rank and state of office which he holds": {},
+            "deference, reverence": {}
+        }
+    },
+    "origin": "from g5099",
+    "related": [
+        "g5099"
+    ]
+}

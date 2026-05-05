@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Ἑβραῖος",
+            "transliteration": "Hebraîos"
+        }
+    ],
+    "description": "a hebraean (i.e., hebrew) or jew",
+    "definition": {
+        "hebrew": {
+            "any one of the jewish or israelitish nations": {}
+        },
+        "in a narrower sense, those who live in palestine and use the language of the country": {},
+        "all jewish christians, whether they spoke aramaic or greek": {}
+    },
+    "origin": "from g1443",
+    "related": [
+        "g1443"
+    ]
+}

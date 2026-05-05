@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐκδικέω",
+            "transliteration": "ekdikéō"
+        }
+    ],
+    "description": "to vindicate, retaliate, punish",
+    "definition": {
+        "to vindicate one's right, do one justice": {
+            "to protect, defend, one person from another": {}
+        },
+        "to avenge a thing": {
+            "to punish a person for a thing": {}
+        }
+    },
+    "origin": "from g1558",
+    "related": [
+        "g1558"
+    ]
+}

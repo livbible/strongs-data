@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "σήμερον",
+            "transliteration": "sḗmeron"
+        }
+    ],
+    "description": "on the (i.e., this) day (or night current or just passed); generally, now (i.e., at present, hitherto)",
+    "definition": {
+        "this (very) day)": {},
+        "what has happened today": {}
+    },
+    "origin": "neuter (as adverb) of a presumed compound of the article g3588 (t changed to s) and g2250",
+    "related": [
+        "g2250",
+        "g3588"
+    ]
+}

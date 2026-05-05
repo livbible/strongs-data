@@ -1,0 +1,23 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὁράω",
+            "transliteration": "horáō"
+        }
+    ],
+    "description": "by extension, to attend to; by hebraism, to experience; passively, to appear",
+    "definition": {
+        "to see with the eyes": {},
+        "to see with the mind, to perceive, know": {},
+        "to see, i.e., become acquainted with by experience, to experience": {},
+        "to see, to look to": {
+            "to take heed, beware": {},
+            "to care for, pay heed to": {}
+        },
+        "i was seen, showed myself, appeared": {}
+    },
+    "origin": "properly, to stare at (compare g3700), i.e. (by implication) to discern clearly (physically or mentally)",
+    "related": [
+        "g3700"
+    ]
+}

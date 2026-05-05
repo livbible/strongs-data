@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀναβλέπω",
+            "transliteration": "anablépō"
+        }
+    ],
+    "description": "to look up; by implication, to recover sight",
+    "definition": {
+        "to look up": {},
+        "to recover (lost) sight": {}
+    },
+    "origin": "from g0303 and g0991",
+    "related": [
+        "g0303",
+        "g0991"
+    ]
+}

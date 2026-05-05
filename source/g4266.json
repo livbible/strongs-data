@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "προγίνομαι",
+            "transliteration": "progínomai"
+        }
+    ],
+    "description": "to be already, i.e., have previousy transpired",
+    "definition": {
+        "to arise or come before, happen before": {
+            "of sins committed previously": {}
+        }
+    },
+    "origin": "from g4253 and g1096",
+    "related": [
+        "g1096",
+        "g4253"
+    ]
+}

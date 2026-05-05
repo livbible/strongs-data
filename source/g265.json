@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἁμάρτημα",
+            "transliteration": "hamártēma"
+        }
+    ],
+    "description": "a sin (properly concrete)",
+    "definition": {
+        "sin, evil deed": {}
+    },
+    "origin": "from g0264",
+    "related": [
+        "g0264"
+    ]
+}

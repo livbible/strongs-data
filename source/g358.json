@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἄναλος",
+            "transliteration": "ánalos"
+        }
+    ],
+    "description": "saltless, i.e., insipid",
+    "definition": {
+        "without salt, unsalted": {}
+    },
+    "origin": "from g0001 (as a negative particle) and g0251",
+    "related": [
+        "g0001",
+        "g0251"
+    ]
+}

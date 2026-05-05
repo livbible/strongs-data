@@ -1,0 +1,22 @@
+{
+    "originalWords": [
+        {
+            "unicode": "καθώς",
+            "transliteration": "kathṓs"
+        }
+    ],
+    "description": "just (or inasmuch) as, that",
+    "definition": {
+        "according as": {
+            "just as, even as": {},
+            "in proportion as, in the degree that": {}
+        },
+        "since, seeing that, agreeably to the fact that": {},
+        "when, after that": {}
+    },
+    "origin": "from g2596 and g5613",
+    "related": [
+        "g2596",
+        "g5613"
+    ]
+}

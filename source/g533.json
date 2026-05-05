@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀπαρνέομαι",
+            "transliteration": "aparnéomai"
+        }
+    ],
+    "description": "to deny utterly, i.e., disown, abstain",
+    "definition": {
+        "to deny": {
+            "to affirm that one has no acquaintance or connection with someone": {},
+            "to forget one's self, lose sight of one's self and one's own interests": {}
+        }
+    },
+    "origin": "from g0575 and g0720",
+    "related": [
+        "g0575",
+        "g0720"
+    ]
+}

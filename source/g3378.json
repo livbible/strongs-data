@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "μὴ οὐκ",
+            "transliteration": "mḕ ouk"
+        }
+    ],
+    "description": "as interrogative and negative, is it not that?",
+    "definition": {
+        "not, not ever": {}
+    },
+    "origin": "i.e. g3361 and g3756",
+    "related": [
+        "g3361",
+        "g3364",
+        "g3756"
+    ],
+    "notes": "compare g3364."
+}

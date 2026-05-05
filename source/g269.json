@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἄμαχος",
+            "transliteration": "ámachos"
+        }
+    ],
+    "description": "peaceable",
+    "definition": {
+        "not to be withstood, invincible": {},
+        "not contentious": {},
+        "abstaining from fighting": {}
+    },
+    "origin": "from g0001 (as a negative particle) and g3163",
+    "related": [
+        "g0001",
+        "g3163"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀλλόφυλος",
+            "transliteration": "allóphylos"
+        }
+    ],
+    "description": "foreign, i.e., (specially) gentile",
+    "definition": {
+        "foreign": {}
+    },
+    "origin": "from g0243 and g5443",
+    "related": [
+        "g0243",
+        "g5443"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὥστε",
+            "transliteration": "hṓste"
+        }
+    ],
+    "description": "so too, i.e., thus therefore (in various relations of consecution, as follow)",
+    "definition": {
+        "so that, insomuch that": {},
+        "so then, therefore, wherefore": {}
+    },
+    "origin": "from g5613 and g5037",
+    "related": [
+        "g5037",
+        "g5613"
+    ]
+}

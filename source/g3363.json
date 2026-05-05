@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἵνα μή",
+            "transliteration": "hína mḗ"
+        }
+    ],
+    "description": "in order (or so) that not",
+    "definition": {
+        "lest, that ... not": {}
+    },
+    "origin": "i.e. g2443 and g3361",
+    "related": [
+        "g2443",
+        "g3361"
+    ]
+}

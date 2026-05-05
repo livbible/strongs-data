@@ -1,0 +1,26 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐλέγχω",
+            "transliteration": "elénchō"
+        }
+    ],
+    "description": "to confute, admonish",
+    "definition": {
+        "to convict, refute, confute": {
+            "generally with a suggestion of shame of the person convicted": {},
+            "by conviction to bring to the light, to expose": {}
+        },
+        "to find fault with, correct": {
+            "by word": {
+                "to reprehend severely, chide, admonish, reprove": {},
+                "to call to account, show one his fault, demand an explanation": {}
+            },
+            "by deed": {
+                "to chasten, to punish": {}
+            }
+        }
+    },
+    "origin": "of uncertain affinity",
+    "related": []
+}

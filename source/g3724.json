@@ -1,0 +1,22 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὁρίζω",
+            "transliteration": "horízō"
+        }
+    ],
+    "description": "to mark out or bound (\"horizon\"), i.e., (figuratively) to appoint, decree, specify",
+    "definition": {
+        "to define": {
+            "to mark out the boundaries or limits (of any place or thing)": {},
+            "to determine, appoint": {
+                "that which has been determined, according to appointment, decree": {},
+                "to ordain, determine, appoint": {}
+            }
+        }
+    },
+    "origin": "from g3725",
+    "related": [
+        "g3725"
+    ]
+}

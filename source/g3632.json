@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "οἰνοφλυγία",
+            "transliteration": "oinophlygía"
+        }
+    ],
+    "description": "an overflow (or surplus) of wine, i.e., vinolency (drunkenness)",
+    "definition": {
+        "drunkenness": {}
+    },
+    "origin": "from g3631 and a form of the base of g5397",
+    "related": [
+        "g3631",
+        "g5397"
+    ]
+}

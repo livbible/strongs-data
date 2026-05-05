@@ -1,0 +1,22 @@
+{
+    "originalWords": "נגש",
+    "description": "to be or come (causatively, bring) near (for any purpose); euphemistically, to lie with a woman; as an enemy, to attack; religious to worship; causatively, to present; figuratively, to adduce an argument; by reversal, to stand back",
+    "definition": {
+        "to draw near, approach": {
+            "(qal) to draw or come near": {
+                "of humans": {
+                    "of sexual intercourse": {}
+                },
+                "of inanimate subject": {
+                    "to approach one another": {}
+                }
+            },
+            "(niphal) to draw near": {},
+            "(hiphil) to cause to approach, bring near, bring": {},
+            "(hophal) to be brought near": {},
+            "(hithpael) to draw near": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

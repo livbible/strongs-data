@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀκυρόω",
+            "transliteration": "akyróō"
+        }
+    ],
+    "description": "to invalidate",
+    "definition": {
+        "to render void, deprive of force and authority": {}
+    },
+    "origin": "from g0001 (as a negative particle) and g2964",
+    "related": [
+        "g0001",
+        "g2964"
+    ]
+}

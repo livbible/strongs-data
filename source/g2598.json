@@ -1,0 +1,22 @@
+{
+    "originalWords": [
+        {
+            "unicode": "καταβάλλω",
+            "transliteration": "katabállō"
+        }
+    ],
+    "description": "to throw down",
+    "definition": {
+        "to cast down": {
+            "to throw to the ground, prostate": {}
+        },
+        "to put in a lower place": {
+            "to lay (down) a foundation": {}
+        }
+    },
+    "origin": "from g2596 and g0906",
+    "related": [
+        "g0906",
+        "g2596"
+    ]
+}

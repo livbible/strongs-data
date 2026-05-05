@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀγαθοποιέω",
+            "transliteration": "agathopoiéō"
+        }
+    ],
+    "description": "to be a well-doer (as a favor or a duty)",
+    "definition": {
+        "to do good, do something which profits others": {
+            "to be a good help to someone": {},
+            "to do someone a favor": {},
+            "to benefit": {}
+        },
+        "to do well, do right": {}
+    },
+    "origin": "from g0017",
+    "related": [
+        "g0017"
+    ]
+}

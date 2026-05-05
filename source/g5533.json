@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "χρεωφειλέτης",
+            "transliteration": "chreōpheilétēs"
+        }
+    ],
+    "description": "a loan-ower, i.e., indebted person",
+    "definition": {
+        "a debtor": {}
+    },
+    "origin": "from a derivative of g5531 and g3781",
+    "related": [
+        "g3781",
+        "g5531"
+    ]
+}

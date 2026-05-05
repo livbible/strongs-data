@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "μισθαποδότης",
+            "transliteration": "misthapodótēs"
+        }
+    ],
+    "description": "a renumerator",
+    "definition": {
+        "one who pays wages, a rewarder": {}
+    },
+    "origin": "from g3409 and g0591",
+    "related": [
+        "g0591",
+        "g3409"
+    ]
+}

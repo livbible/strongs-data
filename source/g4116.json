@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πλατύς",
+            "transliteration": "platýs"
+        }
+    ],
+    "description": "spread out \"flat\" (\"plot\"), i.e., broad",
+    "definition": {
+        "broad": {}
+    },
+    "origin": "from g4111",
+    "related": [
+        "g4111"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "originalWords": "ישר",
+    "description": "to be straight or even; figuratively, to be (causatively, to make) right, pleasant, prosperous",
+    "definition": {
+        "to be right, be straight, be level, be upright, be just, be lawful, be smooth": {
+            "(qal)": {
+                "to go straight": {},
+                "to be pleasing, be agreeable, be right (figuratively)": {},
+                "to be straightforward, be upright": {}
+            },
+            "(piel)": {
+                "to make right, make smooth, make straight": {},
+                "to lead, direct, lead straight along": {},
+                "to esteem right, approve": {}
+            },
+            "(pual) to be made level, be laid smoothly out": {},
+            "(hiphil) to make straight, look straight": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

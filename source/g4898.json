@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "συνέκδημος",
+            "transliteration": "synékdēmos"
+        }
+    ],
+    "description": "a co-absentee from home, i.e., fellow-traveller",
+    "definition": {
+        "a fellow traveller, companion in travel": {}
+    },
+    "origin": "from g4862 and the base of g1553",
+    "related": [
+        "g1553",
+        "g4862"
+    ]
+}

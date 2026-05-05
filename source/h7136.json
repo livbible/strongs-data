@@ -1,0 +1,23 @@
+{
+    "originalWords": "קרה",
+    "description": "to light upon (chiefly by accident); causatively, to bring about",
+    "definition": {
+        "to encounter, meet, befall, happen, come to meet": {
+            "(qal)": {
+                "to encounter, meet": {},
+                "to befall": {}
+            },
+            "(niphal)": {
+                "to encounter, meet (without pre-arrangement)": {},
+                "to chance to be present": {},
+                "to come to meet": {}
+            },
+            "(hiphil) to cause to meet, appoint": {}
+        },
+        "to build with beams": {
+            "(piel) to lay the beams of, furnish with beams": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

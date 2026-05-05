@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "φυσικός",
+            "transliteration": "physikós"
+        }
+    ],
+    "description": "\"physical\", i.e., (by implication) instinctive",
+    "definition": {
+        "produced by nature, inborn": {},
+        "agreeable to nature": {},
+        "governed by (the instincts of) nature": {}
+    },
+    "origin": "from g5449",
+    "related": [
+        "g5449",
+        "g5591"
+    ],
+    "notes": "compare g5591."
+}

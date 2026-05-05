@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀνεύθετος",
+            "transliteration": "aneúthetos"
+        }
+    ],
+    "description": "not well set, i.e., inconvenient",
+    "definition": {
+        "not convenient, not commodious, not fit": {}
+    },
+    "origin": "from g0001 (as a negative particle) and g2111",
+    "related": [
+        "g0001",
+        "g2111"
+    ]
+}

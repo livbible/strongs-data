@@ -1,0 +1,19 @@
+{
+    "originalWords": "יסף",
+    "description": "to add or augment (often adverbial, to continue to do a thing)",
+    "definition": {
+        "to add, increase, do again": {
+            "(qal) to add, increase, do again": {},
+            "(niphal)": {
+                "to join, join oneself to": {},
+                "to be joined, be added to": {}
+            },
+            "(hiphil)": {
+                "to cause to add, increase": {},
+                "to do more, do again": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

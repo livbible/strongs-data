@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐπαύριον",
+            "transliteration": "epaúrion"
+        }
+    ],
+    "description": "occurring on the succeeding day, i.e., (g2250 being implied) to-morrow",
+    "definition": {
+        "on the morrow, the next day": {}
+    },
+    "origin": "from g1909 and g0839",
+    "related": [
+        "g0839",
+        "g1909",
+        "g2250"
+    ]
+}

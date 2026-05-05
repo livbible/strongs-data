@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀπουσία",
+            "transliteration": "apousía"
+        }
+    ],
+    "description": "a being away",
+    "definition": {
+        "absence": {}
+    },
+    "origin": "from the participle of g0548",
+    "related": [
+        "g0548"
+    ]
+}

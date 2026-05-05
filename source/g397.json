@@ -1,0 +1,22 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀνατρέφω",
+            "transliteration": "anatréphō"
+        }
+    ],
+    "description": "to rear (physically or mentally)",
+    "definition": {
+        "to nurse up, nourish up": {
+            "of young children and animals nourished to promote growth": {}
+        },
+        "to bring up": {
+            "with the predominant idea of forming the mind": {}
+        }
+    },
+    "origin": "from g0303 and g5142",
+    "related": [
+        "g0303",
+        "g5142"
+    ]
+}

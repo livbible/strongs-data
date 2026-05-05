@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀγορά",
+            "transliteration": "agorá"
+        }
+    ],
+    "description": "properly, the town-square (as a place of public resort); by implication, a market or thoroughfare",
+    "definition": {
+        "any assembly, especially of the people": {},
+        "the place of assembly": {
+            "for public debating,": {},
+            "for elections": {},
+            "for trials": {},
+            "for buying and selling": {},
+            "for all kinds of business": {}
+        },
+        "market place, street": {}
+    },
+    "origin": "from ?????? (to gather; probably akin to g1453)",
+    "related": [
+        "g1453"
+    ]
+}

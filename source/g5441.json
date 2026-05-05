@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "φύλαξ",
+            "transliteration": "phýlax"
+        }
+    ],
+    "description": "a watcher or sentry",
+    "definition": {
+        "a guard, keeper": {}
+    },
+    "origin": "from g5442",
+    "related": [
+        "g5442"
+    ]
+}

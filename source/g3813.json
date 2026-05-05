@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "παιδίον",
+            "transliteration": "paidíon"
+        }
+    ],
+    "description": "a childling (of either sex), i.e., (properly), an infant, or (by extension) a half-grown boy or girl; figuratively, an immature christian",
+    "definition": {
+        "a young child, a little boy, a little girl": {
+            "infants": {},
+            "children, little ones": {},
+            "an infant": {
+                "of a (male) child just recently born": {}
+            },
+            "of a more advanced child; of a mature child;": {},
+            "metaphorically children (like children) in intellect": {}
+        }
+    },
+    "origin": "neuter diminutive of g3816",
+    "related": [
+        "g3816"
+    ]
+}

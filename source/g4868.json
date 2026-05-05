@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "συναίρω",
+            "transliteration": "synaírō"
+        }
+    ],
+    "description": "to make up together, i.e., (figuratively) to compute (an account)",
+    "definition": {
+        "to take up together with another or others": {},
+        "to bring together with others": {
+            "to cast up or settle accounts": {},
+            "to make a reckoning with": {}
+        }
+    },
+    "origin": "from g4862 and g0142",
+    "related": [
+        "g0142",
+        "g4862"
+    ]
+}

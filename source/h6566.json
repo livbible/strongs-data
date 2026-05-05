@@ -1,0 +1,18 @@
+{
+    "originalWords": "פרש",
+    "description": "to break apart, disperse, etc",
+    "definition": {
+        "to spread, spread out, stretch, break in pieces": {
+            "(qal)": {
+                "to spread out, display": {},
+                "to spread over": {}
+            },
+            "(niphal) to be scattered, be spread out": {},
+            "(piel)": {
+                "to scatter": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

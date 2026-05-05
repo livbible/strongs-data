@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀσύνετος",
+            "transliteration": "asýnetos"
+        }
+    ],
+    "description": "unintelligent; by implication, wicked",
+    "definition": {
+        "unintelligent, without understanding, stupid": {}
+    },
+    "origin": "from g0001 (as a negative particle) and g4908",
+    "related": [
+        "g0001",
+        "g4908"
+    ]
+}

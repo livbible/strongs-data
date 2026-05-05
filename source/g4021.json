@@ -1,0 +1,22 @@
+{
+    "originalWords": [
+        {
+            "unicode": "περίεργος",
+            "transliteration": "períergos"
+        }
+    ],
+    "description": "working all around, i.e., officious (meddlesome, neuter plural magic)",
+    "definition": {
+        "busy about trifles and neglectful of important matters": {
+            "especially busy about other folks' affairs, a busybody": {},
+            "of things: impertinent and superfluous": {
+                "of magic arts": {}
+            }
+        }
+    },
+    "origin": "from g4012 and g2041",
+    "related": [
+        "g2041",
+        "g4012"
+    ]
+}

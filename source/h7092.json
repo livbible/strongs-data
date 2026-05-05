@@ -1,0 +1,16 @@
+{
+    "originalWords": "קפץ",
+    "description": "to draw together, i.e., close; by implication, to leap (by contracting the limbs); specifically, to die (from gathering up the feet)",
+    "definition": {
+        "to draw together, close, shut, shut up, stop up": {
+            "(qal) to shut": {},
+            "(niphal)": {
+                "to draw oneself together (of death)": {},
+                "to be shut up to death": {}
+            },
+            "(piel) springing, skipping (participle)": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

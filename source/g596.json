@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀποθήκη",
+            "transliteration": "apothḗkē"
+        }
+    ],
+    "description": "a repository, i.e., granary",
+    "definition": {
+        "a place in which anything is laid by or up": {},
+        "a storehouse, granary": {}
+    },
+    "origin": "from g0659",
+    "related": [
+        "g0659"
+    ]
+}

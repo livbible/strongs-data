@@ -1,0 +1,25 @@
+{
+    "originalWords": [
+        {
+            "unicode": "νεκρός",
+            "transliteration": "nekrós"
+        }
+    ],
+    "description": "dead (literally or figuratively; also as noun)",
+    "definition": {
+        "properly": {
+            "one that has breathed his last, lifeless": {},
+            "deceased, departed, one whose soul is in hades": {},
+            "destitute of life, without life, inanimate": {}
+        },
+        "metaphorically": {
+            "spiritually dead": {
+                "destitute of a life that recognizes and is devoted to god, because given up to trespasses and sins": {},
+                "inactive as respects doing right": {}
+            },
+            "destitute of force or power, inactive, inoperative": {}
+        }
+    },
+    "origin": "from an apparently primary ????? (a corpse)",
+    "related": []
+}

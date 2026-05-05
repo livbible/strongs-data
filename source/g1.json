@@ -1,0 +1,23 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Α",
+            "transliteration": "A"
+        },
+        {
+            "unicode": "ἄν",
+            "transliteration": "án"
+        }
+    ],
+    "description": "the first letter of the alphabet; figuratively, only (from its use as a numeral) the first",
+    "definition": {
+        "first letter of greek alphabet": {},
+        "christ is the alpha to indicate that he is the beginning and the end": {}
+    },
+    "origin": "of hebrew origin",
+    "related": [
+        "g0260",
+        "g0427"
+    ],
+    "notes": "often used (usually ??, before a vowel) also in composition (as a contraction from g0427) in the sense of privation; so, in many words, beginning with this letter; occasionally in the sense of union (as a contraction of g0260)."
+}

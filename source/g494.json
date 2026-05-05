@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Ἀντιπατρίς",
+            "transliteration": "Antipatrís"
+        }
+    ],
+    "description": "antipatris, a place in palestine",
+    "literal": "for forefather",
+    "definition": {
+        "a city situated between joppa and caesarea, in a very fertile region, not far from the coast; rebuilt by herod the great and named antipatris in honor of his father antipater": {}
+    },
+    "origin": "from the same as g0493",
+    "related": [
+        "g0493"
+    ]
+}

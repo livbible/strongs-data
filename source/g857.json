@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀφειδία",
+            "transliteration": "apheidía"
+        }
+    ],
+    "description": "unsparingness, i.e., austerity (asceticism)",
+    "definition": {
+        "unsparingly severity": {}
+    },
+    "origin": "from a compound of g0001 (as a negative particle) and g5339",
+    "related": [
+        "g0001",
+        "g5339"
+    ]
+}

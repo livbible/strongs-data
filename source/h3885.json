@@ -1,0 +1,20 @@
+{
+    "originalWords": "לון",
+    "description": "to stop (usually over night); by implication, to stay permanently; hence (in a bad sense) to be obstinate (especially in words, to complain)",
+    "definition": {
+        "to lodge, stop over, pass the night, abide": {
+            "(qal)": {
+                "to lodge, pass the night": {},
+                "to abide, remain (figuratively)": {}
+            },
+            "(hiphil) to cause to rest or lodge": {},
+            "(hithpalpel) to dwell, abide": {}
+        },
+        "to grumble, complain, murmur": {
+            "(niphal) to grumble": {},
+            "(hiphil) to complain, cause to grumble": {}
+        }
+    },
+    "origin": "or ????; a primitive root",
+    "related": []
+}

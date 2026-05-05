@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐπισκοπέω",
+            "transliteration": "episkopéō"
+        }
+    ],
+    "description": "to oversee; by implication, to beware",
+    "definition": {
+        "to look upon, inspect, oversee, look after, care for": {
+            "of the care of the church which rested upon the elders": {},
+            "to look carefully, beware": {}
+        }
+    },
+    "origin": "from g1909 and g4648",
+    "related": [
+        "g1909",
+        "g4648"
+    ]
+}

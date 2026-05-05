@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐξαστράπτω",
+            "transliteration": "exastráptō"
+        }
+    ],
+    "description": "to lighten forth, i.e., (figuratively) to be radiant (of very white garments)",
+    "definition": {
+        "to send forth lightning, to lighten": {},
+        "to flash out like lightning, to shine, be radiant": {
+            "of garments": {}
+        }
+    },
+    "origin": "from g1537 and g0797",
+    "related": [
+        "g0797",
+        "g1537"
+    ]
+}

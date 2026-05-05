@@ -1,0 +1,25 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κλίνω",
+            "transliteration": "klínō"
+        }
+    ],
+    "description": "to slant or slope, i.e., incline or recline (literally or figuratively)",
+    "definition": {
+        "transitively": {
+            "to incline, bow": {},
+            "to cause to fall back": {},
+            "to recline": {
+                "in a place for repose": {}
+            }
+        },
+        "intransitively": {
+            "to incline one's self": {
+                "of the declining of the day": {}
+            }
+        }
+    },
+    "origin": "a primary verb",
+    "related": []
+}

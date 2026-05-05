@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀγνωσία",
+            "transliteration": "agnōsía"
+        }
+    ],
+    "description": "ignorance (properly, the state)",
+    "definition": {
+        "not knowing, ignorance": {}
+    },
+    "origin": "from g0001 (as negative particle) and g1108",
+    "related": [
+        "g0001",
+        "g1108"
+    ]
+}

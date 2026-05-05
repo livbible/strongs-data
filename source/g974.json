@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "βιβλιαρίδιον",
+            "transliteration": "bibliarídion"
+        }
+    ],
+    "description": "a booklet",
+    "definition": {
+        "a little book": {}
+    },
+    "origin": "a diminutive of g0975",
+    "related": [
+        "g0975"
+    ]
+}

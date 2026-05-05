@@ -1,0 +1,27 @@
+{
+    "originalWords": [
+        {
+            "unicode": "οὐ",
+            "transliteration": "ou"
+        },
+        {
+            "unicode": "οὐκ",
+            "transliteration": "ouk"
+        },
+        {
+            "unicode": "οὐχ",
+            "transliteration": "ouch"
+        }
+    ],
+    "description": "the absolute negative (compare g3361) adverb; no or not",
+    "definition": {
+        "no, not": {}
+    },
+    "origin": "a primary word",
+    "related": [
+        "g3361",
+        "g3364",
+        "g3372"
+    ],
+    "notes": "used in direct questions expecting an affirmative answer."
+}

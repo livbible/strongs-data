@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἄφιξις",
+            "transliteration": "áphixis"
+        }
+    ],
+    "description": "properly, arrival, i.e., (by implication) departure",
+    "definition": {
+        "arrival": {},
+        "departure": {}
+    },
+    "origin": "from g0864",
+    "related": [
+        "g0864"
+    ]
+}

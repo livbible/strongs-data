@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "οὐδέποτε",
+            "transliteration": "oudépote"
+        }
+    ],
+    "description": "not even at any time, i.e., never at all",
+    "definition": {
+        "never": {}
+    },
+    "origin": "from g3761 and g4218",
+    "related": [
+        "g3761",
+        "g4218"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "βλέμμα",
+            "transliteration": "blémma"
+        }
+    ],
+    "description": "vision (properly concrete; by implication, abstract)",
+    "definition": {
+        "a look, a glance": {}
+    },
+    "origin": "from g0991",
+    "related": [
+        "g0991"
+    ]
+}

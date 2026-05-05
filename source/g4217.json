@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ποταπός",
+            "transliteration": "potapós"
+        }
+    ],
+    "description": "interrogatively, whatever, i.e., of what possible sort",
+    "definition": {
+        "from what country, race or tribe": {},
+        "of what sort or quality (what manner of)": {
+            "of persons": {},
+            "of things": {}
+        }
+    },
+    "origin": "apparently from g4219 and the base of g4226",
+    "related": [
+        "g4219",
+        "g4226"
+    ]
+}

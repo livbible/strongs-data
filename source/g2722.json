@@ -1,0 +1,27 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κατέχω",
+            "transliteration": "katéchō"
+        }
+    ],
+    "description": "to hold down (fast), in various applications (literally or figuratively)",
+    "definition": {
+        "to hold back, detain, retain": {
+            "from going away": {},
+            "to restrain, hinder (the course or progress of)": {
+                "that which hinders, antichrist from making his appearance": {},
+                "to check a ship's headway i.e., to hold or head the ship": {}
+            },
+            "to hold fast, keep secure, keep firm possession of": {}
+        },
+        "to get possession of, take": {
+            "to possess": {}
+        }
+    },
+    "origin": "from g2596 and g2192",
+    "related": [
+        "g2192",
+        "g2596"
+    ]
+}

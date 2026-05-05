@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀδιάκριτος",
+            "transliteration": "adiákritos"
+        }
+    ],
+    "description": "properly, undistinguished, i.e., (actively) impartial",
+    "definition": {
+        "undistinguished, unintelligible": {},
+        "without dubiousness, ambiguity or uncertainty": {}
+    },
+    "origin": "from g0001 (as a negative particle) and a derivative of g1252",
+    "related": [
+        "g0001",
+        "g1252"
+    ]
+}

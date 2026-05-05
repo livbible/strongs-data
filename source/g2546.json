@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κἀκεῖ",
+            "transliteration": "kakeî"
+        }
+    ],
+    "description": "likewise in that place",
+    "definition": {
+        "and there": {},
+        "there also": {}
+    },
+    "origin": "from g2532 and g1563",
+    "related": [
+        "g1563",
+        "g2532"
+    ]
+}

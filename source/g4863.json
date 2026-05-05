@@ -1,0 +1,30 @@
+{
+    "originalWords": [
+        {
+            "unicode": "συνάγω",
+            "transliteration": "synágō"
+        }
+    ],
+    "description": "to lead together, i.e., collect or convene; specially, to entertain (hospitably)",
+    "definition": {
+        "to gather together, to gather": {
+            "to draw together, collect": {
+                "of fishes": {},
+                "of a net in which they are caught": {}
+            }
+        },
+        "to bring together, assemble, collect": {
+            "to join together, join in one (those previously separated)": {},
+            "to gather together by convoking": {},
+            "to be gathered i.e., come together, gather, meet": {}
+        },
+        "to lead with one's self": {
+            "into one's home, i.e., to receive hospitably, to entertain": {}
+        }
+    },
+    "origin": "from g4862 and g0071",
+    "related": [
+        "g0071",
+        "g4862"
+    ]
+}

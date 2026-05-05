@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "προκαλέομαι",
+            "transliteration": "prokaléomai"
+        }
+    ],
+    "description": "to call forth to oneself (challenge), i.e., (by implication) to irritate",
+    "definition": {
+        "to call forth": {},
+        "to call forth to one's self": {
+            "especially to challenge to a combat or contest with one": {}
+        },
+        "to provoke, to irritate": {}
+    },
+    "origin": "middle voice from g4253 and g2564",
+    "related": [
+        "g2564",
+        "g4253"
+    ]
+}

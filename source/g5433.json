@@ -1,0 +1,25 @@
+{
+    "originalWords": [
+        {
+            "unicode": "φρυάσσω",
+            "transliteration": "phryássō"
+        }
+    ],
+    "description": "to snort (as a spirited horse), i.e., (figuratively) to make a tumult",
+    "definition": {
+        "to neigh, stamp the ground, prance, snort": {},
+        "to be high-spirited": {
+            "of horses": {},
+            "of men": {
+                "to take on lofty airs": {},
+                "behave arrogantly": {}
+            },
+            "to be tumultuous, to rage": {}
+        }
+    },
+    "origin": "akin to g1032, g1031",
+    "related": [
+        "g1031",
+        "g1032"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "originalWords": "בקע",
+    "description": "to cleave; generally, to rend, break, rip or open",
+    "definition": {
+        "to split, cleave, break open, divide, break through, rip up, break up, tear": {
+            "(qal)": {
+                "to cleave, cleave open": {},
+                "to break through, break into": {}
+            },
+            "(niphal)": {
+                "to be cleft, be rent open, be split open": {},
+                "to be broken into": {}
+            },
+            "(piel)": {
+                "to cleave, cut to pieces, rend open": {},
+                "to break through, break down": {}
+            },
+            "(pual)": {
+                "to be ripped open, be torn open": {},
+                "to be rent": {},
+                "to be broken into": {}
+            },
+            "(hiphil)": {
+                "to break into": {},
+                "to break through": {}
+            },
+            "(hophal) to be broken into": {},
+            "(hithpael) to burst (themselves) open, cleave asunder": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

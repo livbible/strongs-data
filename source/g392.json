@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀνατάσσομαι",
+            "transliteration": "anatássomai"
+        }
+    ],
+    "description": "to arrange",
+    "definition": {
+        "to put together in order, arrange, compose": {}
+    },
+    "origin": "from g0303 and the middle voice of g5021",
+    "related": [
+        "g0303",
+        "g5021"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "originalWords": "נגן",
+    "description": "properly, to thrum, i.e., beat a tune with the fingers; expectation. to play on a stringed instrument; hence (generally), to make music",
+    "definition": {
+        "to play or strike strings, play a stringed instrument": {
+            "(qal)": {
+                "player (participle)": {}
+            },
+            "(piel)": {
+                "to play": {
+                    "player, minstrel (participle)": {}
+                }
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

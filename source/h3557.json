@@ -1,0 +1,21 @@
+{
+    "originalWords": "כול",
+    "description": "properly, to keep in; hence, to measure; figuratively, to maintain (in various senses)",
+    "definition": {
+        "to seize, contain, measure": {
+            "(qal) to measure, calculate": {},
+            "(pilpel) to sustain, maintain, contain": {
+                "to sustain, support, nourish": {},
+                "to contain, hold in, restrain": {},
+                "to support, endure": {}
+            },
+            "(polpal) to be supplied": {},
+            "(hilpil) to contain, hold, hold in, endure": {
+                "to contain": {},
+                "to sustain, endure": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

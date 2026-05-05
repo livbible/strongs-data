@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀσχήμων",
+            "transliteration": "aschḗmōn"
+        }
+    ],
+    "description": "properly, shapeless, i.e., (figuratively) inelegant",
+    "definition": {
+        "deformed": {},
+        "indecent, unseemly": {}
+    },
+    "origin": "from g0001 (as a negative particle) and a presumed derivative of g2192 (in the sense of its congener g4976)",
+    "related": [
+        "g0001",
+        "g2192",
+        "g4976"
+    ]
+}

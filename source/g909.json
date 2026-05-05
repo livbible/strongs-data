@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "βαπτισμός",
+            "transliteration": "baptismós"
+        }
+    ],
+    "description": "ablution (ceremonial or christian)",
+    "definition": {
+        "a washing, purification effected by means of water": {
+            "of washing prescribed by the mosaic law (hebrews 9:10) which seems to mean an exposition of the difference between the washings prescribed by the mosaic law and christian baptism": {}
+        }
+    },
+    "origin": "from g0907",
+    "related": [
+        "g0907"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἑπτακισχίλιοι",
+            "transliteration": "heptakischílioi"
+        }
+    ],
+    "description": "seven times a thousand",
+    "definition": {
+        "seven thousand": {}
+    },
+    "origin": "from g2034 and g5507",
+    "related": [
+        "g2034",
+        "g5507"
+    ]
+}

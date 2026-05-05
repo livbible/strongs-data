@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "φόρτος",
+            "transliteration": "phórtos"
+        }
+    ],
+    "description": "something carried, i.e., the cargo of a ship",
+    "definition": {
+        "a load, burden": {
+            "of a ship": {}
+        }
+    },
+    "origin": "from g5342",
+    "related": [
+        "g5342"
+    ]
+}

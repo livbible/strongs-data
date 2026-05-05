@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κατατομή",
+            "transliteration": "katatomḗ"
+        }
+    ],
+    "description": "a cutting down (off), i.e., mutilation (ironically)",
+    "definition": {
+        "to cut up, mutilation": {}
+    },
+    "origin": "from a compound of g2596 and ????? (to cut)",
+    "related": [
+        "g0609",
+        "g2596"
+    ],
+    "notes": "compare g0609."
+}

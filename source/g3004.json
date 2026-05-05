@@ -1,0 +1,26 @@
+{
+    "originalWords": [
+        {
+            "unicode": "λέγω",
+            "transliteration": "légō"
+        }
+    ],
+    "description": "properly, to \"lay\" forth, i.e., (figuratively) relate (in words (usually of systematic or set discourse; whereas g2036 and g5346 generally refer to an individual expression or speech respectively; while g4483 is properly to break silence merely, and g2980 means an extended or random harangue)); by implication, to mean",
+    "definition": {
+        "to say, to speak": {
+            "affirm over, maintain": {},
+            "to teach": {},
+            "to exhort, advise, to command, direct": {},
+            "to point out with words, intend, mean, mean to say": {},
+            "to call by name, to call, name": {},
+            "to speak out, speak of, mention": {}
+        }
+    },
+    "origin": "a primary verb",
+    "related": [
+        "g2036",
+        "g2980",
+        "g4483",
+        "g5346"
+    ]
+}

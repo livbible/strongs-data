@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀνωτερικός",
+            "transliteration": "anōterikós"
+        }
+    ],
+    "description": "superior, i.e., (locally) more remote",
+    "definition": {
+        "upper": {}
+    },
+    "origin": "from g0511",
+    "related": [
+        "g0511"
+    ]
+}

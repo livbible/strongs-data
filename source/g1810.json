@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐξαίφνης",
+            "transliteration": "exaíphnēs"
+        }
+    ],
+    "description": "of a sudden (unexpectedly)",
+    "definition": {
+        "of a sudden, suddenly, unexpectedly": {}
+    },
+    "origin": "from g1537 and the base of g0160",
+    "related": [
+        "g0160",
+        "g1537",
+        "g1819"
+    ],
+    "notes": "compare g1819."
+}

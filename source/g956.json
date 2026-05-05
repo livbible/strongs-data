@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "βέλος",
+            "transliteration": "bélos"
+        }
+    ],
+    "description": "a missile, i.e., spear or arrow",
+    "definition": {
+        "a missile, dart, javelin, arrow": {}
+    },
+    "origin": "from g0906",
+    "related": [
+        "g0906"
+    ]
+}

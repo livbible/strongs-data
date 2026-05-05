@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "φιλάδελφος",
+            "transliteration": "philádelphos"
+        }
+    ],
+    "description": "fond of brethren, i.e., fraternal",
+    "definition": {
+        "loving brother or sister": {},
+        "in a broader sense, loving one like a brother, loving one's fellow countrymen": {
+            "of an israelite": {},
+            "of a christian loving christians": {}
+        }
+    },
+    "origin": "from g5384 and g0080",
+    "related": [
+        "g0080",
+        "g5384"
+    ]
+}

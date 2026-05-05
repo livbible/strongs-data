@@ -1,0 +1,25 @@
+{
+    "originalWords": [
+        {
+            "unicode": "λειτουργός",
+            "transliteration": "leitourgós"
+        }
+    ],
+    "description": "a public servant, i.e., a functionary in the temple or gospel, or (genitive case) a worshipper (of god) or benefactor (of man)",
+    "definition": {
+        "a public minister, a servant of the state": {},
+        "a minister, servant": {
+            "so of military laborers": {},
+            "of the temple": {
+                "of one busied with holy things": {},
+                "of a priest": {}
+            },
+            "of the servants of a king": {}
+        }
+    },
+    "origin": "from a derivative of g2992 and g2041",
+    "related": [
+        "g2041",
+        "g2992"
+    ]
+}

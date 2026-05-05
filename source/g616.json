@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀποκυέω",
+            "transliteration": "apokyéō"
+        }
+    ],
+    "description": "to breed forth, i.e., (by transference) to generate (figuratively)",
+    "definition": {
+        "to bring forth": {
+            "from the womb": {},
+            "give birth to": {}
+        },
+        "produce": {}
+    },
+    "origin": "from g0575 and the base of g2949",
+    "related": [
+        "g0575",
+        "g2949"
+    ]
+}

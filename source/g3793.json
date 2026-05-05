@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὄχλος",
+            "transliteration": "óchlos"
+        }
+    ],
+    "description": "a throng (as borne along); by implication, the rabble; by extension, a class of people; figuratively, a riot",
+    "definition": {
+        "a crowd": {
+            "a casual collection of people": {
+                "a multitude of men who have flocked together in some place": {},
+                "a throng": {}
+            },
+            "a multitude": {
+                "the multitudes, seems to denote troops of people gathered together without order": {}
+            }
+        }
+    },
+    "origin": "from a derivative of g2192 (meaning a vehicle)",
+    "related": [
+        "g2192"
+    ]
+}

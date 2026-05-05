@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "συμμαρτυρέω",
+            "transliteration": "symmartyréō"
+        }
+    ],
+    "description": "to testify jointly, i.e., corroborate by (concurrent) evidence",
+    "definition": {
+        "to bear witness with, bear joint witness": {}
+    },
+    "origin": "from g4862 and g3140",
+    "related": [
+        "g3140",
+        "g4862"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "originalWords": "פלא",
+    "description": "properly, perhaps to separate, i.e., distinguish (literally or figuratively); by implication, to be (causatively, make) great, difficult, wonderful",
+    "definition": {
+        "to be marvellous, be wonderful, be surpassing, be extraordinary, separate by distinguishing action": {
+            "(niphal)": {
+                "to be beyond one's power, be difficult to do": {},
+                "to be difficult to understand": {},
+                "to be wonderful, be extraordinary": {
+                    "marvellous (participle)": {}
+                }
+            },
+            "(piel) to separate (an offering)": {},
+            "(hiphil)": {
+                "to do extraordinary or hard or difficult thing": {},
+                "to make wonderful, do wondrously": {}
+            },
+            "(hithpael) to show oneself wonderful or marvellous": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

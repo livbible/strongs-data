@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀκροατής",
+            "transliteration": "akroatḗs"
+        }
+    ],
+    "description": "a hearer (merely)",
+    "definition": {
+        "a hearer": {}
+    },
+    "origin": "from ????????? (to listen; apparently an intensive of g0191)",
+    "related": [
+        "g0191"
+    ]
+}

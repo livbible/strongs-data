@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἱππεύς",
+            "transliteration": "hippeús"
+        }
+    ],
+    "description": "an equestrian, i.e., member of a cavalry corps",
+    "definition": {
+        "a horseman": {}
+    },
+    "origin": "from g2462",
+    "related": [
+        "g2462"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "originalWords": "נוע",
+    "description": "to waver, in a great variety of applications, literally and figuratively (as subjoined)",
+    "definition": {
+        "to quiver, totter, shake, reel, stagger, wander, move, sift, make move, wave, waver, tremble": {
+            "(qal)": {
+                "to wave, quiver, vibrate, swing, stagger, tremble, be unstable": {},
+                "to totter, go tottering": {
+                    "vagabond (participle)": {}
+                }
+            },
+            "(niphal) to be tossed about or around": {},
+            "(hiphil)": {
+                "to toss about": {},
+                "to shake, cause to totter": {},
+                "to shake, disturb": {},
+                "to cause to wander": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

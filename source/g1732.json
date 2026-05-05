@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἔνδειξις",
+            "transliteration": "éndeixis"
+        }
+    ],
+    "description": "indication (abstractly)",
+    "definition": {
+        "demonstration, proof": {
+            "manifestation made by act": {},
+            "sign, evidence": {}
+        }
+    },
+    "origin": "from g1731",
+    "related": [
+        "g1731"
+    ]
+}

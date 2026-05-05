@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "αὔριον",
+            "transliteration": "aúrion"
+        }
+    ],
+    "description": "properly, fresh, i.e., (adverb with ellipsis of g2250) to-morrow",
+    "definition": {
+        "tomorrow": {}
+    },
+    "origin": "from a derivative of the same as g0109 (meaning a breeze, i.e. the morning air)",
+    "related": [
+        "g0109",
+        "g2250"
+    ]
+}

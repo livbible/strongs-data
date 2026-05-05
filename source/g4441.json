@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πυνθάνομαι",
+            "transliteration": "pynthánomai"
+        }
+    ],
+    "description": "to question, i.e., ascertain by inquiry (as a matter of information merely; and thus differing from g2065, which properly means a request as a favor; and from g0154, which is strictly a demand for something due; as well as from g2212, which implies a search for something hidden; and from g1189, which involves the idea of urgent need); by implication, to learn (by casual intelligence)",
+    "definition": {
+        "to enquire, ask": {},
+        "to ascertain, by enquiry": {}
+    },
+    "origin": "middle voice prolonged from a primary ???? (which occurs only as an alternate in certain tenses)",
+    "related": [
+        "g0154",
+        "g1189",
+        "g2065",
+        "g2212"
+    ]
+}

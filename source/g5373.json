@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "φιλία",
+            "transliteration": "philía"
+        }
+    ],
+    "description": "fondness",
+    "definition": {
+        "friendship": {}
+    },
+    "origin": "from g5384",
+    "related": [
+        "g5384"
+    ]
+}

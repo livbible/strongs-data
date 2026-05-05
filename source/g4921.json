@@ -1,0 +1,37 @@
+{
+    "originalWords": [
+        {
+            "unicode": "συνιστάω",
+            "transliteration": "synistáō"
+        },
+        {
+            "unicode": "συνιστάνω",
+            "transliteration": "synistánō"
+        },
+        {
+            "unicode": "συνίστημι",
+            "transliteration": "synístēmi"
+        }
+    ],
+    "description": "to set together, i.e., (by implication) to introduce (favorably), or (figuratively) to exhibit; intransitively, to stand near, or (figuratively) to constitute",
+    "definition": {
+        "to place together, to set in the same place, to bring or band together": {
+            "to stand with (or near)": {}
+        },
+        "to set one with another": {
+            "by way of presenting or introducing him": {},
+            "to comprehend": {}
+        },
+        "to put together by way of composition or combination, to teach by combining and comparing": {
+            "to show, prove, establish, exhibit": {}
+        },
+        "to put together, unite parts into one whole": {
+            "to be composed of, consist": {}
+        }
+    },
+    "origin": "from g4862 and g2476 (including its collateral forms)",
+    "related": [
+        "g2476",
+        "g4862"
+    ]
+}

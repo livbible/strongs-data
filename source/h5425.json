@@ -1,0 +1,19 @@
+{
+    "originalWords": "נתר",
+    "description": "to jump, i.e., be violently agitated; causatively, to terrify, shake off, untie",
+    "definition": {
+        "to start up, tremble, shake, spring up": {
+            "(qal) to start up": {},
+            "(piel) to leap": {},
+            "(hiphil) to cause to start up": {}
+        },
+        "to loose, let loose, undo, be free, be loose": {
+            "(hiphil)": {
+                "to unfasten, loosen": {},
+                "to set free, unbind": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

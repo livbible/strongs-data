@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "τόκος",
+            "transliteration": "tókos"
+        }
+    ],
+    "description": "interest on money loaned (as a produce)",
+    "definition": {
+        "birth": {
+            "the act of bringing forth": {},
+            "that which has been brought forth, offspring": {}
+        },
+        "interest of money, usury (because it multiplies money, and as it were \"breeds\")": {}
+    },
+    "origin": "from the base of g5088",
+    "related": [
+        "g5088"
+    ]
+}

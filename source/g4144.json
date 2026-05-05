@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πλόος",
+            "transliteration": "plóos"
+        }
+    ],
+    "description": "a sail, i.e., navigation",
+    "definition": {
+        "a voyage": {}
+    },
+    "origin": "from g4126",
+    "related": [
+        "g4126"
+    ]
+}

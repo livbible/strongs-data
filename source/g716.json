@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἅρμα",
+            "transliteration": "hárma"
+        }
+    ],
+    "description": "a chariot (as raised or fitted together (compare g0719))",
+    "definition": {
+        "a chariot": {},
+        "of war chariots (i.e., armed with scythes)": {},
+        "chariots (drawn with many horses)": {}
+    },
+    "origin": "probably from g0142 (perhaps with g0001 (as a particle of union) prefixed)",
+    "related": [
+        "g0001",
+        "g0142",
+        "g0719"
+    ]
+}

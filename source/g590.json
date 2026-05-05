@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀπόδημος",
+            "transliteration": "apódēmos"
+        }
+    ],
+    "description": "absent from one's own people, i.e., a foreign traveller",
+    "definition": {
+        "away from one's people, go abroad": {}
+    },
+    "origin": "from g0575 and g1218",
+    "related": [
+        "g0575",
+        "g1218"
+    ]
+}

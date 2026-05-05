@@ -1,0 +1,34 @@
+{
+    "originalWords": "קלל",
+    "description": "to be (causatively, make) light, literally (swift, small, sharp, etc.) or figuratively (easy, trifling, vile, etc.)",
+    "definition": {
+        "to be slight, be swift, be trifling, be of little account, be light": {
+            "(qal)": {
+                "to be slight, be abated (of water)": {},
+                "to be swift": {},
+                "to be trifling, be of little account": {}
+            },
+            "(niphal)": {
+                "to be swift, show oneself swift": {},
+                "to appear trifling, be too trifling, be insignificant": {},
+                "to be lightly esteemed": {}
+            },
+            "(piel)": {
+                "to make despicable": {},
+                "to curse": {}
+            },
+            "(pual) to be cursed": {},
+            "(hiphil)": {
+                "to make light, lighten": {},
+                "to treat with contempt, bring contempt or dishonor": {}
+            },
+            "(pilpel)": {
+                "to shake": {},
+                "to whet": {}
+            },
+            "(hithpalpel) to shake oneself, be moved to and fro": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

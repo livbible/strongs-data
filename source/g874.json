@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀφορμή",
+            "transliteration": "aphormḗ"
+        }
+    ],
+    "description": "a starting-point, i.e., (figuratively) an opportunity",
+    "definition": {
+        "a place from which a movement or attack is made, a base of operations": {},
+        "metaphorically that by which endeavor is excited and from which it goes forth": {
+            "that which gives occasion and supplies matter for an undertaking, the incentive": {},
+            "the resources we avail ourselves of in attempting or performing anything": {}
+        }
+    },
+    "origin": "from a compound of g0575 and g3729",
+    "related": [
+        "g0575",
+        "g3729"
+    ]
+}

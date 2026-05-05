@@ -1,0 +1,22 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὑπακούω",
+            "transliteration": "hypakoúō"
+        }
+    ],
+    "description": "to hear under (as a subordinate), i.e., to listen attentively; by implication, to heed or conform to a command or authority",
+    "definition": {
+        "to listen, to harken": {
+            "of one who on the knock at the door comes to listen who it is, (the duty of a porter)": {}
+        },
+        "to harken to a command": {
+            "to obey, be obedient to, submit to": {}
+        }
+    },
+    "origin": "from g5259 and g0191",
+    "related": [
+        "g0191",
+        "g5259"
+    ]
+}

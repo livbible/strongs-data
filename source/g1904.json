@@ -1,0 +1,26 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐπέρχομαι",
+            "transliteration": "epérchomai"
+        }
+    ],
+    "description": "to supervene, i.e., arrive, occur, impend, attack, (figuratively) influence",
+    "definition": {
+        "to come to arrive": {
+            "of time, come on, be at hand, be future": {}
+        },
+        "to come upon, overtake, one": {
+            "of sleep": {},
+            "of disease": {},
+            "of calamities": {},
+            "of the holy spirit, descending and operating in one": {},
+            "of an enemy attacking one": {}
+        }
+    },
+    "origin": "from g1909 and g2064",
+    "related": [
+        "g1909",
+        "g2064"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐγγράφω",
+            "transliteration": "engráphō"
+        }
+    ],
+    "description": "to \"engrave\", i.e., inscribe",
+    "definition": {
+        "to engrave, inscribe, write in or on": {
+            "to record, enrol": {}
+        }
+    },
+    "origin": "from g1722 and g1125",
+    "related": [
+        "g1125",
+        "g1722"
+    ]
+}

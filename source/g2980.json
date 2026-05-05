@@ -1,0 +1,26 @@
+{
+    "originalWords": [
+        {
+            "unicode": "λαλέω",
+            "transliteration": "laléō"
+        }
+    ],
+    "description": "to talk, i.e., utter words",
+    "definition": {
+        "to utter a voice or emit a sound": {},
+        "to speak": {
+            "to use the tongue or the faculty of speech": {},
+            "to utter articulate sounds": {}
+        },
+        "to talk": {},
+        "to utter, tell": {},
+        "to use words in order to declare one's mind and disclose one's thoughts": {
+            "to speak": {}
+        }
+    },
+    "origin": "a prolonged form of an otherwise obsolete verb",
+    "related": [
+        "g3004"
+    ],
+    "notes": "compare g3004."
+}

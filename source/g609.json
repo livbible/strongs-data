@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀποκόπτω",
+            "transliteration": "apokóptō"
+        }
+    ],
+    "description": "to amputate; reflexively (by irony) to mutilate (the privy parts)",
+    "definition": {
+        "to cut off, amputate": {}
+    },
+    "origin": "from g0575 and g2875",
+    "related": [
+        "g0575",
+        "g2699",
+        "g2875"
+    ],
+    "notes": "compare g2699."
+}

@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐκκολυμβάω",
+            "transliteration": "ekkolymbáō"
+        }
+    ],
+    "description": "to escape by swimming",
+    "definition": {
+        "to swim out of": {}
+    },
+    "origin": "from g1537 and g2860",
+    "related": [
+        "g1537",
+        "g2860"
+    ]
+}

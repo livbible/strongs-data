@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἔννομος",
+            "transliteration": "énnomos"
+        }
+    ],
+    "description": "(subjectively) legal, or (objectively) subject to",
+    "definition": {
+        "bound to the law": {},
+        "bound by the law, lawful": {},
+        "lawful, regular": {}
+    },
+    "origin": "from g1722 and g3551",
+    "related": [
+        "g1722",
+        "g3551"
+    ]
+}

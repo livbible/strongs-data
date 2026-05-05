@@ -1,0 +1,25 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πρῶτον",
+            "transliteration": "prōton"
+        }
+    ],
+    "description": "firstly (in time, place, order, or importance)",
+    "definition": {
+        "first in time or place": {
+            "in any succession of things or persons": {}
+        },
+        "first in rank": {
+            "influence, honor": {},
+            "chief": {},
+            "principal": {}
+        },
+        "first, at the first": {}
+    },
+    "origin": "neuter of g4413 as adverb (with or without g3588)",
+    "related": [
+        "g3588",
+        "g4413"
+    ]
+}

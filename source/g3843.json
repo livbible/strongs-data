@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πάντως",
+            "transliteration": "pántōs"
+        }
+    ],
+    "description": "entirely; specially, at all events, (with negative, following) in no event",
+    "definition": {
+        "altogether": {
+            "in any and every way, by all means": {},
+            "doubtless, surely, certainly": {},
+            "in no wise, not at all": {}
+        }
+    },
+    "origin": "adverb from g3956",
+    "related": [
+        "g3956"
+    ]
+}

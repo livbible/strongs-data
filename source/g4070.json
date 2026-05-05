@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πέρυσι",
+            "transliteration": "pérysi"
+        }
+    ],
+    "description": "the by-gone, i.e., (as noun) last year",
+    "definition": {
+        "last year": {},
+        "the year just past": {
+            "for a year past, a year ago": {}
+        }
+    },
+    "origin": "adverb from g4009",
+    "related": [
+        "g4009"
+    ]
+}

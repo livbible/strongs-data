@@ -1,0 +1,22 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀνάθεμα",
+            "transliteration": "anáthema"
+        }
+    ],
+    "description": "a (religious) ban or (concretely) excommunicated (thing or person)",
+    "definition": {
+        "a thing set up or laid by in order to be kept": {
+            "specifically, an offering resulting from a vow, which after being consecrated to a god was hung upon the walls or columns of the temple, or put in some other conspicuous place": {}
+        },
+        "a thing devoted to god without hope of being redeemed, and if an animal, to be slain; therefore a person or thing doomed to destruction": {
+            "a curse": {},
+            "a man accursed, devoted to the direst of woes": {}
+        }
+    },
+    "origin": "from g0394",
+    "related": [
+        "g0394"
+    ]
+}

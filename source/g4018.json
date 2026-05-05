@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "περιβόλαιον",
+            "transliteration": "peribólaion"
+        }
+    ],
+    "description": "something thrown around one, i.e., a mantle, veil",
+    "definition": {
+        "a covering thrown around, a wrapper": {
+            "a mantle": {},
+            "a veil": {}
+        }
+    },
+    "origin": "neuter of a presumed derivative of g4016",
+    "related": [
+        "g4016"
+    ]
+}

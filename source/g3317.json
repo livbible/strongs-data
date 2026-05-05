@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "μεσονύκτιον",
+            "transliteration": "mesonýktion"
+        }
+    ],
+    "description": "midnight (especially as a watch)",
+    "definition": {
+        "midnight": {}
+    },
+    "origin": "neuter of compound of g3319 and g3571",
+    "related": [
+        "g3319",
+        "g3571"
+    ]
+}

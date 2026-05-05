@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "νεόφυτος",
+            "transliteration": "neóphytos"
+        }
+    ],
+    "description": "newly planted, i.e., (figuratively) a young convert (\"neophyte\")",
+    "definition": {
+        "newly planted": {
+            "a new convert, neophyte (one who has recently become a christian)": {}
+        }
+    },
+    "origin": "from g3501 and a derivative of g5453",
+    "related": [
+        "g3501",
+        "g5453"
+    ]
+}

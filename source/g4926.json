@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "συνομιλέω",
+            "transliteration": "synomiléō"
+        }
+    ],
+    "description": "to converse mutually",
+    "definition": {
+        "to talk with": {}
+    },
+    "origin": "from g4862 and g3656",
+    "related": [
+        "g3656",
+        "g4862"
+    ]
+}

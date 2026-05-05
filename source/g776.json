@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀσιτία",
+            "transliteration": "asitía"
+        }
+    ],
+    "description": "fasting (the state)",
+    "definition": {
+        "abstinence from food (whether voluntary or enforced)": {}
+    },
+    "origin": "from g0777",
+    "related": [
+        "g0777"
+    ]
+}

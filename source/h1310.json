@@ -1,0 +1,26 @@
+{
+    "originalWords": "בשל",
+    "description": "properly, to boil up; hence, to be done in cooking; figuratively to ripen",
+    "definition": {
+        "to boil, cook, bake, roast, ripen, grow ripe": {
+            "(qal)": {
+                "to boil, cook": {},
+                "to grow ripe, ripen": {}
+            },
+            "(piel)": {
+                "to boil": {},
+                "to cook": {}
+            },
+            "(pual)": {
+                "to be boiled": {},
+                "to be sodden": {}
+            },
+            "(hiphil)": {
+                "to ripen": {},
+                "ripen, brought to ripeness": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

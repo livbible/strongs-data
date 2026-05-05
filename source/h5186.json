@@ -1,0 +1,25 @@
+{
+    "originalWords": "נטה",
+    "description": "to stretch or spread out; by implication, to bend away (including moral deflection); used in a great variety of application (as follows)",
+    "definition": {
+        "to stretch out, extend, spread out, pitch, turn, pervert, incline, bend, bow": {
+            "(qal)": {
+                "to stretch out, extend, stretch, offer": {},
+                "to spread out, pitch (tent)": {},
+                "to bend, turn, incline": {
+                    "to turn aside, incline, decline, bend down": {},
+                    "to bend, bow": {},
+                    "to hold out, extend (figuratively)": {}
+                }
+            },
+            "(niphal) to be stretched out": {},
+            "(hiphil)": {
+                "to stretch out": {},
+                "to spread out": {},
+                "to turn, incline, influence, bend down, hold out, extend, thrust aside, thrust away": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

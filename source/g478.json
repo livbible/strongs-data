@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀντικαθίστημι",
+            "transliteration": "antikathístēmi"
+        }
+    ],
+    "description": "to set down (troops) against, i.e., withstand",
+    "definition": {
+        "to put in place of another": {},
+        "to place in opposition": {
+            "to dispose troops, set an army in line of battle": {},
+            "to stand against, resist": {}
+        }
+    },
+    "origin": "from g0473 and g2525",
+    "related": [
+        "g0473",
+        "g2525"
+    ]
+}

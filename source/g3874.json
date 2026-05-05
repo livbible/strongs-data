@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "παράκλησις",
+            "transliteration": "paráklēsis"
+        }
+    ],
+    "description": "imploration, hortation, solace",
+    "definition": {
+        "a calling near, summons, (especially for help)": {},
+        "importation, supplication, entreaty": {},
+        "exhortation, admonition, encouragement": {},
+        "consolation, comfort, solace; that which affords comfort or refreshment": {
+            "thus of the messianic salvation (so the rabbis call the messiah the consoler, the comforter)": {}
+        },
+        "persuasive discourse, stirring address": {
+            "instructive, admonitory, conciliatory, powerful hortatory discourse": {}
+        }
+    },
+    "origin": "from g3870",
+    "related": [
+        "g3870"
+    ]
+}

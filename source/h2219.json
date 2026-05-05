@@ -1,0 +1,20 @@
+{
+    "originalWords": "זרה",
+    "description": "to toss about; by implication, to diffuse, winnow",
+    "definition": {
+        "to scatter, fan, cast away, winnow, disperse, compass, spread, be scattered, be dispersed": {
+            "(qal)": {
+                "to scatter": {},
+                "to fan, winnow": {}
+            },
+            "(niphal) to be scattered, be dispersed": {},
+            "(piel)": {
+                "to scatter, disperse (intensive of qal)": {},
+                "to winnow, sift": {}
+            },
+            "(pual) to be scattered, be spread out": {}
+        }
+    },
+    "origin": "a primitive root (compare h2114)",
+    "related": []
+}

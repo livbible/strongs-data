@@ -1,0 +1,18 @@
+{
+    "originalWords": "עבד",
+    "description": "to do, make, prepare, keep, etc",
+    "definition": {
+        "to make, do": {
+            "(p'al)": {
+                "to make, create": {},
+                "to do, perform": {}
+            },
+            "(ithp'al)": {
+                "to be made into": {},
+                "to be done, be wrought, be performed, be executed, be carried out": {}
+            }
+        }
+    },
+    "origin": "corresponding to h5647",
+    "related": []
+}

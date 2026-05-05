@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἁγνίζω",
+            "transliteration": "hagnízō"
+        }
+    ],
+    "description": "to make clean, i.e., (figuratively) sanctify (ceremonially or morally)",
+    "definition": {
+        "ceremonially": {
+            "to make pure, purify, cleanse": {}
+        },
+        "morally": {}
+    },
+    "origin": "from g0053",
+    "related": [
+        "g0053"
+    ]
+}

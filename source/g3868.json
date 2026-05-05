@@ -1,0 +1,29 @@
+{
+    "originalWords": [
+        {
+            "unicode": "παραιτέομαι",
+            "transliteration": "paraitéomai"
+        }
+    ],
+    "description": "to beg off, i.e., deprecate, decline, shun",
+    "definition": {
+        "to ask along side, beg to have near one": {
+            "to obtain by entreaty": {},
+            "to beg from, to ask for, supplicate": {}
+        },
+        "to avert by entreaty or seek to avert, to deprecate": {
+            "to not entreat": {},
+            "to refuse, decline": {},
+            "to shun, avoid": {},
+            "to avert displeasure by entreaty": {
+                "to beg pardon, crave indulgence, to excuse": {},
+                "of one excusing himself for not accepting a wedding invitation to a feast": {}
+            }
+        }
+    },
+    "origin": "from g3844 and the middle voice of g0154",
+    "related": [
+        "g0154",
+        "g3844"
+    ]
+}

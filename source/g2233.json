@@ -1,0 +1,26 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἡγέομαι",
+            "transliteration": "hēgéomai"
+        }
+    ],
+    "description": "to lead, i.e., command (with official authority); figuratively, to deem, i.e., consider",
+    "definition": {
+        "to lead": {
+            "to go before": {},
+            "to be a leader": {
+                "to rule, command": {},
+                "to have authority over": {},
+                "a prince, of regal power, governor, viceroy, chief, leading as respects influence, controlling in counsel, overseers or leaders of the churches": {},
+                "used of any kind of leader, chief, commander": {},
+                "the leader in speech, chief, spokesman": {}
+            }
+        },
+        "to consider, deem, account, think": {}
+    },
+    "origin": "middle voice of a (presumed) strengthened form of g0071",
+    "related": [
+        "g0071"
+    ]
+}

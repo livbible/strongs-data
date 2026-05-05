@@ -1,0 +1,18 @@
+{
+    "originalWords": "דמם",
+    "description": "to be dumb; by implication, to be astonished, to stop; also to perish",
+    "definition": {
+        "to be silent, be still, wait, be dumb, grow dumb": {
+            "(qal)": {
+                "to be silent": {},
+                "to be still, die": {},
+                "to be struck dumb": {}
+            },
+            "(niphal) to be silenced, be made silent, destroyed": {},
+            "(poal) to make quiet": {},
+            "(hiphil) to make silent (cause to die)": {}
+        }
+    },
+    "origin": "a primitive root (compare h1724, h1820)",
+    "related": []
+}

@@ -1,0 +1,29 @@
+{
+    "originalWords": "מלא",
+    "description": "to fill or (intransitively) be full of, in a wide application (literally and figuratively)",
+    "definition": {
+        "to fill, be full": {
+            "(qal)": {
+                "to be full": {
+                    "fullness, abundance (participle)": {},
+                    "to be full, be accomplished, be ended": {}
+                },
+                "to consecrate, fill the hand": {}
+            },
+            "(niphal)": {
+                "to be filled, be armed, be satisfied": {},
+                "to be accomplished, be ended": {}
+            },
+            "(piel)": {
+                "to fill": {},
+                "to satisfy": {},
+                "to fulfil, accomplish, complete": {},
+                "to confirm": {}
+            },
+            "(pual) to be filled": {},
+            "(hithpael) to mass themselves against": {}
+        }
+    },
+    "origin": "or ?????; (esther 7:5), a primitive root",
+    "related": []
+}

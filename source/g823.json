@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἄτομος",
+            "transliteration": "átomos"
+        }
+    ],
+    "description": "uncut, i.e., (by implication) indivisible (an \"atom\" of time)",
+    "definition": {
+        "that cannot be cut in two, or divided, indivisible": {
+            "of a moment of time": {}
+        }
+    },
+    "origin": "from g0001 (as a negative particle) and the base of g5114",
+    "related": [
+        "g0001",
+        "g5114"
+    ]
+}

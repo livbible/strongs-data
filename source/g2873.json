@@ -1,0 +1,23 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κόπος",
+            "transliteration": "kópos"
+        }
+    ],
+    "description": "a cut, i.e., (by analogy) toil (as reducing the strength), literally or figuratively; by implication, pains",
+    "definition": {
+        "a beating": {},
+        "a beating of the breast with grief, sorrow": {},
+        "labor": {
+            "trouble": {
+                "to cause one trouble, make work for him": {}
+            },
+            "intense labor united with trouble and toil": {}
+        }
+    },
+    "origin": "from g2875",
+    "related": [
+        "g2875"
+    ]
+}

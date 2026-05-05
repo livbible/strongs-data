@@ -1,0 +1,23 @@
+{
+    "originalWords": "גבר",
+    "description": "to be strong; by implication, to prevail, act insolently",
+    "definition": {
+        "to prevail, have strength, be strong, be powerful, be mighty, be great": {
+            "(qal)": {
+                "to be strong, mighty": {},
+                "to prevail": {}
+            },
+            "(piel) to make strong, strengthen": {},
+            "(hiphil)": {
+                "to confirm, give strength": {},
+                "to confirm (a covenant)": {}
+            },
+            "(hithpael)": {
+                "to show oneself mighty": {},
+                "to act proudly (toward god)": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

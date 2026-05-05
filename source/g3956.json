@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πᾶς",
+            "transliteration": "pâs"
+        }
+    ],
+    "description": "all, any, every, the whole",
+    "definition": {
+        "individually": {
+            "each, every, any, all, the whole, everyone, all things, everything": {}
+        },
+        "collectively": {
+            "some of all types": {}
+        }
+    },
+    "origin": "including all the forms of declension; apparently a primary word",
+    "related": []
+}

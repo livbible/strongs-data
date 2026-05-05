@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀποκλείω",
+            "transliteration": "apokleíō"
+        }
+    ],
+    "description": "to close fully",
+    "definition": {
+        "to shut up": {}
+    },
+    "origin": "from g0575 and g2808",
+    "related": [
+        "g0575",
+        "g2808"
+    ]
+}

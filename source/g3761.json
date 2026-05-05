@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "οὐδέ",
+            "transliteration": "oudé"
+        }
+    ],
+    "description": "not however, i.e., neither, nor, not even",
+    "definition": {
+        "but not, neither, nor, not even": {}
+    },
+    "origin": "from g3756 and g1161",
+    "related": [
+        "g1161",
+        "g3756"
+    ]
+}

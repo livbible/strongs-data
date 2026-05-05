@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "μεταμέλλομαι",
+            "transliteration": "metaméllomai"
+        }
+    ],
+    "description": "to care afterwards, i.e., regret",
+    "definition": {
+        "it is a care to one afterwards": {
+            "it repents one, to repent one's self": {}
+        }
+    },
+    "origin": "from g3326 and the middle voice of g3199",
+    "related": [
+        "g3199",
+        "g3326"
+    ]
+}

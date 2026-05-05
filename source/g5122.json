@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "τοὔνομα",
+            "transliteration": "toúnoma"
+        }
+    ],
+    "description": "the name (is)",
+    "definition": {
+        "by name": {}
+    },
+    "origin": "contraction for the neuter of g3588 and g3686",
+    "related": [
+        "g3588",
+        "g3686"
+    ]
+}

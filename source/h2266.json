@@ -1,0 +1,24 @@
+{
+    "originalWords": "חבר",
+    "description": "to join (literally or figuratively); specifically (by means of spells) to fascinate",
+    "definition": {
+        "to unite, join, bind together, be joined, be coupled, be in league, heap up, have fellowship with, be compact, be a charmer": {
+            "(qal)": {
+                "to unite, be joined": {},
+                "to tie magic charms, charm": {}
+            },
+            "(piel)": {
+                "to unite with, make an ally of": {},
+                "to unite, join, ally": {}
+            },
+            "(pual)": {
+                "to be allied with, be united": {},
+                "to be joined together": {}
+            },
+            "(hiphil) to join together, pile up (words)": {},
+            "(hithpael) to join oneself to, make an alliance, league together": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

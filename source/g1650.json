@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἔλεγχος",
+            "transliteration": "élenchos"
+        }
+    ],
+    "description": "proof, conviction",
+    "definition": {
+        "a proof, that by which a thing is proved or tested": {},
+        "conviction": {}
+    },
+    "origin": "from g1651",
+    "related": [
+        "g1651"
+    ]
+}

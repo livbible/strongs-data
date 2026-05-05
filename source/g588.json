@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀποδέχομαι",
+            "transliteration": "apodéchomai"
+        }
+    ],
+    "description": "to take fully, i.e., welcome (persons), approve (things)",
+    "definition": {
+        "to accept from, receive": {},
+        "to accept what is offered from without": {}
+    },
+    "origin": "from g0575 and g1209",
+    "related": [
+        "g0575",
+        "g1209"
+    ]
+}

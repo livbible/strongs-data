@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀπάρτι",
+            "transliteration": "apárti"
+        }
+    ],
+    "description": "from now, i.e., henceforth (already)",
+    "definition": {
+        "from now, henceforth": {}
+    },
+    "origin": "from g0575 and g0737",
+    "related": [
+        "g0575",
+        "g0737"
+    ]
+}

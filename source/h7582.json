@@ -1,0 +1,20 @@
+{
+    "originalWords": "שאה",
+    "description": "to rush; by implication, to desolate",
+    "definition": {
+        "crash, make a din or crash, crash into ruins, be in ruins, be desolated": {
+            "(qal) to crash into ruins": {},
+            "(niphal)": {
+                "to be ruined": {},
+                "to crash": {},
+                "to be left (a desolation)": {}
+            },
+            "(hiphil)": {
+                "to cause to crash": {},
+                "to cause to be desolated": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

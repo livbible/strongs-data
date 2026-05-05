@@ -1,0 +1,27 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πλανάω",
+            "transliteration": "planáō"
+        }
+    ],
+    "description": "to (properly, cause to) roam (from safety, truth, or virtue)",
+    "definition": {
+        "to cause to stray, to lead astray, lead aside from the right way": {
+            "to go astray, wander, roam about": {}
+        },
+        "metaphorically": {
+            "to lead away from the truth, to lead into error, to deceive": {},
+            "to be led into error": {},
+            "to be led aside from the path of virtue, to go astray, sin": {},
+            "to sever or fall away from the truth": {
+                "of heretics": {}
+            },
+            "to be led away into error and sin": {}
+        }
+    },
+    "origin": "from g4106",
+    "related": [
+        "g4106"
+    ]
+}

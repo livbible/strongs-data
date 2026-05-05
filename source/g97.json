@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἄδολος",
+            "transliteration": "ádolos"
+        }
+    ],
+    "description": "and g1388; undeceitful, i.e., (figuratively) unadulterated",
+    "definition": {
+        "guileless": {
+            "in things: unmixed, unadulterated, pure": {},
+            "in persons: without dishonest intent, guileless": {}
+        }
+    },
+    "origin": "from g0001 (as a negative particle)",
+    "related": [
+        "g0001",
+        "g1388"
+    ]
+}

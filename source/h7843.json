@@ -1,0 +1,21 @@
+{
+    "originalWords": "שחת",
+    "description": "to decay, i.e., (causatively) ruin (literally or figuratively)",
+    "definition": {
+        "to destroy, corrupt, go to ruin, decay": {
+            "(niphal) to be marred, be spoiled, be corrupted, be corrupt, be injured, be ruined, be rotted": {},
+            "(piel)": {
+                "to spoil, ruin": {},
+                "to pervert, corrupt, deal corruptly (morally)": {}
+            },
+            "(hiphil)": {
+                "to spoil, ruin, destroy": {},
+                "to pervert, corrupt (morally)": {},
+                "destroyer (participle)": {}
+            },
+            "(hophal) spoiled, ruined (participle)": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

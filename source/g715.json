@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἄρκτος",
+            "transliteration": "árktos"
+        }
+    ],
+    "description": "a bear (as obstructing by ferocity)",
+    "definition": {
+        "a bear": {}
+    },
+    "origin": "probably from g0714",
+    "related": [
+        "g0714"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀρχιερατικός",
+            "transliteration": "archieratikós"
+        }
+    ],
+    "description": "high-priestly",
+    "definition": {
+        "high priestly, pontifical": {}
+    },
+    "origin": "from g0746 and a derivative of g2413",
+    "related": [
+        "g0746",
+        "g2413"
+    ]
+}

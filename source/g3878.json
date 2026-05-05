@@ -1,0 +1,23 @@
+{
+    "originalWords": [
+        {
+            "unicode": "παρακούω",
+            "transliteration": "parakoúō"
+        }
+    ],
+    "description": "to mishear, i.e., (by implication) to disobey",
+    "definition": {
+        "to hear aside": {
+            "causally or carelessly or amiss": {}
+        },
+        "to be unwilling to hear": {
+            "on hearing to neglect, to pay no heed to": {},
+            "to refuse to hear, pay no regard to, disobey": {}
+        }
+    },
+    "origin": "from g3844 and g0191",
+    "related": [
+        "g0191",
+        "g3844"
+    ]
+}

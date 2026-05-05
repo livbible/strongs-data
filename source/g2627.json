@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κατακλυσμός",
+            "transliteration": "kataklysmós"
+        }
+    ],
+    "description": "an inundation",
+    "definition": {
+        "inundation, deluge": {
+            "of noah's deluge": {}
+        }
+    },
+    "origin": "from g2626",
+    "related": [
+        "g2626"
+    ]
+}

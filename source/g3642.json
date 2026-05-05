@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὀλιγόψυχος",
+            "transliteration": "oligópsychos"
+        }
+    ],
+    "description": "little-spirited, i.e., faint-hearted",
+    "definition": {
+        "fainthearted": {}
+    },
+    "origin": "from g3641 and g5590",
+    "related": [
+        "g3641",
+        "g5590"
+    ]
+}

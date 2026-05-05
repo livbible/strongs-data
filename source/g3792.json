@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὀχλοποιέω",
+            "transliteration": "ochlopoiéō"
+        }
+    ],
+    "description": "to make a crowd, i.e., raise a public disturbance",
+    "definition": {
+        "to collect a crowd, gather the people together": {}
+    },
+    "origin": "from g3793 and g4160",
+    "related": [
+        "g3793",
+        "g4160"
+    ]
+}

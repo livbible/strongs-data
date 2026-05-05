@@ -1,0 +1,22 @@
+{
+    "originalWords": [
+        {
+            "unicode": "συνείδω",
+            "transliteration": "syneídō"
+        }
+    ],
+    "description": "to see completely; used (like its primary) only in two past tenses, respectively meaning to understand or become aware, and to be conscious or (clandestinely) informed of",
+    "definition": {
+        "to see (have seen) together with others": {},
+        "to see (have seen) in one's mind with one's self": {
+            "to understand, perceive, comprehend,": {}
+        },
+        "to know with another": {},
+        "to know in one's mind or with one's self, to be conscience of": {}
+    },
+    "origin": "from g4862 and g1492",
+    "related": [
+        "g1492",
+        "g4862"
+    ]
+}

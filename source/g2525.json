@@ -1,0 +1,26 @@
+{
+    "originalWords": [
+        {
+            "unicode": "καθίστημι",
+            "transliteration": "kathístēmi"
+        }
+    ],
+    "description": "to place down (permanently), i.e., (figuratively) to designate, constitute, convoy",
+    "definition": {
+        "to set, place, put": {
+            "to set one over a thing (in charge of it)": {},
+            "to appoint one to administer an office": {},
+            "to set down as, constitute, to declare, show to be": {},
+            "to constitute, to render, make, cause to be": {},
+            "to conduct or bring to a certain place": {},
+            "to show or exhibit one's self": {
+                "come forward as": {}
+            }
+        }
+    },
+    "origin": "from g2596 and g2476",
+    "related": [
+        "g2476",
+        "g2596"
+    ]
+}

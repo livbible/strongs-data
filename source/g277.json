@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀμετακίνητος",
+            "transliteration": "ametakínētos"
+        }
+    ],
+    "description": "immovable",
+    "definition": {
+        "not to be moved from its place, unmoved": {},
+        "metaphorically firmly persistent": {}
+    },
+    "origin": "from g0001 (as a negative particle) and a derivative of g3334",
+    "related": [
+        "g0001",
+        "g3334"
+    ]
+}

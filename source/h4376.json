@@ -1,0 +1,20 @@
+{
+    "originalWords": "מכר",
+    "description": "to sell, literally (as merchandise, a daughter in marriage, into slavery), or figuratively (to surrender)",
+    "definition": {
+        "to sell": {
+            "(qal)": {
+                "to sell": {},
+                "seller (participle)": {}
+            },
+            "(niphal)": {
+                "to be sold": {},
+                "to sell oneself": {},
+                "to be given over to death": {}
+            },
+            "(hithpael) to sell oneself": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

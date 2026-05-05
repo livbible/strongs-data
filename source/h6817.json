@@ -1,0 +1,18 @@
+{
+    "originalWords": "צעק",
+    "description": "to shriek; (by implication) to proclaim (an assembly)",
+    "definition": {
+        "to cry, cry out, call, cry for help": {
+            "(qal)": {
+                "to cry, cry out (for help)": {},
+                "to cry, cry out (in distress or need)": {},
+                "to make outcry, clamour": {}
+            },
+            "(niphal) to be summoned": {},
+            "(piel) to cry aloud (in grief)": {},
+            "(hiphil) to call together": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "στρατόπεδον",
+            "transliteration": "stratópedon"
+        }
+    ],
+    "description": "a camping-ground, i.e., (by implication) a body of troops",
+    "definition": {
+        "a military camp": {},
+        "soldiers in camp, an army": {}
+    },
+    "origin": "from the base of g4756 and the same as g3977",
+    "related": [
+        "g3977",
+        "g4756"
+    ]
+}

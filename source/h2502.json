@@ -1,0 +1,35 @@
+{
+    "originalWords": "חלץ",
+    "description": "to pull off; hence (intensively) to strip, (reflexive) to depart; by implication, to deliver, equip (for fight); present, strengthen",
+    "definition": {
+        "to remove, draw out, draw off, take off, withdraw, equip (for war), arm for war, rescue, be rescued": {
+            "(qal) equipped (participle)": {},
+            "(niphal)": {
+                "to be equipped": {},
+                "to go equipped": {},
+                "to be armed": {}
+            },
+            "(hiphil)": {
+                "to make strong, brace up": {},
+                "to invigorate": {}
+            }
+        },
+        "to draw off or out, withdraw": {
+            "(qal)": {
+                "to draw, draw off": {},
+                "to withdraw": {}
+            },
+            "(niphal)": {
+                "to be delivered": {},
+                "to be saved": {}
+            },
+            "(piel)": {
+                "to pull out, tear out": {},
+                "to rescue, deliver, set free": {},
+                "to take away, plunder": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

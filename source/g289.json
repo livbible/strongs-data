@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀμπελουργός",
+            "transliteration": "ampelourgós"
+        }
+    ],
+    "description": "a vine-worker, i.e., pruner",
+    "definition": {
+        "a vinedresser": {}
+    },
+    "origin": "from g0288 and g2041",
+    "related": [
+        "g0288",
+        "g2041"
+    ]
+}

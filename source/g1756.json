@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐνεργής",
+            "transliteration": "energḗs"
+        }
+    ],
+    "description": "active, operative",
+    "definition": {
+        "active": {}
+    },
+    "origin": "from g1722 and g2041",
+    "related": [
+        "g1722",
+        "g2041"
+    ]
+}

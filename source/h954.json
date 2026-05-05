@@ -1,0 +1,21 @@
+{
+    "originalWords": "בוש",
+    "description": "properly, to pale, i.e., by implication to be ashamed; also (by implication) to be disappointed or delayed",
+    "definition": {
+        "to put to shame, be ashamed, be disconcerted, be disappointed": {
+            "(qal)": {
+                "to feel shame": {},
+                "to be ashamed, disconcerted, disappointed (by reason of)": {}
+            },
+            "(piel) to delay (in shame)": {},
+            "(hiphil)": {
+                "to put to shame": {},
+                "to act shamefully": {},
+                "to be ashamed": {}
+            },
+            "(hithpolel) to be ashamed before one another": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

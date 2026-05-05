@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πράκτωρ",
+            "transliteration": "práktōr"
+        }
+    ],
+    "description": "a practiser, i.e., (specially), an official collector",
+    "definition": {
+        "one who does anything, a doer": {},
+        "one who does the work of inflicting punishment or taking vengeance": {
+            "the avenger of murder": {},
+            "the exactor of a monetary fine": {},
+            "an officer of justice of the lower order whose business it is to inflict punishment": {}
+        }
+    },
+    "origin": "from a derivative of g4238",
+    "related": [
+        "g4238"
+    ]
+}

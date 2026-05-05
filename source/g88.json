@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀδιάλειπτος",
+            "transliteration": "adiáleiptos"
+        }
+    ],
+    "description": "unintermitted, i.e., permanent",
+    "definition": {
+        "unintermitted, unceasing, continual": {}
+    },
+    "origin": "from g0001 (as a negative particle) and a derivative of a compound of g1223 and g3007",
+    "related": [
+        "g0001",
+        "g1223",
+        "g3007"
+    ]
+}

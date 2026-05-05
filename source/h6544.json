@@ -1,0 +1,22 @@
+{
+    "originalWords": "פרע",
+    "description": "to loosen; by implication, to expose, dismiss; figuratively, absolve, begin",
+    "definition": {
+        "to lead, act as leader": {},
+        "to let go, let loose, ignore, let alone": {
+            "(qal)": {
+                "to let go, let loose": {},
+                "to let alone, avoid, neglect": {},
+                "to loosen": {}
+            },
+            "(niphal) to be let loose, be loosened of restraint": {},
+            "(hiphil)": {
+                "to cause to refrain": {},
+                "to show lack of restraint": {},
+                "to let loose restraints": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

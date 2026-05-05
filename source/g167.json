@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀκαθαρσία",
+            "transliteration": "akatharsía"
+        }
+    ],
+    "description": "impurity (the quality), physically or morally",
+    "definition": {
+        "uncleanness": {
+            "physical": {},
+            "in a moral sense: the impurity of lustful, luxurious, profligate living": {
+                "of impure motives": {}
+            }
+        }
+    },
+    "origin": "from g0169",
+    "related": [
+        "g0169"
+    ]
+}

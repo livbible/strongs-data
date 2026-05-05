@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀπέρχομαι",
+            "transliteration": "apérchomai"
+        }
+    ],
+    "description": "to go off (i.e., depart), aside (i.e., apart) or behind (i.e., follow), literally or figuratively",
+    "definition": {
+        "to go away, depart": {
+            "to go away in order to follow any one, go after him, to follow his party, follow him as a leader": {}
+        },
+        "to go away": {
+            "of departing evils and sufferings": {},
+            "of good things taken away from one": {},
+            "of an evanescent state of things": {}
+        }
+    },
+    "origin": "from g0575 and g2064",
+    "related": [
+        "g0575",
+        "g2064"
+    ]
+}

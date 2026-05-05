@@ -1,0 +1,16 @@
+{
+    "originalWords": "הרג",
+    "description": "to smite with deadly intent",
+    "definition": {
+        "to kill, slay, murder, destroy, murderer, slayer, out of hand": {
+            "(qal)": {
+                "to kill, slay": {},
+                "to destroy, ruin": {}
+            },
+            "(niphal) to be killed": {},
+            "(pual) to be killed, be slain": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

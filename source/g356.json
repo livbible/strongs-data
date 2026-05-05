@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀναλογία",
+            "transliteration": "analogía"
+        }
+    ],
+    "description": "proportion",
+    "definition": {
+        "proportion": {}
+    },
+    "origin": "from a compound of g0303 and g3056",
+    "related": [
+        "g0303",
+        "g3056"
+    ]
+}

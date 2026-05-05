@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "οὕτω",
+            "transliteration": "hoútō"
+        },
+        {
+            "unicode": "οὕτως",
+            "transliteration": "hoútōs"
+        }
+    ],
+    "description": "in this way (referring to what precedes or follows)",
+    "definition": {
+        "in this manner, thus, so": {}
+    },
+    "origin": "adverb from g3778",
+    "related": [
+        "g3778"
+    ]
+}

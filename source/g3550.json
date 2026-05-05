@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "νομοθέτης",
+            "transliteration": "nomothétēs"
+        }
+    ],
+    "description": "a legislator",
+    "definition": {
+        "a lawgiver": {}
+    },
+    "origin": "from g3551 and a derivative of g5087",
+    "related": [
+        "g3551",
+        "g5087"
+    ]
+}

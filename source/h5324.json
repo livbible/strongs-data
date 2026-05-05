@@ -1,0 +1,25 @@
+{
+    "originalWords": "נצב",
+    "description": "to station, in various applications (literally or figuratively)",
+    "definition": {
+        "to stand, take one's stand, stand upright, be set (over), establish": {
+            "(niphal)": {
+                "to station oneself, take one's stand": {},
+                "to stand, be stationed": {},
+                "to stand, take an upright position": {},
+                "to be stationed, be appointed": {},
+                "deputy, prefect, appointed, deputed (subst)": {},
+                "to stand firm": {}
+            },
+            "(hiphil)": {
+                "to station, set": {},
+                "to set up, erect": {},
+                "to cause to stand erect": {},
+                "to fix, establish": {}
+            },
+            "(hophal) to be fixed, be determined, be stationary": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

@@ -1,0 +1,27 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐπιγινώσκω",
+            "transliteration": "epiginṓskō"
+        }
+    ],
+    "description": "to know upon some mark, i.e., recognize; by implication, to become fully acquainted with, to acknowledge",
+    "definition": {
+        "to become thoroughly acquainted with, to know thoroughly": {
+            "to know accurately, know well": {}
+        },
+        "to know": {
+            "to recognize": {
+                "by sight, hearing, of certain signs, to perceive who a person is": {}
+            },
+            "to know i.e., to perceive": {},
+            "to know i.e., to find out, ascertain": {},
+            "to know i.e., to understand": {}
+        }
+    },
+    "origin": "from g1909 and g1097",
+    "related": [
+        "g1097",
+        "g1909"
+    ]
+}

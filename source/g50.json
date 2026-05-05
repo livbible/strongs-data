@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀγνοέω",
+            "transliteration": "agnoéō"
+        }
+    ],
+    "description": "not to know (through lack of information or intelligence); by implication, to ignore (through disinclination)",
+    "definition": {
+        "to be ignorant, not to know": {},
+        "not to understand, unknown": {},
+        "to err or sin through mistake, to be wrong": {}
+    },
+    "origin": "from g0001 (as a negative particle) and g3539",
+    "related": [
+        "g0001",
+        "g3539"
+    ]
+}

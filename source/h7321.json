@@ -1,0 +1,24 @@
+{
+    "originalWords": "רוע",
+    "description": "to mar (especially by breaking); figuratively, to split the ears (with sound), i.e., shout (for alarm or joy)",
+    "definition": {
+        "to shout, raise a sound, cry out, give a blast": {
+            "(hiphil)": {
+                "to shout a war-cry or alarm of battle": {},
+                "to sound a signal for war or march": {},
+                "to shout in triumph (over enemies)": {},
+                "to shout in applause": {},
+                "to shout (with religious impulse)": {},
+                "to cry out in distress": {}
+            },
+            "(polal) to utter a shout": {},
+            "(hithpolel)": {
+                "to shout in triumph": {},
+                "to shout for joy": {}
+            }
+        },
+        "(niphal) destroyed": {}
+    },
+    "origin": "a primitive root",
+    "related": []
+}

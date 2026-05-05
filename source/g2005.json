@@ -1,0 +1,23 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐπιτελέω",
+            "transliteration": "epiteléō"
+        }
+    ],
+    "description": "to fulfill further (or completely), i.e., execute; by implication, to terminate, undergo",
+    "definition": {
+        "to bring to an end, accomplish, perfect, execute, complete": {
+            "to take upon one's self": {},
+            "to make an end for one's self": {
+                "to leave off": {}
+            }
+        },
+        "to appoint to, impose upon": {}
+    },
+    "origin": "from g1909 and g5055",
+    "related": [
+        "g1909",
+        "g5055"
+    ]
+}

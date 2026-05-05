@@ -1,0 +1,18 @@
+{
+    "originalWords": "תלה",
+    "description": "to suspend (especially to gibbet)",
+    "definition": {
+        "to hang": {
+            "(qal)": {
+                "to hang": {
+                    "to hang up (any object)": {},
+                    "to put to death by hanging": {}
+                }
+            },
+            "(niphal) to be hanged": {},
+            "(piel) to hang, hang up (for display)": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

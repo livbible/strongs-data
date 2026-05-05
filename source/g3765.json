@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "οὐκέτι",
+            "transliteration": "oukéti"
+        },
+        {
+            "unicode": "οὐκ ἔτι",
+            "transliteration": "ouk éti"
+        }
+    ],
+    "description": "not yet, no longer",
+    "definition": {
+        "no longer, no more, no further": {}
+    },
+    "origin": "from g3756 and g2089",
+    "related": [
+        "g2089",
+        "g3756"
+    ]
+}

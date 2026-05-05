@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κωμόπολις",
+            "transliteration": "kōmópolis"
+        }
+    ],
+    "description": "an unwalled city",
+    "definition": {
+        "a village approximating in size and number of inhabitants to a city, a village city, a town": {}
+    },
+    "origin": "from g2968 and g4172",
+    "related": [
+        "g2968",
+        "g4172"
+    ]
+}

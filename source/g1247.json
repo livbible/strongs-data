@@ -1,0 +1,32 @@
+{
+    "originalWords": [
+        {
+            "unicode": "διακονέω",
+            "transliteration": "diakonéō"
+        }
+    ],
+    "description": "to be an attendant, i.e., wait upon (menially or as a host, friend, or (figuratively) teacher); technically, to act as a christian deacon",
+    "definition": {
+        "to be a servant, attendant, domestic, to serve, wait upon": {
+            "to minister to one, render ministering offices to": {
+                "to be served, ministered unto": {}
+            },
+            "to wait at a table and offer food and drink to the guests,": {
+                "of women preparing food": {}
+            },
+            "to minister i.e., supply food and necessities of life": {
+                "to relieve one's necessities (e.g., by collecting alms), to provide take care of, distribute, the things necessary\r to sustain life": {},
+                "to take care of the poor and the sick, who administer the office of a deacon": {},
+                "in christian churches to serve as deacons": {}
+            },
+            "to minister": {
+                "to attend to anything, that may serve another's interests": {},
+                "to minister a thing to one, to serve one or by supplying any thing": {}
+            }
+        }
+    },
+    "origin": "from g1249",
+    "related": [
+        "g1249"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πόλις",
+            "transliteration": "pólis"
+        }
+    ],
+    "description": "a town (properly, with walls, of greater or less size)",
+    "definition": {
+        "a city": {
+            "one's native city, the city in which one lives": {},
+            "the heavenly jerusalem": {
+                "the abode of the blessed in heaven": {},
+                "of the visible capital in the heavenly kingdom, to come down to earth after the renovation of the world by fire": {}
+            },
+            "the inhabitants of a city": {}
+        }
+    },
+    "origin": "probably from the same as g4171, or perhaps from g4183",
+    "related": [
+        "g4171",
+        "g4183"
+    ]
+}

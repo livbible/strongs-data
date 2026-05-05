@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀνακλίνω",
+            "transliteration": "anaklínō"
+        }
+    ],
+    "description": "to lean back",
+    "definition": {
+        "to lean against, lean upon": {
+            "to lay down": {},
+            "to make or bid to recline": {}
+        }
+    },
+    "origin": "from g0303 and g2827",
+    "related": [
+        "g0303",
+        "g2827"
+    ]
+}

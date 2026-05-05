@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "περιέρχομαι",
+            "transliteration": "periérchomai"
+        }
+    ],
+    "description": "to come all around, i.e., stroll, vacillate, veer",
+    "definition": {
+        "to go about": {
+            "of strollers": {},
+            "of wanderers": {},
+            "of navigators (making a circuit)": {}
+        }
+    },
+    "origin": "from g4012 and g2064 (including its alternate)",
+    "related": [
+        "g2064",
+        "g4012"
+    ]
+}

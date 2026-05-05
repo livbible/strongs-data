@@ -1,0 +1,27 @@
+{
+    "originalWords": "נגע",
+    "description": "properly, to touch, i.e., lay the hand upon (for any purpose; euphemistically, to lie with a woman); by implication, to reach (figuratively, to arrive, acquire); violently, to strike (punish, defeat, destroy, etc.)",
+    "definition": {
+        "to touch, reach, strike": {
+            "(qal)": {
+                "to touch": {},
+                "to strike": {},
+                "to reach, extend to": {},
+                "to be stricken": {
+                    "stricken (participle)": {}
+                }
+            },
+            "(niphal) to be stricken, be defeated": {},
+            "(piel) to strike": {},
+            "(pual) to be stricken (by disease)": {},
+            "(hiphil) to cause to touch, reach, approach, arrive": {
+                "to cause to touch, apply": {},
+                "to reach, extend, attain, arrive, come": {},
+                "to approach (of time)": {},
+                "to befall (of fate)": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

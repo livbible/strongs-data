@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "θορυβέω",
+            "transliteration": "thorybéō"
+        }
+    ],
+    "description": "to be in tumult, i.e., disturb, clamor",
+    "definition": {
+        "to make a noise or uproar, be turbulent": {},
+        "to disturb, throw into confusion": {
+            "to be troubled in mind": {},
+            "to wail tumultuously": {}
+        }
+    },
+    "origin": "from g2351",
+    "related": [
+        "g2351"
+    ]
+}

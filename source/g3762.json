@@ -1,0 +1,25 @@
+{
+    "originalWords": [
+        {
+            "unicode": "οὐδείς",
+            "transliteration": "oudeís"
+        },
+        {
+            "unicode": "οὐδεμία",
+            "transliteration": "oudemía"
+        },
+        {
+            "unicode": "οὐδέν",
+            "transliteration": "oudén"
+        }
+    ],
+    "description": "not even one (man, woman or thing), i.e., none, nobody, nothing",
+    "definition": {
+        "no one, nothing": {}
+    },
+    "origin": "from g3761 and g1520",
+    "related": [
+        "g1520",
+        "g3761"
+    ]
+}

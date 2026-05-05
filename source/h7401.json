@@ -1,0 +1,20 @@
+{
+    "originalWords": "רכך",
+    "description": "to soften (intransitively or transitively), used figuratively",
+    "definition": {
+        "to be tender, be soft, be weak": {
+            "(qal)": {
+                "to be tender, be weak (of heart)": {
+                    "to be timid, be fearful": {},
+                    "to be softened, be penitent": {}
+                },
+                "to be soft (of treacherous words)": {}
+            },
+            "(pual) to be softened": {},
+            "(hiphil) to cause to be weak": {},
+            "(niphal) tender": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

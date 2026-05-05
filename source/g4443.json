@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πυρά",
+            "transliteration": "pyrá"
+        }
+    ],
+    "description": "a fire (concretely)",
+    "definition": {
+        "a fire, a pile of burning fuel": {}
+    },
+    "origin": "from g4442",
+    "related": [
+        "g4442"
+    ]
+}

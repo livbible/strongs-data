@@ -1,0 +1,36 @@
+{
+    "originalWords": "חלל",
+    "description": "properly, to bore, i.e., (by implication) to wound, to dissolve; figuratively, to profane (a person, place or thing), to break (one's word), to begin (as if by an 'opening wedge'); to play (the flute)",
+    "definition": {
+        "to profane, defile, pollute, desecrate, begin": {
+            "(niphal)": {
+                "to profane oneself, defile oneself, pollute oneself": {
+                    "ritually": {},
+                    "sexually": {}
+                },
+                "to be polluted, be defiled": {}
+            },
+            "(piel)": {
+                "to profane, make common, defile, pollute": {},
+                "to violate the honor of, dishonor": {},
+                "to violate (a covenant)": {},
+                "to treat as common": {}
+            },
+            "(pual) to profane (name of god)": {},
+            "(hiphil)": {
+                "to let be profaned": {},
+                "to begin": {}
+            },
+            "(hophal) to be begun": {}
+        },
+        "to wound (fatally), bore through, pierce, bore": {
+            "(qal) to pierce": {},
+            "(pual) to be slain": {},
+            "(poel) to wound, pierce": {},
+            "(poal) to be wounded": {}
+        },
+        "(piel) to play the flute or pipe": {}
+    },
+    "origin": "a primitive root (compare h2470); also denominative (from h2485)",
+    "related": []
+}

@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "αἰχμαλωσία",
+            "transliteration": "aichmalōsía"
+        }
+    ],
+    "description": "captivity",
+    "definition": {
+        "captivity": {}
+    },
+    "origin": "from g0164",
+    "related": [
+        "g0164"
+    ]
+}

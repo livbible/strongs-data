@@ -1,0 +1,22 @@
+{
+    "originalWords": [
+        {
+            "unicode": "λιθόστρωτος",
+            "transliteration": "lithóstrōtos"
+        }
+    ],
+    "description": "stone-strewed, i.e., a tessellated mosaic on which the roman tribunal was placed",
+    "definition": {
+        "spread (paved with stones)": {},
+        "a mosaic or tessellated pavement": {
+            "of a place near the praetorium or palace of jerusalem": {},
+            "an apartment whose pavement consists of tessellated work": {},
+            "of places in the outer courts of temple": {}
+        }
+    },
+    "origin": "from g3037 and a derivative of g4766",
+    "related": [
+        "g3037",
+        "g4766"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "εὐθυδρομέω",
+            "transliteration": "euthydroméō"
+        }
+    ],
+    "description": "to lay a straight course, i.e., sail direct",
+    "definition": {
+        "to make a straight course, run a straight course": {}
+    },
+    "origin": "from g2117 and g1408",
+    "related": [
+        "g1408",
+        "g2117"
+    ]
+}

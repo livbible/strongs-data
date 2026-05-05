@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πώποτε",
+            "transliteration": "pṓpote"
+        }
+    ],
+    "description": "at any time, i.e., (with negative particle) at no time",
+    "definition": {
+        "ever, at any time": {}
+    },
+    "origin": "from g4452 and g4218",
+    "related": [
+        "g4218",
+        "g4452"
+    ]
+}

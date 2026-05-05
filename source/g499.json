@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀντίτυπον",
+            "transliteration": "antítypon"
+        }
+    ],
+    "description": "corresponding (\"antitype\"), i.e., a representative, counterpart",
+    "definition": {
+        "a thing formed after some pattern": {},
+        "a thing resembling another, its counterpart": {
+            "something in the messianic times which answers to the type, as baptism corresponds to the deluge (1 peter 3:21)": {}
+        }
+    },
+    "origin": "neuter of a compound of g0473 and g5179",
+    "related": [
+        "g0473",
+        "g5179"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "originalWords": "ירה",
+    "description": "properly, to flow as water (i.e., to rain); transitively, to lay or throw (especially an arrow, i.e., to shoot); figuratively, to point out (as if by aiming the finger), to teach",
+    "definition": {
+        "to throw, shoot, cast, pour": {
+            "(qal)": {
+                "to throw, cast": {},
+                "to cast, lay, set": {},
+                "to shoot arrows": {},
+                "to throw water, rain": {}
+            },
+            "(niphal) to be shot": {},
+            "(hiphil)": {
+                "to throw, cast": {},
+                "to shoot": {},
+                "to point out, show": {},
+                "to direct, teach, instruct": {},
+                "to throw water, rain": {}
+            }
+        }
+    },
+    "origin": "or (2 chronicles 26:15) ?????; a primitive root",
+    "related": []
+}

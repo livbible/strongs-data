@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "εὔθετος",
+            "transliteration": "eúthetos"
+        }
+    ],
+    "description": "well placed, i.e., (figuratively) appropriate",
+    "definition": {
+        "well placed": {
+            "fit": {},
+            "useful": {}
+        }
+    },
+    "origin": "from g2095 and a derivative of g5087",
+    "related": [
+        "g2095",
+        "g5087"
+    ]
+}

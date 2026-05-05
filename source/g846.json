@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "αὐτός",
+            "transliteration": "autós"
+        }
+    ],
+    "description": "the reflexive pronoun self, used (alone or in the comparative g1438) of the third person, and (with the proper personal pronoun) of the other persons",
+    "definition": {
+        "himself, herself, themselves, itself": {},
+        "he, she, it": {},
+        "the same": {}
+    },
+    "origin": "from the particle ?? (perhaps akin to the base of g0109 through the idea of a baffling wind) (backward)",
+    "related": [
+        "g0109",
+        "g0848",
+        "g1438"
+    ],
+    "notes": "compare g0848."
+}

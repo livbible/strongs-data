@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "γεωργός",
+            "transliteration": "geōrgós"
+        }
+    ],
+    "description": "a land-worker, i.e., farmer",
+    "definition": {
+        "a husbandman, tiller of the soil, a vine dresser": {}
+    },
+    "origin": "from g1093 and the base of g2041",
+    "related": [
+        "g1093",
+        "g2041"
+    ]
+}

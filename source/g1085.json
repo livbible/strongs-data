@@ -1,0 +1,23 @@
+{
+    "originalWords": [
+        {
+            "unicode": "γένος",
+            "transliteration": "génos"
+        }
+    ],
+    "description": "\"kin\" (abstract or concrete, literal or figurative, individual or collective)",
+    "definition": {
+        "race": {
+            "offspring": {},
+            "family": {},
+            "stock, race, nation": {
+                "i.e., nationality or descent from a particular people": {}
+            },
+            "the aggregate of many individuals of the same nature, kind, sort": {}
+        }
+    },
+    "origin": "from g1096",
+    "related": [
+        "g1096"
+    ]
+}

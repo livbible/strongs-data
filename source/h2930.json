@@ -1,0 +1,35 @@
+{
+    "originalWords": "טמא",
+    "description": "to be foul, especially in a ceremial or moral sense (contaminated)",
+    "definition": {
+        "to be unclean, become unclean, become impure": {
+            "(qal) to be or become unclean": {
+                "sexually": {},
+                "religiously": {},
+                "ceremonially": {}
+            },
+            "(niphal)": {
+                "to defile oneself, be defiled": {
+                    "sexually": {},
+                    "by idolatry": {},
+                    "ceremonially": {}
+                },
+                "to be regarded as unclean": {}
+            },
+            "(piel)": {
+                "to defile": {
+                    "sexually": {},
+                    "religiously": {},
+                    "ceremonially": {}
+                },
+                "to pronounce unclean, declare unclean (ceremonially)": {},
+                "to profane (god's name)": {}
+            },
+            "(pual) to be defiled": {},
+            "(hithpael) to be unclean": {},
+            "(hothpael) to be defiled": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

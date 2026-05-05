@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "συγκληρονόμος",
+            "transliteration": "synklēronómos"
+        }
+    ],
+    "description": "a co-heir, i.e., (by analogy) participant in common",
+    "definition": {
+        "a fellow heir, a joint heir": {},
+        "one who obtains something assigned to himself with others, a joint participant": {}
+    },
+    "origin": "from g4862 and g2818",
+    "related": [
+        "g2818",
+        "g4862"
+    ]
+}

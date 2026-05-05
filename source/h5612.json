@@ -1,0 +1,27 @@
+{
+    "originalWords": "ספר",
+    "description": "properly, writing (the art or a document); by implication, a book",
+    "definition": {
+        "(n f) book": {},
+        "(n m) missive, document, writing, book": {
+            "missive": {
+                "letter (of instruction), written order, commission, request, written decree": {}
+            },
+            "legal document, certificate of divorce, deed of purchase, indictment, sign": {},
+            "book, scroll": {
+                "book of prophecies": {},
+                "genealogical register": {},
+                "law-book": {},
+                "book (of poems)": {},
+                "book (of kings)": {},
+                "books of the canon, scripture": {},
+                "record book (of god)": {}
+            },
+            "book-learning, writing": {
+                "be able to read (after verb 'to know')": {}
+            }
+        }
+    },
+    "origin": "or (feminine) ???????; (psalm 56:8 (h0009)), from h5608",
+    "related": []
+}

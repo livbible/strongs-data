@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἔννατος",
+            "transliteration": "énnatos"
+        }
+    ],
+    "description": "ninth",
+    "definition": {
+        "ninth": {
+            "the ninth hour corresponds to our 3 o'clock in the afternoon": {}
+        }
+    },
+    "origin": "ordinal from g1767",
+    "related": [
+        "g1767"
+    ],
+    "notes": "the sixth hour of the jews coincides with the twelfth of the day as divided by modern-day methods; therefore the first hour of the jewish day would be 6 am."
+}

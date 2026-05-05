@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀριστερός",
+            "transliteration": "aristerós"
+        }
+    ],
+    "description": "the left hand (as second-best)",
+    "definition": {
+        "left": {}
+    },
+    "origin": "apparently a comparative of the same as g0712",
+    "related": [
+        "g0712"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "αἴτιος",
+            "transliteration": "aítios"
+        }
+    ],
+    "description": "causative, i.e., (concretely) a causer",
+    "definition": {
+        "that which is the cause of anything resides, causative, causing": {
+            "the author": {
+                "of a cause": {},
+                "of crime or offence": {}
+            }
+        }
+    },
+    "origin": "from the same as g0154",
+    "related": [
+        "g0154"
+    ]
+}

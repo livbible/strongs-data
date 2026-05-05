@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "τρεῖς",
+            "transliteration": "treîs"
+        },
+        {
+            "unicode": "τρία",
+            "transliteration": "tría"
+        }
+    ],
+    "description": "\"three\"",
+    "definition": {
+        "three": {}
+    },
+    "origin": "a primary (plural) number",
+    "related": []
+}

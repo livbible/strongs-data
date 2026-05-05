@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀποσυνάγωγος",
+            "transliteration": "aposynágōgos"
+        }
+    ],
+    "description": "excommunicated",
+    "definition": {
+        "excluded from sacred assemblies of israelites, excommunicated": {}
+    },
+    "origin": "from g0575 and g4864",
+    "related": [
+        "g0575",
+        "g4864"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "αἴτημα",
+            "transliteration": "aítēma"
+        }
+    ],
+    "description": "a thing asked or (abstractly) an asking",
+    "definition": {
+        "petition, request, required": {}
+    },
+    "origin": "from g0154",
+    "related": [
+        "g0154"
+    ]
+}

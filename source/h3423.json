@@ -1,0 +1,24 @@
+{
+    "originalWords": "ירש",
+    "description": "to occupy (by driving out previous tenants, and possessing in their place); by implication, to seize, to rob, to inherit; also to expel, to impoverish, to ruin",
+    "definition": {
+        "to seize, dispossess, take possession off, inherit, disinherit, occupy, impoverish, be an heir": {
+            "(qal)": {
+                "to take possession of": {},
+                "to inherit": {},
+                "to impoverish, come to poverty, be poor": {}
+            },
+            "(niphal) to be dispossessed, be impoverished, come to poverty": {},
+            "(piel) to devour": {},
+            "(hiphil)": {
+                "to cause to possess or inherit": {},
+                "to cause others to possess or inherit": {},
+                "to impoverish": {},
+                "to dispossess": {},
+                "to destroy, bring to ruin, disinherit": {}
+            }
+        }
+    },
+    "origin": "or ??????; a primitive root",
+    "related": []
+}

@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πυρετός",
+            "transliteration": "pyretós"
+        }
+    ],
+    "description": "inflamed, i.e., (by implication) feverish (as noun, fever)",
+    "definition": {
+        "fiery heat": {},
+        "fever": {}
+    },
+    "origin": "from g4445",
+    "related": [
+        "g4445"
+    ]
+}

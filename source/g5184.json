@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Τύρος",
+            "transliteration": "Týros"
+        }
+    ],
+    "description": "the city of tyre",
+    "literal": "a rock",
+    "definition": {
+        "a phoenician city on the mediterranean, very ancient, large, splendid, flourishing in commerce, and powerful by land and sea": {}
+    },
+    "origin": "of hebrew origin (h6865): tyrus (i.e. tsor), a place in palestine",
+    "related": [
+        "h6865"
+    ]
+}

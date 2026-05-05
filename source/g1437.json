@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐάν",
+            "transliteration": "eán"
+        }
+    ],
+    "description": "a conditional particle; in case that, provided, etc.; often used in connection with other particles to denote indefiniteness or uncertainty",
+    "definition": {
+        "if, in case": {}
+    },
+    "origin": "from g1487 and g0302",
+    "related": [
+        "g0302",
+        "g1487",
+        "g3361"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀμήν",
+            "transliteration": "amḗn"
+        }
+    ],
+    "description": "properly, firm, i.e., (figuratively) trustworthy; adverbially, surely (often as interjection, so be it)",
+    "definition": {
+        "firm": {
+            "metaphorically faithful": {}
+        },
+        "verily, amen": {
+            "at the beginning of a discourse: surely, truly, of a truth": {},
+            "at the end: so it is, so be it, may it be fulfilled": {}
+        }
+    },
+    "origin": "of hebrew origin (h0543)",
+    "related": [
+        "h0543"
+    ],
+    "notes": "it was a custom, which passed over from the synagogues to the christian assemblies, that when he who had read or discoursed, had offered up solemn prayer to god, the others responded \"amen,\" and thus made the substance of what was uttered their own."
+}

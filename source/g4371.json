@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "προσφάγιον",
+            "transliteration": "prosphágion"
+        }
+    ],
+    "description": "something eaten in addition to bread, i.e., a relish (specially, fish; compare g3795)",
+    "definition": {
+        "anything eaten with bread": {
+            "spoken of fish boiled or broiled": {}
+        }
+    },
+    "origin": "neuter of a presumed derivative of a compound of g4314 and g5315",
+    "related": [
+        "g3795",
+        "g4314",
+        "g5315"
+    ]
+}

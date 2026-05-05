@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Χριστιανός",
+            "transliteration": "Christianós"
+        }
+    ],
+    "description": "a christian, i.e., follower of christ",
+    "definition": {
+        "christian, a follower of christ": {}
+    },
+    "origin": "from g5547",
+    "related": [
+        "g5547"
+    ]
+}

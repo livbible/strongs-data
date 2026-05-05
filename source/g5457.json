@@ -1,0 +1,38 @@
+{
+    "originalWords": [
+        {
+            "unicode": "φῶς",
+            "transliteration": "phōs"
+        }
+    ],
+    "description": "luminousness (in the widest application, natural or artificial, abstract or concrete, literal or figurative)",
+    "definition": {
+        "light": {
+            "the light": {
+                "emitted by a lamp": {},
+                "a heavenly light such as surrounds angels when they appear on earth": {}
+            },
+            "anything emitting light": {
+                "a star": {},
+                "fire because it is light and sheds light": {},
+                "a lamp or torch": {}
+            },
+            "light, i.e., brightness": {
+                "of a lamp": {}
+            }
+        },
+        "metaphorically": {
+            "god is light because light has the extremely delicate, subtle, pure, brilliant quality": {},
+            "of truth and its knowledge, together with the spiritual purity associated with it": {},
+            "that which is exposed to the view of all, openly, publicly": {},
+            "reason, mind": {
+                "the power of understanding especially moral and spiritual truth": {}
+            }
+        }
+    },
+    "origin": "from an obsolete ??? (to shine or make manifest, especially by rays; compare g5316, g5346)",
+    "related": [
+        "g5316",
+        "g5346"
+    ]
+}

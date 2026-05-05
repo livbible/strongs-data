@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "βροχή",
+            "transliteration": "brochḗ"
+        }
+    ],
+    "description": "rain",
+    "definition": {
+        "a besprinkling, watering, rain": {
+            "used of a heavy shower or violent rainstorm": {}
+        }
+    },
+    "origin": "from g1026",
+    "related": [
+        "g1026"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "originalWords": "רצח",
+    "description": "properly, to dash in pieces, i.e., kill (a human being), especially to murder",
+    "definition": {
+        "to murder, slay, kill": {
+            "(qal) to murder, slay": {
+                "premeditated": {},
+                "accidental": {},
+                "as avenger": {},
+                "slayer (intentional) (participle)": {}
+            },
+            "(niphal) to be slain": {},
+            "(piel)": {
+                "to murder, assassinate": {},
+                "murderer, assassin (participle)(subst)": {}
+            },
+            "(pual) to be killed": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

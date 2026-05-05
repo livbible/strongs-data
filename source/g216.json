@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἄλαλος",
+            "transliteration": "álalos"
+        }
+    ],
+    "description": "mute",
+    "definition": {
+        "speechless, dumb, wanting the faculty of speech": {}
+    },
+    "origin": "from g0001 (as a negative particle) and g2980",
+    "related": [
+        "g0001",
+        "g2980"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀφανισμός",
+            "transliteration": "aphanismós"
+        }
+    ],
+    "description": "disappearance, i.e., (figuratively) abrogation",
+    "definition": {
+        "disappearance": {},
+        "destruction": {}
+    },
+    "origin": "from g0853",
+    "related": [
+        "g0853"
+    ]
+}

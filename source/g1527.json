@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "εἷς καθ’ εἷς",
+            "transliteration": "heîs kath’ heîs"
+        }
+    ],
+    "description": "severally",
+    "definition": {
+        "one after another": {}
+    },
+    "origin": "from g1520 repeated with g2596 inserted",
+    "related": [
+        "g1520",
+        "g2596"
+    ]
+}

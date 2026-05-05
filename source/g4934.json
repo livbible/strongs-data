@@ -1,0 +1,23 @@
+{
+    "originalWords": [
+        {
+            "unicode": "συντίθεμαι",
+            "transliteration": "syntíthemai"
+        }
+    ],
+    "description": "to place jointly, i.e., (figuratively) to consent (bargain, stipulate), concur",
+    "definition": {
+        "to put together with, to place together, to join together": {
+            "to place in one's mind": {
+                "to resolve, determine": {},
+                "to make an arrangement, to engage": {}
+            },
+            "to assent to, to agree to": {}
+        }
+    },
+    "origin": "middle voice from g4862 and g5087",
+    "related": [
+        "g4862",
+        "g5087"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ξενίζω",
+            "transliteration": "xenízō"
+        }
+    ],
+    "description": "to be a host (passively, a guest); by implication, be (make, appear) strange",
+    "definition": {
+        "to receive as a guest, to entertain, hospitably": {
+            "to be received hospitably": {},
+            "to stay as a guest, to lodge": {},
+            "be lodged": {}
+        },
+        "to surprise or astonish by the strangeness and novelty of a thing": {
+            "to think strange, be shocked": {}
+        }
+    },
+    "origin": "from g3581",
+    "related": [
+        "g3581"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἑλκύω",
+            "transliteration": "helkýō"
+        },
+        {
+            "unicode": "ἕλκω",
+            "transliteration": "hélkō"
+        }
+    ],
+    "description": "to drag (literally or figuratively)",
+    "definition": {
+        "to draw, drag off": {},
+        "metaphorically, to draw by inward power, lead, impel": {}
+    },
+    "origin": "probably akin to g0138",
+    "related": [
+        "g0138",
+        "g1667"
+    ],
+    "notes": "compare g1667."
+}

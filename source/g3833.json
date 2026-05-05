@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πανοπλία",
+            "transliteration": "panoplía"
+        }
+    ],
+    "description": "full armor (\"panoply\")",
+    "definition": {
+        "full armour, complete armour": {
+            "includes shield, sword, lance, helmet, greaves, and breastplate": {}
+        }
+    },
+    "origin": "from a compound of g3956 and g3696",
+    "related": [
+        "g3696",
+        "g3956"
+    ]
+}

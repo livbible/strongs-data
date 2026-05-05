@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀποβλέπω",
+            "transliteration": "apoblépō"
+        }
+    ],
+    "description": "to look away from everything else, i.e., (figuratively) intently regard",
+    "definition": {
+        "to turn the eyes away from other things and fix them on some one thing": {
+            "to look at attentively": {}
+        },
+        "to look with steadfast mental gaze": {}
+    },
+    "origin": "from g0575 and g0991",
+    "related": [
+        "g0575",
+        "g0991"
+    ]
+}

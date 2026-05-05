@@ -1,0 +1,41 @@
+{
+    "originalWords": "פקד",
+    "description": "to visit (with friendly or hostile intent); by analogy, to oversee, muster, charge, care for, miss, deposit, etc",
+    "definition": {
+        "(v) to attend to, muster, number, reckon, visit, punish, appoint, look after, care for": {
+            "(qal)": {
+                "to pay attention to, observe": {},
+                "to attend to": {},
+                "to seek, look about for": {},
+                "to seek in vain, need, miss, lack": {},
+                "to visit": {},
+                "to visit upon, punish": {},
+                "to pass in review, muster, number": {},
+                "to appoint, assign, lay upon as a charge, deposit": {}
+            },
+            "(niphal)": {
+                "to be sought, be needed, be missed, be lacking": {},
+                "to be visited": {},
+                "to be visited upon": {},
+                "to be appointed": {},
+                "to be watched over": {}
+            },
+            "(piel) to muster, call up": {},
+            "(pual) to be passed in review, be caused to miss, be called, be called to account": {},
+            "(hiphil)": {
+                "to set over, make overseer, appoint an overseer": {},
+                "to commit, entrust, commit for care, deposit": {}
+            },
+            "(hophal)": {
+                "to be visited": {},
+                "to be deposited": {},
+                "to be made overseer, be entrusted": {}
+            },
+            "(hithpael) numbered": {},
+            "(hothpael) numbered": {}
+        },
+        "(n m pl abstr) musterings, expenses": {}
+    },
+    "origin": "a primitive root",
+    "related": []
+}

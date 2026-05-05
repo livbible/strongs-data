@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀνακεῖμαι",
+            "transliteration": "anakeîmai"
+        }
+    ],
+    "description": "to recline (as a corpse or at a meal)",
+    "definition": {
+        "to lie at a table, eat together, dine": {}
+    },
+    "origin": "from g0303 and g2749",
+    "related": [
+        "g0303",
+        "g2749"
+    ]
+}

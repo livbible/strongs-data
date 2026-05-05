@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀδυνατέω",
+            "transliteration": "adynatéō"
+        }
+    ],
+    "description": "to be unable, i.e., (passively) impossible",
+    "definition": {
+        "impossible": {
+            "not to have strength, power, or ability, to be weak": {},
+            "can not be done, to be impossible": {}
+        }
+    },
+    "origin": "from g0102",
+    "related": [
+        "g0102"
+    ]
+}

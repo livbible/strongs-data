@@ -1,0 +1,20 @@
+{
+    "originalWords": "קרע",
+    "description": "to rend, literally or figuratively (revile, paint the eyes, as if enlarging them)",
+    "definition": {
+        "to tear, tear in pieces": {
+            "(qal)": {
+                "to tear, rend": {},
+                "to tear away or out": {},
+                "to tear, rend asunder": {
+                    "to make wide or large (of eyes)": {},
+                    "to rend open (of heavens)": {}
+                },
+                "to tear, rend (of wild beasts)": {}
+            },
+            "(niphal) to be rent, be split asunder": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

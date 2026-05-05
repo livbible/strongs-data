@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πανοῦργος",
+            "transliteration": "panoûrgos"
+        }
+    ],
+    "description": "all-working, i.e., adroit (shrewd)",
+    "definition": {
+        "skilful, clever": {
+            "in a good sense, fit to undertake and accomplish anything, dexterous, wise, sagacious, skilful": {},
+            "in a bad sense, crafty, cunning, knavish, treacherous, deceitful": {}
+        }
+    },
+    "origin": "from g3956 and g2041",
+    "related": [
+        "g2041",
+        "g3956"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀλάλητος",
+            "transliteration": "alálētos"
+        }
+    ],
+    "description": "unspeakable",
+    "definition": {
+        "not to be uttered, not expressed in words": {}
+    },
+    "origin": "from g0001 (as a negative particle) and a derivative of g2980",
+    "related": [
+        "g0001",
+        "g2980"
+    ]
+}

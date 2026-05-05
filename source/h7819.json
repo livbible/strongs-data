@@ -1,0 +1,22 @@
+{
+    "originalWords": "שחט",
+    "description": "to slaughter (in sacrifice or massacre)",
+    "definition": {
+        "(v) to kill, slaughter, beat": {
+            "(qal)": {
+                "to slaughter": {
+                    "beast for food": {},
+                    "sacrifice": {},
+                    "person in human sacrifice": {},
+                    "beaten, hammered (of shekels)": {}
+                }
+            },
+            "(niphal) to be slaughtered, be slain (of food or sacrifice)": {}
+        },
+        "(n f) slaughtering": {
+            "word doubtful": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

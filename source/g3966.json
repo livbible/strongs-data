@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πατριάρχης",
+            "transliteration": "patriárchēs"
+        }
+    ],
+    "description": "a progenitor (\"patriarch\")",
+    "definition": {
+        "patriarch, founder of a tribe, progenitor": {
+            "of the twelve sons of jacob, founders of the tribes of israel": {},
+            "of abraham, isaac and jacob": {}
+        }
+    },
+    "origin": "from g3965 and g0757",
+    "related": [
+        "g0757",
+        "g3965"
+    ]
+}

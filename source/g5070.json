@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "τετρακισχίλιοι",
+            "transliteration": "tetrakischílioi"
+        }
+    ],
+    "description": "four times a thousand",
+    "definition": {
+        "four thousand": {}
+    },
+    "origin": "from the multiplicative adverb of g5064 and g5507",
+    "related": [
+        "g5064",
+        "g5507"
+    ]
+}

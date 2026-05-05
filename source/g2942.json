@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κυβερνήτης",
+            "transliteration": "kybernḗtēs"
+        }
+    ],
+    "description": "helmsman, i.e., (by implication) captain",
+    "definition": {
+        "steersman, helmsman, sailing master": {}
+    },
+    "origin": "from the same as g2941",
+    "related": [
+        "g2941"
+    ]
+}

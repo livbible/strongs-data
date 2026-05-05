@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ναύκληρος",
+            "transliteration": "naúklēros"
+        }
+    ],
+    "description": "a captain",
+    "definition": {
+        "a ship owner, ship master": {
+            "one who hires out his vessel, or a portion of it, for purposes of transportation": {}
+        }
+    },
+    "origin": "from g3491 and g2819 (\"clerk\")",
+    "related": [
+        "g2819",
+        "g3491"
+    ]
+}

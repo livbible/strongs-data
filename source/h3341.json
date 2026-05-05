@@ -1,0 +1,16 @@
+{
+    "originalWords": "יצת",
+    "description": "to burn or set on fire; figuratively, to desolate",
+    "definition": {
+        "to kindle, burn, set on fire": {
+            "(qal) to kindle": {},
+            "(niphal)": {
+                "to be kindled": {},
+                "to be left desolate": {}
+            },
+            "(hiphil) to set on fire, kindle": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

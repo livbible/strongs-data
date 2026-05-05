@@ -1,0 +1,31 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀλήθεια",
+            "transliteration": "alḗtheia"
+        }
+    ],
+    "description": "truth",
+    "definition": {
+        "objectively": {
+            "what is true in any matter under consideration": {
+                "truly, in truth, according to truth": {},
+                "of a truth, in reality, in fact, certainly": {}
+            },
+            "what is true in things appertaining to god and the duties of man, moral and religious truth": {
+                "in the greatest latitude": {},
+                "the true notions of god which are open to human reason without his supernatural intervention": {}
+            },
+            "the truth as taught in the christian religion, respecting god and the execution of his purposes through christ, and respecting the duties of man, opposing alike to the superstitions of the gentiles and the inventions of the jews, and the corrupt opinions and precepts of false teachers even among christians": {}
+        },
+        "subjectively": {
+            "truth as a personal excellence": {
+                "that candour of mind which is free from affection, pretence, simulation, falsehood, deceit": {}
+            }
+        }
+    },
+    "origin": "from g0227",
+    "related": [
+        "g0227"
+    ]
+}

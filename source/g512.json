@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀνωφελής",
+            "transliteration": "anōphelḗs"
+        }
+    ],
+    "description": "useless or (neuter) inutility",
+    "definition": {
+        "unprofitable, useless": {}
+    },
+    "origin": "from g0001 (as a negative particle) and the base of g5624",
+    "related": [
+        "g0001",
+        "g5624"
+    ]
+}

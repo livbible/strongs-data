@@ -1,0 +1,19 @@
+{
+    "originalWords": "שאנן",
+    "description": "secure; in a bad sense, haughty",
+    "definition": {
+        "(adj) at ease, quiet, secure": {
+            "at ease, secure": {},
+            "at ease, careless, wanton, arrogant": {}
+        },
+        "(subst) security, pride, arrogance": {
+            "one at ease": {},
+            "arrogance": {}
+        }
+    },
+    "origin": "from h7599",
+    "related": [
+        "h7946"
+    ],
+    "notes": "compare h7946."
+}

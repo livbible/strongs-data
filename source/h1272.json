@@ -1,0 +1,20 @@
+{
+    "originalWords": "ברח",
+    "description": "to bolt, i.e., figuratively, to flee suddenly",
+    "definition": {
+        "to go through, flee, run away, chase, drive away, put to flight, reach, shoot (extend), hurry away": {
+            "(qal)": {
+                "to go, pass through": {},
+                "to flee": {},
+                "to hasten, come quickly": {}
+            },
+            "(hiphil)": {
+                "to pass through": {},
+                "to cause to flee, put to flight": {},
+                "to drive away": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

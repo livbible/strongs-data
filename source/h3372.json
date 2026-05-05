@@ -1,0 +1,21 @@
+{
+    "originalWords": "ירא",
+    "description": "to fear; morally to revere; causatively to frighten",
+    "definition": {
+        "to fear, revere, be afraid": {
+            "(qal)": {
+                "to fear, be afraid": {},
+                "to stand in awe of, be awed": {},
+                "to fear, reverence, honor, respect": {}
+            },
+            "(niphal)": {
+                "to be fearful, be dreadful, be feared": {},
+                "to cause astonishment and awe, be held in awe": {},
+                "to inspire reverence or godly fear or awe": {}
+            },
+            "(piel) to make afraid, terrify": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

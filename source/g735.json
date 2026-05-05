@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Ἄρτεμις",
+            "transliteration": "Ártemis"
+        }
+    ],
+    "description": "prompt; artemis, the name of a grecian goddess borrowed by the asiatics for one of their deities",
+    "literal": "complete light, flow restrained",
+    "definition": {
+        "diana, artemis (in greek)": {}
+    },
+    "origin": "probably from the same as g0736",
+    "related": [
+        "g0736"
+    ],
+    "notes": "the tauric or persian or ephesian goddess (also known as artemis) was the goddess of many asiatic people. it is to be distinguished from the artemis of the greeks, the sister of apollo. a very splendid temple was built to her at ephesus, which was set on fire by herostratus and reduced to ashes; but afterwards in the times of alexander the great. it was rebuilt in a style of greater magnificence."
+}

@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐφήμερος",
+            "transliteration": "ephḗmeros"
+        }
+    ],
+    "description": "for a day (\"ephemeral\"), i.e., diurnal",
+    "definition": {
+        "lasting for a day": {},
+        "daily": {}
+    },
+    "origin": "from g1909 and g2250",
+    "related": [
+        "g1909",
+        "g2250"
+    ]
+}

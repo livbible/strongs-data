@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κεράμιον",
+            "transliteration": "kerámion"
+        }
+    ],
+    "description": "an earthenware vessel, i.e., jar",
+    "definition": {
+        "an earthen vessel, a pot, jar": {},
+        "a jug or pitcher": {},
+        "a water pitcher": {}
+    },
+    "origin": "neuter of a presumed derivative of g2766",
+    "related": [
+        "g2766"
+    ]
+}

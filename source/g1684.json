@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐμβαίνω",
+            "transliteration": "embaínō"
+        }
+    ],
+    "description": "to walk on, i.e., embark (aboard a vessel), reach (a pool)",
+    "definition": {
+        "to go into, step into": {}
+    },
+    "origin": "from g1722 and the base of g0939",
+    "related": [
+        "g0939",
+        "g1722"
+    ]
+}

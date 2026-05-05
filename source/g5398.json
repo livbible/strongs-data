@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "φοβερός",
+            "transliteration": "phoberós"
+        }
+    ],
+    "description": "frightful, i.e., (objectively) formidable",
+    "definition": {
+        "inspiring fear, terrible, formidable": {},
+        "affected with fear, timid": {}
+    },
+    "origin": "from g5401",
+    "related": [
+        "g5401"
+    ]
+}

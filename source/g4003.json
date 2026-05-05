@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πεντεκαιδέκατος",
+            "transliteration": "pentekaidékatos"
+        }
+    ],
+    "description": "five and tenth",
+    "definition": {
+        "the fifteenth": {}
+    },
+    "origin": "from g4002 and g2532 and g1182",
+    "related": [
+        "g1182",
+        "g2532",
+        "g4002"
+    ]
+}

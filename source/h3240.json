@@ -1,0 +1,29 @@
+{
+    "originalWords": "ינח",
+    "description": "to deposit; by implication, to allow to stay",
+    "definition": {
+        "to rest": {
+            "(qal)": {
+                "to rest, settle down and remain": {},
+                "to repose, have rest, be quiet": {}
+            },
+            "(hiphil)": {
+                "to cause to rest, give rest to, make quiet": {},
+                "to cause to rest, cause to alight, set down": {},
+                "to lay or set down, deposit, let lie, place": {},
+                "to let remain, leave": {},
+                "to leave, depart from": {},
+                "to abandon": {},
+                "to permit": {}
+            },
+            "(hophal)": {
+                "to obtain rest, be granted rest": {},
+                "to be left, be placed": {},
+                "open space (subst)": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": [],
+    "notes": "the hiphil forms with the dagesh are here referred to, in accordance with the older grammarians; but if any distinction of the kind is to be made, these should rather be referred to h5117, and the others here."
+}

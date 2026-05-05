@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "φλογίζω",
+            "transliteration": "phlogízō"
+        }
+    ],
+    "description": "to cause a blaze, i.e., ignite (figuratively, to inflame with passion)",
+    "definition": {
+        "to ignite, set on fire": {},
+        "to burn up": {},
+        "figuratively to operate destructively, have a most pernicious power": {
+            "of that in which the destructive influences are kindled": {}
+        }
+    },
+    "origin": "from g5395",
+    "related": [
+        "g5395"
+    ]
+}

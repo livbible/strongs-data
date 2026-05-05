@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀμφίβληστρον",
+            "transliteration": "amphíblēstron"
+        }
+    ],
+    "description": "a (fishing) net (as thrown about the fish)",
+    "definition": {
+        "anything thrown around one to impede his motions, as chains, a garment, a net for fishing": {}
+    },
+    "origin": "from a compound of the base of g0297 and g0906",
+    "related": [
+        "g0297",
+        "g0906"
+    ]
+}

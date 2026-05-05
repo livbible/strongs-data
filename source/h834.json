@@ -1,0 +1,20 @@
+{
+    "originalWords": "אשר",
+    "description": "who, which, what, that; also (as an adverb and a conjunction) when, where, how, because, in order that, etc",
+    "definition": {
+        "(relative part.)": {
+            "which, who": {},
+            "that which": {}
+        },
+        "(conj)": {
+            "that (in obj clause)": {},
+            "when": {},
+            "since": {},
+            "as": {},
+            "conditional if": {}
+        }
+    },
+    "origin": "a primitive relative pronoun (of every gender and number)",
+    "related": [],
+    "notes": "as it is indeclinable, it is often accompanied by the personal pronoun expletively, used to show the connection."
+}

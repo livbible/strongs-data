@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Ἀρεοπαγίτης",
+            "transliteration": "Areopagítēs"
+        }
+    ],
+    "description": "an areopagite or member of the court held on mars' hill",
+    "definition": {
+        "a member of the court of areopagus, an areopagite": {}
+    },
+    "origin": "from g0697",
+    "related": [
+        "g0697"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Σαούλ",
+            "transliteration": "Saoúl"
+        }
+    ],
+    "description": "saul (i.e., shaul), the jewish name of paul",
+    "literal": "desired",
+    "definition": {
+        "the jewish name of the apostle paul": {},
+        "the son of kish and the first king of israel": {}
+    },
+    "origin": "of hebrew origin (h7586)",
+    "related": [
+        "h7586",
+        "g4569"
+    ],
+    "notes": "compare g4569."
+}

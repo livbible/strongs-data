@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "παρατήρησις",
+            "transliteration": "paratḗrēsis"
+        }
+    ],
+    "description": "inspection, i.e., ocular evidence",
+    "definition": {
+        "observation": {}
+    },
+    "origin": "from g3906",
+    "related": [
+        "g3906"
+    ]
+}

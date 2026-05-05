@@ -1,0 +1,23 @@
+{
+    "originalWords": "נחל",
+    "description": "to inherit (as a (figurative) mode of descent), or (generally) to occupy; causatively, to bequeath, or (generally) distribute, instate",
+    "definition": {
+        "to get as a possession, acquire, inherit, possess": {
+            "(qal)": {
+                "to take possession, inherit": {},
+                "to have or get as a possession or property (figuratively)": {},
+                "to divide the land for a possession": {},
+                "to acquire (testimonies) (figuratively)": {}
+            },
+            "(piel) to divide for a possession": {},
+            "(hithpael) to possess oneself of": {},
+            "(hiphil)": {
+                "to give as a possession": {},
+                "to cause to inherit, give as an inheritance": {}
+            },
+            "(hophal) to be allotted, be made to possess": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πάροδος",
+            "transliteration": "párodos"
+        }
+    ],
+    "description": "a by-road, i.e., (actively) a route",
+    "definition": {
+        "a passing by or passage": {},
+        "in passing": {}
+    },
+    "origin": "from g3844 and g3598",
+    "related": [
+        "g3598",
+        "g3844"
+    ]
+}

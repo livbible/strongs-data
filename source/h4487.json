@@ -1,0 +1,20 @@
+{
+    "originalWords": "מנה",
+    "description": "properly, to weigh out; by implication, to allot or constitute officially; also to enumerate or enroll",
+    "definition": {
+        "to count, reckon, number, assign, tell, appoint, prepare": {
+            "(qal)": {
+                "to count, number": {},
+                "reckon, assign, appoint": {}
+            },
+            "(niphal)": {
+                "to be counted, be numbered": {},
+                "to be reckoned, be assigned": {}
+            },
+            "(piel) to appoint, ordain": {},
+            "(pual) appointed (participle)": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

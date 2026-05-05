@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "παραβουλεύομαι",
+            "transliteration": "parabouleúomai"
+        }
+    ],
+    "description": "to misconsult, i.e., disregard",
+    "definition": {
+        "to consult amiss": {}
+    },
+    "origin": "from g3844 and the middle voice of g1011",
+    "related": [
+        "g1011",
+        "g3844"
+    ]
+}

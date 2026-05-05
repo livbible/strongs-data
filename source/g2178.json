@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐφάπαξ",
+            "transliteration": "ephápax"
+        }
+    ],
+    "description": "upon one occasion (only)",
+    "definition": {
+        "once, at once": {
+            "all at once": {},
+            "once for all": {}
+        }
+    },
+    "origin": "from g1909 and g0530",
+    "related": [
+        "g0530",
+        "g1909"
+    ]
+}

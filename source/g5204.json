@@ -1,0 +1,27 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὕδωρ",
+            "transliteration": "hýdōr"
+        },
+        {
+            "unicode": "ὕδατος",
+            "transliteration": "hýdatos"
+        }
+    ],
+    "description": "water (as if rainy) literally or figuratively",
+    "definition": {
+        "water": {
+            "of water in rivers, in fountains, in pools": {},
+            "of the water of the deluge": {},
+            "of water in any of the earth's repositories": {},
+            "of water as the primary element, out of and through which the world that was before the deluge, arose and was compacted": {},
+            "of the waves of the sea": {},
+            "figuratively used of many peoples": {}
+        }
+    },
+    "origin": "from the base of g5205",
+    "related": [
+        "g5205"
+    ]
+}

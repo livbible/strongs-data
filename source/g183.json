@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀκατάσχετος",
+            "transliteration": "akatáschetos"
+        }
+    ],
+    "description": "unrestrainable",
+    "definition": {
+        "that can not be restrained": {}
+    },
+    "origin": "from g0001 (as a negative particle) and a derivative of g2722",
+    "related": [
+        "g0001",
+        "g2722"
+    ]
+}

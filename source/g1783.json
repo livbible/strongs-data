@@ -1,0 +1,26 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἔντευξις",
+            "transliteration": "énteuxis"
+        }
+    ],
+    "description": "an interview, i.e., (specially) supplication",
+    "definition": {
+        "a falling in with, meeting with": {
+            "an interview": {
+                "a coming together": {},
+                "to visit": {},
+                "converse or for any other cause": {}
+            },
+            "that for which an interview is held": {
+                "a conference or conversation": {},
+                "a petition, supplication": {}
+            }
+        }
+    },
+    "origin": "from g1793",
+    "related": [
+        "g1793"
+    ]
+}

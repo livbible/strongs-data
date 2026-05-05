@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐπερωτάω",
+            "transliteration": "eperōtáō"
+        }
+    ],
+    "description": "to ask for, i.e., inquire, seek",
+    "definition": {
+        "to accost one with an enquiry, put a question to, enquiry of, ask, interrogate": {},
+        "to address one with a request or demand": {
+            "to ask of or demand of one": {}
+        }
+    },
+    "origin": "from g1909 and g2065",
+    "related": [
+        "g1909",
+        "g2065"
+    ]
+}

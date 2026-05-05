@@ -1,0 +1,37 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐπικαλέομαι",
+            "transliteration": "epikaléomai"
+        }
+    ],
+    "description": "to entitle; by implication, to invoke (for aid, worship, testimony, decision, etc.)",
+    "definition": {
+        "to put a name upon, to surname": {
+            "to permit one's self to be surnamed": {}
+        },
+        "to be named after someone": {},
+        "to call something to one": {
+            "to cry out upon or against one": {},
+            "to charge something to one as a crime or reproach": {},
+            "to summon one on any charge, prosecute one for a crime": {},
+            "to blame one for, accuse one of": {}
+        },
+        "to invoke": {
+            "to call upon for one's self, in one's behalf": {
+                "any one as a helper": {},
+                "as my witness": {},
+                "as my judge": {},
+                "to appeal unto": {}
+            }
+        },
+        "to call upon by pronouncing the name of jehovah": {
+            "an expression finding its explanation in the fact that prayers addressed to god ordinarily began with an invocation of the divine name": {}
+        }
+    },
+    "origin": "middle voice from g1909 and g2564",
+    "related": [
+        "g1909",
+        "g2564"
+    ]
+}

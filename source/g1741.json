@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἔνδοξος",
+            "transliteration": "éndoxos"
+        }
+    ],
+    "description": "in glory, i.e., splendid, (figuratively) noble",
+    "definition": {
+        "held in good or in great esteem, of high repute": {
+            "illustrious, honorable, esteemed": {},
+            "notable, glorious": {},
+            "splendid": {
+                "of clothing": {},
+                "free from sins (figuratively)": {}
+            }
+        }
+    },
+    "origin": "from g1722 and g1391",
+    "related": [
+        "g1391",
+        "g1722"
+    ]
+}

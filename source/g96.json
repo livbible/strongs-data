@@ -1,0 +1,22 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀδόκιμος",
+            "transliteration": "adókimos"
+        }
+    ],
+    "description": "unapproved, i.e., rejected; by implication, worthless (literally or morally)",
+    "definition": {
+        "not standing the test, not approved": {
+            "properly used of metals and coins": {}
+        },
+        "that which does not prove itself such as it ought": {
+            "unfit for, unproved, spurious, reprobate": {}
+        }
+    },
+    "origin": "from g0001 (as a negative particle) and g1384",
+    "related": [
+        "g0001",
+        "g1384"
+    ]
+}

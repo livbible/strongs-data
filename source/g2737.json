@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κατώτερος",
+            "transliteration": "katṓteros"
+        }
+    ],
+    "description": "inferior (locally, of hades)",
+    "definition": {
+        "lower": {}
+    },
+    "origin": "comparative from g2736",
+    "related": [
+        "g2736"
+    ]
+}

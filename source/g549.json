@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἄπειμι",
+            "transliteration": "ápeimi"
+        }
+    ],
+    "description": "to go away",
+    "definition": {
+        "to go away, depart": {}
+    },
+    "origin": "from g0575 and ???? (to go)",
+    "related": [
+        "g0548",
+        "g0575"
+    ],
+    "notes": "compare g0548."
+}

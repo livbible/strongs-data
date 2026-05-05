@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Ἑβραϊκός",
+            "transliteration": "Hebraïkós"
+        }
+    ],
+    "description": "hebraic or the jewish language",
+    "definition": {
+        "hebrew": {}
+    },
+    "origin": "from g1443",
+    "related": [
+        "g1443"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κατανάθεμα",
+            "transliteration": "katanáthema"
+        }
+    ],
+    "description": "an imprecation",
+    "definition": {
+        "curse": {}
+    },
+    "origin": "from g2596 (intensive) and g0331",
+    "related": [
+        "g0331",
+        "g2596"
+    ]
+}

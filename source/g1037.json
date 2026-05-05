@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "βυθός",
+            "transliteration": "bythós"
+        }
+    ],
+    "description": "depth, i.e., (by implication) the sea",
+    "definition": {
+        "the bottom or depth of the sea": {},
+        "the sea itself, the deep sea": {}
+    },
+    "origin": "a variation of g0899",
+    "related": [
+        "g0899"
+    ]
+}

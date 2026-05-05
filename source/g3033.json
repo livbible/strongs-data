@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Λιβύη",
+            "transliteration": "Libýē"
+        }
+    ],
+    "description": "libye, a region of africa",
+    "literal": "afflicted, weeping",
+    "definition": {
+        "a large region of northern africa, bordering egypt": {}
+    },
+    "origin": "probably from g3047",
+    "related": [
+        "g3047"
+    ],
+    "notes": "in that portion of it which had cyrene for its capital and was thence called libya cyrenaica."
+}

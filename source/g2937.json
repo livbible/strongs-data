@@ -1,0 +1,26 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κτίσις",
+            "transliteration": "ktísis"
+        }
+    ],
+    "description": "original formation (properly, the act; by implication, the thing, literally or figuratively)",
+    "definition": {
+        "the act of founding, establishing, building etc": {
+            "the act of creating, creation": {},
+            "creation i.e., thing created": {
+                "of individual things, beings, a creature, a creation": {
+                    "anything created": {},
+                    "after a rabbinical usage (by which a man converted from idolatry to judaism was called)": {},
+                    "the sum or aggregate of things created": {}
+                }
+            },
+            "institution, ordinance": {}
+        }
+    },
+    "origin": "from g2936",
+    "related": [
+        "g2936"
+    ]
+}

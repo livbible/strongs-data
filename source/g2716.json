@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κατεργάζομαι",
+            "transliteration": "katergázomai"
+        }
+    ],
+    "description": "to work fully, i.e., accomplish; by implication, to finish, fashion",
+    "definition": {
+        "to perform, accomplish, achieve": {},
+        "to work out i.e., to do that from which something results": {
+            "of things: bring about, result in": {}
+        },
+        "to fashion i.e., render one fit for a thing": {}
+    },
+    "origin": "from g2596 and g2038",
+    "related": [
+        "g2038",
+        "g2596"
+    ]
+}

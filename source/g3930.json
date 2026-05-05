@@ -1,0 +1,25 @@
+{
+    "originalWords": [
+        {
+            "unicode": "παρέχω",
+            "transliteration": "paréchō"
+        }
+    ],
+    "description": "to hold near, i.e., present, afford, exhibit, furnish occasion",
+    "definition": {
+        "to reach forth, offer": {},
+        "to show, afford, supply": {},
+        "to be the authors of, or to cause one to have": {
+            "to give, bring, cause one something either favorable or unfavorable, to occasion": {}
+        },
+        "to offer, show or present one's self": {},
+        "to exhibit or offer on one's own part": {
+            "to render or afford from one's own resources or by one's own power": {}
+        }
+    },
+    "origin": "from g3844 and g2192",
+    "related": [
+        "g2192",
+        "g3844"
+    ]
+}

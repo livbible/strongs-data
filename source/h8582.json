@@ -1,0 +1,25 @@
+{
+    "originalWords": "תעה",
+    "description": "to vacillate, i.e., reel or stray (literally or figuratively); also causative of both",
+    "definition": {
+        "to err, wander, go astray, stagger": {
+            "(qal) to err": {
+                "to wander about (physically)": {},
+                "of intoxication": {},
+                "of sin (ethically)": {},
+                "wandering (of the mind)": {}
+            },
+            "(niphal)": {
+                "to be made to wander about, be made to stagger (drunkard)": {},
+                "to be led astray (ethically)": {}
+            },
+            "(hiphil) to cause to wander": {
+                "to cause to wander about (physically)": {},
+                "to cause to wander (of intoxication)": {},
+                "to cause to err, mislead (mentally and morally)": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

@@ -1,0 +1,25 @@
+{
+    "originalWords": "ספר",
+    "description": "properly, to score with a mark as a tally or record, i.e., (by implication) to inscribe, and also to enumerate; intensively, to recount, i.e., celebrate",
+    "definition": {
+        "(v) to count, recount, relate": {
+            "(qal)": {
+                "to count (things)": {},
+                "to number, take account of, reckon": {}
+            },
+            "(niphal) to be counted, be numbered": {},
+            "(piel) to recount, rehearse, declare": {
+                "to recount (something), rehearse": {},
+                "to talk": {},
+                "to count exactly or accurately": {}
+            },
+            "(pual) to be recounted, be rehearsed, be related": {}
+        },
+        "(n m) enumerator, muster-officer, secretary, scribe": {
+            "enumerator, muster-officer, secretary": {},
+            "learned man, scribe": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

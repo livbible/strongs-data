@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "αἰφνίδιος",
+            "transliteration": "aiphnídios"
+        }
+    ],
+    "description": "unexpected, i.e., (adverbially) suddenly",
+    "definition": {
+        "unexpected, sudden, unforeseen": {}
+    },
+    "origin": "from a compound of g0001 (as a negative particle) and g5316 (compare g1810) (meaning non-apparent)",
+    "related": [
+        "g0001",
+        "g1810",
+        "g5316"
+    ]
+}

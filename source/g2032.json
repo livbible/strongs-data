@@ -1,0 +1,26 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐπουράνιος",
+            "transliteration": "epouránios"
+        }
+    ],
+    "description": "above the sky",
+    "definition": {
+        "existing in heaven": {
+            "things that take place in heaven": {},
+            "the heavenly regions": {
+                "heaven itself, the abode of god and angels": {},
+                "the lower heavens, of the stars": {},
+                "the heavens, of the clouds": {}
+            },
+            "the heavenly temple or sanctuary": {}
+        },
+        "of heavenly origin or nature": {}
+    },
+    "origin": "from g1909 and g3772",
+    "related": [
+        "g1909",
+        "g3772"
+    ]
+}

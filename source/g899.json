@@ -1,0 +1,22 @@
+{
+    "originalWords": [
+        {
+            "unicode": "βάθος",
+            "transliteration": "báthos"
+        }
+    ],
+    "description": "profundity, i.e., (by implication) extent; (figuratively) mystery",
+    "definition": {
+        "depth, height": {
+            "of \"the deep\" sea": {},
+            "metaphorically": {
+                "deep, extreme, poverty": {},
+                "of the deep things of god": {}
+            }
+        }
+    },
+    "origin": "from the same as g0901",
+    "related": [
+        "g0901"
+    ]
+}

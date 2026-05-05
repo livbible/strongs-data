@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὑποπνέω",
+            "transliteration": "hypopnéō"
+        }
+    ],
+    "description": "to breathe gently, i.e., breeze",
+    "definition": {
+        "to blow underneath": {},
+        "to blow softly": {}
+    },
+    "origin": "from g5259 and g4154",
+    "related": [
+        "g4154",
+        "g5259"
+    ]
+}

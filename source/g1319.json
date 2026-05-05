@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "διδασκαλία",
+            "transliteration": "didaskalía"
+        }
+    ],
+    "description": "instruction (the function or the information)",
+    "definition": {
+        "teaching, instruction": {},
+        "teaching": {
+            "that which is taught, doctrine": {},
+            "teachings, precepts": {}
+        }
+    },
+    "origin": "from g1320",
+    "related": [
+        "g1320"
+    ]
+}

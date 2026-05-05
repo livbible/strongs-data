@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἄτακτος",
+            "transliteration": "átaktos"
+        }
+    ],
+    "description": "unarranged, i.e., (by implication) insubordinate (religiously)",
+    "definition": {
+        "disorderly, out of ranks (often so of soldiers)": {},
+        "irregular, inordinate, immoderate pleasures": {},
+        "deviating from the prescribed order or rule": {}
+    },
+    "origin": "from g0001 (as a negative particle) and a derivative of g5021",
+    "related": [
+        "g0001",
+        "g5021"
+    ]
+}

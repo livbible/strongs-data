@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πρῶτος",
+            "transliteration": "prōtos"
+        }
+    ],
+    "description": "foremost (in time, place, order or importance)",
+    "definition": {
+        "first in time or place": {
+            "in any succession of things or persons": {}
+        },
+        "first in rank": {
+            "influence, honor": {},
+            "chief": {},
+            "principal": {}
+        },
+        "first, at the first": {}
+    },
+    "origin": "contracted superlative of g4253",
+    "related": [
+        "g4253"
+    ]
+}

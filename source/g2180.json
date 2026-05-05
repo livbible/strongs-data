@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Ἐφέσιος",
+            "transliteration": "Ephésios"
+        }
+    ],
+    "description": "an ephesian or inhabitant of ephesus",
+    "definition": {
+        "a native or inhabitant of ephesus": {}
+    },
+    "origin": "from g2181",
+    "related": [
+        "g2181"
+    ]
+}

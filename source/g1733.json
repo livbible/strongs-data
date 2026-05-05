@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἕνδεκα",
+            "transliteration": "héndeka"
+        }
+    ],
+    "description": "one and ten, i.e., eleven",
+    "definition": {
+        "eleven": {
+            "of the eleven disciples alive after the death of judas": {}
+        }
+    },
+    "origin": "from (the neuter of) g1520 and g1176",
+    "related": [
+        "g1176",
+        "g1520"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "originalWords": "הלך",
+    "description": "to walk (in a great variety of applications, literally and figuratively)",
+    "definition": {
+        "to go, walk, come": {
+            "(qal)": {
+                "to go, walk, come, depart, proceed, move, go away": {},
+                "to die, live, manner of life (figuratively)": {}
+            },
+            "(piel)": {
+                "to walk": {},
+                "to walk (figuratively)": {}
+            },
+            "(hithpael)": {
+                "to traverse": {},
+                "to walk about": {}
+            },
+            "(niphal) to lead, bring, lead away, carry, cause to walk": {}
+        }
+    },
+    "origin": "akin to h3212; a primitive root",
+    "related": []
+}

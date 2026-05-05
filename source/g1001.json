@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "βολίζω",
+            "transliteration": "bolízō"
+        }
+    ],
+    "description": "to heave the lead",
+    "definition": {
+        "to heave the lead, take a sounding": {
+            "a line an plummet with which mariners sound the depth of the sea": {}
+        }
+    },
+    "origin": "from g1002",
+    "related": [
+        "g1002"
+    ]
+}

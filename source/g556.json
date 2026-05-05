@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀπελαύνω",
+            "transliteration": "apelaúnō"
+        }
+    ],
+    "description": "to dismiss",
+    "definition": {
+        "to drive away, drive off": {}
+    },
+    "origin": "from g0575 and g1643",
+    "related": [
+        "g0575",
+        "g1643"
+    ]
+}

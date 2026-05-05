@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐξελέγχω",
+            "transliteration": "exelénchō"
+        }
+    ],
+    "description": "to convict fully, i.e., (by implication) to punish",
+    "definition": {
+        "to prove to be in the wrong, convict": {}
+    },
+    "origin": "from g1537 and g1651",
+    "related": [
+        "g1537",
+        "g1651"
+    ]
+}

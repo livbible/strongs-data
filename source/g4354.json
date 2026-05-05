@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "προσλαλέω",
+            "transliteration": "proslaléō"
+        }
+    ],
+    "description": "to talk to, i.e., converse with",
+    "definition": {
+        "to speak to": {}
+    },
+    "origin": "from g4314 and g2980",
+    "related": [
+        "g2980",
+        "g4314"
+    ]
+}

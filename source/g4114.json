@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πλάτος",
+            "transliteration": "plátos"
+        }
+    ],
+    "description": "width",
+    "definition": {
+        "breadth": {
+            "suggesting great extent": {}
+        }
+    },
+    "origin": "from g4116",
+    "related": [
+        "g4116"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀκούω",
+            "transliteration": "akoúō"
+        }
+    ],
+    "description": "to hear (in various senses)",
+    "definition": {
+        "to be endowed with the faculty of hearing, not deaf": {},
+        "to hear": {
+            "to attend to, consider what is or has been said": {},
+            "to understand, perceive the sense of what is said": {}
+        },
+        "to hear something": {
+            "to perceive by the ear what is announced in one's presence": {},
+            "to get by hearing learn": {},
+            "a thing comes to one's ears, to find out, learn": {},
+            "to give ear to a teaching or a teacher": {},
+            "to comprehend, to understand": {}
+        }
+    },
+    "origin": "a primary verb",
+    "related": []
+}

@@ -1,0 +1,27 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐπιβάλλω",
+            "transliteration": "epibállō"
+        }
+    ],
+    "description": "to throw upon (literal or figurative, transitive or reflexive; usually with more or less force); specially (with g1438 implied) to reflect; impersonally, to belong to",
+    "definition": {
+        "to cast upon, to lay upon": {
+            "used of seizing one to lead him off as a prisoner": {},
+            "to put (i.e., sew) on": {}
+        },
+        "to throw one's self upon, rush in": {
+            "used of waves rushing into a ship": {},
+            "to put one's mind upon a thing": {},
+            "attend to": {}
+        },
+        "it belongs to me, falls to my share": {}
+    },
+    "origin": "from g1909 and g0906",
+    "related": [
+        "g0906",
+        "g1438",
+        "g1909"
+    ]
+}

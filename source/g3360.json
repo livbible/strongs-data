@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "μέχρι",
+            "transliteration": "méchri"
+        },
+        {
+            "unicode": "μεχρίς",
+            "transliteration": "mechrís"
+        }
+    ],
+    "description": "as far as, i.e., up to a certain point (as a preposition, of extent (denoting the terminus, whereas g0891 refers especially to the space of time or place intervening) or conjunction)",
+    "definition": {
+        "as far as, until": {}
+    },
+    "origin": "from g3372",
+    "related": [
+        "g0891",
+        "g3372"
+    ]
+}

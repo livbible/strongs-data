@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐπιορκέω",
+            "transliteration": "epiorkéō"
+        }
+    ],
+    "description": "to commit perjury",
+    "definition": {
+        "to swear falsely, forswear one's self": {}
+    },
+    "origin": "from g1965",
+    "related": [
+        "g1965"
+    ]
+}

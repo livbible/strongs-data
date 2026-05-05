@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "στρατοπεδάρχης",
+            "transliteration": "stratopedárchēs"
+        }
+    ],
+    "description": "a ruler of an army, i.e., (specially), a praetorian praefect",
+    "definition": {
+        "the commander of a camp and army, a military tribune": {},
+        "praetorian praefect (or prefect), commander of the praetorian cohorts, captain of the roman emperor's body guard": {}
+    },
+    "origin": "from g4760 and g0757",
+    "related": [
+        "g0757",
+        "g4760"
+    ],
+    "notes": "there were two praetorian praefects, to whose custody prisoners sent bound to the emperor were consigned."
+}

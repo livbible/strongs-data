@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ταύταις",
+            "transliteration": "taútais"
+        },
+        {
+            "unicode": "ταύτας",
+            "transliteration": "taútas"
+        }
+    ],
+    "description": "(to or with or by, etc.) these",
+    "definition": {
+        "those, these": {}
+    },
+    "origin": "dative case and accusative case feminine plural respectively of g3778",
+    "related": [
+        "g3778"
+    ]
+}

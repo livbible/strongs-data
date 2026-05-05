@@ -1,0 +1,22 @@
+{
+    "originalWords": "פתח",
+    "description": "to open wide (literally or figuratively); specifically, to loosen, begin, plough, carve",
+    "definition": {
+        "to open": {
+            "(qal) to open": {},
+            "(niphal) to be opened, be let loose, be thrown open": {},
+            "(piel)": {
+                "to free": {},
+                "to loosen": {},
+                "to open, open oneself": {}
+            },
+            "(hithpael) to loose oneself": {}
+        },
+        "to carve, engrave": {
+            "(piel) to engrave": {},
+            "(pual) to be engraved": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

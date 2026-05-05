@@ -1,0 +1,26 @@
+{
+    "originalWords": "אור",
+    "description": "to be (causative, make) luminous (literally and metaphorically)",
+    "definition": {
+        "to be or become light, shine": {
+            "(qal)": {
+                "to become light (day)": {},
+                "to shine (of the sun)": {},
+                "to become bright": {}
+            },
+            "(niphal)": {
+                "to be illuminated": {},
+                "to become lighted up": {}
+            },
+            "(hiphil)": {
+                "to give light, shine (of sun, moon, and stars)": {},
+                "to illumine, light up, cause to shine, shine": {},
+                "to kindle, light (candle, wood)": {},
+                "lighten (of the eyes, his law, etc)": {},
+                "to make shine (of the face)": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

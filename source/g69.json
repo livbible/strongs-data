@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀγρυπνέω",
+            "transliteration": "agrypnéō"
+        }
+    ],
+    "description": "to be sleepless, i.e., keep awake",
+    "definition": {
+        "to be sleepless, keep awake, watch": {},
+        "to be circumspect, attentive, ready": {}
+    },
+    "origin": "ultimately from g0001 (as negative particle) and g5258",
+    "related": [
+        "g0001",
+        "g5258"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐκλείπω",
+            "transliteration": "ekleípō"
+        }
+    ],
+    "description": "to omit, i.e., (by implication) cease (die)",
+    "definition": {
+        "fail": {
+            "to leave out, omit, pass by": {},
+            "to leave, quit": {}
+        },
+        "to fail": {
+            "to leave off, cease, stop": {},
+            "of the failing or eclipse of the light of the sun and the moon": {}
+        }
+    },
+    "origin": "from g1537 and g3007",
+    "related": [
+        "g1537",
+        "g3007"
+    ]
+}

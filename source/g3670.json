@@ -1,0 +1,30 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὁμολογέω",
+            "transliteration": "homologéō"
+        }
+    ],
+    "description": "to assent, i.e., covenant, acknowledge",
+    "definition": {
+        "to say the same thing as another, i.e., to agree with, assent": {},
+        "to concede": {
+            "not to refuse, to promise": {},
+            "not to deny": {
+                "to confess": {},
+                "declare": {},
+                "to confess, i.e., to admit or declare one's self guilty of what one is accused of": {}
+            }
+        },
+        "to profess": {
+            "to declare openly, speak out freely": {},
+            "to profess one's self the worshipper of one": {}
+        },
+        "to praise, celebrate": {}
+    },
+    "origin": "from a compound of the base of g3674 and g3056",
+    "related": [
+        "g3056",
+        "g3674"
+    ]
+}

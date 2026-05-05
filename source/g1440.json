@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἑβδομήκοντα",
+            "transliteration": "hebdomḗkonta"
+        }
+    ],
+    "description": "seventy",
+    "definition": {
+        "seventy": {
+            "the seventy disciples whom jesus sent out in addition to the twelve apostles": {}
+        }
+    },
+    "origin": "from g1442 and a modified form of g1176",
+    "related": [
+        "g1176",
+        "g1442"
+    ]
+}

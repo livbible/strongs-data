@@ -1,0 +1,23 @@
+{
+    "originalWords": [
+        {
+            "unicode": "παράδοσις",
+            "transliteration": "parádosis"
+        }
+    ],
+    "description": "transmission, i.e., (concretely) a precept; specially, the jewish traditionary law",
+    "definition": {
+        "giving up, giving over": {
+            "the act of giving up": {},
+            "the surrender of cities": {}
+        },
+        "a giving over which is done by word of mouth or in writing, i.e., tradition by instruction, narrative, precept, etc.": {
+            "objectively, that which is delivered, the substance of a teaching": {},
+            "of the body of precepts, especially ritual, which in the opinion of the later jews were orally delivered by moses and orally transmitted in unbroken succession to subsequent generations, which precepts, both illustrating and expanding the written law, as they did were to be obeyed with equal reverence": {}
+        }
+    },
+    "origin": "from g3860",
+    "related": [
+        "g3860"
+    ]
+}

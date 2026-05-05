@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἄνυδρος",
+            "transliteration": "ánydros"
+        }
+    ],
+    "description": "waterless, i.e., dry",
+    "definition": {
+        "without water": {}
+    },
+    "origin": "from g0001 (as a negative particle) and g5204",
+    "related": [
+        "g0001",
+        "g5204"
+    ]
+}

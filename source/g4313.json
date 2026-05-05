@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "προπορεύομαι",
+            "transliteration": "proporeúomai"
+        }
+    ],
+    "description": "to precede (as guide or herald)",
+    "definition": {
+        "to send before, to make to precede": {},
+        "to go before one": {
+            "of a leader": {},
+            "of a messenger or a herald": {}
+        }
+    },
+    "origin": "from g4253 and g4198",
+    "related": [
+        "g4198",
+        "g4253"
+    ]
+}

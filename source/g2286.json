@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "θανάσιμος",
+            "transliteration": "thanásimos"
+        }
+    ],
+    "description": "fatal, i.e., poisonous",
+    "definition": {
+        "deadly": {}
+    },
+    "origin": "from g2288",
+    "related": [
+        "g2288"
+    ]
+}

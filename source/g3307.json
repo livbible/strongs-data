@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "μερίζω",
+            "transliteration": "merízō"
+        }
+    ],
+    "description": "to part, i.e., (literally) to apportion, bestow, share, or (figuratively) to disunite, differ",
+    "definition": {
+        "to divide": {
+            "to separate into parts, cut into pieces": {
+                "to divide into parties, i.e., be split into factions": {}
+            },
+            "to distribute": {
+                "a thing among people": {},
+                "bestow, impart": {}
+            }
+        }
+    },
+    "origin": "from g3313",
+    "related": [
+        "g3313"
+    ]
+}

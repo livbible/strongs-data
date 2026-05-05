@@ -1,0 +1,32 @@
+{
+    "originalWords": [
+        {
+            "unicode": "προφήτης",
+            "transliteration": "prophḗtēs"
+        }
+    ],
+    "description": "a foreteller (\"prophet\"); by analogy, an inspired speaker; by extension, a poet",
+    "definition": {
+        "in greek writings, an interpreter of oracles or of other hidden things": {},
+        "one who, moved by the spirit of god and hence his organ or spokesman, solemnly declares to men what he has received by inspiration, especially concerning future events, and in particular such as relate to the cause and kingdom of god and to human salvation": {
+            "the old testament prophets, having foretold the kingdom, deeds and death, of jesus the messiah": {},
+            "of john the baptist, the herald of jesus the messiah": {},
+            "of the illustrious prophet, the jews expected before the advent of the messiah": {},
+            "the messiah": {},
+            "of men filled with the spirit of god, who by god's authority and command in words of weight pleads the cause of god and urges salvation of men": {},
+            "of prophets that appeared in the apostolic age among christians": {
+                "they are associated with the apostles": {},
+                "they discerned and did what is best for the christian cause, foretelling certain future events (see acts 11:27)": {},
+                "in the religious assemblies of the christians, they were moved by the holy spirit to speak, having power to instruct, comfort, encourage, rebuke, convict, and stimulate, their hearers": {}
+            }
+        },
+        "a poet (because poets were believed to sing under divine inspiration)": {
+            "of epimenides (see titus 1:12)": {}
+        }
+    },
+    "origin": "from a compound of g4253 and g5346",
+    "related": [
+        "g4253",
+        "g5346"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "originalWords": [
+        {
+            "unicode": "νηφάλεος",
+            "transliteration": "nēpháleos"
+        },
+        {
+            "unicode": "νηφάλιος",
+            "transliteration": "nēphálios"
+        }
+    ],
+    "description": "sober, i.e., (figuratively) circumspect",
+    "definition": {
+        "sober, temperate": {
+            "abstaining from wine, either entirely or at least from its immoderate use": {},
+            "of things free from all wine, as vessels, offerings": {}
+        }
+    },
+    "origin": "from g3525",
+    "related": [
+        "g3525"
+    ]
+}

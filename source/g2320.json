@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "θεότης",
+            "transliteration": "theótēs"
+        }
+    ],
+    "description": "divinity (abstractly)",
+    "definition": {
+        "deity": {
+            "the state of being god, godhead": {}
+        }
+    },
+    "origin": "from g2316",
+    "related": [
+        "g2316"
+    ]
+}

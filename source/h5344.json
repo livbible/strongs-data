@@ -1,0 +1,16 @@
+{
+    "originalWords": "נקב",
+    "description": "to puncture, literally (to perforate, with more or less violence) or figuratively (to specify, designate, libel)",
+    "definition": {
+        "to pierce, perforate, bore, appoint": {
+            "(qal)": {
+                "to pierce, bore": {},
+                "to prick off, designate": {}
+            },
+            "(niphal) to be pricked off, be designated, be specified": {}
+        },
+        "(qal) to curse, blaspheme": {}
+    },
+    "origin": "a primitive root",
+    "related": []
+}

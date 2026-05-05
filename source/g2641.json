@@ -1,0 +1,32 @@
+{
+    "originalWords": [
+        {
+            "unicode": "καταλείπω",
+            "transliteration": "kataleípō"
+        }
+    ],
+    "description": "to leave down, i.e., behind; by implication, to abandon, have remaining",
+    "definition": {
+        "to leave behind": {
+            "to depart from, leave": {
+                "to be left": {}
+            },
+            "to bid (one) to remain": {},
+            "to forsake, leave to one's self a person or thing by ceasing to care for it, to abandon, leave in the lurch": {
+                "to be abandoned, forsaken": {}
+            },
+            "to cause to be left over, to reserve, to leave remaining": {},
+            "like our \"leave behind\", it is used of one who on being called away cannot take another with him": {
+                "especially of the dying (to leave behind)": {}
+            },
+            "like our \"leave\", leave alone, disregard": {
+                "of those who sail past a place without stopping": {}
+            }
+        }
+    },
+    "origin": "from g2596 and g3007",
+    "related": [
+        "g2596",
+        "g3007"
+    ]
+}

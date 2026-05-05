@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀκάθαρτος",
+            "transliteration": "akáthartos"
+        }
+    ],
+    "description": "impure (ceremonially, morally (lewd) or specially, (demonic))",
+    "definition": {
+        "not cleansed, unclean": {
+            "in a ceremonial sense: that which must be abstained from according to the levitical law": {},
+            "in a moral sense: unclean in thought and life": {}
+        }
+    },
+    "origin": "from g0001 (as a negative particle) and a presumed derivative of g2508 (meaning cleansed)",
+    "related": [
+        "g0001",
+        "g2508"
+    ]
+}

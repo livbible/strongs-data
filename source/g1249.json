@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "διάκονος",
+            "transliteration": "diákonos"
+        }
+    ],
+    "description": "an attendant, i.e., (genitive case) a waiter (at table or in other menial duties); specially, a christian teacher and pastor (technically, a deacon)",
+    "definition": {
+        "one who executes the commands of another, especially of a master, a servant, attendant, minister": {
+            "the servant of a king": {},
+            "a deacon, one who, by virtue of the office assigned to him by the church, cares for the affairs of the church": {},
+            "a waiter, one who serves food and drink": {}
+        }
+    },
+    "origin": "probably from an obsolete ????? (to run on errands; compare g1377)",
+    "related": [
+        "g1377"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "originalWords": "ישב",
+    "description": "properly, to sit down (specifically as judge. in ambush, in quiet); by implication, to dwell, to remain; causatively, to settle, to marry",
+    "definition": {
+        "to dwell, remain, sit, abide": {
+            "(qal)": {
+                "to sit, sit down": {},
+                "to be set": {},
+                "to remain, stay": {},
+                "to dwell, have one's abode": {}
+            },
+            "(niphal) to be inhabited": {},
+            "(piel) to set, place": {},
+            "(hiphil)": {
+                "to cause to sit": {},
+                "to cause to abide, set": {},
+                "to cause to dwell": {},
+                "to cause (cities) to be inhabited": {},
+                "to marry (give an dwelling to)": {}
+            },
+            "(hophal)": {
+                "to be inhabited": {},
+                "to make to dwell": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

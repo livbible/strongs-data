@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "σοφίζω",
+            "transliteration": "sophízō"
+        }
+    ],
+    "description": "to render wise; in a sinister acceptation, to form \"sophisms\", i.e., continue plausible error",
+    "definition": {
+        "to make wise, teach": {},
+        "to become wise, to have understanding": {
+            "to invent, play the sophist": {},
+            "to devise cleverly or cunningly": {}
+        }
+    },
+    "origin": "from g4680",
+    "related": [
+        "g4680"
+    ]
+}

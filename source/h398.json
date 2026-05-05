@@ -1,0 +1,34 @@
+{
+    "originalWords": "אכל",
+    "description": "to eat (literally or figuratively)",
+    "definition": {
+        "to eat, devour, burn up, feed": {
+            "(qal)": {
+                "to eat (human subject)": {},
+                "to eat, devour (of beasts and birds)": {},
+                "to devour, consume (of fire)": {},
+                "to devour, slay (of sword)": {},
+                "to devour, consume, destroy (inanimate subjectsi.e., pestilence, drought)": {},
+                "to devour (of oppression)": {}
+            },
+            "(niphal)": {
+                "to be eaten (by men)": {},
+                "to be devoured, consumed (of fire)": {},
+                "to be wasted, destroyed (of flesh)": {}
+            },
+            "(pual)": {
+                "to cause to eat, feed with": {},
+                "to cause to devour": {}
+            },
+            "(hiphil)": {
+                "to feed": {},
+                "to cause to eat": {}
+            },
+            "(piel)": {
+                "consume": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

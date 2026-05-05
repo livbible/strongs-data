@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "αἴτιον",
+            "transliteration": "aítion"
+        }
+    ],
+    "description": "a reason or crime (like g0156)",
+    "definition": {
+        "cause, fault": {}
+    },
+    "origin": "neuter of g0159",
+    "related": [
+        "g0156",
+        "g0159"
+    ]
+}

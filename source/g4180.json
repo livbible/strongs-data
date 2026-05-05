@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πολυλογία",
+            "transliteration": "polylogía"
+        }
+    ],
+    "description": "loquacity, i.e., prolixity",
+    "definition": {
+        "much speaking": {}
+    },
+    "origin": "from a compound of g4183 and g3056",
+    "related": [
+        "g3056",
+        "g4183"
+    ]
+}

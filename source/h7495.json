@@ -1,0 +1,29 @@
+{
+    "originalWords": "רפא",
+    "description": "properly, to mend (by stitching), i.e., (figuratively) to cure",
+    "definition": {
+        "to heal, make healthful": {
+            "(qal) to heal": {
+                "of god": {},
+                "healer, physician (of men)": {},
+                "of hurts of nations involving restored favor (figuratively)": {},
+                "of individual distresses (figuratively)": {}
+            },
+            "(niphal) to be healed": {
+                "literal (of persons)": {},
+                "of water, pottery": {},
+                "of national hurts (figuratively)": {},
+                "of personal distress (figuratively)": {}
+            },
+            "(piel) to heal": {
+                "literal": {},
+                "of national defects or hurts (figuratively)": {}
+            },
+            "(hithpael) in order to get healed (infinitive)": {}
+        }
+    },
+    "origin": "or ?????; a primitive root",
+    "related": [
+        "h7503"
+    ]
+}

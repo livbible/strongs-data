@@ -1,0 +1,27 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πιστεύω",
+            "transliteration": "pisteúō"
+        }
+    ],
+    "description": "to have faith (in, upon, or with respect to, a person or thing), i.e., credit; by implication, to entrust (especially one's spiritual well-being to christ)",
+    "definition": {
+        "to think to be true, to be persuaded of, to credit, place confidence in": {
+            "of the thing believed": {
+                "to credit, have confidence": {}
+            },
+            "in a moral or religious reference": {
+                "used in the new testament of the conviction and trust to which a man is impelled by a certain inner and higher prerogative and law of soul": {},
+                "to trust in jesus or god as able to aid either in obtaining or in doing something: saving faith": {}
+            }
+        },
+        "to entrust a thing to one, i.e., his fidelity": {
+            "to be entrusted with a thing": {}
+        }
+    },
+    "origin": "from g4102",
+    "related": [
+        "g4102"
+    ]
+}

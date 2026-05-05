@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀνάθημα",
+            "transliteration": "anáthēma"
+        }
+    ],
+    "description": "a votive offering",
+    "definition": {
+        "a gift consecrated and laid up in a temple": {},
+        "an offering resulting from a vow": {}
+    },
+    "origin": "from g0394 (like g0331, but in a good sense)",
+    "related": [
+        "g0331",
+        "g0394"
+    ]
+}

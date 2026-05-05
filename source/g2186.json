@@ -1,0 +1,34 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐφίστημι",
+            "transliteration": "ephístēmi"
+        }
+    ],
+    "description": "to stand upon, i.e., be present (in various applications, friendly or otherwise, usually literal)",
+    "definition": {
+        "to place at, place upon, place over": {
+            "to stand by, be present": {},
+            "to stand over one, place one's self above": {
+                "used especially of persons coming upon one suddenly": {
+                    "an angel, of the advent of angels": {},
+                    "of dreams": {}
+                },
+                "of evils coming upon one": {}
+            },
+            "to be at hand": {
+                "be ready,": {}
+            },
+            "of time": {
+                "to come upon": {
+                    "of rain": {}
+                }
+            }
+        }
+    },
+    "origin": "from g1909 and g2476",
+    "related": [
+        "g1909",
+        "g2476"
+    ]
+}

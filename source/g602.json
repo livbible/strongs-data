@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀποκάλυψις",
+            "transliteration": "apokálypsis"
+        }
+    ],
+    "description": "disclosure",
+    "definition": {
+        "a laying bear, making naked": {},
+        "a disclosure of truth, instruction": {
+            "concerning things before unknown": {},
+            "used of events by which things or states or persons hitherto withdrawn from view are made visible to all": {}
+        },
+        "manifestation, appearance": {}
+    },
+    "origin": "from g0601",
+    "related": [
+        "g0601"
+    ]
+}

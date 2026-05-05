@@ -1,0 +1,28 @@
+{
+    "originalWords": [
+        {
+            "unicode": "καθαρός",
+            "transliteration": "katharós"
+        }
+    ],
+    "description": "clean (literally or figuratively)",
+    "definition": {
+        "clean, pure": {
+            "physically": {
+                "purified by fire": {},
+                "in a similitude, like a vine cleansed by pruning and so fitted to bear fruit": {}
+            },
+            "in a levitical sense": {
+                "clean, the use of which is not forbidden, imparts no uncleanness": {}
+            },
+            "ethically": {
+                "free from corrupt desire, from sin and guilt": {},
+                "free from every admixture of what is false, sincere genuine": {},
+                "blameless, innocent": {},
+                "unstained with the guilt of anything": {}
+            }
+        }
+    },
+    "origin": "of uncertain affinity",
+    "related": []
+}

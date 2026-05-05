@@ -1,0 +1,27 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὅστις",
+            "transliteration": "hóstis"
+        },
+        {
+            "unicode": "ἥτις",
+            "transliteration": "hḗtis"
+        },
+        {
+            "unicode": "ὅτι",
+            "transliteration": "hóti"
+        }
+    ],
+    "description": "which some, i.e., any that; also (definite) which same",
+    "definition": {
+        "whoever, whatever, who": {}
+    },
+    "origin": "from g3739 and g5100",
+    "related": [
+        "g3739",
+        "g3754",
+        "g5100"
+    ],
+    "notes": "compare g3754."
+}

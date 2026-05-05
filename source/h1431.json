@@ -1,0 +1,27 @@
+{
+    "originalWords": "גדל",
+    "description": "to be (causatively make) large (in various senses, as in body, mind, estate or honor, also in pride)",
+    "definition": {
+        "to grow, become great or important, promote, make powerful, praise, magnify, do great things": {
+            "(qal)": {
+                "to grow up": {},
+                "to become great": {},
+                "to be magnified": {}
+            },
+            "(piel)": {
+                "to cause to grow": {},
+                "to make great, powerful": {},
+                "to magnify": {}
+            },
+            "(pual) to be brought up": {},
+            "(hiphil)": {
+                "to make great": {},
+                "to magnify": {},
+                "to do great things": {}
+            },
+            "(hithpael) to magnify oneself": {}
+        }
+    },
+    "origin": "a primitive root; properly, to twist (compare h1434), i.e",
+    "related": []
+}

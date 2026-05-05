@@ -1,0 +1,20 @@
+{
+    "originalWords": "אוץ",
+    "description": "to press; (by implication) to be close, hurry, withdraw",
+    "definition": {
+        "to press, be pressed, make haste, urge, be narrow": {
+            "(qal)": {
+                "to press, hasten": {},
+                "to be pressed, confined, narrow": {},
+                "to hasten, make haste": {},
+                "be narrow": {}
+            },
+            "(hiphil)": {
+                "to urge, insist": {},
+                "to hasten": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

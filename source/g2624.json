@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κατακληροδοτέω",
+            "transliteration": "kataklērodotéō"
+        }
+    ],
+    "description": "to be a giver of lots to each, i.e., (by implication) to apportion an estate",
+    "definition": {
+        "to distribute by lot": {},
+        "to distribute as an inheritance": {}
+    },
+    "origin": "from g2596 and a derivative of a compound of g2819 and g1325",
+    "related": [
+        "g1325",
+        "g2596",
+        "g2819"
+    ]
+}

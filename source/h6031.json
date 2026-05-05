@@ -1,0 +1,36 @@
+{
+    "originalWords": "ענה",
+    "description": "to depress literally or figuratively, transitive or intransitive (in various applications, as follows)",
+    "definition": {
+        "(qal) to be occupied, be busied with": {},
+        "to afflict, oppress, humble, be afflicted, be bowed down": {
+            "(qal)": {
+                "to be put down, become low": {},
+                "to be depressed, be downcast": {},
+                "to be afflicted": {},
+                "to stoop": {}
+            },
+            "(niphal)": {
+                "to humble oneself, bow down": {},
+                "to be afflicted, be humbled": {}
+            },
+            "(piel)": {
+                "to humble, mishandle, afflict": {},
+                "to humble, be humiliated": {},
+                "to afflict": {}
+            },
+            "(pual)": {
+                "to be afflicted": {},
+                "to be humbled": {},
+                "to humble, weaken oneself": {}
+            },
+            "(hiphil) to afflict": {},
+            "(hithpael)": {
+                "to humble oneself": {},
+                "to be afflicted": {}
+            }
+        }
+    },
+    "origin": "a primitive root (possibly rather identical with h6030 through the idea of looking down or browbeating)",
+    "related": []
+}

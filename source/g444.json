@@ -1,0 +1,32 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἄνθρωπος",
+            "transliteration": "ánthrōpos"
+        }
+    ],
+    "description": "man-faced, i.e., a human being",
+    "definition": {
+        "a human being, whether male or female": {
+            "generically, to include all human individuals": {},
+            "to distinguish man from beings of a different race or order": {
+                "of animals and plants": {},
+                "of from god and christ": {},
+                "of the angels": {}
+            },
+            "with the added notion of weakness, by which man is led into a mistake or prompted to sin": {},
+            "with the adjunct notion of contempt or disdainful pity": {},
+            "with reference to two fold nature of man, body and soul": {},
+            "with reference to the two fold nature of man, the corrupt and the truly christian man, conformed to the nature of god": {},
+            "with reference to sex, a male": {}
+        },
+        "indefinitely, someone, a man, one": {},
+        "in the plural, people": {},
+        "joined with other words, merchantman": {}
+    },
+    "origin": "from g0435 and ?? (the countenance; from g3700)",
+    "related": [
+        "g0435",
+        "g3700"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πανδοχεῖον",
+            "transliteration": "pandocheîon"
+        }
+    ],
+    "description": "all-receptive, i.e., a public lodging-place (caravanserai or khan)",
+    "definition": {
+        "an inn, a public house for the reception of strangers": {}
+    },
+    "origin": "neuter of a presumed compound of g3956 and a derivative of g1209",
+    "related": [
+        "g1209",
+        "g3956"
+    ]
+}

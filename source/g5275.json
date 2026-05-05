@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὑπολείπω",
+            "transliteration": "hypoleípō"
+        }
+    ],
+    "description": "to leave under (behind), i.e., (passively) to remain (survive)",
+    "definition": {
+        "to leave behind": {},
+        "to be left behind, left remaining": {
+            "of a survivor": {}
+        }
+    },
+    "origin": "from g5295 and g3007",
+    "related": [
+        "g3007",
+        "g5295"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "originalWords": "טהר",
+    "description": "to be pure (physical sound, clear, unadulterated; levitically, uncontaminated; morally, innocent or holy)",
+    "definition": {
+        "to be clean, be pure": {
+            "(qal)": {
+                "to be clean (physicallyof disease)": {},
+                "to be clean ceremonially": {},
+                "to purify, be clean morally, made clean": {}
+            },
+            "(piel)": {
+                "to cleanse, purify": {
+                    "physically": {},
+                    "ceremonially": {},
+                    "morally": {}
+                },
+                "to pronounce clean": {},
+                "to perform the ceremony of cleansing": {}
+            },
+            "(pual) to be cleansed, be pronounced clean": {},
+            "(hithpael)": {
+                "to purify oneself": {
+                    "ceremonially": {},
+                    "morally": {}
+                },
+                "to present oneself for purification": {}
+            }
+        }
+    },
+    "origin": "a primitive root; properly, to be bright; i.e., (by implication)",
+    "related": []
+}

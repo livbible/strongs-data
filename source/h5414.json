@@ -1,0 +1,23 @@
+{
+    "originalWords": "נתן",
+    "description": "to give, used with greatest latitude of application (put, make, etc.)",
+    "definition": {
+        "to give, put, set": {
+            "(qal)": {
+                "to give, bestow, grant, permit, ascribe, employ, devote, consecrate, dedicate, pay wages, sell, exchange, lend, commit, entrust, give over, deliver up, yield produce, occasion, produce, requite to, report, mention, utter, stretch out, extend": {},
+                "to put, set, put on, put upon, set, appoint, assign, designate": {},
+                "to make, constitute": {}
+            },
+            "(niphal)": {
+                "to be given, be bestowed, be provided, be entrusted to, be granted to, be permitted, be issued, be published, be uttered, be assigned": {},
+                "to be set, be put, be made, be inflicted": {}
+            },
+            "(hophal)": {
+                "to be given, be bestowed, be given up, be delivered up": {},
+                "to be put upon": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

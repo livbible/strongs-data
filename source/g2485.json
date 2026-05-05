@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἰχθύδιον",
+            "transliteration": "ichthýdion"
+        }
+    ],
+    "description": "a petty fish",
+    "definition": {
+        "a little fish": {}
+    },
+    "origin": "diminutive from g2486",
+    "related": [
+        "g2486"
+    ]
+}

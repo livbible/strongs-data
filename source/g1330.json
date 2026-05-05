@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "διέρχομαι",
+            "transliteration": "diérchomai"
+        }
+    ],
+    "description": "to traverse (literally)",
+    "definition": {
+        "to go through, pass through": {
+            "to go, walk, journey, pass through a place": {},
+            "to travel the road which leads through a place, go, pass, travel through a region": {}
+        },
+        "to go different places": {
+            "of people, to go abroad": {},
+            "of a report, to spread, go abroad": {}
+        }
+    },
+    "origin": "from g1223 and g2064",
+    "related": [
+        "g1223",
+        "g2064"
+    ]
+}

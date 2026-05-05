@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "συνανάκειμαι",
+            "transliteration": "synanákeimai"
+        }
+    ],
+    "description": "to recline in company with (at a meal)",
+    "definition": {
+        "to recline together, feast together": {
+            "of guests": {}
+        }
+    },
+    "origin": "from g4862 and g0345",
+    "related": [
+        "g0345",
+        "g4862"
+    ]
+}

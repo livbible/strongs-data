@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἆρα",
+            "transliteration": "âra"
+        }
+    ],
+    "description": "therefore",
+    "definition": {
+        "therefore": {}
+    },
+    "origin": "a form of g0686, denoting an interrogation to which a negative answer is presumed",
+    "related": [
+        "g0686"
+    ],
+    "notes": "this word is a greek interrogative particle that implies anxiety or impatience on the part of the questioner."
+}

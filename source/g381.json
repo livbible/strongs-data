@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀνάπτω",
+            "transliteration": "anáptō"
+        }
+    ],
+    "description": "to enkindle",
+    "definition": {
+        "to light up, kindle": {}
+    },
+    "origin": "from g0303 and g0681",
+    "related": [
+        "g0303",
+        "g0681"
+    ]
+}

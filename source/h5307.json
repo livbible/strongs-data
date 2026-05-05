@@ -1,0 +1,31 @@
+{
+    "originalWords": "נפל",
+    "description": "to fall, in a great variety of applications (intransitive or causative, literal or figurative)",
+    "definition": {
+        "to fall, lie, be cast down, fail": {
+            "(qal)": {
+                "to fall": {},
+                "to fall (of violent death)": {},
+                "to fall prostrate, prostrate oneself before": {},
+                "to fall upon, attack, desert, fall away to , go away to, fall into the hand of": {},
+                "to fall short, fail, fall out, turn out, result": {},
+                "to settle, waste away, be offered, be inferior to": {},
+                "to lie, lie prostrate": {}
+            },
+            "(hiphil)": {
+                "to cause to fall, fell, throw down, knock out, lay prostrate": {},
+                "to overthrow": {},
+                "to make the lot fall, assign by lot, apportion by lot": {},
+                "to let drop, cause to fail (figuratively)": {},
+                "to cause to fall": {}
+            },
+            "(hithpael)": {
+                "to throw or prostrate oneself, throw oneself upon": {},
+                "to lie prostrate, prostrate oneself": {}
+            },
+            "(pilel) to fall": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

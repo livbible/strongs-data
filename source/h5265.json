@@ -1,0 +1,21 @@
+{
+    "originalWords": "נסע",
+    "description": "properly, to pull up, especially the tent-pins, i.e., start on a journey",
+    "definition": {
+        "to pull out, pull up, set out, journey, remove, set forward, depart": {
+            "(qal)": {
+                "to pull out or up": {},
+                "to set out, depart": {},
+                "to journey, march": {},
+                "to set forth (of wind)": {}
+            },
+            "(niphal) to be pulled up, be removed, be plucked up": {},
+            "(hiphil)": {
+                "to cause to set out, lead out, cause to spring up": {},
+                "to remove, quarry": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

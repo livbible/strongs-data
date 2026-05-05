@@ -1,0 +1,26 @@
+{
+    "originalWords": "חבל",
+    "description": "to wind tightly (as a rope), i.e., to bind; specifically, by a pledge; figuratively, to pervert, destroy; also to writhe in pain (especially of parturition)",
+    "definition": {
+        "to bind": {
+            "(qal)": {
+                "to bind": {}
+            }
+        },
+        "to take a pledge, lay to pledge": {
+            "(qal) to hold by a pledge, take in pledge, hold in pledge": {},
+            "(niphal) to give a pledge, become pledged": {}
+        },
+        "to destroy, spoil, deal corruptly, offend": {
+            "(qal) to spoil, corrupt, offend": {},
+            "(niphal) to be ruined": {},
+            "(piel) to destroy, ruin": {},
+            "(pual) to be ruined, be broken": {}
+        },
+        "to bring forth, travail": {
+            "(piel) to writhe, twist, travail": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

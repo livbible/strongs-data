@@ -1,0 +1,22 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐξωθέω",
+            "transliteration": "exōthéō"
+        },
+        {
+            "unicode": "ἐξώθω",
+            "transliteration": "exṓthō"
+        }
+    ],
+    "description": "to expel; by implication, to propel",
+    "definition": {
+        "to thrust out": {},
+        "expel from one's abode": {},
+        "to propel, drive": {}
+    },
+    "origin": "from g1537 and ???? (to push)",
+    "related": [
+        "g1537"
+    ]
+}

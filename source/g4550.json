@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "σαπρός",
+            "transliteration": "saprós"
+        }
+    ],
+    "description": "rotten, i.e., worthless (literally or morally)",
+    "definition": {
+        "rotten, putrefied": {},
+        "corrupted by one and no longer fit for use, worn out": {},
+        "of poor quality, bad, unfit for use, worthless": {}
+    },
+    "origin": "from g4595",
+    "related": [
+        "g4190",
+        "g4595"
+    ],
+    "notes": "compare g4190."
+}

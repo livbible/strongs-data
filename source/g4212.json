@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ποσάκις",
+            "transliteration": "posákis"
+        }
+    ],
+    "description": "how many times",
+    "definition": {
+        "how often": {}
+    },
+    "origin": "multiplicative from g4214",
+    "related": [
+        "g4214"
+    ]
+}

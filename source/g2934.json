@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κτῆνος",
+            "transliteration": "ktēnos"
+        }
+    ],
+    "description": "property, i.e., (specially) a domestic animal",
+    "definition": {
+        "a beast": {
+            "especially a beast of burden": {},
+            "used for four legged animals as opposed to fishes and birds": {}
+        }
+    },
+    "origin": "from g2932",
+    "related": [
+        "g2932"
+    ]
+}

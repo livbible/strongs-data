@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀπαιτέω",
+            "transliteration": "apaitéō"
+        }
+    ],
+    "description": "to demand back",
+    "definition": {
+        "to ask back, demand back, exact something due": {}
+    },
+    "origin": "from g0575 and g0154",
+    "related": [
+        "g0154",
+        "g0575"
+    ]
+}

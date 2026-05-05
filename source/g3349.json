@@ -1,0 +1,34 @@
+{
+    "originalWords": [
+        {
+            "unicode": "μετεωρίζω",
+            "transliteration": "meteōrízō"
+        }
+    ],
+    "description": "to raise in mid-air, i.e., (figuratively) suspend (passively, fluctuate or be anxious)",
+    "definition": {
+        "to rise up on high": {
+            "to put a ship [out to sea] up upon the deep": {},
+            "to raise up fortifications": {}
+        },
+        "metaphorically": {
+            "to lift up one's soul, raise his spirits": {
+                "to buoy up with hope": {},
+                "to inflate with pride": {},
+                "to be elated": {},
+                "to take one airs, be puffed up with pride": {}
+            },
+            "by a metaphor taken from ships that are tossed about on the deep by winds and waves": {
+                "to cause one to waver or fluctuate in the mind": {},
+                "to agitate or harass with cares": {},
+                "to make anxious": {}
+            }
+        }
+    },
+    "origin": "from a compound of g3326 and a collateral form of g0142 or perhaps rather g0109 (compare \"meteor\")",
+    "related": [
+        "g0109",
+        "g0142",
+        "g3326"
+    ]
+}

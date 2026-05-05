@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἑρμηνεία",
+            "transliteration": "hermēneía"
+        }
+    ],
+    "description": "translation",
+    "definition": {
+        "interpretation": {
+            "of what has been spoken more or less obscurely by others": {}
+        }
+    },
+    "origin": "from the same as g2059",
+    "related": [
+        "g2059"
+    ]
+}

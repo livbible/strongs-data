@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἄσπιλος",
+            "transliteration": "áspilos"
+        }
+    ],
+    "description": "unblemished (physically or morally)",
+    "definition": {
+        "spotless": {},
+        "metaphorically": {
+            "free from censure, irreproachable": {},
+            "free from vice, unsullied": {}
+        }
+    },
+    "origin": "from g0001 (as a negative particle) and g4695",
+    "related": [
+        "g0001",
+        "g4695"
+    ]
+}

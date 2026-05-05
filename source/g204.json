@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀκρογωνιαῖος",
+            "transliteration": "akrogōniaîos"
+        }
+    ],
+    "description": "belonging to the extreme corner",
+    "definition": {
+        "placed at an extreme corner, the corner foundation stone": {}
+    },
+    "origin": "from g0206 and g1137",
+    "related": [
+        "g0206",
+        "g1137"
+    ]
+}

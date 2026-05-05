@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀντίδικος",
+            "transliteration": "antídikos"
+        }
+    ],
+    "description": "an opponent (in a lawsuit); specially, satan (as the arch-enemy)",
+    "definition": {
+        "opponent": {
+            "an opponent in a suit of law": {},
+            "an adversary, enemy": {}
+        }
+    },
+    "origin": "from g0473 and g1349",
+    "related": [
+        "g0473",
+        "g1349"
+    ]
+}

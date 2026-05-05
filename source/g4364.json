@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "προσποιέομαι",
+            "transliteration": "prospoiéomai"
+        }
+    ],
+    "description": "to do forward for oneself, i.e., pretend (as if about to do a thing)",
+    "definition": {
+        "to take or claim a thing to one's self": {},
+        "to conform one's self to a thing, or rather to affect to one's self": {
+            "to pretend": {}
+        }
+    },
+    "origin": "middle voice from g4314 and g4160",
+    "related": [
+        "g4160",
+        "g4314"
+    ]
+}

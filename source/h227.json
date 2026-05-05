@@ -1,0 +1,19 @@
+{
+    "originalWords": "אז",
+    "description": "at that time or place; also as a conjunction, therefore",
+    "definition": {
+        "then, at that time": {
+            "temporal expressions": {
+                "then (past)": {},
+                "then, if...then (future)": {},
+                "earlier": {}
+            },
+            "logical expressions": {
+                "in that case": {},
+                "that (being so)": {}
+            }
+        }
+    },
+    "origin": "a demonstrative adverb",
+    "related": []
+}

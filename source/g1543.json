@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἑκατοντάρχης",
+            "transliteration": "hekatontárchēs"
+        },
+        {
+            "unicode": "ἑκατόνταρχος",
+            "transliteration": "hekatóntarchos"
+        }
+    ],
+    "description": "the captain of one hundred men",
+    "definition": {
+        "an officer in the roman army": {}
+    },
+    "origin": "from g1540 and g0757",
+    "related": [
+        "g0757",
+        "g1540"
+    ]
+}

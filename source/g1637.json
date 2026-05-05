@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἔλαιον",
+            "transliteration": "élaion"
+        }
+    ],
+    "description": "olive oil",
+    "definition": {
+        "olive oil": {
+            "for fuel for lamps": {},
+            "for healing the sick": {},
+            "for anointing the head and body at feasts": {},
+            "mentioned among articles of commerce": {}
+        }
+    },
+    "origin": "neuter of the same as g1636",
+    "related": [
+        "g1636"
+    ]
+}

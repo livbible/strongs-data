@@ -1,0 +1,22 @@
+{
+    "originalWords": "עוף",
+    "description": "to fly; also (by implication of dimness) to faint (from the darkness of swooning)",
+    "definition": {
+        "(v) to fly, fly about, fly away": {
+            "(qal)": {
+                "to fly, hover": {},
+                "to fly away": {}
+            },
+            "(hiphil) to cause to fly, light upon": {},
+            "(polel)": {
+                "to fly about or to and fro": {},
+                "to cause to fly to and fro, brandish": {}
+            },
+            "(hithpolel) to fly away": {}
+        },
+        "(qal) to cover, be dark": {},
+        "(n f) gloom": {}
+    },
+    "origin": "a primitive root; to cover (with wings or obscurity); hence (as denominative from h5775)",
+    "related": []
+}

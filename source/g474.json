@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀντιβάλλω",
+            "transliteration": "antibállō"
+        }
+    ],
+    "description": "to bandy",
+    "definition": {
+        "to throw in turn": {}
+    },
+    "origin": "from g0473 and g0906",
+    "related": [
+        "g0473",
+        "g0906"
+    ]
+}

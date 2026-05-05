@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "διαφανής",
+            "transliteration": "diaphanḗs"
+        }
+    ],
+    "description": "appearing through, i.e., \"diaphanous\"",
+    "definition": {
+        "transparent, translucent": {}
+    },
+    "origin": "from g1223 and g5316",
+    "related": [
+        "g1223",
+        "g5316"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "originalWords": [
+        {
+            "unicode": "προτίθεμαι",
+            "transliteration": "protíthemai"
+        }
+    ],
+    "description": "to place before, i.e., (for oneself) to exhibit; (to oneself) to propose (determine)",
+    "definition": {
+        "to place before, to set forth": {
+            "to set forth to be looked at, expose to view": {},
+            "to expose to public view": {
+                "of the bodies of the dead": {},
+                "to let lie in state": {}
+            }
+        },
+        "to set before one's self, propose to one's self": {
+            "to purpose, determine": {}
+        }
+    },
+    "origin": "middle voice from g4253 and g5087",
+    "related": [
+        "g4253",
+        "g5087"
+    ]
+}

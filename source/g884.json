@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀχάριστος",
+            "transliteration": "acháristos"
+        }
+    ],
+    "description": "thankless, i.e., ungrateful",
+    "definition": {
+        "ungracious": {
+            "unpleasing": {},
+            "unthankful": {}
+        }
+    },
+    "origin": "from g0001 (as a negative particle) and a presumed derivative of g5483",
+    "related": [
+        "g0001",
+        "g5483"
+    ]
+}

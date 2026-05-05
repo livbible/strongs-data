@@ -1,0 +1,41 @@
+{
+    "originalWords": "קדש",
+    "description": "to be (causatively, make, pronounce or observe as) clean (ceremonially or morally)",
+    "definition": {
+        "to consecrate, sanctify, prepare, dedicate, be hallowed, be holy, be sanctified, be separate": {
+            "(qal)": {
+                "to be set apart, be consecrated": {},
+                "to be hallowed": {},
+                "consecrated, tabooed": {}
+            },
+            "(niphal)": {
+                "to show oneself sacred or majestic": {},
+                "to be honored, be treated as sacred": {},
+                "to be holy": {}
+            },
+            "(piel)": {
+                "to set apart as sacred, consecrate, dedicate": {},
+                "to observe as holy, keep sacred": {},
+                "to honor as sacred, hallow": {},
+                "to consecrate": {}
+            },
+            "(pual)": {
+                "to be consecrated": {},
+                "consecrated, dedicated": {}
+            },
+            "(hiphil)": {
+                "to set apart, devote, consecrate": {},
+                "to regard or treat as sacred or hallow": {},
+                "to consecrate": {}
+            },
+            "(hithpael)": {
+                "to keep oneself apart or separate": {},
+                "to cause himself to be hallowed (of god)": {},
+                "to be observed as holy": {},
+                "to consecrate oneself": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

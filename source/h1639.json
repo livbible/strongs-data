@@ -1,0 +1,20 @@
+{
+    "originalWords": "גרע",
+    "description": "to scrape off; by implication, to shave, remove, lessen, withhold",
+    "definition": {
+        "to diminish, restrain, withdraw, abate, keep back, do away, take from, clip": {
+            "(qal)": {
+                "to diminish": {},
+                "to restrain": {},
+                "to withdraw": {}
+            },
+            "(niphal)": {
+                "to be withdrawn": {},
+                "to be restrained": {}
+            },
+            "(piel) to withdraw, draw up": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

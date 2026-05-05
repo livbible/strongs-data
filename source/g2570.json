@@ -1,0 +1,29 @@
+{
+    "originalWords": [
+        {
+            "unicode": "καλός",
+            "transliteration": "kalós"
+        }
+    ],
+    "description": "properly, beautiful, but chiefly (figuratively) good (literally or morally), i.e., valuable or virtuous (for appearance or use, and thus distinguished from g0018, which is properly intrinsic)",
+    "definition": {
+        "beautiful, handsome, excellent, eminent, choice, surpassing, precious, useful, suitable, commendable, admirable": {
+            "beautiful to look at, shapely, magnificent": {},
+            "good, excellent in its nature and characteristics, and therefore well adapted to its ends": {
+                "genuine, approved": {},
+                "precious": {},
+                "joined to names of men designated by their office, competent, able, such as one ought to be": {},
+                "praiseworthy, noble": {}
+            },
+            "beautiful by reason of purity of heart and life, and hence praiseworthy": {
+                "morally good, noble": {}
+            },
+            "honorable, conferring honor": {},
+            "affecting the mind agreeably, comforting and confirming": {}
+        }
+    },
+    "origin": "of uncertain affinity",
+    "related": [
+        "g0018"
+    ]
+}

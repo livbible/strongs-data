@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Ἀπολλωνία",
+            "transliteration": "Apollōnía"
+        }
+    ],
+    "description": "apollonia, a place in macedonia",
+    "literal": "belonging to apollo",
+    "definition": {
+        "a maritime city of macedonia, about a day's journey from amphipolis": {}
+    },
+    "origin": "from the pagan deity ??????? (i.e. the sun; from g0622)",
+    "related": [
+        "g0622"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἱππικόν",
+            "transliteration": "hippikón"
+        }
+    ],
+    "description": "the cavalry force",
+    "definition": {
+        "equestrian, the horse(men), cavalry": {}
+    },
+    "origin": "neuter of a derivative of g2462",
+    "related": [
+        "g2462"
+    ]
+}

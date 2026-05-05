@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "διακονία",
+            "transliteration": "diakonía"
+        }
+    ],
+    "description": "attendance (as a servant, etc.); figuratively (eleemosynary) aid, (official) service (especially of the christian teacher, or technically of the diaconate)",
+    "definition": {
+        "service, ministering, especially of those who execute the commands of others": {},
+        "of those who by the command of god proclaim and promote religion among men": {
+            "of the office of moses": {},
+            "of the office of the apostles and its administration": {},
+            "of the office of prophets, evangelists, elders etc.": {}
+        },
+        "the ministration of those who render to others the offices of christian affection especially those who help meet need by either collecting or distributing of charities": {},
+        "the office of the deacon in the church": {},
+        "the service of those who prepare and present food": {}
+    },
+    "origin": "from g1249",
+    "related": [
+        "g1249"
+    ]
+}

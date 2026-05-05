@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κακοῦργος",
+            "transliteration": "kakoûrgos"
+        }
+    ],
+    "description": "a wrong-doer, i.e., criminal",
+    "definition": {
+        "a malefactor": {}
+    },
+    "origin": "from g2556 and the base of g2041",
+    "related": [
+        "g2041",
+        "g2556"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Ἀσύγκριτος",
+            "transliteration": "Asýnkritos"
+        }
+    ],
+    "description": "incomparable; asyncritus, a christian",
+    "literal": "incomparable",
+    "definition": {
+        "an unknown christian at rome saluted by paul": {}
+    },
+    "origin": "from g0001 (as a negative particle) and a derivative of g4793",
+    "related": [
+        "g0001",
+        "g4793"
+    ]
+}

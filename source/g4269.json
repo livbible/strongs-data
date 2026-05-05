@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πρόγονος",
+            "transliteration": "prógonos"
+        }
+    ],
+    "description": "an ancestor, (grand-)parent",
+    "definition": {
+        "born before, older": {
+            "of ancestors": {},
+            "of a mother": {},
+            "of grandparents": {},
+            "of great-grand parents (if they are still alive)": {}
+        }
+    },
+    "origin": "from g4266",
+    "related": [
+        "g4266"
+    ]
+}

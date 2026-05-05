@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "συλλαλέω",
+            "transliteration": "syllaléō"
+        }
+    ],
+    "description": "to talk together, i.e., converse",
+    "definition": {
+        "to talk with": {}
+    },
+    "origin": "from g4862 and g2980",
+    "related": [
+        "g2980",
+        "g4862"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "originalWords": [
+        {
+            "unicode": "αἴρω",
+            "transliteration": "aírō"
+        }
+    ],
+    "description": "to lift up; by implication, to take up or away; figuratively, to raise (the voice), keep in suspense (the mind), specially, to sail away (i.e., weigh anchor); by hebraism (compare h5375) to expiate sin",
+    "definition": {
+        "to raise up, elevate, lift up": {
+            "to raise from the ground, take up: stones": {},
+            "to raise upwards, elevate, lift up: the hand": {},
+            "to draw up: a fish": {}
+        },
+        "to take upon one's self and carry what has been raised up, to bear": {},
+        "to bear away what has been raised, carry off": {
+            "to move from its place": {},
+            "to take off or away what is attached to anything": {},
+            "to remove": {},
+            "to carry off, carry away with one": {},
+            "to appropriate what is taken": {},
+            "to take away from another what is his or what is committed to him, to take by force": {},
+            "to take and apply to any use": {},
+            "to take from among the living, either by a natural death, or by violence": {},
+            "cause to cease": {}
+        }
+    },
+    "origin": "a primary root",
+    "related": [
+        "h5375"
+    ]
+}

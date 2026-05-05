@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "χορτάζω",
+            "transliteration": "chortázō"
+        }
+    ],
+    "description": "to fodder, i.e., (generally) to gorge (supply food in abundance)",
+    "definition": {
+        "to feed with herbs, grass, hay, to fill, satisfy with food, to fatten": {
+            "of animals": {}
+        },
+        "to fill or satisfy men": {},
+        "to fulfil or satisfy the desire of any one": {}
+    },
+    "origin": "from g5528",
+    "related": [
+        "g5528"
+    ]
+}

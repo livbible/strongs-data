@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἄνωθεν",
+            "transliteration": "ánōthen"
+        }
+    ],
+    "description": "from above; by analogy, from the first; by implication, anew",
+    "definition": {
+        "from above, from a higher place": {
+            "of things which come from heaven or god": {}
+        },
+        "from the first, from the beginning, from the very first": {},
+        "anew, over again": {}
+    },
+    "origin": "from g0507",
+    "related": [
+        "g0507"
+    ]
+}

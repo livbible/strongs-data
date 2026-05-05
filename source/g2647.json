@@ -1,0 +1,26 @@
+{
+    "originalWords": [
+        {
+            "unicode": "καταλύω",
+            "transliteration": "katalýō"
+        }
+    ],
+    "description": "to loosen down (disintegrate), i.e., (by implication) to demolish (literally or figuratively); specially (compare g2646) to halt for the night",
+    "definition": {
+        "to dissolve, disunite": {
+            "(what has been joined together), to destroy, demolish": {},
+            "metaphorically to overthrow i.e., render vain, deprive of success, bring to naught": {
+                "to subvert, overthrow": {
+                    "of institutions, forms of government, laws, etc., to deprive of force, annul, abrogate, discard": {}
+                }
+            },
+            "of travellers, to halt on a journey, to put up, lodge (the figurative expression originating in the circumstance that, to put up for the night, the straps and packs of the beasts of burden are unbound and taken off; or, more correctly from the fact that the traveller's garments, tied up when he is on the journey, are unloosed at it end)": {}
+        }
+    },
+    "origin": "from g2596 and g3089",
+    "related": [
+        "g2596",
+        "g2646",
+        "g3089"
+    ]
+}

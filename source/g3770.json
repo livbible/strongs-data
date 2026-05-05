@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "οὐράνιος",
+            "transliteration": "ouránios"
+        }
+    ],
+    "description": "celestial, i.e., belonging to or coming from the sky",
+    "definition": {
+        "heavenly": {
+            "dwelling in heaven": {},
+            "coming from heaven": {}
+        }
+    },
+    "origin": "from g3772",
+    "related": [
+        "g3772"
+    ]
+}

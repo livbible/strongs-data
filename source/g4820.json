@@ -1,0 +1,25 @@
+{
+    "originalWords": [
+        {
+            "unicode": "συμβάλλω",
+            "transliteration": "symbállō"
+        }
+    ],
+    "description": "to combine, i.e., (in speaking) to converse, consult, dispute, (mentally) to consider, (by implication) to aid, (personally) to join, attack",
+    "definition": {
+        "to throw together, to bring together": {
+            "to converse": {},
+            "to bring together in one's mind, confer with one's self": {},
+            "to come together, meet": {
+                "to encounter in a hostile sense": {},
+                "to fight with one": {},
+                "to bring together of one's property, to contribute, aid, help": {}
+            }
+        }
+    },
+    "origin": "from g4862 and g0906",
+    "related": [
+        "g0906",
+        "g4862"
+    ]
+}

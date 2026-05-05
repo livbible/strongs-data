@@ -1,0 +1,26 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐμβατεύω",
+            "transliteration": "embateúō"
+        }
+    ],
+    "description": "equivalent to g1684; to intrude on (figuratively)",
+    "definition": {
+        "to enter, to frequent, haunt": {
+            "often of the gods frequenting favorite sports": {},
+            "often to come into possession of a thing": {},
+            "to invade, make hostile incursion into": {}
+        },
+        "to enter": {
+            "to go into details in narrating": {},
+            "to investigate, search into, scrutinise minutely": {}
+        }
+    },
+    "origin": "from g1722 and a presumed derivative of the base of g0939",
+    "related": [
+        "g0939",
+        "g1684",
+        "g1722"
+    ]
+}

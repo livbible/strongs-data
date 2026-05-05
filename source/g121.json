@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἄθωος",
+            "transliteration": "áthōos"
+        }
+    ],
+    "description": "not guilty",
+    "definition": {
+        "not guilty, innocent, unpunished": {}
+    },
+    "origin": "from g0001 (as a negative particle) and probably a derivative of g5087 (meaning a penalty)",
+    "related": [
+        "g0001",
+        "g5087"
+    ]
+}

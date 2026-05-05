@@ -1,0 +1,25 @@
+{
+    "originalWords": "שגב",
+    "description": "to be (causatively, make) lofty, especially inaccessible; by implication, safe, strong; used literally and figuratively",
+    "definition": {
+        "to be high, be inaccessibly high": {
+            "(qal)": {
+                "to be (too) high (for capture)": {},
+                "to be high (of prosperity)": {}
+            },
+            "(niphal)": {
+                "to be high": {},
+                "to be set on high, be (safely) set on high": {},
+                "to be exalted (of god)": {}
+            },
+            "(piel)": {
+                "to set on high, set (securely) on high": {},
+                "to exalt, exalt (in effective hostility)": {}
+            },
+            "(pual) to be set (securely) on high": {},
+            "(hiphil) to act exaltedly": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

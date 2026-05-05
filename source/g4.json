@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀβαρής",
+            "transliteration": "abarḗs"
+        }
+    ],
+    "description": "weightless, i.e., (figuratively) not burdensome",
+    "definition": {
+        "not burdensome": {},
+        "not heavy": {},
+        "light without weight": {}
+    },
+    "origin": "from g0001 (as a negative particle) and g0922",
+    "related": [
+        "g0001",
+        "g0922"
+    ]
+}

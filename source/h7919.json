@@ -1,0 +1,25 @@
+{
+    "originalWords": "שכל",
+    "description": "to be (causatively, make or act) circumspect and hence, intelligent",
+    "definition": {
+        "to be prudent, be circumspect, wisely understand, prosper": {
+            "(qal) to be prudent, be circumspect": {},
+            "(hiphil)": {
+                "to look at or upon, have insight": {},
+                "to give attention to, consider, ponder, be prudent": {},
+                "to have insight, have comprehension": {
+                    "insight, comprehension (subst)": {}
+                },
+                "to cause to consider, give insight, teach": {
+                    "the teachers, the wise": {}
+                },
+                "to act circumspectly, act prudently, act wisely": {},
+                "to prosper, have success": {},
+                "to cause to prosper": {}
+            }
+        },
+        "(piel) to lay crosswise, cross (hands)": {}
+    },
+    "origin": "a primitive root",
+    "related": []
+}

@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀχρεῖος",
+            "transliteration": "achreîos"
+        }
+    ],
+    "description": "useless, i.e., (euphemistically) unmeritorious",
+    "definition": {
+        "useless, good for nothing": {}
+    },
+    "origin": "from g0001 (as a negative particle) and a derivative of g5534 (compare g5532)",
+    "related": [
+        "g0001",
+        "g5532",
+        "g5534"
+    ]
+}

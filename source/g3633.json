@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "οἴομαι",
+            "transliteration": "oíomai"
+        },
+        {
+            "unicode": "οἶμαι",
+            "transliteration": "oîmai"
+        }
+    ],
+    "description": "to make like (oneself), i.e., imagine (be of the opinion)",
+    "definition": {
+        "to suppose, think": {}
+    },
+    "origin": "middle voice apparently from g3634",
+    "related": [
+        "g3634"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἁμαρτωλός",
+            "transliteration": "hamartōlós"
+        }
+    ],
+    "description": "sinful, i.e., a sinner",
+    "definition": {
+        "devoted to sin, a sinner": {
+            "not free from sin": {},
+            "pre-eminently sinful, especially wicked": {
+                "all wicked men": {},
+                "specifically of men stained with certain definite vices or crimes": {
+                    "tax collectors, heathen": {}
+                }
+            }
+        }
+    },
+    "origin": "from g0264",
+    "related": [
+        "g0264"
+    ]
+}

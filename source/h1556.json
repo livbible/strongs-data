@@ -1,0 +1,20 @@
+{
+    "originalWords": "גלל",
+    "description": "to roll (literally or figuratively)",
+    "definition": {
+        "to roll, roll away, roll down, roll together": {
+            "(qal) to roll": {},
+            "(niphal)": {
+                "to roll up": {},
+                "to flow down": {}
+            },
+            "(pilpel) to roll": {},
+            "(poal) to be rolled": {},
+            "(hithpoel) to roll oneself": {},
+            "(hithpalpel) to roll oneself": {},
+            "(hiphil) to roll away": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

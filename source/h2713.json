@@ -1,0 +1,19 @@
+{
+    "originalWords": "חקר",
+    "description": "properly, to penetrate; hence, to examine intimately",
+    "definition": {
+        "to search, search for, search out, examine, investigate": {
+            "(qal)": {
+                "to search (for)": {},
+                "to search through, explore": {},
+                "to examine thoroughly": {}
+            },
+            "(niphal)": {
+                "to be searched out, be found out, be ascertained, be examined": {}
+            },
+            "(piel) to search out, seek out": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

@@ -1,0 +1,22 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Ἀλέξανδρος",
+            "transliteration": "Aléxandros"
+        }
+    ],
+    "description": "alexander, the name of three israelites and one other man",
+    "literal": "the defender of man",
+    "definition": {
+        "son of simon of cyrene who carried jesus's cross, mark 15:21": {},
+        "a certain man of the kindred of the high priest, acts 4:6": {},
+        "a certain jew, acts 19:33": {},
+        "a certain coppersmith who opposed the apostle paul, 1 timothy 1:20": {},
+        "man-defender, the protector of men": {}
+    },
+    "origin": "from the same as (the first part of) g0220 and g0435",
+    "related": [
+        "g0220",
+        "g0435"
+    ]
+}

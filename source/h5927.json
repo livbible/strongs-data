@@ -1,0 +1,41 @@
+{
+    "originalWords": "עלה",
+    "description": "to ascend, intransitively (be high) or actively (mount); used in a great variety of senses, primary and secondary, literal and figurative",
+    "definition": {
+        "to go up, ascend, climb": {
+            "(qal)": {
+                "to go up, ascend": {},
+                "to meet, visit, follow, depart, withdraw, retreat": {},
+                "to go up, come up (of animals)": {},
+                "to spring up, grow, shoot forth (of vegetation)": {},
+                "to go up, go up over, rise (of natural phenomenon)": {},
+                "to come up (before god)": {},
+                "to go up, go up over, extend (of boundary)": {},
+                "to excel, be superior to": {}
+            },
+            "(niphal)": {
+                "to be taken up, be brought up, be taken away": {},
+                "to take oneself away": {},
+                "to be exalted": {}
+            },
+            "(hiphil)": {
+                "to bring up, cause to ascend or climb, cause to go up": {},
+                "to bring up, bring against, take away": {},
+                "to bring up, draw up, train": {},
+                "to cause to ascend": {},
+                "to rouse, stir up (mentally)": {},
+                "to offer, bring up (of gifts)": {},
+                "to exalt": {},
+                "to cause to ascend, offer": {}
+            },
+            "(hophal)": {
+                "to be carried away, be led up": {},
+                "to be taken up into, be inserted in": {},
+                "to be offered": {}
+            },
+            "(hithpael) to lift oneself": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

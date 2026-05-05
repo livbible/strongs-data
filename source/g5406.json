@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "φονεύς",
+            "transliteration": "phoneús"
+        }
+    ],
+    "description": "a murderer (always of criminal (or at least intentional) homicide; which g0443 does not necessarily imply; while g4607 is a special term for a public bandit)",
+    "definition": {
+        "a murderer, a homicide": {}
+    },
+    "origin": "from g5408",
+    "related": [
+        "g0443",
+        "g4607",
+        "g5408"
+    ]
+}

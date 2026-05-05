@@ -1,0 +1,17 @@
+{
+    "originalWords": "מספר",
+    "description": "a number, definite (arithmetical) or indefinite (large, innumerable; small, a few); also (abstractly) narration",
+    "definition": {
+        "number, tale": {
+            "number": {
+                "number": {},
+                "innumerable (with negative)": {},
+                "few, numerable (alone)": {},
+                "by count, in number, according to number (with prep)": {}
+            },
+            "recounting, relation": {}
+        }
+    },
+    "origin": "from h5608",
+    "related": []
+}

@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πέρας",
+            "transliteration": "péras"
+        }
+    ],
+    "description": "an extremity",
+    "definition": {
+        "extremity, bound, end": {
+            "of a portion of space": {
+                "boundary": {},
+                "frontier": {},
+                "the ends of the earth": {},
+                "the remotest lands": {}
+            },
+            "of a thing extending through a period of time (termination)": {}
+        }
+    },
+    "origin": "from the same as g4008",
+    "related": [
+        "g4008"
+    ]
+}

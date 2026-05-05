@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἁρπαγμός",
+            "transliteration": "harpagmós"
+        }
+    ],
+    "description": "plunder (properly concrete)",
+    "definition": {
+        "the act of seizing, robbery": {},
+        "a thing seized or to be seized": {
+            "booty to deem anything a prize": {},
+            "a thing to be seized upon or to be held fast, retained": {}
+        }
+    },
+    "origin": "from g0726",
+    "related": [
+        "g0726"
+    ]
+}

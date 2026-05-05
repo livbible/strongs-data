@@ -1,0 +1,27 @@
+{
+    "originalWords": "עבד",
+    "description": "to work (in any sense); by implication, to serve, till, (causatively) enslave, etc",
+    "definition": {
+        "to work, serve": {
+            "(qal)": {
+                "to labor, work, do work": {},
+                "to work for another, serve another by labor": {},
+                "to serve as subjects": {},
+                "to serve (god)": {},
+                "to serve (with levitical service)": {}
+            },
+            "(niphal)": {
+                "to be worked, be tilled (of land)": {},
+                "to make oneself a servant": {}
+            },
+            "(pual) to be worked": {},
+            "(hiphil)": {
+                "to compel to labor or work, cause to labor, cause to serve": {},
+                "to cause to serve as subjects": {}
+            },
+            "(hophal) to be led or enticed to serve": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

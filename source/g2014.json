@@ -1,0 +1,23 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐπιφαίνω",
+            "transliteration": "epiphaínō"
+        }
+    ],
+    "description": "to shine upon, i.e., become (literally) visible or (figuratively) known",
+    "definition": {
+        "to show to or upon": {
+            "to bring to light": {}
+        },
+        "to appear, become visible": {
+            "of stars": {}
+        },
+        "to become clearly known, to show one's self": {}
+    },
+    "origin": "from g1909 and g5316",
+    "related": [
+        "g1909",
+        "g5316"
+    ]
+}
