@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀναπολόγητος",
+            "transliteration": "anapológētos"
+        }
+    ],
+    "description": "indefensible",
+    "definition": {
+        "without defense or excuse": {},
+        "that which cannot be defended, inexcusable": {}
+    },
+    "origin": "from g0001 (as a negative particle) and a presumed derivative of g0626",
+    "related": [
+        "g0001",
+        "g0626"
+    ]
+}

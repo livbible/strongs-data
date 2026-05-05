@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀγράμματος",
+            "transliteration": "agrámmatos"
+        }
+    ],
+    "description": "unlettered, i.e., illiterate",
+    "definition": {
+        "illiterate, unlearned": {}
+    },
+    "origin": "from g0001 (as negative particle) and g1121",
+    "related": [
+        "g0001",
+        "g1121"
+    ]
+}

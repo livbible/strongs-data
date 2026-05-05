@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐρημία",
+            "transliteration": "erēmía"
+        }
+    ],
+    "description": "solitude (concretely)",
+    "definition": {
+        "a solitude, an uninhabited region, a waste": {}
+    },
+    "origin": "from g2048",
+    "related": [
+        "g2048"
+    ]
+}

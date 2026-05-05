@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀφιλάργυρος",
+            "transliteration": "aphilárgyros"
+        }
+    ],
+    "description": "unavaricious",
+    "definition": {
+        "not loving money, not avaricious": {}
+    },
+    "origin": "from g0001 (as a negative particle) and g5366",
+    "related": [
+        "g0001",
+        "g5366"
+    ]
+}

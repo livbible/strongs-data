@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀπεκδύομαι",
+            "transliteration": "apekdýomai"
+        }
+    ],
+    "description": "to divest wholly oneself, or (for oneself) despoil",
+    "definition": {
+        "wholly put off from one's self": {
+            "denoting separation from what is put off": {}
+        },
+        "wholly to strip off for one's self (for one's own advantage)": {},
+        "despoil, disarm": {}
+    },
+    "origin": "middle voice from g0575 and g1562",
+    "related": [
+        "g0575",
+        "g1562"
+    ]
+}

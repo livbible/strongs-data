@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀνένδεκτος",
+            "transliteration": "anéndektos"
+        }
+    ],
+    "description": "unadmitted, i.e., (by implication) not supposable",
+    "definition": {
+        "that cannot be admitted, inadmissible, unallowable, improper": {}
+    },
+    "origin": "from g0001 (as a negative particle) and a derivative of the same as g1735",
+    "related": [
+        "g0001",
+        "g1735"
+    ]
+}

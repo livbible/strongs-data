@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀναγινώσκω",
+            "transliteration": "anaginṓskō"
+        }
+    ],
+    "description": "to know again, i.e., (by extension) to read",
+    "definition": {
+        "to distinguish between, to recognize, to know accurately, to acknowledge": {},
+        "to read": {}
+    },
+    "origin": "from g0303 and g1097",
+    "related": [
+        "g0303",
+        "g1097"
+    ]
+}

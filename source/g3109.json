@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Μακεδονία",
+            "transliteration": "Makedonía"
+        }
+    ],
+    "description": "macedonia, a region of greece",
+    "literal": "extended land",
+    "definition": {
+        "a country bounded on the south by thessaly and epirus, on the east by thrace and the aegean sea, on the west by illyria, and on the north by dardania and moesia": {}
+    },
+    "origin": "from g3110",
+    "related": [
+        "g3110"
+    ]
+}

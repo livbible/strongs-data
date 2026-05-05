@@ -1,0 +1,22 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἄφθαρτος",
+            "transliteration": "áphthartos"
+        }
+    ],
+    "description": "undecaying (in essence or continuance)",
+    "definition": {
+        "uncorrupted, not liable to corruption or decay, imperishable": {
+            "of things": {}
+        },
+        "immortal": {
+            "of the risen dead": {}
+        }
+    },
+    "origin": "from g0001 (as a negative particle) and a derivative of g5351",
+    "related": [
+        "g0001",
+        "g5351"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἄκαρπος",
+            "transliteration": "ákarpos"
+        }
+    ],
+    "description": "barren (literally or figuratively)",
+    "definition": {
+        "metaphorically without fruit, barren, not yielding what it ought to yield": {}
+    },
+    "origin": "from g0001 (as a negative particle) and g2590",
+    "related": [
+        "g0001",
+        "g2590"
+    ]
+}

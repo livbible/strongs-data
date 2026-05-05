@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "μήποτε",
+            "transliteration": "mḗpote"
+        },
+        {
+            "unicode": "μή ποτε",
+            "transliteration": "mḗ pote"
+        }
+    ],
+    "description": "not ever; also if (or lest) ever (or perhaps)",
+    "definition": {
+        "that ... not, lest, whether perhaps, whether or not, in no way, perhaps": {}
+    },
+    "origin": "from g3361 and g4218",
+    "related": [
+        "g3361",
+        "g4218"
+    ]
+}

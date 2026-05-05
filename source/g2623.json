@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κατακλείω",
+            "transliteration": "katakleíō"
+        }
+    ],
+    "description": "to shut down (in a dungeon), i.e., incarcerate",
+    "definition": {
+        "to shut up, confine": {}
+    },
+    "origin": "from g2596 and g2808",
+    "related": [
+        "g2596",
+        "g2808"
+    ]
+}

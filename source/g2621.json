@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κατάκειμαι",
+            "transliteration": "katákeimai"
+        }
+    ],
+    "description": "to lie down, i.e., (by implication) be sick; specially, to recline at a meal",
+    "definition": {
+        "to have lain down, i.e., to lie prostrate": {
+            "of the sick": {},
+            "of those at meals, to recline": {}
+        }
+    },
+    "origin": "from g2596 and g2749",
+    "related": [
+        "g2596",
+        "g2749"
+    ]
+}

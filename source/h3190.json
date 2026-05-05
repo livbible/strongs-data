@@ -1,0 +1,23 @@
+{
+    "originalWords": "יטב",
+    "description": "to be (causative) make well, literally (sound, beautiful) or figuratively (happy, successful, right)",
+    "definition": {
+        "to be good, be pleasing, be well, be glad": {
+            "(qal)": {
+                "to be glad, be joyful": {},
+                "to be well placed": {},
+                "to be well for, be well with, go well with": {},
+                "to be pleasing, be pleasing to": {}
+            },
+            "(hiphil)": {
+                "to make glad, rejoice": {},
+                "to do good to, deal well with": {},
+                "to do well, do thoroughly": {},
+                "to make a thing good or right or beautiful": {},
+                "to do well, do right": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

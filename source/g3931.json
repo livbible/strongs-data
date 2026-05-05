@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "παρηγορία",
+            "transliteration": "parēgoría"
+        }
+    ],
+    "description": "an address alongside, i.e., (specially), consolation",
+    "definition": {
+        "addressing, address": {
+            "exhortation": {},
+            "comfort, solace, relief, alleviation, consolation": {}
+        }
+    },
+    "origin": "from a compound of g3844 and a derivative of g0058 (meaning to harangue an assembly)",
+    "related": [
+        "g0058",
+        "g3844"
+    ]
+}

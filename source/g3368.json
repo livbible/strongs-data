@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "μηδέποτε",
+            "transliteration": "mēdépote"
+        }
+    ],
+    "description": "not even ever",
+    "definition": {
+        "never": {}
+    },
+    "origin": "from g3366 and g4218",
+    "related": [
+        "g3366",
+        "g4218"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐκ",
+            "transliteration": "ek"
+        },
+        {
+            "unicode": "ἐξ",
+            "transliteration": "ex"
+        }
+    ],
+    "description": "a primary preposition denoting origin (the point whence action or motion proceeds), from, out (of place, time, or cause literal or figurative; direct or remote)",
+    "definition": {
+        "out of, from, by, away from": {}
+    },
+    "related": [],
+    "notes": "when preceding a word beginning with a consonant, it takes the form \"??,\" and when preceding a vowel, it becomes \"??.\""
+}

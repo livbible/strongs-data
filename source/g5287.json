@@ -1,0 +1,28 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὑπόστασις",
+            "transliteration": "hypóstasis"
+        }
+    ],
+    "description": "a setting under (support), i.e., (figuratively) concretely, essence, or abstractly, assurance (objectively or subjectively)",
+    "definition": {
+        "a setting or placing under": {
+            "thing put under, substructure, foundation": {}
+        },
+        "that which has foundation, is firm": {
+            "that which has actual existence": {
+                "a substance, real being": {}
+            },
+            "the substantial quality, nature, of a person or thing": {},
+            "the steadfastness of mind, firmness, courage, resolution": {
+                "confidence, firm trust, assurance": {}
+            }
+        }
+    },
+    "origin": "from a compound of g5259 and g2476",
+    "related": [
+        "g2476",
+        "g5259"
+    ]
+}

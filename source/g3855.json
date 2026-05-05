@@ -1,0 +1,29 @@
+{
+    "originalWords": [
+        {
+            "unicode": "παράγω",
+            "transliteration": "parágō"
+        }
+    ],
+    "description": "to lead near, i.e., (reflexively or intransitively) to go along or away",
+    "definition": {
+        "pass by": {
+            "to lead past, lead by": {},
+            "to lead aside, mislead": {
+                "to lead away": {}
+            },
+            "to lead to": {
+                "to lead forth, bring forward": {}
+            }
+        },
+        "to pass by, go past": {
+            "to depart, go away": {}
+        },
+        "metaphorically disappear": {}
+    },
+    "origin": "from g3844 and g0071",
+    "related": [
+        "g0071",
+        "g3844"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "originalWords": [
+        {
+            "unicode": "θέλω",
+            "transliteration": "thélō"
+        },
+        {
+            "unicode": "ἐθέλω",
+            "transliteration": "ethélō"
+        },
+        {
+            "unicode": "θελέω",
+            "transliteration": "theléō"
+        },
+        {
+            "unicode": "ἐθελέω",
+            "transliteration": "etheléō"
+        }
+    ],
+    "description": "to determine (as an active option from subjective impulse; whereas g1014 properly denotes rather a passive acquiescence in objective considerations), i.e., choose or prefer (literally or figuratively); by implication, to wish, i.e., be inclined to (sometimes adverbially, gladly); impersonally for the future tense, to be about to; by hebraism, to delight in",
+    "definition": {
+        "to will, have in mind, intend": {
+            "to be resolved or determined, to purpose": {},
+            "to desire, to wish": {},
+            "to love": {
+                "to like to do a thing, be fond of doing": {}
+            },
+            "to take delight in, have pleasure": {}
+        }
+    },
+    "origin": "apparently strengthened from the alternate form of g0138",
+    "related": [
+        "g0138",
+        "g1014"
+    ]
+}

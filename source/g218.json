@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀλείφω",
+            "transliteration": "aleíphō"
+        }
+    ],
+    "description": "to oil (with perfume)",
+    "definition": {
+        "to anoint": {}
+    },
+    "origin": "from g0001 (as particle of union) and the base of g3045",
+    "related": [
+        "g0001",
+        "g3045"
+    ]
+}

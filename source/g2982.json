@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "λαμά",
+            "transliteration": "lamá"
+        },
+        {
+            "unicode": "λαμμᾶ",
+            "transliteration": "lammâ"
+        }
+    ],
+    "description": "lama (i.e., why)",
+    "definition": {
+        "why": {}
+    },
+    "origin": "of hebrew origin (h4100 with prepositional prefix)",
+    "related": [
+        "h4100"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀφανής",
+            "transliteration": "aphanḗs"
+        }
+    ],
+    "description": "non-apparent",
+    "definition": {
+        "not manifest, hidden": {}
+    },
+    "origin": "from g0001 (as a negative particle) and g5316",
+    "related": [
+        "g0001",
+        "g5316"
+    ]
+}

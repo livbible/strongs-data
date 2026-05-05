@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "γενεαλογέω",
+            "transliteration": "genealogéō"
+        }
+    ],
+    "description": "to reckon by generations, i.e., trace in genealogy",
+    "definition": {
+        "to recount a family's origin and lineage, trace ancestry": {},
+        "to draw one's origin, derive one's pedigree": {}
+    },
+    "origin": "from g1074 and g3056",
+    "related": [
+        "g1074",
+        "g3056"
+    ]
+}

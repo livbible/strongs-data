@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πτηνόν",
+            "transliteration": "ptēnón"
+        }
+    ],
+    "description": "a bird",
+    "definition": {
+        "furnished with wings": {},
+        "winged, flying": {
+            "of birds": {}
+        }
+    },
+    "origin": "contraction for g4071",
+    "related": [
+        "g4071"
+    ]
+}

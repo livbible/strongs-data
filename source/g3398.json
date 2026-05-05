@@ -1,0 +1,25 @@
+{
+    "originalWords": [
+        {
+            "unicode": "μικρός",
+            "transliteration": "mikrós"
+        },
+        {
+            "unicode": "μικρότερος",
+            "transliteration": "mikróteros"
+        }
+    ],
+    "description": "small (in size, quantity, number or (figuratively) dignity)",
+    "definition": {
+        "small, little": {
+            "of size: hence of stature, of length": {},
+            "of space": {},
+            "of age: less by birth, younger": {},
+            "of time: short, brief, a little while, how little!": {},
+            "of quantity: i.e., number, amount": {},
+            "of rank or influence": {}
+        }
+    },
+    "origin": "apparently a primary word",
+    "related": []
+}

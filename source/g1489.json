@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "εἴγε",
+            "transliteration": "eíge"
+        }
+    ],
+    "description": "if indeed, seeing that, unless, (with negative) otherwise",
+    "definition": {
+        "if, indeed, inasmuch, as, since": {}
+    },
+    "origin": "from g1487 and g1065",
+    "related": [
+        "g1065",
+        "g1487"
+    ]
+}

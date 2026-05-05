@@ -1,0 +1,20 @@
+{
+    "originalWords": "ברך",
+    "description": "to kneel; by implication to bless god (as an act of adoration), and (vice-versa) man (as a benefit); also (by euphemism) to curse (god or the king, as treason)",
+    "definition": {
+        "to bless, kneel": {
+            "(qal)": {
+                "to kneel": {},
+                "to bless": {}
+            },
+            "(niphal) to be blessed, bless oneself": {},
+            "(piel) to bless": {},
+            "(pual) to be blessed, be adored": {},
+            "(hiphil) to cause to kneel": {},
+            "(hithpael) to bless oneself": {}
+        },
+        "to praise, salute, curse": {}
+    },
+    "origin": "a primitive root",
+    "related": []
+}

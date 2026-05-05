@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κατηγορία",
+            "transliteration": "katēgoría"
+        }
+    ],
+    "description": "a complaint (\"category\"), i.e., criminal charge",
+    "definition": {
+        "accusation, charge": {}
+    },
+    "origin": "from g2725",
+    "related": [
+        "g2725"
+    ]
+}

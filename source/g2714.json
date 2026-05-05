@@ -1,0 +1,23 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κατενώπιον",
+            "transliteration": "katenṓpion"
+        }
+    ],
+    "description": "directly in front of",
+    "definition": {
+        "over against, before the face of, before the presence of, in the sight of, before": {
+            "referring to places": {},
+            "metaphorically": {
+                "having one as it were before the eyes, before one as witness": {},
+                "before god as judge": {}
+            }
+        }
+    },
+    "origin": "from g2596 and g1799",
+    "related": [
+        "g1799",
+        "g2596"
+    ]
+}

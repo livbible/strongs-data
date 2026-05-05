@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πρόκειμαι",
+            "transliteration": "prókeimai"
+        }
+    ],
+    "description": "to lie before the view, i.e., (figuratively) to be present (to the mind), to stand forth (as an example or reward)",
+    "definition": {
+        "to lie or be placed before (a person or a thing) or in front of": {},
+        "to set before": {
+            "to be placed before the eyes, to lie in sight": {
+                "to stand forth": {}
+            },
+            "to be appointed, destined": {},
+            "to be there, be present, be at hand": {}
+        }
+    },
+    "origin": "from g4253 and g2749",
+    "related": [
+        "g2749",
+        "g4253"
+    ]
+}

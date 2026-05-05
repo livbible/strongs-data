@@ -1,0 +1,23 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐγώ",
+            "transliteration": "egṓ"
+        }
+    ],
+    "description": "i, me",
+    "definition": {
+        "i, me, my": {}
+    },
+    "origin": "a primary pronoun of the first person i (only expressed when emphatic)",
+    "related": [
+        "g1691",
+        "g1698",
+        "g1700",
+        "g2248",
+        "g2249",
+        "g2254",
+        "g2257"
+    ],
+    "notes": "for the other cases and the plural see g1691, g1698, g1700, g2248, g2249, g2254, g2257, etc."
+}

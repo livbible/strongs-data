@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀριθμέω",
+            "transliteration": "arithméō"
+        }
+    ],
+    "description": "to enumerate or count",
+    "definition": {
+        "to number": {}
+    },
+    "origin": "from g0706",
+    "related": [
+        "g0706"
+    ]
+}

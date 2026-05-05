@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "περικυκλόω",
+            "transliteration": "perikyklóō"
+        }
+    ],
+    "description": "to encircle all around, i.e., blockade completely",
+    "definition": {
+        "to encircle, compass about": {
+            "of a city (besieged)": {}
+        }
+    },
+    "origin": "from g4012 and g2944",
+    "related": [
+        "g2944",
+        "g4012"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "originalWords": "ראה",
+    "description": "to see, literally or figuratively (in numerous applications, direct and implied, transitive, intransitive and causative)",
+    "definition": {
+        "to see, look at, inspect, perceive, consider": {
+            "(qal)": {
+                "to see": {},
+                "to see, perceive": {},
+                "to see, have vision": {},
+                "to look at, see, regard, look after, see after, learn about, observe, watch, look upon, look out, find out": {},
+                "to see, observe, consider, look at, give attention to, discern, distinguish": {},
+                "to look at, gaze at": {}
+            },
+            "(niphal)": {
+                "to appear, present oneself": {},
+                "to be seen": {},
+                "to be visible": {}
+            },
+            "(pual) to be seen": {},
+            "(hiphil)": {
+                "to cause to see, show": {},
+                "to cause to look intently at, behold, cause to gaze at": {}
+            },
+            "(hophal)": {
+                "to be caused to see, be shown": {},
+                "to be exhibited to": {}
+            },
+            "(hithpael) to look at each other, face": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

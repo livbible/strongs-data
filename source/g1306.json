@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "διαυγάζω",
+            "transliteration": "diaugázō"
+        }
+    ],
+    "description": "to glimmer through, i.e., break (as day)",
+    "definition": {
+        "to shine through, to dawn": {
+            "of daylight breaking through the darkness of night": {}
+        }
+    },
+    "origin": "from g1223 and g0826",
+    "related": [
+        "g0826",
+        "g1223"
+    ]
+}

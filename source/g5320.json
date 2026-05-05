@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "φανερῶς",
+            "transliteration": "phanerōs"
+        }
+    ],
+    "description": "plainly, i.e., clearly or publicly",
+    "definition": {
+        "manifestly": {
+            "plainly, clearly": {},
+            "openly": {}
+        }
+    },
+    "origin": "adverb from g5318",
+    "related": [
+        "g5318"
+    ]
+}

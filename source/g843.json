@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "αὐτοκατάκριτος",
+            "transliteration": "autokatákritos"
+        }
+    ],
+    "description": "self-condemned",
+    "definition": {
+        "self-condemned": {}
+    },
+    "origin": "from g0846 and a derivative or g2632",
+    "related": [
+        "g0846",
+        "g2632"
+    ]
+}

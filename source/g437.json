@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀνθομολογέομαι",
+            "transliteration": "anthomologéomai"
+        }
+    ],
+    "description": "to confess in turn, i.e., respond in praise",
+    "definition": {
+        "to reply by professing or by confessing": {},
+        "to agree mutually (in turn), to make a compact": {},
+        "to acknowledge in the presence of": {
+            "to give thanks": {}
+        }
+    },
+    "origin": "from g0473 and the middle voice of g3670",
+    "related": [
+        "g0473",
+        "g3670"
+    ]
+}

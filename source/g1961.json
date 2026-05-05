@@ -1,0 +1,25 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐπιμένω",
+            "transliteration": "epiménō"
+        }
+    ],
+    "description": "to stay over, i.e., remain (figuratively, persevere)",
+    "definition": {
+        "to stay at or with, to tarry still, still to abide, to continue, remain": {
+            "of tarrying in a place": {},
+            "to persevere, continue": {
+                "of the thing continued in": {},
+                "in the work of teaching": {},
+                "of the blessing for which one keeps himself fit": {},
+                "denoting the action persisted in": {}
+            }
+        }
+    },
+    "origin": "from g1909 and g3306",
+    "related": [
+        "g1909",
+        "g3306"
+    ]
+}

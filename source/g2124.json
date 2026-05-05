@@ -1,0 +1,23 @@
+{
+    "originalWords": [
+        {
+            "unicode": "εὐλάβεια",
+            "transliteration": "eulábeia"
+        }
+    ],
+    "description": "properly, caution, i.e., (religiously) reverence (piety); by implication, dread (concretely)",
+    "definition": {
+        "caution, circumspection, discretion": {
+            "avoidance": {},
+            "a reasonable shunning": {}
+        },
+        "reverence, veneration": {
+            "reverence toward god, godly fear, piety": {}
+        },
+        "fear anxiety, dread": {}
+    },
+    "origin": "from g2126",
+    "related": [
+        "g2126"
+    ]
+}

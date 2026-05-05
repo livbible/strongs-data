@@ -1,0 +1,20 @@
+{
+    "originalWords": "זרע",
+    "description": "to sow; figuratively, to disseminate, plant, fructify",
+    "definition": {
+        "to sow, scatter seed": {
+            "(qal)": {
+                "to sow": {},
+                "producing, yielding seed": {}
+            },
+            "(niphal)": {
+                "to be sown": {},
+                "to become pregnant, be made pregnant": {}
+            },
+            "(pual) to be sown": {},
+            "(hiphil) to produce seed, yield seed": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

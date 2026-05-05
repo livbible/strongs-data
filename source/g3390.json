@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "μητρόπολις",
+            "transliteration": "mētrópolis"
+        }
+    ],
+    "description": "a mother city, i.e., \"metropolis\"",
+    "definition": {
+        "a metropolis, a chief city": {}
+    },
+    "origin": "from g3384 and g4172",
+    "related": [
+        "g3384",
+        "g4172"
+    ]
+}

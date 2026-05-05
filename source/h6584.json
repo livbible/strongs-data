@@ -1,0 +1,21 @@
+{
+    "originalWords": "פשט",
+    "description": "to spread out (i.e., deploy in hostile array); by analogy, to strip (i.e., unclothe, plunder, flay, etc.)",
+    "definition": {
+        "to strip, invade, strip off, make a dash, raid, spread out": {
+            "(qal)": {
+                "to strip off, put off": {},
+                "to put off (one's shelter), make a dash": {}
+            },
+            "(piel) to strip": {},
+            "(hiphil)": {
+                "to strip of": {},
+                "to strip off": {},
+                "to flay": {}
+            },
+            "(hithpael) to strip oneself of": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

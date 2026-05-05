@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "τίς",
+            "transliteration": "tís"
+        }
+    ],
+    "description": "an interrogative pronoun, who, which or what (in direct or indirect questions)",
+    "definition": {
+        "who, which, what": {}
+    },
+    "origin": "probably emphatic of g5100",
+    "related": [
+        "g5100"
+    ]
+}

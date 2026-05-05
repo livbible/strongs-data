@@ -1,0 +1,25 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὅς",
+            "transliteration": "hós"
+        },
+        {
+            "unicode": "ἥ",
+            "transliteration": "hḗ"
+        },
+        {
+            "unicode": "ὅ",
+            "transliteration": "hó"
+        }
+    ],
+    "description": "the relatively (sometimes demonstrative) pronoun, who, which, what, that",
+    "definition": {
+        "who, which, what, that": {}
+    },
+    "origin": "probably a primary word (or perhaps a form of the article g3588)",
+    "related": [
+        "g3588",
+        "g3757"
+    ]
+}

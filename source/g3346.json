@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "μετατίθημι",
+            "transliteration": "metatíthēmi"
+        }
+    ],
+    "description": "to transfer, i.e., (literally) transport, (by implication) exchange, (reflexively) change sides, or (figuratively) pervert",
+    "definition": {
+        "to transpose (two things, one of which is put in place of the other)": {
+            "to transfer": {},
+            "to change": {},
+            "to transfer one's self or suffer one's self to be transferred": {
+                "to go or pass over": {},
+                "to fall away or desert from one person or thing to another": {}
+            }
+        }
+    },
+    "origin": "from g3326 and g5087",
+    "related": [
+        "g3326",
+        "g5087"
+    ]
+}

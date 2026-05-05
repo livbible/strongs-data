@@ -1,0 +1,31 @@
+{
+    "originalWords": "בוא",
+    "description": "to go or come (in a wide variety of applications)",
+    "definition": {
+        "to go in, enter, come, go, come in": {
+            "(qal)": {
+                "to enter, come in": {},
+                "to come": {
+                    "to come with": {},
+                    "to come upon, fall or light upon, attack (enemy)": {},
+                    "to come to pass": {}
+                },
+                "to attain to": {},
+                "to be enumerated": {},
+                "to go": {}
+            },
+            "(hiphil)": {
+                "to lead in": {},
+                "to carry in": {},
+                "to bring in, cause to come in, gather, cause to come, bring near, bring against, bring upon": {},
+                "to bring to pass": {}
+            },
+            "(hophal)": {
+                "to be brought, brought in": {},
+                "to be introduced, be put": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

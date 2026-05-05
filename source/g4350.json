@@ -1,0 +1,26 @@
+{
+    "originalWords": [
+        {
+            "unicode": "προσκόπτω",
+            "transliteration": "proskóptō"
+        }
+    ],
+    "description": "to strike at, i.e., surge against (as water); specially, to stub on, i.e., trip up (literally or figuratively)",
+    "definition": {
+        "to strike against": {
+            "of those who strike against a stone or other obstacle in the path, to stumble": {},
+            "to strike one's foot against a stone": {
+                "i.e., to meet with some harm;": {}
+            },
+            "to rush upon, beat against": {},
+            "to be made to stumble by a thing": {
+                "i.e., metaphorically to be induced to sin": {}
+            }
+        }
+    },
+    "origin": "from g4314 and g2875",
+    "related": [
+        "g2875",
+        "g4314"
+    ]
+}

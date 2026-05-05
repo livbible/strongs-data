@@ -1,0 +1,29 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀσθένεια",
+            "transliteration": "asthéneia"
+        }
+    ],
+    "description": "feebleness (of mind or body); by implication, malady; morally, frailty",
+    "definition": {
+        "want of strength, weakness, infirmity": {
+            "of the body": {
+                "its native weakness and frailty": {},
+                "feebleness of health or sickness": {}
+            },
+            "of the soul": {
+                "want of strength and capacity requisite": {
+                    "to understand a thing": {},
+                    "to do things great and glorious": {},
+                    "to restrain corrupt desires": {},
+                    "to bear trials and troubles": {}
+                }
+            }
+        }
+    },
+    "origin": "from g0772",
+    "related": [
+        "g0772"
+    ]
+}

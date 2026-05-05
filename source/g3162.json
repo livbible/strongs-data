@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "μάχαιρα",
+            "transliteration": "máchaira"
+        }
+    ],
+    "description": "a knife, i.e., dirk; figuratively, war, judicial punishment",
+    "definition": {
+        "a large knife, used for killing animals and cutting up flesh": {},
+        "a small sword, as distinguished from a large sword": {
+            "curved sword, for a cutting stroke": {},
+            "a straight sword, for thrusting": {}
+        }
+    },
+    "origin": "probably feminine of a presumed derivative of g3163",
+    "related": [
+        "g3163"
+    ]
+}

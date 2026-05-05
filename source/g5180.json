@@ -1,0 +1,27 @@
+{
+    "originalWords": [
+        {
+            "unicode": "τύπτω",
+            "transliteration": "týptō"
+        }
+    ],
+    "description": "to \"thump\", i.e., cudgel or pummel (properly, with a stick or bastinado), but in any case by repeated blows; thus differing from g3817 and g3960, which denote a (usually single) blow with the hand or any instrument, or g4141 with the fist (or a hammer), or g4474 with the palm; as well as from g5177, an accidental collision); by implication, to punish; figuratively, to offend (the conscience)",
+    "definition": {
+        "to strike, beat, smite": {
+            "with a staff, a whip, the fist, the hand": {},
+            "of mourners, to smite their breast": {}
+        },
+        "to smite one on whom he inflicts punitive evil": {},
+        "to smite": {
+            "metaphorically to wound, disquiet one's conscience": {}
+        }
+    },
+    "origin": "a primary verb (in a strengthened form)",
+    "related": [
+        "g3817",
+        "g3960",
+        "g4141",
+        "g4474",
+        "g5177"
+    ]
+}

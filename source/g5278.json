@@ -1,0 +1,23 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὑπομένω",
+            "transliteration": "hypoménō"
+        }
+    ],
+    "description": "to stay under (behind), i.e., remain; figuratively, to undergo, i.e., bear (trials), have fortitude, persevere",
+    "definition": {
+        "to remain": {
+            "to tarry behind": {}
+        },
+        "to remain i.e., abide, not recede or flee": {
+            "to preserve: under misfortunes and trials to hold fast to one's faith in christ": {},
+            "to endure, bear bravely and calmly: ill treatments": {}
+        }
+    },
+    "origin": "from g5259 and g3306",
+    "related": [
+        "g3306",
+        "g5259"
+    ]
+}

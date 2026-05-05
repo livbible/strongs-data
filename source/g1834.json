@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐξηγέομαι",
+            "transliteration": "exēgéomai"
+        }
+    ],
+    "description": "to consider out (aloud), i.e., rehearse, unfold",
+    "definition": {
+        "to lead out, be leader, go before": {},
+        "metaphorically, to draw out in narrative, unfold a teaching": {
+            "to recount, rehearse": {},
+            "to unfold, declare": {
+                "the things relating to god": {},
+                "used in greek writing of the interpretation of things sacred and divine, oracles, dreams, etc.": {}
+            }
+        }
+    },
+    "origin": "from g1537 and g2233",
+    "related": [
+        "g1537",
+        "g2233"
+    ]
+}

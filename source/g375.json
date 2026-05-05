@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀναπέμπω",
+            "transliteration": "anapémpō"
+        }
+    ],
+    "description": "to send up or back",
+    "definition": {
+        "to send up": {
+            "to a higher place": {},
+            "to a person higher in office, authority, or power": {}
+        },
+        "to send back": {}
+    },
+    "origin": "from g0303 and g3992",
+    "related": [
+        "g0303",
+        "g3992"
+    ]
+}

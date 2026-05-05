@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "περιβάλλω",
+            "transliteration": "peribállō"
+        }
+    ],
+    "description": "to throw all around, i.e., invest (with a palisade or with clothing)",
+    "definition": {
+        "to throw around, to put around": {
+            "to surround a city with a bank (palisade)": {},
+            "of garments, to clothe one": {
+                "to put a thing on one": {},
+                "to clothe one with a thing": {}
+            },
+            "to put on or clothe one's self": {}
+        }
+    },
+    "origin": "from g4012 and g0906",
+    "related": [
+        "g0906",
+        "g4012"
+    ]
+}

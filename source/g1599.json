@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐκπέμπω",
+            "transliteration": "ekpémpō"
+        }
+    ],
+    "description": "to despatch",
+    "definition": {
+        "to send away, send forth": {}
+    },
+    "origin": "from g1537 and g3992",
+    "related": [
+        "g1537",
+        "g3992"
+    ]
+}

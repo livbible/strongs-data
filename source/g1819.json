@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐξάπινα",
+            "transliteration": "exápina"
+        }
+    ],
+    "description": "of a sudden, i.e., unexpectedly",
+    "definition": {
+        "suddenly": {}
+    },
+    "origin": "from g1537 and a derivative of the same as g0160",
+    "related": [
+        "g0160",
+        "g1537",
+        "g1810"
+    ],
+    "notes": "compare g1810."
+}

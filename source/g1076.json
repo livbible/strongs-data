@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "γενεαλογία",
+            "transliteration": "genealogía"
+        }
+    ],
+    "description": "tracing by generations, i.e., \"genealogy\"",
+    "definition": {
+        "a genealogy, a record of descent or lineage": {}
+    },
+    "origin": "from the same as g1075",
+    "related": [
+        "g1075"
+    ]
+}

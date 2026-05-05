@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Στέφανος",
+            "transliteration": "Stéphanos"
+        }
+    ],
+    "description": "stephanus, a christian",
+    "literal": "crowned",
+    "definition": {
+        "one of the seven deacons in jerusalem and the first christian martyr": {}
+    },
+    "origin": "the same as g4735",
+    "related": [
+        "g4735"
+    ]
+}

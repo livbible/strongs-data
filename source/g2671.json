@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κατάρα",
+            "transliteration": "katára"
+        }
+    ],
+    "description": "imprecation, execration",
+    "definition": {
+        "an execration, imprecation, curse": {}
+    },
+    "origin": "from g2596 (intensive) and g0685",
+    "related": [
+        "g0685",
+        "g2596"
+    ]
+}

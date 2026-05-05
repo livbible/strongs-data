@@ -1,0 +1,22 @@
+{
+    "originalWords": "נפץ",
+    "description": "to dash to pieces, or scatter",
+    "definition": {
+        "to shatter, break, dash, beat in pieces": {
+            "(qal)": {
+                "to shatter": {},
+                "shattering (infinitive)": {}
+            },
+            "(piel) to dash to pieces": {},
+            "(pual) to pulverise": {}
+        },
+        "to scatter, disperse, overspread, be scattered": {
+            "(qal)": {
+                "to be scattered": {},
+                "dispersed (participle)": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

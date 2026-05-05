@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἄκων",
+            "transliteration": "ákōn"
+        }
+    ],
+    "description": "unwilling",
+    "definition": {
+        "not of one's own will, unwillingly, against the will": {}
+    },
+    "origin": "from g0001 (as a negative particle) and g1635",
+    "related": [
+        "g0001",
+        "g1635"
+    ]
+}

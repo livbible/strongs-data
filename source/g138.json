@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "αἱρέομαι",
+            "transliteration": "hairéomai"
+        },
+        {
+            "unicode": "ἕλλομαι",
+            "transliteration": "héllomai"
+        }
+    ],
+    "description": "to take for oneself, i.e., to prefer",
+    "definition": {
+        "to take for oneself, to prefer, choose": {},
+        "to choose by vote, elect to office": {}
+    },
+    "origin": "probably akin to g0142",
+    "related": [
+        "g0142"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐκδοχή",
+            "transliteration": "ekdochḗ"
+        }
+    ],
+    "description": "expectation",
+    "definition": {
+        "the act or manner of receiving from": {
+            "reception": {},
+            "succession": {},
+            "interpretation": {},
+            "expectation, waiting": {}
+        }
+    },
+    "origin": "from g1551",
+    "related": [
+        "g1551"
+    ]
+}

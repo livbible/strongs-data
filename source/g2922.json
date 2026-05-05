@@ -1,0 +1,23 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κριτήριον",
+            "transliteration": "kritḗrion"
+        }
+    ],
+    "description": "a rule of judging (\"criterion\"), i.e., (by implication) a tribunal",
+    "definition": {
+        "the instrument or means of trying or judging anything": {
+            "the rule by which one judges": {}
+        },
+        "the place where judgment is given": {
+            "the tribunal of a judge": {},
+            "a bench of judges": {}
+        },
+        "the matter judged, thing to be decided, suit, case": {}
+    },
+    "origin": "neuter of a presumed derivative of g2923",
+    "related": [
+        "g2923"
+    ]
+}

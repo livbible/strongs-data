@@ -1,0 +1,27 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πλείων",
+            "transliteration": "pleíōn"
+        },
+        {
+            "unicode": "πλεῖον",
+            "transliteration": "pleîon"
+        },
+        {
+            "unicode": "πλέον",
+            "transliteration": "pléon"
+        }
+    ],
+    "description": "more in quantity, number, or quality; also (in plural) the major portion",
+    "definition": {
+        "greater in quantity": {
+            "the more part, very many": {}
+        },
+        "greater in quality, superior, more excellent": {}
+    },
+    "origin": "comparative of g4183",
+    "related": [
+        "g4183"
+    ]
+}

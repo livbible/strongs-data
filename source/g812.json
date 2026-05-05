@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀτακτέω",
+            "transliteration": "ataktéō"
+        }
+    ],
+    "description": "to be (i.e., act) irregular",
+    "definition": {
+        "to be disorderly": {
+            "of soldiers marching out of order or quitting ranks": {},
+            "to be neglectful of duty, to be lawless": {},
+            "to lead a disorderly life": {}
+        }
+    },
+    "origin": "from g0813",
+    "related": [
+        "g0813"
+    ]
+}

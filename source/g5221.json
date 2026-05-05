@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὑπαντάω",
+            "transliteration": "hypantáō"
+        }
+    ],
+    "description": "to go opposite (meet) under (quietly), i.e., to encounter, fall in with",
+    "definition": {
+        "to go to meet, to meet": {},
+        "in military reference": {
+            "of a hostile meeting": {}
+        }
+    },
+    "origin": "from g5259 and a derivative of g0473",
+    "related": [
+        "g0473",
+        "g5259"
+    ]
+}

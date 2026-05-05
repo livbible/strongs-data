@@ -1,0 +1,25 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἁγιάζω",
+            "transliteration": "hagiázō"
+        }
+    ],
+    "description": "to make holy, i.e., (ceremonially) purify or consecrate; (mentally) to venerate",
+    "definition": {
+        "to render or acknowledge, or to be venerable or hallow": {},
+        "to separate from profane things and dedicate to god": {
+            "consecrate things to god": {},
+            "dedicate people to god": {}
+        },
+        "to purify": {
+            "to cleanse externally": {},
+            "to purify by expiation: free from the guilt of sin": {},
+            "to purify internally by renewing of the soul": {}
+        }
+    },
+    "origin": "from g0040",
+    "related": [
+        "g0040"
+    ]
+}

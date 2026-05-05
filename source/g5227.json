@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὑπεναντίος",
+            "transliteration": "hypenantíos"
+        }
+    ],
+    "description": "under (covertly) contrary to, i.e., opposed or (as noun) an opponent",
+    "definition": {
+        "opposite to": {
+            "set over against: meeting one another": {}
+        },
+        "opposed to, contrary to, an adversary": {}
+    },
+    "origin": "from g5259 and g1727",
+    "related": [
+        "g1727",
+        "g5259"
+    ]
+}

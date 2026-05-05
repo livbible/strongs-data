@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐνέχω",
+            "transliteration": "enéchō"
+        }
+    ],
+    "description": "to hold in or upon, i.e., ensnare; by implication, to keep a grudge",
+    "definition": {
+        "to have within, to hold in": {
+            "to be held, entangled, be held ensnared": {},
+            "to be engaged with, set one's self against, hold a grudge against someone": {}
+        }
+    },
+    "origin": "from g1722 and g2192",
+    "related": [
+        "g1722",
+        "g2192"
+    ]
+}

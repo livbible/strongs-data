@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀπαρτισμός",
+            "transliteration": "apartismós"
+        }
+    ],
+    "description": "completion",
+    "definition": {
+        "completion": {}
+    },
+    "origin": "from a derivative of g0534",
+    "related": [
+        "g0534"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Αἰγύπτιος",
+            "transliteration": "Aigýptios"
+        }
+    ],
+    "description": "an egyptian or inhabitant of aegyptus",
+    "definition": {
+        "an egyptian": {}
+    },
+    "origin": "from g0125",
+    "related": [
+        "g0125"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "originalWords": "יסר",
+    "description": "to chastise, literally (with blows) or figuratively (with words); hence, to instruct",
+    "definition": {
+        "to chasten, discipline, instruct, admonish": {
+            "(qal)": {
+                "to chasten, admonish": {},
+                "to instruct": {},
+                "to discipline": {}
+            },
+            "(niphal) to let oneself be chastened or corrected or admonished": {},
+            "(piel)": {
+                "to discipline, correct": {},
+                "to chasten, chastise": {}
+            },
+            "(hiphil) to chasten": {},
+            "(nithpael) to teach": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

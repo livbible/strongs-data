@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κάμινος",
+            "transliteration": "káminos"
+        }
+    ],
+    "description": "a furnace",
+    "definition": {
+        "a furnace": {
+            "for smelting": {},
+            "for burning earthen ware": {},
+            "for baking bread": {}
+        }
+    },
+    "origin": "probably from g2545",
+    "related": [
+        "g2545"
+    ]
+}

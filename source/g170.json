@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀκαιρέομαι",
+            "transliteration": "akairéomai"
+        }
+    ],
+    "description": "to be inopportune (for oneself), i.e., to fail of a proper occasion",
+    "definition": {
+        "to lack opportunity": {}
+    },
+    "origin": "from a compound of g0001 (as a negative particle) and g2540 (meaning unseasonable)",
+    "related": [
+        "g0001",
+        "g2540"
+    ]
+}

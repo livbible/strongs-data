@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀναιρέω",
+            "transliteration": "anairéō"
+        }
+    ],
+    "description": "to take up, i.e., adopt; by implication, to take away (violently), i.e., abolish, murder",
+    "definition": {
+        "to take up, to lift up (from the ground)": {
+            "to take up for myself as mine": {},
+            "to own (an exposed infant)": {}
+        },
+        "to take away, abolish": {
+            "to do away with or abrogate customs or ordinances": {},
+            "to put out of the way, kill slay a man": {}
+        }
+    },
+    "origin": "from g0303 and (the active of) g0138",
+    "related": [
+        "g0138",
+        "g0303"
+    ]
+}

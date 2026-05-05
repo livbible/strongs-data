@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὑποζύγιον",
+            "transliteration": "hypozýgion"
+        }
+    ],
+    "description": "an animal under the yoke (draught-beast), i.e., (specially), a donkey",
+    "definition": {
+        "under the yoke": {},
+        "a beast of burden, an ass": {
+            "the ass was the common animal used by the middle easterners on journey and for carrying burdens": {}
+        }
+    },
+    "origin": "neuter of a compound of g5259 and g2218",
+    "related": [
+        "g2218",
+        "g5259"
+    ]
+}

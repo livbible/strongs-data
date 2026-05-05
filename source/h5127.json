@@ -1,0 +1,23 @@
+{
+    "originalWords": "נוס",
+    "description": "to flit, i.e., vanish away (subside, escape; causatively, chase, impel, deliver)",
+    "definition": {
+        "to flee, escape": {
+            "(qal)": {
+                "to flee": {},
+                "to escape": {},
+                "to take flight, depart, disappear": {},
+                "to fly (to the attack) on horseback": {}
+            },
+            "(polel) to drive at": {},
+            "(hithpolel) to take flight": {},
+            "(hiphil)": {
+                "to put to flight": {},
+                "to drive hastily": {},
+                "to cause to disappear, hide": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

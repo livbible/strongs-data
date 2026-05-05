@@ -1,0 +1,27 @@
+{
+    "originalWords": "אחר",
+    "description": "properly, the hind part; generally used as an adverb or conjunction, after (in various senses)",
+    "definition": {
+        "after the following part, behind (of place), hinder, afterwards (of time)": {
+            "as an adverb": {
+                "behind (of place)": {},
+                "afterwards (of time)": {}
+            },
+            "as a preposition": {
+                "behind, after (of place)": {},
+                "after (of time)": {},
+                "besides": {}
+            },
+            "after that": {},
+            "as a substantive": {
+                "hinder part": {}
+            },
+            "with other prepositions": {
+                "from behind": {},
+                "from following after": {}
+            }
+        }
+    },
+    "origin": "from h0309",
+    "related": []
+}

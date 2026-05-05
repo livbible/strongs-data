@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀστατέω",
+            "transliteration": "astatéō"
+        }
+    ],
+    "description": "to be non-stationary, i.e., (figuratively) homeless",
+    "definition": {
+        "to wander about, to rove without a settled abode": {}
+    },
+    "origin": "from g0001 (as a negative particle) and a derivative of g2476",
+    "related": [
+        "g0001",
+        "g2476"
+    ]
+}

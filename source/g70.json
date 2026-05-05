@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀγρυπνία",
+            "transliteration": "agrypnía"
+        }
+    ],
+    "description": "sleeplessness, i.e., a keeping awake",
+    "definition": {
+        "sleeplessness, watching": {}
+    },
+    "origin": "from g0069",
+    "related": [
+        "g0069"
+    ]
+}

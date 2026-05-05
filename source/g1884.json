@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐπαρκέω",
+            "transliteration": "eparkéō"
+        }
+    ],
+    "description": "to avail for, i.e., help",
+    "definition": {
+        "to avail or be strong enough for": {
+            "to ward off or drive away, a thing for another's advantage": {
+                "a thing from anyone, to defend": {}
+            },
+            "to aid, give assistance, relieve": {
+                "to give aid from one's own resources": {}
+            }
+        }
+    },
+    "origin": "from g1909 and g0714",
+    "related": [
+        "g0714",
+        "g1909"
+    ]
+}

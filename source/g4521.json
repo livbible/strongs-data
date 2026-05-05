@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "σάββατον",
+            "transliteration": "sábbaton"
+        }
+    ],
+    "description": "the sabbath (i.e., shabbath), or day of weekly repose from secular avocations (also the observance or institution itself); by extension, a se'nnight, i.e., the interval between two sabbaths; likewise the plural in all the above applications",
+    "definition": {
+        "the seventh day of each week which was a sacred festival on which the israelites were required to abstain from all work": {
+            "the institution of the sabbath, the law for keeping holy every seventh day of the week": {},
+            "a single sabbath, sabbath day": {}
+        },
+        "seven days, a week": {}
+    },
+    "origin": "of hebrew origin (h7676)",
+    "related": [
+        "h7676"
+    ]
+}

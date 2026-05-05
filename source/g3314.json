@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "μεσημβρία",
+            "transliteration": "mesēmbría"
+        }
+    ],
+    "description": "midday; by implication, the south",
+    "definition": {
+        "as respects to time: noon": {},
+        "as respects to locality": {
+            "the south": {}
+        }
+    },
+    "origin": "from g3319 and g2250",
+    "related": [
+        "g2250",
+        "g3319"
+    ]
+}

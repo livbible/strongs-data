@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "αἰχμαλωτεύω",
+            "transliteration": "aichmalōteúō"
+        }
+    ],
+    "description": "to capture (like g0163)",
+    "definition": {
+        "to make captive, take captive, capture": {}
+    },
+    "origin": "from g0164",
+    "related": [
+        "g0163",
+        "g0164"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "originalWords": "תכן",
+    "description": "to balance, i.e., measure out (by weight or dimension); figuratively to arrange, equalize, through the idea of levelling (ment, estimate, test)",
+    "definition": {
+        "to regulate, measure, estimate, ponder, balance, make even, level, weigh, be equal, be weighed out, test, prove": {
+            "(qal) estimate (participle)": {},
+            "(niphal)": {
+                "to be estimated": {},
+                "to be made even or right, be adjusted to the standard": {}
+            },
+            "(piel) to weigh out, mete out": {},
+            "(pual)": {
+                "to be weighed out, be measured out": {},
+                "measured out (participle)": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

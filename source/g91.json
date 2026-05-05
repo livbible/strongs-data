@@ -1,0 +1,26 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀδικέω",
+            "transliteration": "adikéō"
+        }
+    ],
+    "description": "to be unjust, i.e., (actively) do wrong (morally, socially or physically)",
+    "definition": {
+        "absolutely": {
+            "to act unjustly or wickedly, to sin,": {},
+            "to be a criminal, to have violated the laws in some way": {},
+            "to do wrong": {},
+            "to do hurt": {}
+        },
+        "transitively": {
+            "to do some wrong or sin in some respect": {},
+            "to wrong some one, act wickedly towards him": {},
+            "to hurt, damage, harm": {}
+        }
+    },
+    "origin": "from g0094",
+    "related": [
+        "g0094"
+    ]
+}

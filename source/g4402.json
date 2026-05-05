@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Πρόχορος",
+            "transliteration": "Próchoros"
+        }
+    ],
+    "description": "before the dance; prochorus, a christian",
+    "literal": "leader of the chorus",
+    "definition": {
+        "one of the seven deacons chosen by the church at jerusalem": {}
+    },
+    "origin": "from g4253 and g5525",
+    "related": [
+        "g4253",
+        "g5525"
+    ]
+}

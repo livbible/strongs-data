@@ -1,0 +1,28 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐκκλησία",
+            "transliteration": "ekklēsía"
+        }
+    ],
+    "description": "a calling out, i.e., (concretely) a popular meeting, especially a religious congregation (jewish synagogue, or christian community of members on earth or saints in heaven or both)",
+    "definition": {
+        "a gathering of citizens called out from their homes into some public place, an assembly": {
+            "an assembly of the people convened at the public place of the council for the purpose of deliberating": {},
+            "the assembly of the israelites": {},
+            "any gathering or throng of men assembled by chance, tumultuously": {},
+            "in a christian sense": {
+                "an assembly of christians gathered for worship in a religious meeting": {},
+                "a company of christian, or of those who, hoping for eternal salvation through jesus christ, observe their own religious rites, hold their own religious meetings, and manage their own affairs, according to regulations prescribed for the body for order's sake": {},
+                "those who anywhere, in a city, village, constitute such a company and are united into one body": {},
+                "the whole body of christians scattered throughout the earth": {},
+                "the assembly of faithful christians already dead and received into heaven": {}
+            }
+        }
+    },
+    "origin": "from a compound of g1537 and a derivative of g2564",
+    "related": [
+        "g1537",
+        "g2564"
+    ]
+}

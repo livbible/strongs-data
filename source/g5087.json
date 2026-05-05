@@ -1,0 +1,33 @@
+{
+    "originalWords": [
+        {
+            "unicode": "τίθημι",
+            "transliteration": "títhēmi"
+        }
+    ],
+    "description": "to place (in the widest application, literally and figuratively; properly, in a passive or horizontal posture, and thus different from g2476, which properly denotes an upright and active position, while g2749 is properly reflexive and utterly prostrate)",
+    "definition": {
+        "to set, put, place": {
+            "to place or lay": {},
+            "to put down, lay down": {
+                "to bend down": {},
+                "to lay off or aside, to wear or carry no longer": {},
+                "to lay by, lay aside money": {}
+            },
+            "to set on (serve) something to eat or drink": {},
+            "to set forth, something to be explained by discourse": {}
+        },
+        "to make": {
+            "to make (or set) for one's self or for one's use": {}
+        },
+        "to set, fix establish": {
+            "to set forth": {},
+            "to establish, ordain": {}
+        }
+    },
+    "origin": "a prolonged form of a primary ??? <pronunciation strongs=\"theh'-o\"/> (which is used only as alternate in certain tenses)",
+    "related": [
+        "g2476",
+        "g2749"
+    ]
+}

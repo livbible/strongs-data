@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀναρίθμητος",
+            "transliteration": "anaríthmētos"
+        }
+    ],
+    "description": "unnumbered, i.e., without number",
+    "definition": {
+        "innumerable": {}
+    },
+    "origin": "from g0001 (as a negative particle) and a derivative of g0705",
+    "related": [
+        "g0001",
+        "g0705"
+    ]
+}

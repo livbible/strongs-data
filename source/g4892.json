@@ -1,0 +1,22 @@
+{
+    "originalWords": [
+        {
+            "unicode": "συνέδριον",
+            "transliteration": "synédrion"
+        }
+    ],
+    "description": "a joint session, i.e., (specially), the jewish sanhedrin; by analogy, a subordinate tribunal",
+    "definition": {
+        "any assembly (especially of magistrates, judges, ambassadors), whether convened to deliberate or pass judgment": {},
+        "any session or assembly or people deliberating or adjudicating": {
+            "the sanhedrin, the great council at jerusalem, consisting of the seventy one members (namely, scribes, elders, prominent members of the high priestly families and the high priest, the president of the assembly)": {},
+            "a smaller tribunal or council which every jewish town had for the decision of less important cases": {}
+        }
+    },
+    "origin": "neuter of a presumed derivative of a compound of g4862 and the base of g1476",
+    "related": [
+        "g1476",
+        "g4862"
+    ],
+    "notes": "the most important causes were brought before this tribunal, inasmuch as the roman rulers of judaea had left to it the power of trying such cases, and also of pronouncing sentence of death, with the limitation that a capital sentence pronounced by the sanhedrin was not valid unless it was confirmed by the roman procurator."
+}

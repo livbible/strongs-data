@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "τοῦτον",
+            "transliteration": "toûton"
+        }
+    ],
+    "description": "this (person, as objective of verb or preposition)",
+    "definition": {
+        "this": {}
+    },
+    "origin": "accusative case singular masculine of g3778",
+    "related": [
+        "g3778"
+    ]
+}

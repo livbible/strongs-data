@@ -1,0 +1,24 @@
+{
+    "originalWords": "פגע",
+    "description": "to impinge, by accident or violence, or (figuratively) by importunity",
+    "definition": {
+        "to encounter, meet, reach, entreat, make intercession": {
+            "(qal)": {
+                "to meet, light upon, join": {},
+                "to meet (of kindness)": {},
+                "to encounter, fall upon (of hostility)": {},
+                "to encounter, entreat (of request)": {},
+                "to strike, touch (of boundary)": {}
+            },
+            "(hiphil)": {
+                "to cause to light upon": {},
+                "to cause to entreat": {},
+                "to make entreaty, interpose": {},
+                "to make attack": {},
+                "to reach the mark": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

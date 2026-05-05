@@ -1,0 +1,22 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Ἰωσῆς",
+            "transliteration": "Iōsēs"
+        }
+    ],
+    "description": "joses, the name of two israelites",
+    "literal": "exalted",
+    "definition": {
+        "one of the ancestors of christ, luke 3:29": {},
+        "joses, the brother of jesus, mark 6:3": {},
+        "joses, the son of mary, the sister of the mother of jesus, matthew 27:56": {},
+        "joses, a levite, acts 4:36": {}
+    },
+    "origin": "perhaps for g2501",
+    "related": [
+        "g2499",
+        "g2501"
+    ],
+    "notes": "compare g2499."
+}

@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "-πώς",
+            "transliteration": "-pṓs"
+        }
+    ],
+    "description": "an enclitic particle of indefiniteness of manner; somehow or anyhow; used only in composition",
+    "definition": {
+        "by any means, at all, perhaps": {}
+    },
+    "origin": "adverb from the base of g4225",
+    "related": [
+        "g1513",
+        "g3381",
+        "g4225",
+        "g4459"
+    ],
+    "notes": "compare g4459."
+}

@@ -1,0 +1,25 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀποδίδωμι",
+            "transliteration": "apodídōmi"
+        }
+    ],
+    "description": "to give away, i.e., up, over, back, etc. (in various applications)",
+    "definition": {
+        "to deliver, to give away for one's own profit what is one's own, to sell": {},
+        "to pay off, discharge what is due": {
+            "a debt, wages, tribute, taxes, produce due": {},
+            "things promised under oath": {},
+            "conjugal duty": {},
+            "to render account": {}
+        },
+        "to give back, restore": {},
+        "to requite, recompense in a good or a bad sense": {}
+    },
+    "origin": "from g0575 and g1325",
+    "related": [
+        "g0575",
+        "g1325"
+    ]
+}

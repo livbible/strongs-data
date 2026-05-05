@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὑμῖν",
+            "transliteration": "hymîn"
+        }
+    ],
+    "description": "to (with or by) you",
+    "definition": {
+        "you": {}
+    },
+    "origin": "irregular dative case of g5210",
+    "related": [
+        "g5210"
+    ]
+}

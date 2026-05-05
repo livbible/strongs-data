@@ -1,0 +1,23 @@
+{
+    "originalWords": "חפץ",
+    "description": "properly, to incline to; by implication (literally but rarely) to bend; figuratively, to be pleased with, desire",
+    "definition": {
+        "to delight in, take pleasure in, desire, be pleased with": {
+            "(qal)": {
+                "of men": {
+                    "to take pleasure in, delight in": {},
+                    "to delight, desire, be pleased to do": {}
+                },
+                "of god": {
+                    "to delight in, have pleasure in": {},
+                    "to be pleased to do": {}
+                }
+            }
+        },
+        "to move, bend down": {
+            "(qal) to bend down": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

@@ -1,0 +1,23 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πλεονάζω",
+            "transliteration": "pleonázō"
+        }
+    ],
+    "description": "to do, make or be more, i.e., increase (transitively or intransitively); by extension, to superabound",
+    "definition": {
+        "to superabound": {
+            "of things": {
+                "to exist in abundance": {},
+                "to increase": {},
+                "be augmented": {}
+            }
+        },
+        "to make to increase: one in a thing": {}
+    },
+    "origin": "from g4119",
+    "related": [
+        "g4119"
+    ]
+}

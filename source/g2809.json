@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κλέμμα",
+            "transliteration": "klémma"
+        }
+    ],
+    "description": "stealing (properly, the thing stolen, but used of the act)",
+    "definition": {
+        "thing stolen": {},
+        "the act of theft": {}
+    },
+    "origin": "from g2813",
+    "related": [
+        "g2813"
+    ]
+}

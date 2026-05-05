@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἡμιώριον",
+            "transliteration": "hēmiṓrion"
+        }
+    ],
+    "description": "a half-hour",
+    "definition": {
+        "half an hour": {}
+    },
+    "origin": "from the base of g2255 and g5610",
+    "related": [
+        "g2255",
+        "g5610"
+    ]
+}

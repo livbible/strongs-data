@@ -1,0 +1,22 @@
+{
+    "originalWords": [
+        {
+            "unicode": "σωφρονέω",
+            "transliteration": "sōphronéō"
+        }
+    ],
+    "description": "to be of sound mind, i.e., sane, (figuratively) moderate",
+    "definition": {
+        "to be of sound mind": {
+            "to be in one's right mind": {},
+            "to exercise self control": {
+                "to put a moderate estimate upon one's self, think of one's self soberly": {},
+                "to curb one's passions": {}
+            }
+        }
+    },
+    "origin": "from g4998",
+    "related": [
+        "g4998"
+    ]
+}

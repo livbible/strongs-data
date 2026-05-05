@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "τάλαντον",
+            "transliteration": "tálanton"
+        }
+    ],
+    "description": "a balance (as supporting weights), i.e., (by implication) a certain weight (and thence a coin or rather sum of money) or \"talent\"",
+    "definition": {
+        "the scale of a balance, a balance, a pair of scales": {},
+        "that which is weighed, a talent": {
+            "a weight varying in different places and times": {},
+            "a sum of money weighing a talent and varying in different states and according to the changes in the laws regulating currency": {
+                "the attic talent was equal to 60 attic minae or 6000 drachmae": {},
+                "a talent of silver in israel weighed about 100 pounds (45 kg)": {},
+                "a talent of gold in israel weighed about 200 pounds (91 kg)": {}
+            }
+        }
+    },
+    "origin": "neuter of a presumed derivative of the original form of ???? (to bear; equivalent to g5342)",
+    "related": [
+        "g5342"
+    ]
+}

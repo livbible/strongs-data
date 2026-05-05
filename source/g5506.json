@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "χιλίαρχος",
+            "transliteration": "chilíarchos"
+        }
+    ],
+    "description": "the commander of a thousand soldiers (\"chiliarch\"; i.e., colonel",
+    "definition": {
+        "a chiliarch, the commander of a thousand soldiers": {},
+        "the commander of a roman cohort (a military tribunal)": {},
+        "any military commander": {}
+    },
+    "origin": "from g5507 and g0757",
+    "related": [
+        "g0757",
+        "g5507"
+    ]
+}

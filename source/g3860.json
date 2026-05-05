@@ -1,0 +1,34 @@
+{
+    "originalWords": [
+        {
+            "unicode": "παραδίδωμι",
+            "transliteration": "paradídōmi"
+        }
+    ],
+    "description": "to surrender, i.e yield up, entrust, transmit",
+    "definition": {
+        "to give into the hands (of another)": {},
+        "to give over into (one's) power or use": {
+            "to deliver to one something to keep, use, take care of, manage": {},
+            "to deliver up one to custody, to be judged, condemned, punished, scourged, tormented, put to death": {},
+            "to deliver up treacherously": {
+                "by betrayal to cause one to be taken": {},
+                "to deliver one to be taught, moulded": {}
+            }
+        },
+        "to commit, to commend": {},
+        "to deliver verbally": {
+            "commands, rites": {},
+            "to deliver by narrating, to report": {}
+        },
+        "to permit allow": {
+            "when the fruit will allow that is when its ripeness permits": {},
+            "gives itself up, presents itself": {}
+        }
+    },
+    "origin": "from g3844 and g1325",
+    "related": [
+        "g1325",
+        "g3844"
+    ]
+}

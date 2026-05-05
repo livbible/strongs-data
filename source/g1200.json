@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "δεσμοφύλαξ",
+            "transliteration": "desmophýlax"
+        }
+    ],
+    "description": "a jailer (as guarding the prisoners)",
+    "definition": {
+        "a keeper of a prison, a jailor": {}
+    },
+    "origin": "from g1199 and g5441",
+    "related": [
+        "g1199",
+        "g5441"
+    ]
+}

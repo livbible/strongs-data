@@ -1,0 +1,25 @@
+{
+    "originalWords": [
+        {
+            "unicode": "βάλλω",
+            "transliteration": "bállō"
+        }
+    ],
+    "description": "to throw (in various applications, more or less violent or intense)",
+    "definition": {
+        "to throw or let go of a thing without caring where it falls": {
+            "to scatter, to throw, cast into": {},
+            "to give over to one's care uncertain about the result": {},
+            "of fluids": {
+                "to pour, pour into of rivers": {},
+                "to pour out": {}
+            }
+        },
+        "to put into, insert": {}
+    },
+    "origin": "a primary verb",
+    "related": [
+        "g4496"
+    ],
+    "notes": "compare g4496."
+}

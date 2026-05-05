@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Βηθαβαρά",
+            "transliteration": "Bēthabará"
+        }
+    ],
+    "description": "ferry-house; bethabara (i.e., bethabarah), a place on the jordan",
+    "literal": "house of the ford",
+    "definition": {
+        "a place beyond jordan, where john was baptizing": {}
+    },
+    "origin": "of hebrew origin (h1004 and h5679)",
+    "related": [
+        "h1004",
+        "h5679"
+    ],
+    "notes": "this may correspond to bethbarah (fords of abarah), the ancient ford of the jordan on the road to gilead."
+}

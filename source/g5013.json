@@ -1,0 +1,30 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ταπεινόω",
+            "transliteration": "tapeinóō"
+        }
+    ],
+    "description": "to depress; figuratively, to humiliate (in condition or heart)",
+    "definition": {
+        "to make low, bring low": {
+            "to level, reduce to a plain": {},
+            "metaphorically to bring into a humble condition, reduce to meaner circumstances": {
+                "to assign a lower rank or place to": {},
+                "to abase": {},
+                "to be ranked below others who are honored or rewarded": {},
+                "to humble or abase myself by humble living": {}
+            },
+            "to lower, depress": {
+                "of one's soul bring down one's pride": {},
+                "to have a modest opinion of one's self": {},
+                "to behave in an unassuming manner": {},
+                "devoid of all haughtiness": {}
+            }
+        }
+    },
+    "origin": "from g5011",
+    "related": [
+        "g5011"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἄρτι",
+            "transliteration": "árti"
+        }
+    ],
+    "description": "just now",
+    "definition": {
+        "just now, this moment": {},
+        "now at this time, at this very time, this moment": {}
+    },
+    "origin": "adverb from a derivative of g0142 (compare g0740) through the idea of suspension",
+    "related": [
+        "g0142",
+        "g0740"
+    ]
+}

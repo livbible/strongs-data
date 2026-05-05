@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "εἰσακούω",
+            "transliteration": "eisakoúō"
+        }
+    ],
+    "description": "to listen to",
+    "definition": {
+        "to give heed to, comply with admonition, to obey": {},
+        "to listen to, assent to, a request, to be heard, have request granted": {
+            "of persons offering prayers to god": {},
+            "of prayers offered up": {}
+        }
+    },
+    "origin": "from g1519 and g0191",
+    "related": [
+        "g0191",
+        "g1519"
+    ]
+}

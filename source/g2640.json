@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κατάλειμμα",
+            "transliteration": "katáleimma"
+        }
+    ],
+    "description": "a remainder, i.e., (by implication) a few",
+    "definition": {
+        "remnant, remains": {}
+    },
+    "origin": "from g2641",
+    "related": [
+        "g2641"
+    ]
+}

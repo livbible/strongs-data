@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ψευδώνυμος",
+            "transliteration": "pseudṓnymos"
+        }
+    ],
+    "description": "untruly named",
+    "definition": {
+        "falsely named": {}
+    },
+    "origin": "from g5571 and g3686",
+    "related": [
+        "g3686",
+        "g5571"
+    ]
+}

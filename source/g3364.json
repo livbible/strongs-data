@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "οὐ μή",
+            "transliteration": "ou mḗ"
+        }
+    ],
+    "description": "a double negative strengthening the denial; not at all",
+    "definition": {
+        "never, certainly not, not at all, by no means": {}
+    },
+    "origin": "i.e. g3756 and g3361",
+    "related": [
+        "g3361",
+        "g3378",
+        "g3756"
+    ],
+    "notes": "compare g3378."
+}

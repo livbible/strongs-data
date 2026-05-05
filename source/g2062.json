@@ -1,0 +1,22 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἑρπετόν",
+            "transliteration": "herpetón"
+        }
+    ],
+    "description": "a reptile, i.e., (by hebraism (compare h7431)) a small animal",
+    "definition": {
+        "a creeping animal, reptile": {
+            "used chiefly of snakes": {}
+        },
+        "an animal of any sort": {
+            "four-legged animals and birds": {},
+            "marine animals": {}
+        }
+    },
+    "origin": "neuter of a derivative of ???? (to creep)",
+    "related": [
+        "h7431"
+    ]
+}

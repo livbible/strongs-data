@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀδιαφθορία",
+            "transliteration": "adiaphthoría"
+        }
+    ],
+    "description": "incorruptibleness, i.e., (figuratively) purity (of doctrine)",
+    "definition": {
+        "incorruptibility, soundness, integrity": {
+            "of mind": {}
+        }
+    },
+    "origin": "from a derivative of a compound of g0001 (as a negative particle) and a derivative of g1311",
+    "related": [
+        "g0001",
+        "g1311"
+    ]
+}

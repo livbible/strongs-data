@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἔνδειγμα",
+            "transliteration": "éndeigma"
+        }
+    ],
+    "description": "an indication (concretely)",
+    "definition": {
+        "token, evidence, proof": {}
+    },
+    "origin": "from g1731",
+    "related": [
+        "g1731"
+    ]
+}

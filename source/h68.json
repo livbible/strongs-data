@@ -1,0 +1,30 @@
+{
+    "originalWords": "אבן",
+    "description": "a stone",
+    "definition": {
+        "stone (large or small)": {
+            "common stone (in natural state)": {},
+            "stone, as material": {
+                "of tablets": {},
+                "marble, hewn stones": {}
+            },
+            "precious stones, stones of fire": {},
+            "stones containing metal (ore), tool for work or weapon": {},
+            "weight": {},
+            "plummet (stones of destruction) also made of metal": {},
+            "stonelike objects, eg hailstones, stony heart, ice": {},
+            "sacred object, as memorial samuel set up to mark where god helped israel to defeat the philistines": {},
+            "(simile)": {
+                "sinking in water, motionlessness": {},
+                "strength, firmness, solidity": {},
+                "commonness": {}
+            },
+            "(metaphorically)": {
+                "petrified with terror": {},
+                "perverse, hard heart": {}
+            }
+        }
+    },
+    "origin": "from the root of h1129 through the meaning to build",
+    "related": []
+}

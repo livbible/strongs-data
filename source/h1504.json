@@ -1,0 +1,21 @@
+{
+    "originalWords": "גזר",
+    "description": "to cut down or off; (figuratively) to destroy, divide, exclude, or decide",
+    "definition": {
+        "to cut, divide, cut down, cut off, cut in two, snatch, decree": {
+            "(qal)": {
+                "to cut in two, divide": {},
+                "to cut down": {},
+                "to cut off, destroy, exterminate": {},
+                "to decree": {}
+            },
+            "(niphal)": {
+                "to be cut off, separated, excluded": {},
+                "to be destroyed, cut off": {},
+                "to be decreed": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

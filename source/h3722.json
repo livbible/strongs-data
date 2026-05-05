@@ -1,0 +1,21 @@
+{
+    "originalWords": "כפר",
+    "description": "to cover (specifically with bitumen); figuratively, to expiate or condone, to placate or cancel",
+    "definition": {
+        "to cover, purge, make an atonement, make reconciliation, cover over with pitch": {
+            "(qal) to coat or cover with pitch": {},
+            "(piel)": {
+                "to cover over, pacify, propitiate": {},
+                "to cover over, atone for sin, make atonement for": {},
+                "to cover over, atone for sin and persons by legal rites": {}
+            },
+            "(pual)": {
+                "to be covered over": {},
+                "to make atonement for": {}
+            },
+            "(hithpael) to be covered": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

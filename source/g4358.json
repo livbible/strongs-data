@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "προσορμίζω",
+            "transliteration": "prosormízō"
+        }
+    ],
+    "description": "to moor to, i.e., (by implication) land at",
+    "definition": {
+        "to bring a ship to moorings": {},
+        "to take one's station near the shore": {},
+        "to moor, come to anchor": {}
+    },
+    "origin": "from g4314 and a derivative of the same as g3730 (meaning to tie (anchor) or lull)",
+    "related": [
+        "g3730",
+        "g4314"
+    ]
+}

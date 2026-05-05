@@ -1,0 +1,22 @@
+{
+    "originalWords": [
+        {
+            "unicode": "δεισιδαιμονέστερος",
+            "transliteration": "deisidaimonésteros"
+        }
+    ],
+    "description": "more religious than others",
+    "definition": {
+        "in a good sense": {
+            "reverencing god or the gods, pious, religious": {}
+        },
+        "in a bad sense": {
+            "superstitious": {}
+        }
+    },
+    "origin": "the compound of a derivative of the base of g1169 and g1142",
+    "related": [
+        "g1142",
+        "g1169"
+    ]
+}

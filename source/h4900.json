@@ -1,0 +1,24 @@
+{
+    "originalWords": "משך",
+    "description": "to draw, used in a great variety of applications (including to sow, to sound, to prolong, to develop, to march, to remove, to delay, to be tall, etc.)",
+    "definition": {
+        "to draw, drag, seize": {
+            "(qal)": {
+                "to draw (and lift out), drag along, lead along, drag or lead off, draw down": {},
+                "to draw (the bow)": {},
+                "to proceed, march": {},
+                "to draw out or give (a sound)": {},
+                "to draw out, prolong, continue": {},
+                "to trail (seed in sowing)": {},
+                "to cheer, draw, attract, gratify": {}
+            },
+            "(niphal) to be drawn out": {},
+            "(pual)": {
+                "to be drawn out, be postponed, be deferred": {},
+                "to be tall": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "παράσημος",
+            "transliteration": "parásēmos"
+        }
+    ],
+    "description": "side-marked, i.e., labelled (with a badge (figure-head) of a ship)",
+    "definition": {
+        "marked falsely, spurious, counterfeit: as a coin": {},
+        "marked beside or in the margin": {
+            "so noteworthy words, which the reader of a book marks on the margin": {}
+        },
+        "noted, marked, conspicuous, remarkable": {
+            "of persons in a bad sense, notorious": {}
+        },
+        "marked with a sign: a ship marked with the image or figure of dioscuri (castor and pollux)": {}
+    },
+    "origin": "from g3844 and the base of g4591",
+    "related": [
+        "g3844",
+        "g4591"
+    ]
+}

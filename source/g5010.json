@@ -1,0 +1,25 @@
+{
+    "originalWords": [
+        {
+            "unicode": "τάξις",
+            "transliteration": "táxis"
+        }
+    ],
+    "description": "regular arrangement, i.e., (in time) fixed succession (of rank or character), official dignity",
+    "definition": {
+        "an arranging, arrangement": {},
+        "order": {
+            "a fixed succession observing a fixed time": {}
+        },
+        "due or right order, orderly condition": {},
+        "the post, rank, or position which one holds in civic or other affairs": {
+            "since this position generally depends on one's talents, experience, resources": {
+                "character, fashion, quality, style": {}
+            }
+        }
+    },
+    "origin": "from g5021",
+    "related": [
+        "g5021"
+    ]
+}

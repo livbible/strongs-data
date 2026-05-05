@@ -1,0 +1,26 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ζηλόω",
+            "transliteration": "zēlóō"
+        }
+    ],
+    "description": "to have warmth of feeling for or against",
+    "definition": {
+        "to burn with zeal": {
+            "to be heated or to boil with envy, hatred, anger": {
+                "in a good sense, to be zealous in the pursuit of good": {}
+            },
+            "to desire earnestly, pursue": {
+                "to desire one earnestly, to strive after, busy one's self about him": {},
+                "to exert one's self for one (that he may not be torn from me)": {},
+                "to be the object of the zeal of others, to be zealously sought after": {}
+            },
+            "to envy": {}
+        }
+    },
+    "origin": "from g2205",
+    "related": [
+        "g2205"
+    ]
+}

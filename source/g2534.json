@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "καίγε",
+            "transliteration": "kaíge"
+        }
+    ],
+    "description": "and at least (or even, indeed)",
+    "definition": {
+        "and at least, indeed": {}
+    },
+    "origin": "from g2532 and g1065",
+    "related": [
+        "g1065",
+        "g2532"
+    ]
+}

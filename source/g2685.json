@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κατάσκοπος",
+            "transliteration": "katáskopos"
+        }
+    ],
+    "description": "a reconnoiterer",
+    "definition": {
+        "an inspector, a spy": {}
+    },
+    "origin": "from g2596 (intensive) and g4649 (in the sense of a watcher)",
+    "related": [
+        "g2596",
+        "g4649"
+    ]
+}

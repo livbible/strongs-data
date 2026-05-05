@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐπειδή",
+            "transliteration": "epeidḗ"
+        }
+    ],
+    "description": "since now, i.e., (of time) when, or (of cause) whereas",
+    "definition": {
+        "when now, since now": {
+            "of time: when now, after that": {},
+            "of cause: since, seeing that, forasmuch as": {}
+        }
+    },
+    "origin": "from g1893 and g1211",
+    "related": [
+        "g1211",
+        "g1893"
+    ]
+}

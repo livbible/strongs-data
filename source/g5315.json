@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "φάγω",
+            "transliteration": "phágō"
+        }
+    ],
+    "description": "to eat (literally or figuratively)",
+    "definition": {
+        "to eat": {},
+        "to eat (consume) a thing": {
+            "to take food, eat a meal": {},
+            "metaphorically to devour, consume": {}
+        }
+    },
+    "origin": "a primary verb (used as an alternate of g2068 in certain tenses)",
+    "related": [
+        "g2068"
+    ]
+}

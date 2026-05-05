@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "συμψηφίζω",
+            "transliteration": "sympsēphízō"
+        }
+    ],
+    "description": "to compute jointly",
+    "definition": {
+        "to compute, count up": {},
+        "to vote with one": {}
+    },
+    "origin": "from g4862 and g5585",
+    "related": [
+        "g4862",
+        "g5585"
+    ]
+}

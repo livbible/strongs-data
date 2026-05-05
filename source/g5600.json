@@ -1,0 +1,25 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὦ",
+            "transliteration": "ō"
+        },
+        {
+            "unicode": "ἦς",
+            "transliteration": "ēs"
+        },
+        {
+            "unicode": "ἦ",
+            "transliteration": "ē"
+        }
+    ],
+    "description": "(may, might, can, could, would, should, must, etc.; also with g1487 and its comparative, as well as with other particles) be",
+    "definition": {
+        "be, may be, etc.": {}
+    },
+    "origin": "the subjunctive of g1510",
+    "related": [
+        "g1487",
+        "g1510"
+    ]
+}

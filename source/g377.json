@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀναπίπτω",
+            "transliteration": "anapíptō"
+        }
+    ],
+    "description": "to fall back, i.e., lie down, lean back",
+    "definition": {
+        "to lie back, lie down": {},
+        "to recline at a table, to sit back": {}
+    },
+    "origin": "from g0303 and g4098",
+    "related": [
+        "g0303",
+        "g4098"
+    ]
+}

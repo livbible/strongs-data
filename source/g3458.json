@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "μύλος",
+            "transliteration": "mýlos"
+        }
+    ],
+    "description": "a \"mill\", i.e., (by implication), a grinder (millstone)",
+    "definition": {
+        "a mill stone": {
+            "a large mill consisted of two stones, an upper and an under one": {},
+            "the \"nether\" stone was stationary, but the upper one was turned by an ass": {}
+        },
+        "a mill, the noise made by a mill": {}
+    },
+    "origin": "probably ultimately from the base of g3433 (through the idea of hardship)",
+    "related": [
+        "g3433"
+    ]
+}

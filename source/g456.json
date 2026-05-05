@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀνοικοδομέω",
+            "transliteration": "anoikodoméō"
+        }
+    ],
+    "description": "to rebuild",
+    "definition": {
+        "to build again": {}
+    },
+    "origin": "from g0303 and g3618",
+    "related": [
+        "g0303",
+        "g3618"
+    ]
+}

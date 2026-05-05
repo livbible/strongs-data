@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "περιΐστημι",
+            "transliteration": "periḯstēmi"
+        }
+    ],
+    "description": "to stand all around, i.e., (near) to be a bystander, or (aloof) to keep away from",
+    "definition": {
+        "to place around one": {},
+        "to stand around": {
+            "to turn one's self about for the purpose of avoiding something": {},
+            "to avoid, shun": {}
+        }
+    },
+    "origin": "from g4012 and g2476",
+    "related": [
+        "g2476",
+        "g4012"
+    ]
+}

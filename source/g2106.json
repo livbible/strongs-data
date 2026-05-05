@@ -1,0 +1,22 @@
+{
+    "originalWords": [
+        {
+            "unicode": "εὐδοκέω",
+            "transliteration": "eudokéō"
+        }
+    ],
+    "description": "to think well of, i.e., approve (an act); specially, to approbate (a person or thing)",
+    "definition": {
+        "it seems good to one, is one's good pleasure": {
+            "think it good, choose, determine, decide": {},
+            "to do willingly": {},
+            "to be ready to, to prefer, choose rather": {}
+        },
+        "to be well pleased with, take pleasure in, to be favorably inclined towards one": {}
+    },
+    "origin": "from g2095 and g1380",
+    "related": [
+        "g1380",
+        "g2095"
+    ]
+}

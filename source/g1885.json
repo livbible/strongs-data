@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐπαρχία",
+            "transliteration": "eparchía"
+        }
+    ],
+    "description": "a special region of government, i.e., a roman praefecture",
+    "definition": {
+        "the office of a governor or prefect": {},
+        "the region subject to a prefect": {
+            "a province of the roman empire, either a larger province, or an appendage to a larger province, as palestine was to that of syria": {}
+        }
+    },
+    "origin": "from a compound of g1909 and g0757 (meaning a governor of a district, \"eparch\")",
+    "related": [
+        "g0757",
+        "g1909"
+    ]
+}

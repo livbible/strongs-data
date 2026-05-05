@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὡσεί",
+            "transliteration": "hōseí"
+        }
+    ],
+    "description": "as if",
+    "definition": {
+        "as it were, (had been), as though, as, like as, like": {},
+        "about, nearly": {
+            "before numerals": {},
+            "before a measure of time": {}
+        }
+    },
+    "origin": "from g5613 and g1487",
+    "related": [
+        "g1487",
+        "g5613"
+    ]
+}

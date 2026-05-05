@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "περίχωρος",
+            "transliteration": "períchōros"
+        }
+    ],
+    "description": "around the region, i.e., circumjacent (as noun, with g1093 implied vicinity)",
+    "definition": {
+        "lying round about, neighbouring": {
+            "the region round about": {},
+            "the region of jordan": {}
+        }
+    },
+    "origin": "from g4012 and g5561",
+    "related": [
+        "g1093",
+        "g4012",
+        "g5561"
+    ]
+}

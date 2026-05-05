@@ -1,0 +1,23 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀνακρίνω",
+            "transliteration": "anakrínō"
+        }
+    ],
+    "description": "properly, to scrutinize, i.e., (by implication) investigate, interrogate, determine",
+    "definition": {
+        "examine or judge": {
+            "to investigate, examine, enquire into, scrutinise, sift, question": {
+                "specifically in a forensic sense of a judge to hold an investigation": {},
+                "to interrogate, examine the accused or witnesses": {}
+            },
+            "to judge of, estimate, determine (the excellence or defects of any person or thing": {}
+        }
+    },
+    "origin": "from g0303 and g2919",
+    "related": [
+        "g0303",
+        "g2919"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "θέατρον",
+            "transliteration": "théatron"
+        }
+    ],
+    "description": "a place for public show (\"theatre\"), i.e., general audience-room; by implication, a show itself (figuratively)",
+    "definition": {
+        "a theatre, a place in which games and dramatic spectacles are exhibited, and public assemblies held (for the greeks used the theatre also as a forum)": {},
+        "a public show": {
+            "metaphorically, a man who is exhibited to be gazed at and made sport of": {}
+        }
+    },
+    "origin": "from g2300",
+    "related": [
+        "g2300"
+    ]
+}

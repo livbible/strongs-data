@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀναφωνέω",
+            "transliteration": "anaphōnéō"
+        }
+    ],
+    "description": "to exclaim",
+    "definition": {
+        "to cry out with a loud voice, call aloud, exclaim": {}
+    },
+    "origin": "from g0303 and g5455",
+    "related": [
+        "g0303",
+        "g5455"
+    ]
+}

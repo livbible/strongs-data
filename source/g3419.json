@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "μνημεῖον",
+            "transliteration": "mnēmeîon"
+        }
+    ],
+    "description": "a remembrance, i.e., cenotaph (place of interment)",
+    "definition": {
+        "any visible object for preserving or recalling the memory of any person or thing": {
+            "a memorial, monument, specifically, a sepulchral monument": {}
+        },
+        "a sepulcher, a tomb": {}
+    },
+    "origin": "from g3420",
+    "related": [
+        "g3420"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἔπος",
+            "transliteration": "épos"
+        }
+    ],
+    "description": "a word",
+    "definition": {
+        "a word": {}
+    },
+    "origin": "from g2036",
+    "related": [
+        "g2036"
+    ]
+}

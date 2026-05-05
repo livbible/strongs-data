@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Ῥωμαῖος",
+            "transliteration": "Rhōmaîos"
+        }
+    ],
+    "description": "romaean, i.e., roman (as noun)",
+    "definition": {
+        "a resident of the city of rome, a roman citizen": {}
+    },
+    "origin": "from g4516",
+    "related": [
+        "g4516"
+    ]
+}

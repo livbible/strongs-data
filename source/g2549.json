@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κακία",
+            "transliteration": "kakía"
+        }
+    ],
+    "description": "badness, i.e., (subjectively) depravity, or (actively) malignity, or (passively) trouble",
+    "definition": {
+        "malignity, malice, ill-will, desire to injure": {},
+        "wickedness, depravity": {
+            "wickedness that is not ashamed to break laws": {}
+        },
+        "evil, trouble": {}
+    },
+    "origin": "from g2556",
+    "related": [
+        "g2556"
+    ]
+}

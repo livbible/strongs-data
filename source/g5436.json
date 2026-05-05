@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Φύγελλος",
+            "transliteration": "Phýgellos"
+        }
+    ],
+    "description": "fugitive; phygellus, an apostate christian",
+    "literal": "a little fugitive",
+    "definition": {
+        "a christian who was with paul and deserted him": {}
+    },
+    "origin": "probably from g5343",
+    "related": [
+        "g5343"
+    ]
+}

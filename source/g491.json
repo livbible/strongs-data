@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Ἀντιοχεύς",
+            "transliteration": "Antiocheús"
+        }
+    ],
+    "description": "an antiochian or inhabitant of antiochia",
+    "definition": {
+        "an antiochian, a native of antioch": {}
+    },
+    "origin": "from g0490",
+    "related": [
+        "g0490"
+    ]
+}

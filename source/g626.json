@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀπολογέομαι",
+            "transliteration": "apologéomai"
+        }
+    ],
+    "description": "to give an account (legal plea) of oneself, i.e., exculpate (self)",
+    "definition": {
+        "to defend one's self, make one's defense": {},
+        "to defend a person or a thing": {},
+        "to give a full account of": {
+            "to calculate or consider well": {}
+        }
+    },
+    "origin": "middle voice from a compound of g0575 and g3056",
+    "related": [
+        "g0575",
+        "g3056"
+    ]
+}

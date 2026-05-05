@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀπόκρυφος",
+            "transliteration": "apókryphos"
+        }
+    ],
+    "description": "secret; by implication, treasured",
+    "definition": {
+        "hidden, secret": {},
+        "stored up": {}
+    },
+    "origin": "from g0613",
+    "related": [
+        "g0613"
+    ]
+}

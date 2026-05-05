@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀποπνίγω",
+            "transliteration": "apopnígō"
+        }
+    ],
+    "description": "to stifle (by drowning or overgrowth)",
+    "definition": {
+        "to choke": {
+            "to suffocate with water, drown": {}
+        }
+    },
+    "origin": "from g0575 and g4155",
+    "related": [
+        "g0575",
+        "g4155"
+    ]
+}

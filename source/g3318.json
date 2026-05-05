@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Μεσοποταμία",
+            "transliteration": "Mesopotamía"
+        }
+    ],
+    "description": "mesopotamia (as lying between the euphrates and the tigris; compare h0763), a region of asia",
+    "literal": "between two rivers",
+    "definition": {
+        "the entire country between the two rivers, the tigris and the euphrates": {}
+    },
+    "origin": "from g3319 and g4215",
+    "related": [
+        "h0763",
+        "g3319",
+        "g4215"
+    ]
+}

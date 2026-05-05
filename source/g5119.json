@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "τότε",
+            "transliteration": "tóte"
+        }
+    ],
+    "description": "the when, i.e., at the time that (of the past or future, also in consecution)",
+    "definition": {
+        "then": {},
+        "at that time": {}
+    },
+    "origin": "from (the neuter of) g3588 and g3753",
+    "related": [
+        "g3588",
+        "g3753"
+    ]
+}

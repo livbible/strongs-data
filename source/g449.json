@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἄνιπτος",
+            "transliteration": "ániptos"
+        }
+    ],
+    "description": "without ablution",
+    "definition": {
+        "unwashed": {}
+    },
+    "origin": "from g0001 (as a negative particle) and a presumed derivative of g3538",
+    "related": [
+        "g0001",
+        "g3538"
+    ]
+}

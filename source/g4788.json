@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "συγκλείω",
+            "transliteration": "synkleíō"
+        }
+    ],
+    "description": "to shut together, i.e., include or (figuratively) embrace in a common subjection to",
+    "definition": {
+        "to shut up together, enclose": {
+            "of a shoal of fishes in a net": {}
+        },
+        "to shut up on all sides, shut up completely": {}
+    },
+    "origin": "from g4862 and g2808",
+    "related": [
+        "g2808",
+        "g4862"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "originalWords": [
+        {
+            "unicode": "λόγος",
+            "transliteration": "lógos"
+        }
+    ],
+    "description": "something said (including the thought); by implication, a topic (subject of discourse), also reasoning (the mental faculty) or motive; by extension, a computation; specially, (with the article in john) the divine expression (i.e., christ)",
+    "definition": {
+        "of speech": {
+            "a word, uttered by a living voice, embodies a conception or idea": {},
+            "what someone has said": {
+                "a word": {},
+                "the sayings of god": {},
+                "decree, mandate or order": {},
+                "of the moral precepts given by god": {},
+                "old testament prophecy given by the prophets": {},
+                "what is declared, a thought, declaration, aphorism, a weighty saying, a dictum, a maxim": {}
+            },
+            "discourse": {
+                "the act of speaking, speech": {},
+                "the faculty of speech, skill and practice in speaking": {},
+                "a kind or style of speaking": {},
+                "a continuous speaking discourse, instruction": {}
+            },
+            "doctrine, teaching": {},
+            "anything reported in speech; a narration, narrative": {},
+            "matter under discussion, thing spoken of, affair, a matter in dispute, case, suit at law": {},
+            "the thing spoken of or talked about; event, deed": {}
+        },
+        "its use as respect to the mind alone": {
+            "reason, the mental faculty of thinking, meditating, reasoning, calculating": {},
+            "account, i.e., regard, consideration": {},
+            "account, i.e., reckoning, score": {},
+            "account, i.e., answer or explanation in reference to judgment": {},
+            "relation, i.e., with whom as judge we stand in relation": {
+                "reason would": {}
+            },
+            "reason, cause, ground": {}
+        },
+        "in john, denotes the essential word of god, jesus christ, the personal wisdom and power in union with god, his minister in creation and government of the universe, the cause of all the world's life both physical and ethical, which for the procurement of man's salvation put on human nature in the person of jesus the messiah, the second person in the godhead, and shone forth conspicuously from his words and deeds": {}
+    },
+    "origin": "from g3004",
+    "related": [
+        "g3004"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "παράλιος",
+            "transliteration": "parálios"
+        }
+    ],
+    "description": "beside the salt (sea), i.e., maritime",
+    "definition": {
+        "by the sea, maritime, the sea coast": {}
+    },
+    "origin": "from g3844 and g0251",
+    "related": [
+        "g0251",
+        "g3844"
+    ]
+}

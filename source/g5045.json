@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "τέκτων",
+            "transliteration": "téktōn"
+        }
+    ],
+    "description": "an artificer (as producer of fabrics), i.e., (specially), a craftsman in wood",
+    "definition": {
+        "a worker in wood, a carpenter, joiner, builder": {
+            "a ship's carpenter or builder": {}
+        },
+        "any craftsman, or workman": {
+            "the art of poetry, maker of songs": {}
+        },
+        "a planner, contriver, plotter": {
+            "an author": {}
+        }
+    },
+    "origin": "from the base of g5098",
+    "related": [
+        "g5098"
+    ]
+}

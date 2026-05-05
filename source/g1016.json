@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "βοῦς",
+            "transliteration": "boûs"
+        }
+    ],
+    "description": "an ox (as grazing), i.e., an animal of that species (\"beef\")",
+    "definition": {
+        "an ox, a cow": {}
+    },
+    "origin": "probably from the base of g1006",
+    "related": [
+        "g1006"
+    ]
+}

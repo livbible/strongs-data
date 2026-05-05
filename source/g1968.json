@@ -1,0 +1,27 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐπιπίπτω",
+            "transliteration": "epipíptō"
+        }
+    ],
+    "description": "to embrace (with affection) or seize (with more or less violence; literally or figuratively)",
+    "definition": {
+        "to fall upon, to rush or press upon": {
+            "to lie upon one": {},
+            "to fall into one's embrace": {},
+            "to fall back upon": {}
+        },
+        "metaphorically": {
+            "to fall upon one i.e., to seize, take possession of him": {
+                "of the holy spirit, in his inspiration and impulse": {},
+                "of reproaches cast upon one": {}
+            }
+        }
+    },
+    "origin": "from g1909 and g4098",
+    "related": [
+        "g1909",
+        "g4098"
+    ]
+}

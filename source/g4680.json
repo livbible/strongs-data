@@ -1,0 +1,25 @@
+{
+    "originalWords": [
+        {
+            "unicode": "σοφός",
+            "transliteration": "sophós"
+        }
+    ],
+    "description": "wise (in a most general application)",
+    "definition": {
+        "wise": {
+            "skilled, expert: of artificers": {},
+            "wise, skilled in letters, cultivated, learned": {
+                "of the greek philosophers and orators": {},
+                "of jewish theologians": {},
+                "of christian teachers": {}
+            },
+            "forming the best plans and using the best means for their execution": {}
+        }
+    },
+    "origin": "akin to ????? (clear)",
+    "related": [
+        "g5429"
+    ],
+    "notes": "compare g5429."
+}

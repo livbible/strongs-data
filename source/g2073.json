@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἑσπέρα",
+            "transliteration": "hespéra"
+        }
+    ],
+    "description": "the evening",
+    "definition": {
+        "evening, eventide, nighttime": {}
+    },
+    "origin": "feminine of an adjective hesperos (evening); the eve (g5610 being implied)",
+    "related": [
+        "g5610"
+    ]
+}

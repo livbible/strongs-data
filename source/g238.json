@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀλληγορέω",
+            "transliteration": "allēgoréō"
+        }
+    ],
+    "description": "to allegorize",
+    "definition": {
+        "to speak allegorically or in a figure": {}
+    },
+    "origin": "from g0243 and ?????? (to harangue (compare g0058))",
+    "related": [
+        "g0058",
+        "g0243"
+    ]
+}

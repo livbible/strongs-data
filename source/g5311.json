@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὕψος",
+            "transliteration": "hýpsos"
+        }
+    ],
+    "description": "elevation, i.e., (abstractly) altitude, (specially), the sky, or (figuratively) dignity",
+    "definition": {
+        "height": {
+            "of measurement": {},
+            "of place, heaven": {},
+            "metaphorically rank, high station": {}
+        }
+    },
+    "origin": "from a derivative of g5228",
+    "related": [
+        "g5228"
+    ]
+}

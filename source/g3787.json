@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὀφθαλμοδουλεία",
+            "transliteration": "ophthalmodouleía"
+        }
+    ],
+    "description": "sight-labor, i.e., that needs watching (remissness)",
+    "definition": {
+        "service performed [only] under the master's eyes": {
+            "for the master's eye usually stimulates to greater diligence": {},
+            "his absence, on the other hand, renders sluggish": {}
+        }
+    },
+    "origin": "from g3788 and g1397",
+    "related": [
+        "g1397",
+        "g3788"
+    ]
+}

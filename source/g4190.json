@@ -1,0 +1,26 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πονηρός",
+            "transliteration": "ponērós"
+        }
+    ],
+    "description": "hurtful, i.e., evil (properly, in effect or influence, and thus differing from g2556, which refers rather to essential character, as well as from g4550, which indicates degeneracy from original virtue); figuratively, calamitous; also (passively) ill, i.e., diseased; but especially (morally) culpable, i.e., derelict, vicious, facinorous; neuter (singular) mischief, malice, or (plural) guilt; masculine (singular) the devil, or (plural) sinners",
+    "definition": {
+        "full of labors, annoyances, hardships": {
+            "pressed and harassed by labors": {},
+            "bringing toils, annoyances, perils; of a time full of peril to christian faith and steadfastness; causing pain and trouble": {}
+        },
+        "bad, of a bad nature or condition": {
+            "in a physical sense: diseased or blind": {},
+            "in an ethical sense: evil wicked, bad": {}
+        }
+    },
+    "origin": "from a derivative of g4192",
+    "related": [
+        "g2556",
+        "g4191",
+        "g4192",
+        "g4550"
+    ]
+}

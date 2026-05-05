@@ -1,0 +1,25 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ψυχικός",
+            "transliteration": "psychikós"
+        }
+    ],
+    "description": "sensitive, i.e., animate (in distinction on the one hand from g4152, which is the higher or renovated nature; and on the other from g5446, which is the lower or bestial nature)",
+    "definition": {
+        "of or belonging to breath": {
+            "having the nature and characteristics of the breath": {
+                "the principal of animal life, which men have in common with the brutes": {}
+            },
+            "governed by breath": {
+                "the sensuous nature with its subjection to appetite and passion": {}
+            }
+        }
+    },
+    "origin": "from g5590",
+    "related": [
+        "g4152",
+        "g5446",
+        "g5590"
+    ]
+}

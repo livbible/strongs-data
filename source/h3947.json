@@ -1,0 +1,42 @@
+{
+    "originalWords": "לקח",
+    "description": "to take (in the widest variety of applications)",
+    "definition": {
+        "to take, get, fetch, lay hold of, seize, receive, acquire, buy, bring, marry, take a wife, snatch, take away": {
+            "(qal)": {
+                "to take, take in the hand": {},
+                "to take and carry along": {},
+                "to take from, take out of, take, carry away, take away": {},
+                "to take to or for a person, procure, get, take possession of, select, choose, take in marriage, receive, accept": {},
+                "to take up or upon, put upon": {},
+                "to fetch": {},
+                "to take, lead, conduct": {},
+                "to take, capture, seize": {},
+                "to take, carry off": {},
+                "to take (vengeance)": {}
+            },
+            "(niphal)": {
+                "to be captured": {},
+                "to be taken away, be removed": {},
+                "to be taken, brought unto": {}
+            },
+            "(pual)": {
+                "to be taken from or out of": {},
+                "to be stolen from": {},
+                "to be taken captive": {},
+                "to be taken away, be removed": {}
+            },
+            "(hophal)": {
+                "to be taken unto, be brought unto": {},
+                "to be taken out of": {},
+                "to be taken away": {}
+            },
+            "(hithpael)": {
+                "to take hold of oneself": {},
+                "to flash about (of lightning)": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

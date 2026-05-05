@@ -1,0 +1,22 @@
+{
+    "originalWords": [
+        {
+            "unicode": "διά",
+            "transliteration": "diá"
+        }
+    ],
+    "description": "through (in very wide applications, local, causal, or occasional)",
+    "definition": {
+        "through": {
+            "the ground or reason by which something is or is not done": {
+                "by reason of": {},
+                "on account of": {},
+                "because of for this reason": {},
+                "therefore": {},
+                "on this account": {}
+            }
+        }
+    },
+    "origin": "a primary preposition denoting the channel of an act",
+    "related": []
+}

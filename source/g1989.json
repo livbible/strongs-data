@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐπιστέλλω",
+            "transliteration": "epistéllō"
+        }
+    ],
+    "description": "to enjoin (by writing), i.e., (genitive case) to communicate by letter (for any purpose)",
+    "definition": {
+        "to send one a message, command": {},
+        "to write a letter": {},
+        "to enjoin by letter, to write instructions": {}
+    },
+    "origin": "from g1909 and g4724",
+    "related": [
+        "g1909",
+        "g4724"
+    ]
+}

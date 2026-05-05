@@ -1,0 +1,20 @@
+{
+    "originalWords": "בכה",
+    "description": "to weep; generally to bemoan",
+    "definition": {
+        "to weep, bewail, cry, shed tears": {
+            "(qal)": {
+                "to weep (in grief, humiliation, or joy)": {},
+                "to weep bitterly (with cognate accusative)": {},
+                "to weep upon (embrace and weep)": {},
+                "to bewail": {}
+            },
+            "(piel) participle": {
+                "lamenting": {},
+                "bewailing": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

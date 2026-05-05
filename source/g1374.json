@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "δίψυχος",
+            "transliteration": "dípsychos"
+        }
+    ],
+    "description": "two-spirited, i.e., vacillating (in opinion or purpose)",
+    "definition": {
+        "double minded": {
+            "wavering, uncertain, doubting": {},
+            "divided in interest": {}
+        }
+    },
+    "origin": "from g1364 and g5590",
+    "related": [
+        "g1364",
+        "g5590"
+    ]
+}

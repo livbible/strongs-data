@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἑαυτοῦ",
+            "transliteration": "heautoû"
+        }
+    ],
+    "description": "(him- her-, it-, them-, my-, thy-, our-, your-)self (selves), etc",
+    "definition": {
+        "himself, herself, itself, themselves": {}
+    },
+    "origin": "from a reflexive pronoun otherwise obsolete and the genitive case (dative case or accusative case) of g0846",
+    "related": [
+        "g0846"
+    ],
+    "notes": "used in conjunction with the personal pronoun of the other persons."
+}

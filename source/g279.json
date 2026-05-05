@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀμετανόητος",
+            "transliteration": "ametanóētos"
+        }
+    ],
+    "description": "unrepentant",
+    "definition": {
+        "admitting no change of mind, unrepented, impenitent": {}
+    },
+    "origin": "from g0001 (as a negative particle) and a presumed derivative of g3340",
+    "related": [
+        "g0001",
+        "g3340"
+    ]
+}

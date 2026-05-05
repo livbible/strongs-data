@@ -1,0 +1,22 @@
+{
+    "originalWords": "פוץ",
+    "description": "to dash in pieces, literally or figuratively (especially to disperse)",
+    "definition": {
+        "to scatter, be dispersed, be scattered": {
+            "(qal) to be dispersed, be scattered": {},
+            "(niphal)": {
+                "to be scattered": {},
+                "to be spread abroad": {}
+            },
+            "(hiphil) to scatter": {},
+            "hithpael) scatter": {}
+        },
+        "(qal) to flow, overflow": {},
+        "to break": {
+            "(polel) to shatter": {},
+            "(pilpel) to dash to pieces": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

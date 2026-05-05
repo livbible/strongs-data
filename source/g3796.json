@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὀψέ",
+            "transliteration": "opsé"
+        }
+    ],
+    "description": "(adverbially) late in the day; by extension, after the close of the day",
+    "definition": {
+        "after a long time, long after, late": {
+            "late in the day, i.e., at evening": {},
+            "the sabbath having just passed, after the sabbath": {
+                "at the early dawn of the first day of the week": {}
+            }
+        }
+    },
+    "origin": "from the same as g3694 (through the idea of backwardness)",
+    "related": [
+        "g3694"
+    ]
+}

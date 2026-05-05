@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀντιμετρέω",
+            "transliteration": "antimetréō"
+        }
+    ],
+    "description": "to mete in return",
+    "definition": {
+        "to measure back, to measure in return, repay": {}
+    },
+    "origin": "from g0473 and g3354",
+    "related": [
+        "g0473",
+        "g3354"
+    ]
+}

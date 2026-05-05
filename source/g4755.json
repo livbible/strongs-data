@@ -1,0 +1,23 @@
+{
+    "originalWords": [
+        {
+            "unicode": "στρατηγός",
+            "transliteration": "stratēgós"
+        }
+    ],
+    "description": "a general, i.e., (by implication or analogy) a (military) governor (praetor), the chief (praefect) of the (levitical) temple-wardens",
+    "definition": {
+        "the commander of an army": {},
+        "in the new testament a civic commander, a governor": {
+            "the name the highest magistrate in the municipia or colonies; they had the power of administering justice in the less important cases": {},
+            "of civil magistrates": {}
+        },
+        "captain of the temple, i.e., the commander of the levites who kept guard in and around the temple": {}
+    },
+    "origin": "from the base of g4756 and g0071 or g2233",
+    "related": [
+        "g0071",
+        "g2233",
+        "g4756"
+    ]
+}

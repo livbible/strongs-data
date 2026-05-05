@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀπροσωπολήπτως",
+            "transliteration": "aprosōpolḗptōs"
+        }
+    ],
+    "description": "in a way not accepting the person, i.e., impartially",
+    "definition": {
+        "without respect of persons, impartial": {}
+    },
+    "origin": "adverb from a compound of g0001 (as a negative particle) and a presumed derivative of a presumed compound of g4383 and g2983 (compare g4381)",
+    "related": [
+        "g0001",
+        "g2983",
+        "g4381",
+        "g4383"
+    ]
+}

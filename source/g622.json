@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀπόλλυμι",
+            "transliteration": "apóllymi"
+        }
+    ],
+    "description": "to destroy fully (reflexively, to perish, or lose), literally or figuratively",
+    "definition": {
+        "to destroy": {
+            "to lose": {}
+        }
+    },
+    "origin": "from g0575 and the base of g3639",
+    "related": [
+        "g0575",
+        "g3639"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πλοιάριον",
+            "transliteration": "ploiárion"
+        }
+    ],
+    "description": "a boat",
+    "definition": {
+        "a small vessel, a boat": {}
+    },
+    "origin": "neuter of a presumed derivative of g4143",
+    "related": [
+        "g4143"
+    ]
+}

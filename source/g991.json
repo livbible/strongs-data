@@ -1,0 +1,29 @@
+{
+    "originalWords": [
+        {
+            "unicode": "βλέπω",
+            "transliteration": "blépō"
+        }
+    ],
+    "description": "to look at (literally or figuratively)",
+    "definition": {
+        "to see, discern, of the bodily eye": {
+            "with the bodily eye: to be possessed of sight, have the power of seeing": {},
+            "perceive by the use of the eyes: to see, look descry": {},
+            "to turn the eyes to anything: to look at, look upon, gaze at": {},
+            "to perceive by the senses, to feel": {},
+            "to discover by use, to know by experience": {}
+        },
+        "metaphorically to see with the mind's eye": {
+            "to have (the power of) understanding": {},
+            "to discern mentally, observe, perceive, discover, understand": {},
+            "to turn the thoughts or direct the mind to a thing, to consider, contemplate, to look at, to weigh carefully, examine": {}
+        },
+        "in a geographical sense of places, mountains, buildings, etc. turning towards any quarter, as it were, facing it": {}
+    },
+    "origin": "a primary verb",
+    "related": [
+        "g3700"
+    ],
+    "notes": "compare g3700."
+}

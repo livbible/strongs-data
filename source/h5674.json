@@ -1,0 +1,39 @@
+{
+    "originalWords": "עבר",
+    "description": "to cross over; used very widely of any transition (literal or figurative; transitive, intransitive, intensive, causative); specifically, to cover (in copulation)",
+    "definition": {
+        "to pass over or by or through, alienate, bring, carry, do away, take, take away, transgress": {
+            "(qal)": {
+                "to pass over, cross, cross over, pass over, march over, overflow, go over": {},
+                "to pass beyond": {},
+                "to pass through, traverse": {
+                    "passers-through (participle)": {},
+                    "to pass through (the parts of victim in covenant)": {}
+                },
+                "to pass along, pass by, overtake and pass, sweep by": {
+                    "passer-by (participle)": {},
+                    "to be past, be over": {}
+                },
+                "to pass on, go on, pass on before, go in advance of, pass along, travel, advance": {},
+                "to pass away": {
+                    "to emigrate, leave (one's territory)": {},
+                    "to vanish": {},
+                    "to perish, cease to exist": {},
+                    "to become invalid, become obsolete (of law, decree)": {},
+                    "to be alienated, pass into other hands": {}
+                }
+            },
+            "(niphal) to be crossed": {},
+            "(piel) to impregnate, cause to cross": {},
+            "(hiphil)": {
+                "to cause to pass over, cause to bring over, cause to cross over, make over to, dedicate, devote": {},
+                "to cause to pass through": {},
+                "to cause to pass by or beyond or under, let pass by": {},
+                "to cause to pass away, cause to take away": {}
+            },
+            "(hithpael) to pass over": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

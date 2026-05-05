@@ -1,0 +1,19 @@
+{
+    "originalWords": "משל",
+    "description": "to liken, i.e., (transitively) to use figurative language (an allegory, adage, song or the like); intransitively, to resemble",
+    "definition": {
+        "to represent, liken, be like": {
+            "(niphal) to liken, be like, be similar": {},
+            "(hiphil) to compare": {},
+            "(hithpael) to become like": {}
+        },
+        "to speak in a proverb, use a proverb, speak in parables, speak in sentences of poetry": {
+            "(qal) to use a proverb, speak a parable or proverb": {},
+            "(piel) to make a parable": {
+                "maker of parables (participle)": {}
+            }
+        }
+    },
+    "origin": "denominative from h4912",
+    "related": []
+}

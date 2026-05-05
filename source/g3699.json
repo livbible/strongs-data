@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὅπου",
+            "transliteration": "hópou"
+        }
+    ],
+    "description": "what(-ever) where, i.e., at whichever spot",
+    "definition": {
+        "where, whereas": {}
+    },
+    "origin": "from g3739 and g4225",
+    "related": [
+        "g3739",
+        "g4225"
+    ]
+}

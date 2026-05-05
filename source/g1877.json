@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐπανάγω",
+            "transliteration": "epanágō"
+        }
+    ],
+    "description": "to lead up on, i.e., (technical) to put out (to sea); (intransitively) to return",
+    "definition": {
+        "to lead up upon": {
+            "a ship upon the deep, to put out": {}
+        },
+        "to lead back": {},
+        "to return": {}
+    },
+    "origin": "from g1909 and g0321",
+    "related": [
+        "g0321",
+        "g1909"
+    ]
+}

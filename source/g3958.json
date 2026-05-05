@@ -1,0 +1,27 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πάσχω",
+            "transliteration": "páschō"
+        },
+        {
+            "unicode": "πάθω",
+            "transliteration": "páthō"
+        },
+        {
+            "unicode": "πένθω",
+            "transliteration": "pénthō"
+        }
+    ],
+    "description": "to experience a sensation or impression (usually painful)",
+    "definition": {
+        "to be affected or have been affected, to feel, have a sensible experience, to undergo": {
+            "in a good sense, to be well off, in good case": {},
+            "in a bad sense, to suffer sadly, be in a bad plight": {
+                "of a sick person": {}
+            }
+        }
+    },
+    "origin": "apparently a primary verb",
+    "related": []
+}

@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐκκομίζω",
+            "transliteration": "ekkomízō"
+        }
+    ],
+    "description": "to bear forth (to burial)",
+    "definition": {
+        "to carry out": {
+            "a dead man for burial": {}
+        }
+    },
+    "origin": "from g1537 and g2865",
+    "related": [
+        "g1537",
+        "g2865"
+    ]
+}

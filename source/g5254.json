@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὑπέχω",
+            "transliteration": "hypéchō"
+        }
+    ],
+    "description": "to hold oneself under, i.e., endure with patience",
+    "definition": {
+        "to hold under, to put under, place underneath": {},
+        "metaphorically to sustain, undergo": {
+            "suffer punishment": {}
+        }
+    },
+    "origin": "from g5259 and g2192",
+    "related": [
+        "g2192",
+        "g5259"
+    ]
+}

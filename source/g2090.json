@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἑτοιμάζω",
+            "transliteration": "hetoimázō"
+        }
+    ],
+    "description": "to prepare",
+    "definition": {
+        "to make ready, prepare": {
+            "to make the necessary preparations, get everything ready": {}
+        },
+        "metaphorically": {
+            "drawn from the middle eastern custom of sending on before kings on their journeys persons to level the roads and make them passable": {},
+            "to prepare the minds of men to give the messiah a fit reception and secure his blessings": {}
+        }
+    },
+    "origin": "from g2092",
+    "related": [
+        "g2092",
+        "g2680"
+    ],
+    "notes": "compare g2680."
+}

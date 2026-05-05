@@ -1,0 +1,19 @@
+{
+    "originalWords": "כחד",
+    "description": "to secrete, by act or word; hence (intensively) to destroy",
+    "definition": {
+        "to hide, conceal, cut off, cut down, make desolate, kick": {
+            "(niphal)": {
+                "to be hidden": {},
+                "to be effaced, be destroyed, be cut off": {}
+            },
+            "(piel) to cover, hide": {},
+            "(hiphil)": {
+                "to hide": {},
+                "to efface, annihilate": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

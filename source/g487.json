@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀντίλυτρον",
+            "transliteration": "antílytron"
+        }
+    ],
+    "description": "a redemption-price",
+    "definition": {
+        "what is given in exchange for another as the price of his redemption, ransom": {}
+    },
+    "origin": "from g0473 and g3083",
+    "related": [
+        "g0473",
+        "g3083"
+    ]
+}

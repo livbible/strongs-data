@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἄγρα",
+            "transliteration": "ágra"
+        }
+    ],
+    "description": "(abstractly) a catching (of fish); also (concretely) a haul (of fish)",
+    "definition": {
+        "a catching, hunting": {},
+        "that which is taken in hunting, the booty, prey": {
+            "of birds or beasts, game": {},
+            "of fish, a draught or haul": {}
+        }
+    },
+    "origin": "from g0071",
+    "related": [
+        "g0071"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "originalWords": "כשל",
+    "description": "to totter or waver (through weakness of the legs, especially the ankle); by implication, to falter, stumble, faint or fall",
+    "definition": {
+        "to stumble, stagger, totter": {
+            "(qal)": {
+                "to stumble": {},
+                "to totter": {}
+            },
+            "(niphal)": {
+                "to stumble": {},
+                "to be tottering, be feeble": {}
+            },
+            "(hiphil)": {
+                "to cause to stumble, bring injury or ruin to, overthrow": {},
+                "to make feeble, make weak": {}
+            },
+            "(hophal) to be made to stumble": {},
+            "(piel) bereave": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

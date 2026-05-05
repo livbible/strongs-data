@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "θεόπνευστος",
+            "transliteration": "theópneustos"
+        }
+    ],
+    "description": "divinely breathed in",
+    "definition": {
+        "inspired by god": {
+            "the contents of the scriptures": {}
+        }
+    },
+    "origin": "from g2316 and a presumed derivative of g4154",
+    "related": [
+        "g2316",
+        "g4154"
+    ]
+}

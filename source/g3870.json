@@ -1,0 +1,29 @@
+{
+    "originalWords": [
+        {
+            "unicode": "παρακαλέω",
+            "transliteration": "parakaléō"
+        }
+    ],
+    "description": "to call near, i.e., invite, invoke (by imploration, hortation or consolation)",
+    "definition": {
+        "to call to one's side, call for, summon": {},
+        "to address, speak to, (call to, call upon), which may be done in the way of exhortation, entreaty, comfort, instruction, etc.": {
+            "to admonish, exhort": {},
+            "to beg, entreat, beseech": {
+                "to strive to appease by entreaty": {}
+            },
+            "to console, to encourage and strengthen by consolation, to comfort": {
+                "to receive consolation, be comforted": {}
+            },
+            "to encourage, strengthen": {},
+            "exhorting and comforting and encouraging": {},
+            "to instruct, teach": {}
+        }
+    },
+    "origin": "from g3844 and g2564",
+    "related": [
+        "g2564",
+        "g3844"
+    ]
+}

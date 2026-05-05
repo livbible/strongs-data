@@ -1,0 +1,19 @@
+{
+    "originalWords": "שקה",
+    "description": "to quaff, i.e., (causatively) to irrigate or furnish a potion to",
+    "definition": {
+        "to give to drink, irrigate, drink, water, cause to drink water": {
+            "(hiphil)": {
+                "to water, irrigate": {},
+                "to water, give drink to": {}
+            },
+            "(pual) to be watered": {},
+            "(niphal) variant": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": [
+        "h7937",
+        "h8354"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "παραδέχομαι",
+            "transliteration": "paradéchomai"
+        }
+    ],
+    "description": "to accept near, i.e., admit or (by implication) delight in",
+    "definition": {
+        "to receive, take up, take upon one's self": {},
+        "to admit i.e., not to reject, to accept, receive": {
+            "of a son: to acknowledge as one's own": {}
+        }
+    },
+    "origin": "from g3844 and g1209",
+    "related": [
+        "g1209",
+        "g3844"
+    ]
+}

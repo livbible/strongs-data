@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κἀκεῖνος",
+            "transliteration": "kakeînos"
+        }
+    ],
+    "description": "likewise that (or those)",
+    "definition": {
+        "and he, he also": {}
+    },
+    "origin": "from g2532 and g1565",
+    "related": [
+        "g1565",
+        "g2532"
+    ]
+}

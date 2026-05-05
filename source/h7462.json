@@ -1,0 +1,28 @@
+{
+    "originalWords": "רעה",
+    "description": "to tend a flock; i.e., pasture it; intransitively, to graze (literally or figuratively); generally to rule; by extension, to associate with (as a friend)",
+    "definition": {
+        "to pasture, tend, graze, feed": {
+            "(qal)": {
+                "to tend, pasture": {
+                    "to shepherd": {},
+                    "of ruler, teacher (figuratively)": {},
+                    "of people as flock (figuratively)": {},
+                    "shepherd, herdsman (subst)": {}
+                },
+                "to feed, graze": {
+                    "of cows, sheep, etc (literally)": {},
+                    "of idolater, israel as flock (figuratively)": {}
+                }
+            },
+            "(hiphil) shepherd, shepherdess": {}
+        },
+        "to associate with, be a friend of (meaning probable)": {
+            "(qal) to associate with": {},
+            "(hithpael) to be companions": {}
+        },
+        "(piel) to be a special friend": {}
+    },
+    "origin": "a primitive root",
+    "related": []
+}

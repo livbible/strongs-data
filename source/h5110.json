@@ -1,0 +1,27 @@
+{
+    "originalWords": "נוד",
+    "description": "to nod, i.e., waver; figuratively, to wander, flee, disappear; also (from shaking the head in sympathy), to console, deplore, or (from tossing the head in scorn) taunt",
+    "definition": {
+        "to shake, waver, wander, move to and fro, flutter, show grief, have compassion on": {
+            "(qal)": {
+                "to move to and fro, wander (aimlessly), take flight": {},
+                "to flutter": {},
+                "to waver, wave, shake": {},
+                "to show grief": {
+                    "to lament, condole, show sympathy": {}
+                }
+            },
+            "(hiphil)": {
+                "to cause to wander (aimlessly)": {},
+                "to make a wagging, wag (with the head)": {}
+            },
+            "(hithpolel)": {
+                "to move oneself to and fro, sway, totter": {},
+                "to shake oneself": {},
+                "to bemoan oneself": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

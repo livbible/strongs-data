@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "αὐτόπτης",
+            "transliteration": "autóptēs"
+        }
+    ],
+    "description": "self-seeing, i.e., an eye-witness",
+    "definition": {
+        "seeing with one's own eye, an eye-witness": {
+            "a medical term: autopsy, a detailed examination": {}
+        }
+    },
+    "origin": "from g0846 and g3700",
+    "related": [
+        "g0846",
+        "g3700"
+    ]
+}

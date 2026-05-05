@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κατασείω",
+            "transliteration": "kataseíō"
+        }
+    ],
+    "description": "to sway downward, i.e., make a signal",
+    "definition": {
+        "to shake down, throw down": {},
+        "to shake": {
+            "to make a sign, to signal with the hand to one": {}
+        }
+    },
+    "origin": "from g2596 and g4579",
+    "related": [
+        "g2596",
+        "g4579"
+    ]
+}

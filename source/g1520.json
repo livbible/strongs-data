@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "εἷς",
+            "transliteration": "heîs"
+        }
+    ],
+    "description": "one",
+    "definition": {
+        "one": {}
+    },
+    "origin": "a primary numeral",
+    "related": [
+        "g1527",
+        "g3367",
+        "g3391",
+        "g3762"
+    ]
+}

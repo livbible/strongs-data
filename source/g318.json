@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀνάγκη",
+            "transliteration": "anánkē"
+        }
+    ],
+    "description": "constraint (literally or figuratively); by implication, distress",
+    "definition": {
+        "necessity, imposed either by the circumstances, or by law of duty regarding to one's advantage, custom, argument": {},
+        "calamity, distress, straits": {}
+    },
+    "origin": "from g0303 and the base of g0043",
+    "related": [
+        "g0043",
+        "g0303"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "χάρτης",
+            "transliteration": "chártēs"
+        }
+    ],
+    "description": "a sheet (\"chart\") of writing-material (as to be scribbled over)",
+    "definition": {
+        "paper": {}
+    },
+    "origin": "from the same as g5482",
+    "related": [
+        "g5482"
+    ]
+}

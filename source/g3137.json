@@ -1,0 +1,26 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Μαρία",
+            "transliteration": "María"
+        },
+        {
+            "unicode": "Μαριάμ",
+            "transliteration": "Mariám"
+        }
+    ],
+    "description": "maria or mariam (i.e., mirjam), the name of six christian females",
+    "literal": "their rebellion, stubbornness",
+    "definition": {
+        "mary the mother of jesus": {},
+        "mary magdalene, a women from magdala": {},
+        "mary, the sister of lazarus and martha": {},
+        "mary of cleophas the mother of james the less": {},
+        "mary the mother of john mark, a sister of barnabas": {},
+        "mary, a roman christian who is greeted by paul in romans 16:6": {}
+    },
+    "origin": "of hebrew origin (h4813)",
+    "related": [
+        "h4813"
+    ]
+}

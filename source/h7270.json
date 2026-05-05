@@ -1,0 +1,16 @@
+{
+    "originalWords": "רגל",
+    "description": "to walk along; but only in specifically, applications, to reconnoiter, to be a tale-bearer (i.e., slander); to lead about",
+    "definition": {
+        "to go on foot, spy out, foot it, go about, walk along, move the feet": {
+            "(qal) to be a tale-bearer, slander, go about": {},
+            "(piel)": {
+                "to slander": {},
+                "to go about as explorer, spy": {}
+            },
+            "(tiphel) to teach to walk": {}
+        }
+    },
+    "origin": "a primitive root; also as denominative from h7272",
+    "related": []
+}

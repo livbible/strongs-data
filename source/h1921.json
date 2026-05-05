@@ -1,0 +1,21 @@
+{
+    "originalWords": "הדר",
+    "description": "to swell up (literally or figuratively, active or passive); by implication, to favor or honor, be high or proud",
+    "definition": {
+        "to honor, adorn, glorify, be high": {
+            "(qal)": {
+                "to swell": {
+                    "swelling (pass participle)": {}
+                },
+                "to honor, pay honor to, show partiality": {},
+                "to adorn": {
+                    "adorned (pass participle)": {}
+                }
+            },
+            "(niphal) to be honored": {},
+            "(hithpael) to honor oneself, claim honor": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

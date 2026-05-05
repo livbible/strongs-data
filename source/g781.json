@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἄσοφος",
+            "transliteration": "ásophos"
+        }
+    ],
+    "description": "unwise",
+    "definition": {
+        "unwise, foolish": {}
+    },
+    "origin": "from g0001 (as a negative particle) and g4680",
+    "related": [
+        "g0001",
+        "g4680"
+    ]
+}

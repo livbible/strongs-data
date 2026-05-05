@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἄγαμος",
+            "transliteration": "ágamos"
+        }
+    ],
+    "description": "unmarried",
+    "definition": {
+        "unmarried, unwedded, single": {}
+    },
+    "origin": "from g0001 (as a negative particle) and g1062",
+    "related": [
+        "g0001",
+        "g1062"
+    ]
+}

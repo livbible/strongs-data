@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "διερμηνευτής",
+            "transliteration": "diermēneutḗs"
+        }
+    ],
+    "description": "an explainer",
+    "definition": {
+        "an interpreter": {}
+    },
+    "origin": "from g1329",
+    "related": [
+        "g1329"
+    ]
+}

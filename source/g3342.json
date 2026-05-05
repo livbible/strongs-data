@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "μεταξύ",
+            "transliteration": "metaxý"
+        }
+    ],
+    "description": "betwixt (of place or person); (of time) as adjective, intervening, or (by implication) adjoining",
+    "definition": {
+        "between": {
+            "meanwhile, in the mean time": {}
+        },
+        "after, afterwards": {}
+    },
+    "origin": "from g3326 and a form of g4862",
+    "related": [
+        "g3326",
+        "g4862"
+    ]
+}

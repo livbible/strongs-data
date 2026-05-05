@@ -1,0 +1,41 @@
+{
+    "originalWords": "ארץ",
+    "description": "the earth (at large, or partitively a land)",
+    "definition": {
+        "land, earth": {
+            "earth": {
+                "whole earth (as opposed to a part)": {},
+                "earth (as opposed to heaven)": {},
+                "earth (inhabitants)": {}
+            },
+            "land": {
+                "country, territory": {},
+                "district, region": {},
+                "tribal territory": {},
+                "piece of ground": {},
+                "land of canaan, israel": {},
+                "inhabitants of land": {},
+                "sheol, land without return, (under) world": {},
+                "city, city-state": {}
+            },
+            "ground, surface of the earth": {
+                "ground": {},
+                "soil": {}
+            },
+            "(in phrases)": {
+                "people of the land": {},
+                "space or distance of country (in measurements of distance)": {},
+                "level or plain country": {},
+                "land of the living": {},
+                "end(s) of the earth": {}
+            },
+            "(almost wholly late in usage)": {
+                "lands, countries": {
+                    "often in contrast to canaan": {}
+                }
+            }
+        }
+    },
+    "origin": "from an unused root probably meaning to be firm",
+    "related": []
+}

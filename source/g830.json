@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "αὐθαίρετος",
+            "transliteration": "authaíretos"
+        }
+    ],
+    "description": "self-chosen, i.e., (by implication) voluntary",
+    "definition": {
+        "voluntary, of free choice, of one's own accord": {}
+    },
+    "origin": "from g0846 and the same as g0140",
+    "related": [
+        "g0140",
+        "g0846"
+    ]
+}

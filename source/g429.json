@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀνευρίσκω",
+            "transliteration": "aneurískō"
+        }
+    ],
+    "description": "to find out",
+    "definition": {
+        "to find out by search": {}
+    },
+    "origin": "from g0303 and g2147",
+    "related": [
+        "g0303",
+        "g2147"
+    ]
+}

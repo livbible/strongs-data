@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "λεπτόν",
+            "transliteration": "leptón"
+        }
+    ],
+    "description": "something scaled (light), i.e., a small coin",
+    "definition": {
+        "thin, small": {},
+        "a small brass coin, equivalent to the eighth part of an \"as\", worth about a 1/5 of a cent": {}
+    },
+    "origin": "neuter of a derivative of the same as g3013",
+    "related": [
+        "g3013"
+    ]
+}

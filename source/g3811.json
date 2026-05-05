@@ -1,0 +1,31 @@
+{
+    "originalWords": [
+        {
+            "unicode": "παιδεύω",
+            "transliteration": "paideúō"
+        }
+    ],
+    "description": "to train up a child, i.e., educate, or (by implication), discipline (by punishment)",
+    "definition": {
+        "to train children": {
+            "to be instructed or taught or learn": {},
+            "to cause one to learn": {}
+        },
+        "to chastise": {
+            "to chastise or castigate with words, to correct": {
+                "of those who are moulding the character of others by reproof and admonition": {}
+            },
+            "of god": {
+                "to chasten by the affliction of evils and calamities": {}
+            },
+            "to chastise with blows, to scourge": {
+                "of a father punishing his son": {},
+                "of a judge ordering one to be scourged": {}
+            }
+        }
+    },
+    "origin": "from g3816",
+    "related": [
+        "g3816"
+    ]
+}

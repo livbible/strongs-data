@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "προσάββατον",
+            "transliteration": "prosábbaton"
+        }
+    ],
+    "description": "a fore-sabbath, i.e., the sabbath-eve",
+    "definition": {
+        "the day before the sabbath": {}
+    },
+    "origin": "from g4253 and g4521",
+    "related": [
+        "g3904",
+        "g4253",
+        "g4521"
+    ],
+    "notes": "compare g3904."
+}

@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κωφός",
+            "transliteration": "kōphós"
+        }
+    ],
+    "description": "blunted, i.e., (figuratively) of hearing (deaf) or speech (dumb)",
+    "definition": {
+        "blunted, dull": {
+            "blunted (or lamed) in tongue, dumb": {},
+            "blunted, dull in hearing": {},
+            "deaf": {}
+        }
+    },
+    "origin": "from g2875",
+    "related": [
+        "g2875"
+    ]
+}

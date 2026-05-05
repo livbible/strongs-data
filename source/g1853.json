@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἔξυπνος",
+            "transliteration": "éxypnos"
+        }
+    ],
+    "description": "awake",
+    "definition": {
+        "roused out of a sleep": {}
+    },
+    "origin": "from g1537 and g5258",
+    "related": [
+        "g1537",
+        "g5258"
+    ]
+}

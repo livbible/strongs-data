@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "γνωρίζω",
+            "transliteration": "gnōrízō"
+        }
+    ],
+    "description": "to make known; subjectively, to know",
+    "definition": {
+        "to make known": {
+            "to become known, be recognized": {}
+        },
+        "to know, to gain knowledge of, have thorough knowledge of": {
+            "in earlier greek it means \"to gain a knowledge of\" or \"have thorough knowledge of\"": {}
+        }
+    },
+    "origin": "from a derivative of g1097",
+    "related": [
+        "g1097"
+    ]
+}

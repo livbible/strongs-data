@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐπισιτισμός",
+            "transliteration": "episitismós"
+        }
+    ],
+    "description": "a provisioning, i.e., (concretely) food",
+    "definition": {
+        "foraging, providing food": {},
+        "supplies, provisions, food": {}
+    },
+    "origin": "from a compound of g1909 and a derivative of g4621",
+    "related": [
+        "g1909",
+        "g4621"
+    ]
+}

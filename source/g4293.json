@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "προκαταγγέλλω",
+            "transliteration": "prokatangéllō"
+        }
+    ],
+    "description": "to anounce beforehand, i.e., predict, promise",
+    "definition": {
+        "to announce beforehand (that a thing will be)": {
+            "of prophecies": {}
+        },
+        "to preannounce in the sense of to promise": {}
+    },
+    "origin": "from g4253 and g2605",
+    "related": [
+        "g2605",
+        "g4253"
+    ]
+}

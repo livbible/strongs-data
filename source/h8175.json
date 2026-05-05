@@ -1,0 +1,23 @@
+{
+    "originalWords": "שער",
+    "description": "to storm; by implication, to shiver, i.e., fear",
+    "definition": {
+        "to storm, shiver, dread, bristle (with horror), be very afraid": {
+            "(qal)": {
+                "to bristle (with horror)": {},
+                "to dread": {}
+            }
+        },
+        "to storm away, sweep away, whirl away": {
+            "(qal)": {
+                "to sweep away": {},
+                "to storm away (of god's action against the wicked) (figuratively)": {}
+            },
+            "(niphal) to be stormy, be tempestuous (exceedingly)": {},
+            "(piel) to whirl away, be stormed away": {},
+            "(hithpael) to storm against, come as a storm": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

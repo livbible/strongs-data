@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "διαίρεσις",
+            "transliteration": "diaíresis"
+        }
+    ],
+    "description": "a distinction or (concretely) variety",
+    "definition": {
+        "division, distribution": {},
+        "distinction, difference": {
+            "in particular, a distinction arising from a different distribution to different persons": {}
+        }
+    },
+    "origin": "from g1244",
+    "related": [
+        "g1244"
+    ]
+}

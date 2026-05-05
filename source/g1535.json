@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "εἴτε",
+            "transliteration": "eíte"
+        }
+    ],
+    "description": "if too",
+    "definition": {
+        "if ... if": {},
+        "whether ... or": {}
+    },
+    "origin": "from g1487 and g5037",
+    "related": [
+        "g1487",
+        "g5037"
+    ]
+}

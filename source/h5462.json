@@ -1,0 +1,25 @@
+{
+    "originalWords": "סגר",
+    "description": "to shut up; figuratively, to surrender",
+    "definition": {
+        "to shut, close": {
+            "(qal)": {
+                "to shut": {},
+                "to close, close up": {},
+                "closed up, closely joined, shut up": {}
+            },
+            "(niphal)": {
+                "to be shut up": {},
+                "to be shut or closed": {}
+            },
+            "(piel) to shut up, deliver up": {},
+            "(pual) to be shut up": {},
+            "(hiphil)": {
+                "to deliver up": {},
+                "to shut up, imprison": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

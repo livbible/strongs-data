@@ -1,0 +1,22 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐνδύνω",
+            "transliteration": "endýnō"
+        }
+    ],
+    "description": "to sink (by implication, wrap (compare g1746) on, i.e., (figuratively) sneak",
+    "definition": {
+        "to put on, to envelop in, to hide in": {
+            "literally: to put on, clothe with a garment": {},
+            "metaphorically put on armour": {}
+        },
+        "to creep into, insinuate one's self into, to enter": {}
+    },
+    "origin": "from g1772 and g1416",
+    "related": [
+        "g1416",
+        "g1746",
+        "g1772"
+    ]
+}

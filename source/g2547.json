@@ -1,0 +1,22 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κἀκεῖθεν",
+            "transliteration": "kakeîthen"
+        }
+    ],
+    "description": "likewise from that place (or time)",
+    "definition": {
+        "of place": {
+            "and from thence, and thence": {}
+        },
+        "of time": {
+            "and thereafter, and afterward": {}
+        }
+    },
+    "origin": "from g2532 and g1564",
+    "related": [
+        "g1564",
+        "g2532"
+    ]
+}

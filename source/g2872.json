@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κοπιάω",
+            "transliteration": "kopiáō"
+        }
+    ],
+    "description": "to feel fatigue; by implication, to work hard",
+    "definition": {
+        "to grow weary, tired, exhausted (with toil or burdens or grief)": {},
+        "to labor with wearisome effort, to toil": {
+            "of bodily labor": {}
+        }
+    },
+    "origin": "from a derivative of g2873",
+    "related": [
+        "g2873"
+    ]
+}

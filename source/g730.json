@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἄῤῥην",
+            "transliteration": "árrhēn"
+        },
+        {
+            "unicode": "ἄρσην",
+            "transliteration": "ársēn"
+        }
+    ],
+    "description": "male (as stronger for lifting)",
+    "definition": {
+        "a male": {}
+    },
+    "origin": "probably from g0142",
+    "related": [
+        "g0142"
+    ]
+}

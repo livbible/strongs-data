@@ -1,0 +1,22 @@
+{
+    "originalWords": "אם",
+    "description": "used very widely as demonstrative, lo!; interrogative, whether?; or conditional, if, although; also oh that!, when; hence, as a negative, not",
+    "definition": {
+        "if": {
+            "conditional clauses": {
+                "of possible situations": {},
+                "of impossible situations": {}
+            },
+            "oath contexts": {
+                "no, not": {}
+            },
+            "if...if, whether...or, whether...or...or": {},
+            "when, whenever": {},
+            "since": {},
+            "interrogative particle": {},
+            "but rather": {}
+        }
+    },
+    "origin": "a primitive particle",
+    "related": []
+}

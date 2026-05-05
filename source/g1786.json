@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐντόπιος",
+            "transliteration": "entópios"
+        }
+    ],
+    "description": "a resident",
+    "definition": {
+        "a dweller in a place": {},
+        "a resident or native of a place": {}
+    },
+    "origin": "from g1722 and g5117",
+    "related": [
+        "g1722",
+        "g5117"
+    ]
+}

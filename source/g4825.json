@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "σύμβουλος",
+            "transliteration": "sýmboulos"
+        }
+    ],
+    "description": "a consultor, i.e., adviser",
+    "definition": {
+        "an adviser, counsellor": {}
+    },
+    "origin": "from g4862 and g1012",
+    "related": [
+        "g1012",
+        "g4862"
+    ]
+}

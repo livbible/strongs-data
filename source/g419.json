@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀνεξερεύνητος",
+            "transliteration": "anexereúnētos"
+        }
+    ],
+    "description": "not searched out, i.e., (by implication) inscrutable",
+    "definition": {
+        "that cannot be searched out": {}
+    },
+    "origin": "from g0001 (as a negative particle) and a presumed derivative of g1830",
+    "related": [
+        "g0001",
+        "g1830"
+    ]
+}

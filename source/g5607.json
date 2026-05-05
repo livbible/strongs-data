@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὤν",
+            "transliteration": "ṓn"
+        },
+        {
+            "unicode": "οὖσα",
+            "transliteration": "oûsa"
+        },
+        {
+            "unicode": "ὄν",
+            "transliteration": "ón"
+        }
+    ],
+    "description": "being",
+    "definition": {
+        "being, etc.": {}
+    },
+    "origin": "present participle of g1510",
+    "related": [
+        "g1510"
+    ]
+}

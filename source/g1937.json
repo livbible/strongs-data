@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐπιθυμέω",
+            "transliteration": "epithyméō"
+        }
+    ],
+    "description": "to set the heart upon, i.e., long for (rightfully or otherwise)",
+    "definition": {
+        "to turn upon a thing": {},
+        "to have a desire for, long for, to desire": {},
+        "to lust after, covet": {
+            "of those who seek things forbidden": {}
+        }
+    },
+    "origin": "from g1909 and g2372",
+    "related": [
+        "g1909",
+        "g2372"
+    ]
+}

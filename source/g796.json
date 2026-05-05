@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀστραπή",
+            "transliteration": "astrapḗ"
+        }
+    ],
+    "description": "lightning; by analogy, glare",
+    "definition": {
+        "lightning": {
+            "of the gleam of a lamp": {}
+        }
+    },
+    "origin": "from g0797",
+    "related": [
+        "g0797"
+    ]
+}

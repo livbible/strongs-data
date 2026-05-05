@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὑδρία",
+            "transliteration": "hydría"
+        }
+    ],
+    "description": "a water-jar, i.e., receptacle for family supply",
+    "definition": {
+        "a vessel for holding water": {},
+        "a water jar, a water pot": {}
+    },
+    "origin": "from g5204",
+    "related": [
+        "g5204"
+    ]
+}

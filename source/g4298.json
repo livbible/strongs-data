@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "προκόπτω",
+            "transliteration": "prokóptō"
+        }
+    ],
+    "description": "to drive forward (as if by beating), i.e., (figuratively and intransitively) to advance (in amount, to grow; in time, to be well along)",
+    "definition": {
+        "to beat forward": {
+            "to lengthen out by hammering (as a smith forges metals)": {},
+            "metaphorically to promote, forward, further": {}
+        },
+        "to go forward, advance, proceed": {
+            "of time: the night is far spent": {},
+            "metaphorically to increase, make progress": {}
+        }
+    },
+    "origin": "from g4253 and g2875",
+    "related": [
+        "g2875",
+        "g4253"
+    ]
+}

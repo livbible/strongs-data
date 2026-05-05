@@ -1,0 +1,21 @@
+{
+    "originalWords": "דבק",
+    "description": "properly, to impinge, i.e., cling or adhere; figuratively, to catch by pursuit",
+    "definition": {
+        "to cling, stick, stay close, cleave, keep close, stick to, stick with, follow closely, join to, overtake, catch": {
+            "(qal)": {
+                "to cling, cleave to": {},
+                "to stay with": {}
+            },
+            "(pual) to be joined together": {},
+            "(hiphil)": {
+                "to cause to cleave to": {},
+                "to pursue closely": {},
+                "to overtake": {}
+            },
+            "(hophal) to be made to cleave": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

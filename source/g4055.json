@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "περισσότερος",
+            "transliteration": "perissóteros"
+        }
+    ],
+    "description": "more superabundant (in number, degree or character)",
+    "definition": {
+        "exceeding some number or measure or rank or need": {
+            "over and above, more than is necessary, superadded": {
+                "exceeding abundantly, supremely": {},
+                "something further, more, much more than all, more plainly": {}
+            },
+            "superior, extraordinary, surpassing, uncommon": {
+                "pre-eminence, superiority, advantage, more eminent, more remarkable, more excellent": {}
+            }
+        }
+    },
+    "origin": "comparative of g4053",
+    "related": [
+        "g4053"
+    ]
+}

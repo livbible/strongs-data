@@ -1,0 +1,45 @@
+{
+    "originalWords": "חזק",
+    "description": "to fasten upon; hence, to seize, be strong (figuratively, courageous, causatively strengthen, cure, help, repair, fortify), obstinate; to bind, restrain, conquer",
+    "definition": {
+        "to strengthen, prevail, harden, be strong, become strong, be courageous, be firm, grow firm, be resolute, be sore": {
+            "(qal)": {
+                "to be strong, grow strong": {
+                    "to prevail, prevail upon": {},
+                    "to be firm, be caught fast, be secure": {},
+                    "to press, be urgent": {},
+                    "to grow stout, grow rigid, grow hard (bad sense)": {},
+                    "to be severe, be grievous": {}
+                },
+                "to strengthen": {}
+            },
+            "(piel)": {
+                "to make strong": {},
+                "to restore to strength, give strength": {},
+                "to strengthen, sustain, encourage": {},
+                "to make strong, make bold, encourage": {},
+                "to make firm": {},
+                "to make rigid, make hard": {}
+            },
+            "(hiphil)": {
+                "to make strong, strengthen": {},
+                "to make firm": {},
+                "to display strength": {},
+                "to make severe": {},
+                "to support": {},
+                "to repair": {},
+                "to prevail, prevail upon": {},
+                "to have or take or keep hold of, retain, hold up, sustain, support": {},
+                "to hold, contain": {}
+            },
+            "(hithpael)": {
+                "to strengthen oneself": {},
+                "to put forth strength, use one's strength": {},
+                "to withstand": {},
+                "to hold strongly with": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

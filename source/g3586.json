@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ξύλον",
+            "transliteration": "xýlon"
+        }
+    ],
+    "description": "timber (as fuel or material); by implication, a stick, club or tree or other wooden article or substance",
+    "definition": {
+        "wood": {
+            "that which is made of wood": {
+                "as a beam from which any one is suspended, a gibbet, a cross": {},
+                "a log or timber with holes in which the feet, hands, neck of prisoners were inserted and fastened with thongs": {},
+                "a fetter, or shackle for the feet": {},
+                "a cudgel, stick, staff": {}
+            }
+        },
+        "a tree": {}
+    },
+    "origin": "from another form of the base of g3582",
+    "related": [
+        "g3582"
+    ]
+}

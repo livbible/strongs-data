@@ -1,0 +1,25 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὀνομάζω",
+            "transliteration": "onomázō"
+        }
+    ],
+    "description": "to name, i.e., assign an appellation; by extension, to utter, mention, profess",
+    "definition": {
+        "to name": {
+            "to name, to utter, to make mention of the name": {},
+            "to name": {
+                "give name to, one": {},
+                "be named": {
+                    "to bear the name of a person or thing": {}
+                }
+            },
+            "to utter the name of a person or thing": {}
+        }
+    },
+    "origin": "from g3686",
+    "related": [
+        "g3686"
+    ]
+}

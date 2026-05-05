@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πολιτεύομαι",
+            "transliteration": "politeúomai"
+        }
+    ],
+    "description": "to behave as a citizen (figuratively)",
+    "definition": {
+        "to be a citizen": {},
+        "to administer civil affairs, manage the state": {},
+        "to make or create a citizen": {
+            "to be a citizen": {},
+            "to behave as a citizen": {
+                "to avail one's self of or recognize the laws": {},
+                "to conduct one's self as pledged to some law of life": {}
+            }
+        }
+    },
+    "origin": "middle voice of a derivative of g4177",
+    "related": [
+        "g4177"
+    ]
+}

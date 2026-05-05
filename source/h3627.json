@@ -1,0 +1,20 @@
+{
+    "originalWords": "כלי",
+    "description": "something prepared, i.e., any apparatus (as an implement, utensil, dress, vessel or weapon)",
+    "definition": {
+        "article, vessel, implement, utensil": {
+            "article, object (generally)": {},
+            "utensil, implement, apparatus, vessel": {
+                "implement (of hunting or war)": {},
+                "implement (of music)": {},
+                "implement, tool (of labor)": {},
+                "equipment, yoke (of oxen)": {},
+                "utensils, furniture": {}
+            },
+            "vessel, receptacle (generally)": {},
+            "vessels (boats) of paper-reed": {}
+        }
+    },
+    "origin": "from h3615",
+    "related": []
+}

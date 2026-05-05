@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀρνίον",
+            "transliteration": "arníon"
+        }
+    ],
+    "description": "a lambkin",
+    "definition": {
+        "a little lamb, a lamb": {}
+    },
+    "origin": "diminutive from g0704",
+    "related": [
+        "g0704"
+    ]
+}

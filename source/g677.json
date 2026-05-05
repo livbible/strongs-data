@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀπρόσκοπος",
+            "transliteration": "apróskopos"
+        }
+    ],
+    "description": "actively, inoffensive, i.e., not leading into sin; passively, faultless, i.e., not led into sin",
+    "definition": {
+        "having nothing to strike against, not causing to stumble": {
+            "of a smooth road": {},
+            "metaphorically of not leading others to sin by one's mode of life": {}
+        },
+        "not striking against or stumbling": {
+            "metaphorically not led into sin, blameless": {}
+        },
+        "without offense, not troubled by a consciousness of sin": {}
+    },
+    "origin": "from g0001 (as a negative particle) and a presumed derivative of g4350",
+    "related": [
+        "g0001",
+        "g4350"
+    ]
+}

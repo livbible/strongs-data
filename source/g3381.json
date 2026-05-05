@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "μήπως",
+            "transliteration": "mḗpōs"
+        },
+        {
+            "unicode": "μή πως",
+            "transliteration": "mḗ pōs"
+        }
+    ],
+    "description": "lest somehow",
+    "definition": {
+        "lest, lest somehow, that perhaps": {}
+    },
+    "origin": "from g3361 and g4458",
+    "related": [
+        "g3361",
+        "g4458"
+    ]
+}

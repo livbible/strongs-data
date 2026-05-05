@@ -1,0 +1,23 @@
+{
+    "originalWords": "רצץ",
+    "description": "to crack in pieces, literally or figuratively",
+    "definition": {
+        "to crush, oppress": {
+            "(qal)": {
+                "to crush, get crushed, be crushed": {},
+                "to crush, oppress (figuratively)": {},
+                "crushed (participle passive)": {}
+            },
+            "(niphal) to be crushed, be broken": {},
+            "(piel)": {
+                "to crush in pieces": {},
+                "to grievously oppress (figuratively)": {}
+            },
+            "(poel) to oppress (figuratively)": {},
+            "(hiphil) to crush": {},
+            "(hithpoel) to crush each other": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

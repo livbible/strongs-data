@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀμάρτυρος",
+            "transliteration": "amártyros"
+        }
+    ],
+    "description": "unattested",
+    "definition": {
+        "without witness or testimony, unattested": {}
+    },
+    "origin": "from g0001 (as a negative particle) and a form of g3144",
+    "related": [
+        "g0001",
+        "g3144"
+    ]
+}

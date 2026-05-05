@@ -1,0 +1,23 @@
+{
+    "originalWords": [
+        {
+            "unicode": "τόπος",
+            "transliteration": "tópos"
+        }
+    ],
+    "description": "a spot (general in space, but limited by occupancy; whereas g5561 is a large but participle locality), i.e., location (as a position, home, tract, etc.); figuratively, condition, opportunity; specially, a scabbard",
+    "definition": {
+        "place, any portion or space marked off, as it were from surrounding space": {
+            "an inhabited place, as a city, village, district": {},
+            "a place (passage) in a book": {}
+        },
+        "metaphorically": {
+            "the condition or station held by one in any company or assembly": {},
+            "opportunity, power, occasion for acting": {}
+        }
+    },
+    "origin": "apparently a primary word",
+    "related": [
+        "g5561"
+    ]
+}

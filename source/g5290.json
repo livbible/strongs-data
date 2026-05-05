@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὑποστρέφω",
+            "transliteration": "hypostréphō"
+        }
+    ],
+    "description": "to turn under (behind), i.e., to return (literally or figuratively)",
+    "definition": {
+        "to turn back": {
+            "to turn about": {}
+        },
+        "to return": {}
+    },
+    "origin": "from g5259 and g4762",
+    "related": [
+        "g4762",
+        "g5259"
+    ]
+}

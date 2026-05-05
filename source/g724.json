@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἁρπαγή",
+            "transliteration": "harpagḗ"
+        }
+    ],
+    "description": "pillage (properly abstract)",
+    "definition": {
+        "the act of plundering, robbery": {},
+        "plunder spoil": {}
+    },
+    "origin": "from g0726",
+    "related": [
+        "g0726"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὁσάκις",
+            "transliteration": "hosákis"
+        }
+    ],
+    "description": "how (i.e., with g0302, so) many times as",
+    "definition": {
+        "as often as, as often soever as": {}
+    },
+    "origin": "multiple adverb from g3739",
+    "related": [
+        "g0302",
+        "g3739"
+    ]
+}

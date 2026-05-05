@@ -1,0 +1,21 @@
+{
+    "originalWords": "שבר",
+    "description": "to burst (literally or figuratively)",
+    "definition": {
+        "to break, break in pieces": {
+            "(qal)": {
+                "break, break in or down, rend violently, wreck, crush, quench": {},
+                "to break, rupture (figuratively)": {}
+            },
+            "(niphal)": {
+                "to be broken, be maimed, be crippled, be wrecked": {},
+                "to be broken, be crushed (figuratively)": {}
+            },
+            "(piel) to shatter, break": {},
+            "(hiphil) to cause to break out, bring to the birth": {},
+            "(hophal) to be broken, be shattered": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

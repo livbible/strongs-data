@@ -1,0 +1,25 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἔσχατος",
+            "transliteration": "éschatos"
+        }
+    ],
+    "description": "farthest, final (of place or time)",
+    "definition": {
+        "extreme": {
+            "last in time or in place": {},
+            "last in a series of places": {},
+            "last in a temporal succession": {}
+        },
+        "the last": {
+            "last, referring to time": {},
+            "of space, the uttermost part, the end, of the earth": {},
+            "of rank, grade of worth, last i.e., lowest": {}
+        }
+    },
+    "origin": "a superlative probably from g2192 (in the sense of contiguity)",
+    "related": [
+        "g2192"
+    ]
+}

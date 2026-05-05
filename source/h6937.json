@@ -1,0 +1,16 @@
+{
+    "originalWords": "קדר",
+    "description": "to be ashy, i.e., dark-colored; by implication, to mourn (in sackcloth or sordid garments)",
+    "definition": {
+        "to mourn, be dark": {
+            "(qal) to be dark": {},
+            "(hiphil)": {
+                "to darken": {},
+                "to cause to mourn": {}
+            },
+            "(hithpael) to grow dark": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

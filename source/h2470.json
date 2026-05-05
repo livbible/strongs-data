@@ -1,0 +1,33 @@
+{
+    "originalWords": "חלה",
+    "description": "properly, to be rubbed or worn; hence (figuratively) to be weak, sick, afflicted; or (causatively) to grieve, make sick",
+    "definition": {
+        "to be or become weak, be or become sick, be or become diseased, be or become grieved, be or become sorry": {
+            "(qal) to be weak, be sick": {},
+            "(piel)": {
+                "to be or become weak, feel weak": {},
+                "to become sick, become ill": {},
+                "to beseech, to entreat, pray, beg": {}
+            },
+            "(niphal)": {
+                "to make oneself sick": {},
+                "to be made sick": {},
+                "to be tired": {}
+            },
+            "(pual) to be made weak, become weak": {},
+            "(hithpael) to make oneself sick": {},
+            "(hiphil)": {
+                "to make sore": {},
+                "to make sick": {},
+                "to show signs of sickness, become sick": {},
+                "to grieve": {}
+            },
+            "(hophal)": {
+                "to be made sick": {},
+                "to be wounded": {}
+            }
+        }
+    },
+    "origin": "a primitive root (compare h2342, h2470, h2490)",
+    "related": []
+}

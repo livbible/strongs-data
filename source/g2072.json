@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἔσοπτρον",
+            "transliteration": "ésoptron"
+        }
+    ],
+    "description": "a mirror (for looking into)",
+    "definition": {
+        "a mirror": {
+            "the mirrors of the ancients were made, not of glass, but steel": {}
+        }
+    },
+    "origin": "from g1519 and a presumed derivative of g3700",
+    "related": [
+        "g1519",
+        "g2734",
+        "g3700"
+    ],
+    "notes": "compare g2734."
+}

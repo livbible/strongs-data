@@ -1,0 +1,22 @@
+{
+    "originalWords": "בלע",
+    "description": "to make away with (specifically by swallowing); generally, to destroy",
+    "definition": {
+        "to swallow down, swallow up, engulf, eat up": {
+            "(qal)": {
+                "to swallow down": {},
+                "to swallow up, engulf": {}
+            },
+            "(niphal) to be swallowed up": {},
+            "(piel)": {
+                "to swallow": {},
+                "to swallow up, engulf": {},
+                "squandering (figuratively)": {}
+            },
+            "(pual) to be swallowed up": {},
+            "(hithpael) to be ended": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

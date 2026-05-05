@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "μήν",
+            "transliteration": "mḗn"
+        }
+    ],
+    "description": "a particle of affirmation (only with g2229); assuredly",
+    "definition": {
+        "verily, certainly, truly": {}
+    },
+    "origin": "a stronger form of g3303",
+    "related": [
+        "g2229",
+        "g3303"
+    ]
+}

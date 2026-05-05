@@ -1,0 +1,18 @@
+{
+    "originalWords": "יעד",
+    "description": "to fix upon (by agreement or appointment); by implication, to meet (at a stated time), to summon (to trial), to direct (in a certain quarter or position), to engage (for marriage)",
+    "definition": {
+        "to fix, appoint, assemble, meet, set, betroth": {
+            "(qal) to appoint, assign, designate": {},
+            "(niphal)": {
+                "to meet": {},
+                "to meet by appointment": {},
+                "to gather, assemble by appointment": {}
+            },
+            "(hiphil) to cause to meet": {},
+            "(hophal) to be set, be placed before, be fixed": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

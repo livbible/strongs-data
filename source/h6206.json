@@ -1,0 +1,20 @@
+{
+    "originalWords": "ערץ",
+    "description": "to awe or (intransitive) to dread; hence, to harass",
+    "definition": {
+        "to tremble, dread, fear, oppress, prevail, break, be terrified, cause to tremble": {
+            "(qal)": {
+                "to cause to tremble, terrify": {}
+            },
+            "(niphal) to be awesome, be terrible": {
+                "to tremble, feel dread": {}
+            },
+            "(hiphil)": {
+                "to regard or treat with awe, regard or treat as awful": {},
+                "to inspire with awe, terrify": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

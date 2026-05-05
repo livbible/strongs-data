@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "αἵρεσις",
+            "transliteration": "haíresis"
+        }
+    ],
+    "description": "properly, a choice, i.e., (specially) a party or (abstractly) disunion",
+    "definition": {
+        "act of taking, capture: e.g., storming a city": {},
+        "choosing, choice": {},
+        "that which is chosen": {},
+        "a body of men following their own tenets (sect or party)": {
+            "of the sadducees": {},
+            "of the pharisees": {},
+            "of the christians": {}
+        },
+        "dissensions arising from diversity of opinions and aims": {}
+    },
+    "origin": "from g0138",
+    "related": [
+        "g0138"
+    ]
+}

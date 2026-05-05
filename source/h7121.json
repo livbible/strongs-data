@@ -1,0 +1,23 @@
+{
+    "originalWords": "קרא",
+    "description": "to call out to (i.e., properly, address by name, but used in a wide variety of applications)",
+    "definition": {
+        "to call, call out, recite, read, cry out, proclaim": {
+            "(qal)": {
+                "to call, cry, utter a loud sound": {},
+                "to call unto, cry (for help), call (with name of god)": {},
+                "to proclaim": {},
+                "to read aloud, read (to oneself), read": {},
+                "to summon, invite, call for, call and commission, appoint, call and endow": {},
+                "to call, name, give name to, call by": {}
+            },
+            "(niphal)": {
+                "to call oneself": {},
+                "to be called, be proclaimed, be read aloud, be summoned, be named": {}
+            },
+            "(pual) to be called, be named, be called out, be chosen": {}
+        }
+    },
+    "origin": "a primitive root (rather identical with h7122 through the idea of accosting a person met)",
+    "related": []
+}

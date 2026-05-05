@@ -1,0 +1,25 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀρνέομαι",
+            "transliteration": "arnéomai"
+        }
+    ],
+    "description": "to contradict, i.e., disavow, reject, abnegate",
+    "definition": {
+        "to deny": {},
+        "to deny someone": {
+            "to deny one's self": {
+                "to disregard his own interests or to prove false to himself": {},
+                "act entirely unlike himself": {}
+            }
+        },
+        "to deny, abnegate, abjure": {},
+        "not to accept, to reject, to refuse something offered": {}
+    },
+    "origin": "perhaps from g0001 (as a negative particle) and the middle voice of g4483",
+    "related": [
+        "g0001",
+        "g4483"
+    ]
+}

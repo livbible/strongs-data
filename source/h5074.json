@@ -1,0 +1,20 @@
+{
+    "originalWords": "נדד",
+    "description": "properly, to wave to and fro (rarely to flap up and down); figuratively, to rove, flee, or (causatively) to drive away",
+    "definition": {
+        "to retreat, flee, depart, move, wander abroad, stray, flutter": {
+            "(qal)": {
+                "to retreat, flee": {},
+                "to flee, depart": {},
+                "to wander, stray": {},
+                "to flutter (of birds)": {}
+            },
+            "(poal) to flee away, be chased": {},
+            "(hiphil) to chase away": {},
+            "(hophal) to be chased away": {},
+            "(hithpolel) to flee away": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

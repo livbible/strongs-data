@@ -1,0 +1,55 @@
+{
+    "originalWords": "אדון",
+    "description": "sovereign, i.e., controller (human or divine)",
+    "definition": {
+        "firm, strong, lord, master": {
+            "lord, master": {
+                "reference to men": {
+                    "superintendent of household, of affairs": {},
+                    "master": {},
+                    "king": {}
+                },
+                "reference to god": {
+                    "the lord god": {},
+                    "lord of the whole earth": {}
+                }
+            },
+            "lords, kings": {
+                "reference to men": {
+                    "proprietor of hill of samaria": {},
+                    "master": {},
+                    "husband": {},
+                    "prophet": {},
+                    "governor": {},
+                    "prince": {},
+                    "king": {}
+                },
+                "reference to god": {
+                    "lord of lords": {}
+                }
+            },
+            "my lord, my master": {
+                "reference to men": {
+                    "master": {},
+                    "husband": {},
+                    "prophet": {},
+                    "prince": {},
+                    "king": {},
+                    "father": {},
+                    "moses": {},
+                    "priest": {},
+                    "theophanic angel": {},
+                    "captain": {},
+                    "general recognition of superiority": {}
+                },
+                "reference to god": {
+                    "my lord, my lord and my god": {},
+                    "adonai (parallel with jehovah)": {}
+                }
+            }
+        }
+    },
+    "origin": "or (shortened) ?????; from an unused root (meaning to rule)",
+    "related": [],
+    "notes": "compare also names beginning with 'adoni-'."
+}

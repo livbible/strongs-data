@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐξορκιστής",
+            "transliteration": "exorkistḗs"
+        }
+    ],
+    "description": "one that binds by an oath (or spell), i.e., (by implication) an \"exorcist\" (conjurer)",
+    "definition": {
+        "he who extracts an oath of one": {},
+        "an exorcist": {
+            "one who employs a formula of conjuration for expelling demons": {}
+        }
+    },
+    "origin": "from g1844",
+    "related": [
+        "g1844"
+    ]
+}

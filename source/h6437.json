@@ -1,0 +1,23 @@
+{
+    "originalWords": "פנה",
+    "description": "to turn; by implication, to face, i.e., appear, look, etc",
+    "definition": {
+        "to turn": {
+            "(qal)": {
+                "to turn toward or from or away": {},
+                "to turn and do": {},
+                "to turn, decline (of day)": {},
+                "to turn toward, approach (of evening)": {},
+                "to turn and look, look, look back or at or after or for": {}
+            },
+            "(piel) to turn away, put out of the way, make clear, clear away": {},
+            "(hiphil)": {
+                "to turn": {},
+                "to make a turn, show signs of turning, turn back": {}
+            },
+            "(hophal) to be turned back": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

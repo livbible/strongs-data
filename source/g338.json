@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀναίτιος",
+            "transliteration": "anaítios"
+        }
+    ],
+    "description": "innocent",
+    "definition": {
+        "guiltless, innocent": {}
+    },
+    "origin": "from g0001 (as a negative particle) and g0159 (in the sense of g0156)",
+    "related": [
+        "g0001",
+        "g0156",
+        "g0159"
+    ]
+}

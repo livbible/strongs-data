@@ -1,0 +1,15 @@
+{
+    "originalWords": "לחם",
+    "description": "food (for man or beast), especially bread, or grain (for making it)",
+    "definition": {
+        "bread, food, grain": {
+            "bread": {
+                "bread": {},
+                "bread-corn": {}
+            },
+            "food (generally)": {}
+        }
+    },
+    "origin": "from h3898; see also h1036",
+    "related": []
+}

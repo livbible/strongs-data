@@ -1,0 +1,29 @@
+{
+    "originalWords": "רעע",
+    "description": "properly, to spoil (literally, by breaking to pieces); figuratively, to make (or be) good for nothing, i.e., bad (physically, socially or morally)",
+    "definition": {
+        "to be bad, be evil": {
+            "(qal)": {
+                "to be displeasing": {},
+                "to be sad": {},
+                "to be injurious, be evil": {},
+                "to be wicked, be evil (ethically)": {}
+            },
+            "(hiphil)": {
+                "to do an injury or hurt": {},
+                "to do evil or wickedly": {},
+                "mischief (participle)": {}
+            }
+        },
+        "to break, shatter": {
+            "(qal)": {
+                "to break": {},
+                "broken (participle)": {},
+                "to be broken": {}
+            },
+            "(hithpolel) to be broken, be broken in pieces, be broken asunder": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

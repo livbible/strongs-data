@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "προσαπειλέω",
+            "transliteration": "prosapeiléō"
+        }
+    ],
+    "description": "to menace additionally",
+    "definition": {
+        "to add threats, threaten further": {}
+    },
+    "origin": "from g4314 and g0546",
+    "related": [
+        "g0546",
+        "g4314"
+    ]
+}

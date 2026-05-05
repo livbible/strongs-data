@@ -1,0 +1,26 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πνευματικός",
+            "transliteration": "pneumatikós"
+        }
+    ],
+    "description": "non-carnal, i.e., (humanly) ethereal (as opposed to gross), or (daemoniacally) a spirit (concretely), or (divinely) supernatural, regenerate, religious",
+    "definition": {
+        "relating to the human spirit, or rational soul, as part of the man which is akin to god and serves as his instrument or organ": {
+            "that which possesses the nature of the rational soul": {}
+        },
+        "belonging to a spirit, or a being higher than man but inferior to god": {},
+        "belonging to the divine spirit": {
+            "of god the holy spirit": {},
+            "one who is filled with and governed by the spirit of god": {}
+        },
+        "pertaining to the wind or breath; windy, exposed to the wind, blowing": {}
+    },
+    "origin": "from g4151",
+    "related": [
+        "g4151",
+        "g5591"
+    ],
+    "notes": "compare g5591."
+}

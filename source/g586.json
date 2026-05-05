@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀποδεκατόω",
+            "transliteration": "apodekatóō"
+        }
+    ],
+    "description": "to tithe (as debtor or creditor)",
+    "definition": {
+        "to give, pay a tithe of anything": {},
+        "to exact receive a tenth from anyone": {}
+    },
+    "origin": "from g0575 and g1183",
+    "related": [
+        "g0575",
+        "g1183"
+    ]
+}

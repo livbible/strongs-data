@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "διερωτάω",
+            "transliteration": "dierōtáō"
+        }
+    ],
+    "description": "to question throughout, i.e., ascertain by interrogation",
+    "definition": {
+        "to ask through": {
+            "ask many, one after another": {},
+            "to find out by asking, enquire out": {}
+        }
+    },
+    "origin": "from g1223 and g2065",
+    "related": [
+        "g1223",
+        "g2065"
+    ]
+}

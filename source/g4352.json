@@ -1,0 +1,27 @@
+{
+    "originalWords": [
+        {
+            "unicode": "προσκυνέω",
+            "transliteration": "proskynéō"
+        }
+    ],
+    "description": "to fawn or crouch to, i.e., (literally or figuratively) prostrate oneself in homage (do reverence to, adore)",
+    "definition": {
+        "to kiss the hand to (towards) one, in token of reverence": {},
+        "among the middle easterners, especially the persians, to fall upon the knees and touch the ground with the forehead as an expression of profound reverence": {},
+        "in the new testament by kneeling or prostration to do homage (to one) or make obeisance, whether in order to express respect or to make supplication": {
+            "used of homage shown to men and beings of superior rank": {
+                "to the jewish high priests": {},
+                "to god": {},
+                "to christ": {},
+                "to heavenly beings": {},
+                "to demons": {}
+            }
+        }
+    },
+    "origin": "from g4314 and a probable derivative of g2965 (meaning to kiss, like a dog licking his master's hand)",
+    "related": [
+        "g2965",
+        "g4314"
+    ]
+}

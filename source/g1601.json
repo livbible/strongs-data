@@ -1,0 +1,27 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐκπίπτω",
+            "transliteration": "ekpíptō"
+        }
+    ],
+    "description": "to drop away; specially, be driven out of one's course; figuratively, to lose, become inefficient",
+    "definition": {
+        "to fall out of, to fall down from, to fall off": {},
+        "metaphorically": {
+            "to fall from a thing, to lose it": {},
+            "to perish, to fall": {
+                "to fall from a place from which one cannot keep": {},
+                "fall from a position": {},
+                "to fall powerless, to fall to the ground, be without effect": {
+                    "of the divine promise of salvation": {}
+                }
+            }
+        }
+    },
+    "origin": "from g1537 and g4098",
+    "related": [
+        "g1537",
+        "g4098"
+    ]
+}

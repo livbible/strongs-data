@@ -1,0 +1,27 @@
+{
+    "originalWords": "רפה",
+    "description": "to slacken (in many applications, literal or figurative)",
+    "definition": {
+        "to sink, relax, sink down, let drop, be disheartened": {
+            "(qal)": {
+                "to sink down": {},
+                "to sink, drop": {},
+                "to sink, relax, abate": {},
+                "to relax, withdraw": {}
+            },
+            "(niphal) idle (participle)": {},
+            "(piel) to let drop": {},
+            "(hiphil)": {
+                "to let drop, abandon, relax, refrain, forsake": {},
+                "to let go": {},
+                "to refrain, let alone": {},
+                "to be quiet": {}
+            },
+            "(hithpael) to show oneself slack": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": [
+        "h7495"
+    ]
+}

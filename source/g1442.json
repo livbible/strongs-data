@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἕβδομος",
+            "transliteration": "hébdomos"
+        }
+    ],
+    "description": "seventh",
+    "definition": {
+        "seventh": {}
+    },
+    "origin": "ordinal from g2033",
+    "related": [
+        "g2033"
+    ]
+}

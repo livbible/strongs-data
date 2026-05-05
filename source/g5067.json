@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "τέταρτος",
+            "transliteration": "tétartos"
+        }
+    ],
+    "description": "fourth",
+    "definition": {
+        "the fourth": {}
+    },
+    "origin": "ordinal from g5064",
+    "related": [
+        "g5064"
+    ]
+}

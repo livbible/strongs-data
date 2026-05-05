@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀπογράφω",
+            "transliteration": "apográphō"
+        }
+    ],
+    "description": "to write off (a copy or list), i.e., enrol",
+    "definition": {
+        "to write off, copy (from some pattern)": {},
+        "to enter in a register or records": {
+            "specifically to enter in public records the names of men, their property and income": {},
+            "to enroll": {}
+        }
+    },
+    "origin": "from g0575 and g1125",
+    "related": [
+        "g0575",
+        "g1125"
+    ]
+}

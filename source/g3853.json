@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "παραγγέλλω",
+            "transliteration": "parangéllō"
+        }
+    ],
+    "description": "to transmit a message, i.e., (by implication) to enjoin",
+    "definition": {
+        "to transmit a message along from one to another, to declare, announce": {},
+        "to command, order, charge": {}
+    },
+    "origin": "from g3844 and the base of g0032",
+    "related": [
+        "g0032",
+        "g3844"
+    ]
+}

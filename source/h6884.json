@@ -1,0 +1,20 @@
+{
+    "originalWords": "צרף",
+    "description": "to fuse (metal), i.e., refine (literally or figuratively)",
+    "definition": {
+        "to smelt, refine, test": {
+            "(qal)": {
+                "to smelt, refine": {},
+                "to test": {},
+                "to test (and prove true)": {},
+                "smelter, refiner, goldsmith (participle)": {}
+            },
+            "(niphal) to be refined": {},
+            "(piel) to be a refiner": {
+                "refiner (participle)": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

@@ -1,0 +1,19 @@
+{
+    "originalWords": "ארח",
+    "description": "to travel",
+    "definition": {
+        "to wander, journey, go, keep company with": {
+            "(qal)": {
+                "to journey, go": {},
+                "(part.)": {
+                    "wandering, wayfarer, journeying": {}
+                },
+                "(subst.)": {
+                    "wanderer, wayfarer, traveller": {}
+                }
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

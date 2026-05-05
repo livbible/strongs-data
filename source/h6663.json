@@ -1,0 +1,25 @@
+{
+    "originalWords": "צדק",
+    "description": "to be (causatively, make) right (in a moral or forensic sense)",
+    "definition": {
+        "to be just, be righteous": {
+            "(qal)": {
+                "to have a just cause, be in the right": {},
+                "to be justified": {},
+                "to be just (of god)": {},
+                "to be just, be righteous (in conduct and character)": {}
+            },
+            "(niphal) to be put or made right, be justified": {},
+            "(piel) justify, make to appear righteous, make someone righteous": {},
+            "(hiphil)": {
+                "to do or bring justice (in administering law)": {},
+                "to declare righteous, justify": {},
+                "to justify, vindicate the cause of, save": {},
+                "to make righteous, turn to righteousness": {}
+            },
+            "(hithpael) to justify oneself": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

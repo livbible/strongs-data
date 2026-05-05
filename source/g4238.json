@@ -1,0 +1,25 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πράσσω",
+            "transliteration": "prássō"
+        }
+    ],
+    "description": "to \"practise\", i.e., perform repeatedly or habitually (thus differing from g4160, which properly refers to a single act); by implication, to execute, accomplish, etc.; specially, to collect (dues), fare (personally)",
+    "definition": {
+        "to exercise, practise, to be busy with, carry on": {
+            "to undertake, to do": {}
+        },
+        "to accomplish, perform": {
+            "to commit, perpetrate": {}
+        },
+        "to manage public affairs, transact public business": {
+            "to exact tribute, revenue, debts": {}
+        },
+        "to act": {}
+    },
+    "origin": "a primary verb",
+    "related": [
+        "g4160"
+    ]
+}

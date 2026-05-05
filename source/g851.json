@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀφαιρέω",
+            "transliteration": "aphairéō"
+        }
+    ],
+    "description": "to remove (literally or figuratively)",
+    "definition": {
+        "to take from, take away, remove, carry off": {},
+        "to cut off": {}
+    },
+    "origin": "from g0575 and g0138",
+    "related": [
+        "g0138",
+        "g0575"
+    ]
+}

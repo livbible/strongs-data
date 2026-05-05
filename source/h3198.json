@@ -1,0 +1,21 @@
+{
+    "originalWords": "יכח",
+    "description": "to be right (i.e., correct); reciprocal, to argue; causatively, to decide, justify or convict",
+    "definition": {
+        "to prove, decide, judge, rebuke, reprove, correct, be right": {
+            "(hiphil)": {
+                "to decide, judge": {},
+                "to adjudge, appoint": {},
+                "to show to be right, prove": {},
+                "to convince, convict": {},
+                "to reprove, chide": {},
+                "to correct, rebuke": {}
+            },
+            "(hophal) to be chastened": {},
+            "(niphal) to reason, reason together": {},
+            "(hithp) to argue": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

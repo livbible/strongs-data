@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀνθρώπινος",
+            "transliteration": "anthrṓpinos"
+        }
+    ],
+    "description": "human",
+    "definition": {
+        "human": {
+            "applied to things belonging to men": {}
+        }
+    },
+    "origin": "from g0444",
+    "related": [
+        "g0444"
+    ]
+}

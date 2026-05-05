@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὑμέτερος",
+            "transliteration": "hyméteros"
+        }
+    ],
+    "description": "yours, i.e., pertaining to you",
+    "definition": {
+        "you, yours": {
+            "to be possessed by you": {},
+            "to be allocated by you": {},
+            "proceeding from you": {}
+        }
+    },
+    "origin": "from g5210",
+    "related": [
+        "g5210"
+    ]
+}

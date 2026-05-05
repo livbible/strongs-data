@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐλαφρός",
+            "transliteration": "elaphrós"
+        }
+    ],
+    "description": "light, i.e., easy",
+    "definition": {
+        "light in weight, quick, agile": {}
+    },
+    "origin": "probably akin to g1643 and the base of g1640",
+    "related": [
+        "g1640",
+        "g1643"
+    ]
+}

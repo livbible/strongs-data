@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἔπω",
+            "transliteration": "épō"
+        }
+    ],
+    "description": "to speak or say (by word or writing)",
+    "definition": {
+        "to speak, say": {}
+    },
+    "origin": "a primary verb (used only in the definite past tense, the others being borrowed from g2046, g4483, and g5346)",
+    "related": [
+        "g2046",
+        "g3004",
+        "g4483",
+        "g5346"
+    ],
+    "notes": "compare g3004."
+}

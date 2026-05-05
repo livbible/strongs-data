@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "τριακόσιοι",
+            "transliteration": "triakósioi"
+        }
+    ],
+    "description": "three hundred",
+    "definition": {
+        "three hundred": {}
+    },
+    "origin": "plural from g5140 and g1540",
+    "related": [
+        "g1540",
+        "g5140"
+    ]
+}

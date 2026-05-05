@@ -1,0 +1,22 @@
+{
+    "originalWords": "דרך",
+    "description": "to tread; by implication, to walk; also to string a bow (by treading on it in bending)",
+    "definition": {
+        "to tread, bend, lead, march": {
+            "(qal)": {
+                "to tread, march, march forth": {},
+                "to tread on, tread upon": {},
+                "to tread (a press)": {},
+                "to tread (bend) a bow": {},
+                "archer, bow-benders (participle)": {}
+            },
+            "(hiphil)": {
+                "to tread, tread down": {},
+                "to tread (bend with the foot) a bow": {},
+                "to cause to go, lead, march, tread": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

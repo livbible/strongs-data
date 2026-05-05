@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐλάσσων",
+            "transliteration": "elássōn"
+        },
+        {
+            "unicode": "ἐλάττων",
+            "transliteration": "eláttōn"
+        }
+    ],
+    "description": "smaller (in size, quantity, age or quality)",
+    "definition": {
+        "less": {
+            "in age (younger)": {},
+            "in rank": {},
+            "in excellence, worse": {}
+        }
+    },
+    "origin": "comparative of the same as g1646",
+    "related": [
+        "g1646"
+    ]
+}

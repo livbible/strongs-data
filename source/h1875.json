@@ -1,0 +1,31 @@
+{
+    "originalWords": "דרש",
+    "description": "properly, to tread or frequent; usually to follow (for pursuit or search); by implication, to seek or ask; specifically to worship",
+    "definition": {
+        "to resort to, seek, seek with care, enquire, require": {
+            "(qal)": {
+                "to resort to, frequent (a place), (tread a place)": {},
+                "to consult, enquire of, seek": {
+                    "of god": {},
+                    "of heathen gods, necromancers": {}
+                },
+                "to seek deity in prayer and worship": {
+                    "god": {},
+                    "heathen deities": {}
+                },
+                "to seek (with a demand), demand, require": {},
+                "to investigate, enquire": {},
+                "to ask for, require, demand": {},
+                "to practice, study, follow, seek with application": {},
+                "to seek with care, care for": {}
+            },
+            "(niphal)": {
+                "to allow oneself to be enquired of, consulted (only of god)": {},
+                "to be sought, be sought out": {},
+                "to be required (of blood)": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

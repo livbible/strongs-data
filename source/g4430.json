@@ -1,0 +1,22 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πτῶμα",
+            "transliteration": "ptōma"
+        }
+    ],
+    "description": "a ruin, i.e., (specially), lifeless body (corpse, carrion)",
+    "definition": {
+        "a fall, downfall": {
+            "metaphorically a failure, defeat, calamity": {},
+            "an error, lapse into sin": {}
+        },
+        "that which has fallen": {
+            "the fallen body of one dead or slain, a corpse, a carcase": {}
+        }
+    },
+    "origin": "from the alternate of g4098",
+    "related": [
+        "g4098"
+    ]
+}

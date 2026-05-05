@@ -1,0 +1,29 @@
+{
+    "originalWords": "רום",
+    "description": "to be high actively, to rise or raise (in various applications, literally or figuratively)",
+    "definition": {
+        "to rise, rise up, be high, be lofty, be exalted": {
+            "(qal)": {
+                "to be high, be set on high": {},
+                "to be raised, be uplifted, be exalted": {},
+                "to be lifted, rise": {}
+            },
+            "(polel)": {
+                "to raise or rear (children), cause to grow up": {},
+                "to lift up, raise, exalt": {},
+                "to exalt, extol": {}
+            },
+            "(polal) to be lifted up": {},
+            "(hiphil)": {
+                "to raise, lift, lift up, take up, set up, erect, exalt, set on high": {},
+                "to lift up (and take away), remove": {},
+                "to lift off and present, contribute, offer, contribute": {}
+            },
+            "(hophal) to be taken off, be abolished": {},
+            "(hithpolel) to exalt oneself, magnify oneself": {}
+        },
+        "(qal) to be rotten, be wormy": {}
+    },
+    "origin": "a primitive root",
+    "related": []
+}

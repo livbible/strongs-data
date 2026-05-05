@@ -1,0 +1,25 @@
+{
+    "originalWords": [
+        {
+            "unicode": "προσανατίθημι",
+            "transliteration": "prosanatíthēmi"
+        }
+    ],
+    "description": "to lay up in addition, i.e., (middle voice and figuratively) to impart or (by implication) to consult",
+    "definition": {
+        "to lay upon in addition to": {},
+        "to lay upon one's self in addition": {
+            "to undertake besides": {},
+            "to put one's self upon another by going to him,": {},
+            "to commit or betake one's self to another for the purpose of consulting him": {},
+            "to consult, to take one into counsel": {},
+            "to add from one's store": {}
+        },
+        "to communicate, impart": {}
+    },
+    "origin": "from g4314 and g0394",
+    "related": [
+        "g0394",
+        "g4314"
+    ]
+}

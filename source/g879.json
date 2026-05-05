@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀφυπνόω",
+            "transliteration": "aphypnóō"
+        }
+    ],
+    "description": "properly, to become awake, i.e., (by implication) to drop (off) in slumber",
+    "definition": {
+        "to awaken from sleep": {},
+        "to fall asleep, to fall off to sleep": {}
+    },
+    "origin": "from a compound of g0575 and g5258",
+    "related": [
+        "g0575",
+        "g5258"
+    ]
+}

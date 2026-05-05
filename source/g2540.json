@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "καιρός",
+            "transliteration": "kairós"
+        }
+    ],
+    "description": "an occasion, i.e., set or proper time",
+    "definition": {
+        "due measure": {},
+        "a measure of time, a larger or smaller portion of time, hence:": {
+            "a fixed and definite time, the time when things are brought to crisis, the decisive epoch waited for": {},
+            "opportune or seasonable time": {},
+            "the right time": {},
+            "a limited period of time": {},
+            "to what time brings, the state of the times, the things and events of time": {}
+        }
+    },
+    "origin": "of uncertain affinity",
+    "related": [
+        "g5550"
+    ],
+    "notes": "compare g5550."
+}

@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Ταρσεύς",
+            "transliteration": "Tarseús"
+        }
+    ],
+    "description": "a tarsean, i.e., native of tarsus",
+    "literal": "a flat basket",
+    "definition": {
+        "belong to tarsus, a native of tarsus": {}
+    },
+    "origin": "from g5019",
+    "related": [
+        "g5019"
+    ]
+}

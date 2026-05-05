@@ -1,0 +1,40 @@
+{
+    "originalWords": "ידע",
+    "description": "to know (properly, to ascertain by seeing); used in a great variety of senses, figuratively, literally, euphemistically and inferentially (including observation, care, recognition; and causatively, instruction, designation, punishment, etc.)",
+    "definition": {
+        "to know": {
+            "(qal)": {
+                "to know": {
+                    "to know, learn to know": {},
+                    "to perceive": {},
+                    "to perceive and see, find out and discern": {},
+                    "to discriminate, distinguish": {},
+                    "to know by experience": {},
+                    "to recognize, admit, acknowledge, confess": {},
+                    "to consider": {}
+                },
+                "to know, be acquainted with": {},
+                "to know (a person carnally)": {},
+                "to know how, be skilful in": {},
+                "to have knowledge, be wise": {}
+            },
+            "(niphal)": {
+                "to be made known, be or become known, be revealed": {},
+                "to make oneself known": {},
+                "to be perceived": {},
+                "to be instructed": {}
+            },
+            "(piel) to cause to know": {},
+            "(poal) to cause to know": {},
+            "(pual)": {
+                "to be known": {},
+                "known, one known, acquaintance (participle)": {}
+            },
+            "(hiphil) to make known, declare": {},
+            "(hophal) to be made known": {},
+            "(hithpael) to make oneself known, reveal oneself": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐπιβουλή",
+            "transliteration": "epiboulḗ"
+        }
+    ],
+    "description": "a plan against someone, i.e., a plot",
+    "definition": {
+        "a plan formed against one, a plot": {}
+    },
+    "origin": "from a presumed compound of g1909 and g1014",
+    "related": [
+        "g1014",
+        "g1909"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀνόητος",
+            "transliteration": "anóētos"
+        }
+    ],
+    "description": "unintelligent; by implication, sensual",
+    "definition": {
+        "not understood, unintelligible": {},
+        "not understanding, unwise, foolish": {}
+    },
+    "origin": "from g0001 (as a negative particle) and a derivative of g3539",
+    "related": [
+        "g0001",
+        "g3539"
+    ]
+}

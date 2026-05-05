@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐπίορκος",
+            "transliteration": "epíorkos"
+        }
+    ],
+    "description": "on oath, i.e., (falsely) a forswearer",
+    "definition": {
+        "a false swearer, a perjurer": {}
+    },
+    "origin": "from g1909 and g3727",
+    "related": [
+        "g1909",
+        "g3727"
+    ]
+}

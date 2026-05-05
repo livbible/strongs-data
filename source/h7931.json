@@ -1,0 +1,22 @@
+{
+    "originalWords": "שכן",
+    "description": "to reside or permanently stay (literally or figuratively)",
+    "definition": {
+        "to settle down, abide, dwell, tabernacle, reside": {
+            "(qal)": {
+                "to settle down to abide": {},
+                "to abide, dwell, reside": {}
+            },
+            "(piel)": {
+                "to make settle down, establish": {},
+                "to make or cause to dwell": {}
+            },
+            "(hiphil)": {
+                "to lay, place, set, establish, settle, fix": {},
+                "to cause to dwell or abide": {}
+            }
+        }
+    },
+    "origin": "a primitive root (apparently akin (by transmission) to h7901 through the idea of lodging; compare h5531, h7925)",
+    "related": []
+}

@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Κύπριος",
+            "transliteration": "Kýprios"
+        }
+    ],
+    "description": "a cyprian (cypriot), i.e., inhabitant of cyprus",
+    "definition": {
+        "a cyprian or cypriote, i.e., a native of cyprus": {}
+    },
+    "origin": "from g2954",
+    "related": [
+        "g2954"
+    ]
+}

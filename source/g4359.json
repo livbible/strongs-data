@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "προσοφείλω",
+            "transliteration": "prosopheílō"
+        }
+    ],
+    "description": "to be indebted additionally",
+    "definition": {
+        "to owe beside": {}
+    },
+    "origin": "from g4314 and g3784",
+    "related": [
+        "g3784",
+        "g4314"
+    ]
+}

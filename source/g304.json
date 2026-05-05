@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀναβαθμός",
+            "transliteration": "anabathmós"
+        }
+    ],
+    "description": "a stairway",
+    "definition": {
+        "an ascent": {},
+        "a means of going up, a flight of stairs, stairs": {}
+    },
+    "origin": "from g0305 (compare g0898)",
+    "related": [
+        "g0305",
+        "g0898"
+    ]
+}

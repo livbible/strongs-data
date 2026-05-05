@@ -1,0 +1,30 @@
+{
+    "originalWords": "חטא",
+    "description": "properly, to miss; hence (figuratively and generally) to sin; by inference, to forfeit, lack, expiate, repent, (causatively) lead astray, condemn",
+    "definition": {
+        "to sin, miss, miss the way, go wrong, incur guilt, forfeit, purify from uncleanness": {
+            "(qal)": {
+                "to miss": {},
+                "to sin, miss the goal or path of right and duty": {},
+                "to incur guilt, incur penalty by sin, forfeit": {}
+            },
+            "(piel)": {
+                "to bear loss": {},
+                "to make a sin-offering": {},
+                "to purify from sin": {},
+                "to purify from uncleanness": {}
+            },
+            "(hiphil)": {
+                "to miss the mark": {},
+                "to induce to sin, cause to sin": {},
+                "to bring into guilt or condemnation or punishment": {}
+            },
+            "(hithpael)": {
+                "to miss oneself, lose oneself, wander from the way": {},
+                "to purify oneself from uncleanness": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

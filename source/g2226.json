@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ζῶον",
+            "transliteration": "zōon"
+        }
+    ],
+    "description": "a live thing, i.e., an animal",
+    "definition": {
+        "a living being": {},
+        "an animal, brute, beast": {}
+    },
+    "origin": "neuter of a derivative of g2198",
+    "related": [
+        "g2198"
+    ]
+}

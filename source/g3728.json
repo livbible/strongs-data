@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὁρκωμοσία",
+            "transliteration": "horkōmosía"
+        }
+    ],
+    "description": "asseveration on oath",
+    "definition": {
+        "affirmation made on oath, the taking of an oath, an oath": {}
+    },
+    "origin": "from a compound of g3727 and a derivative of g3660",
+    "related": [
+        "g3660",
+        "g3727"
+    ]
+}

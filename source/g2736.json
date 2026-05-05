@@ -1,0 +1,25 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κάτω",
+            "transliteration": "kátō"
+        },
+        {
+            "unicode": "κατωτέρω",
+            "transliteration": "katōtérō"
+        }
+    ],
+    "description": "downwards",
+    "definition": {
+        "down, downwards": {},
+        "below, beneath": {
+            "of place, below": {},
+            "of temporal succession": {}
+        }
+    },
+    "origin": "(compare g2737); adverb from g2596",
+    "related": [
+        "g2596",
+        "g2737"
+    ]
+}

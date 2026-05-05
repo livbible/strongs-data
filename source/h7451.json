@@ -1,0 +1,34 @@
+{
+    "originalWords": "רע",
+    "description": "bad or (as noun) evil (natural or moral)",
+    "definition": {
+        "(adj) bad, evil": {
+            "bad, disagreeable, malignant": {},
+            "bad, unpleasant, evil (giving pain, unhappiness, misery)": {},
+            "evil, displeasing": {},
+            "bad (of its kindland, water, etc)": {},
+            "bad (of value)": {},
+            "worse than, worst (comparison)": {},
+            "sad, unhappy": {},
+            "evil (hurtful)": {},
+            "bad, unkind (vicious in disposition)": {},
+            "bad, evil, wicked (ethically)": {
+                "in general, of persons, of thoughts": {},
+                "deeds, actions": {}
+            }
+        },
+        "(n m) evil, distress, misery, injury, calamity": {
+            "evil, distress, adversity": {},
+            "evil, injury, wrong": {},
+            "evil (ethical)": {}
+        },
+        "(n f) evil, misery, distress, injury": {
+            "evil, misery, distress": {},
+            "evil, injury, wrong": {},
+            "evil (ethical)": {}
+        }
+    },
+    "origin": "from h7489",
+    "related": [],
+    "notes": "including feminine raaah; as adjective or noun."
+}

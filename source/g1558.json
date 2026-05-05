@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἔκδικος",
+            "transliteration": "ékdikos"
+        }
+    ],
+    "description": "carrying justice out, i.e., a punisher",
+    "definition": {
+        "without law and justice": {},
+        "exacting penalty from one": {
+            "an avenger, punisher": {}
+        }
+    },
+    "origin": "from g1537 and g1349",
+    "related": [
+        "g1349",
+        "g1537"
+    ]
+}

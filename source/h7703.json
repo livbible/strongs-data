@@ -1,0 +1,22 @@
+{
+    "originalWords": "שדד",
+    "description": "properly, to be burly, i.e., (figuratively) powerful (passively, impregnable); by implication, to ravage",
+    "definition": {
+        "to deal violently with, despoil, devastate, ruin, destroy, spoil": {
+            "(qal)": {
+                "to violently destroy, devastate, despoil, assail": {},
+                "devastator, despoiler (participle) (subst)": {}
+            },
+            "(niphal) to be utterly ruined": {},
+            "(piel)": {
+                "to assault": {},
+                "to devastate": {}
+            },
+            "(pual) to be devastated": {},
+            "(poel) to violently destroy": {},
+            "(hophal) to be devastated": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

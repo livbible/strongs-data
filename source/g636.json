@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀποπλέω",
+            "transliteration": "apopléō"
+        }
+    ],
+    "description": "to set sail",
+    "definition": {
+        "to sail away, depart by ship, set sail": {}
+    },
+    "origin": "from g0575 and g4126",
+    "related": [
+        "g0575",
+        "g4126"
+    ]
+}

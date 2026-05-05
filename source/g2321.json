@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Θεόφιλος",
+            "transliteration": "Theóphilos"
+        }
+    ],
+    "description": "friend of god; theophilus, a christian",
+    "literal": "friend of god",
+    "definition": {
+        "the person to whom luke addressed his gospel and the book of acts": {}
+    },
+    "origin": "from g2316 and g5384",
+    "related": [
+        "g2316",
+        "g5384"
+    ]
+}

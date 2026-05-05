@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἄμφοδον",
+            "transliteration": "ámphodon"
+        }
+    ],
+    "description": "a fork in the road",
+    "definition": {
+        "a road around anything, a street": {}
+    },
+    "origin": "from the base of g0297 and g3598",
+    "related": [
+        "g0297",
+        "g3598"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐπιστρέφω",
+            "transliteration": "epistréphō"
+        }
+    ],
+    "description": "to revert (literally, figuratively or morally)",
+    "definition": {
+        "transitively": {
+            "to turn to": {
+                "to the worship of the true god": {}
+            },
+            "to cause to return, to bring back": {
+                "to the love and obedience of god": {},
+                "to the love for the children": {},
+                "to love wisdom and righteousness": {}
+            }
+        },
+        "intransitively": {
+            "to turn to one's self": {},
+            "to turn one's self about, turn back": {},
+            "to return, turn back, come back": {}
+        }
+    },
+    "origin": "from g1909 and g4762",
+    "related": [
+        "g1909",
+        "g4762"
+    ]
+}

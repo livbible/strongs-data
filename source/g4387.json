@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πρότερος",
+            "transliteration": "próteros"
+        }
+    ],
+    "description": "prior or previous",
+    "definition": {
+        "before, prior": {
+            "of time, previous, former": {}
+        }
+    },
+    "origin": "comparative of g4253",
+    "related": [
+        "g4253"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "originalWords": [
+        {
+            "unicode": "γεννάω",
+            "transliteration": "gennáō"
+        }
+    ],
+    "description": "to procreate (properly, of the father, but by extension of the mother); figuratively, to regenerate",
+    "definition": {
+        "of men who fathered children": {
+            "to be born": {},
+            "to be begotten": {
+                "of women giving birth to children": {}
+            }
+        },
+        "metaphorically": {
+            "to engender, cause to arise, excite": {},
+            "in a jewish sense, of one who brings others over to his way of life, to convert someone": {},
+            "of god making christ his son": {},
+            "of god making men his sons through faith in christ's work": {}
+        }
+    },
+    "origin": "from a variation of g1085",
+    "related": [
+        "g1085"
+    ]
+}

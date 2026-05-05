@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Παρμενᾶς",
+            "transliteration": "Parmenâs"
+        }
+    ],
+    "description": "constant; parmenas, a christian",
+    "literal": "abiding",
+    "definition": {
+        "one of the seven deacons of the church at jerusalem": {}
+    },
+    "origin": "probably by contraction for ?????????? (a derivative of a compound of g3844 and g3306)",
+    "related": [
+        "g3306",
+        "g3844"
+    ]
+}

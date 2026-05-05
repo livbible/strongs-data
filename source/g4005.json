@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πεντηκοστή",
+            "transliteration": "pentēkostḗ"
+        }
+    ],
+    "description": "fiftieth (g2250 being implied) from passover, i.e., the festival of \"pentecost\"",
+    "literal": "the fiftieth day",
+    "definition": {
+        "the second of the three great jewish feasts, celebrated at jerusalem yearly, the seventh week after the passover, in grateful recognition of the completed harvest": {}
+    },
+    "origin": "feminine of the ordinal of g4004",
+    "related": [
+        "g2250",
+        "g4004"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "originalWords": [
+        {
+            "unicode": "καταργέω",
+            "transliteration": "katargéō"
+        }
+    ],
+    "description": "to be (render) entirely idle (useless), literally or figuratively",
+    "definition": {
+        "to render idle, unemployed, inactivate, inoperative": {
+            "to cause a person or thing to have no further efficiency": {},
+            "to deprive of force, influence, power": {}
+        },
+        "to cause to cease, put an end to, do away with, annul, abolish": {
+            "to cease, to pass away, be done away": {},
+            "to be severed from, separated from, discharged from, loosed from any one": {},
+            "to terminate all intercourse with one": {}
+        }
+    },
+    "origin": "from g2596 and g0691",
+    "related": [
+        "g0691",
+        "g2596"
+    ]
+}

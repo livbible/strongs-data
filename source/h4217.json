@@ -1,0 +1,15 @@
+{
+    "originalWords": "מזרח",
+    "description": "sunrise, i.e., the east",
+    "definition": {
+        "place of sunrise, east": {
+            "sunrise, east (with 'sun')": {},
+            "the east (without 'sun')": {
+                "to or toward the place of sunrise": {},
+                "to the east, eastward": {}
+            }
+        }
+    },
+    "origin": "from h2224",
+    "related": []
+}

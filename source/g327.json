@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀναζητέω",
+            "transliteration": "anazētéō"
+        }
+    ],
+    "description": "to search out",
+    "definition": {
+        "to seek out, search through, make diligent search": {}
+    },
+    "origin": "from g0303 and g2212",
+    "related": [
+        "g0303",
+        "g2212"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "originalWords": "מלט",
+    "description": "properly, to be smooth, i.e., (by implication) to escape (as if by slipperiness); causatively, to release or rescue; specifically, to bring forth young, emit sparks",
+    "definition": {
+        "to slip away, escape, deliver, save, be delivered": {
+            "(niphal)": {
+                "to slip away": {},
+                "to escape": {},
+                "to be delivered": {}
+            },
+            "(piel)": {
+                "to lay, let slip out (of eggs)": {},
+                "to let escape": {},
+                "to deliver, save (life)": {}
+            },
+            "(hiphil)": {
+                "to give birth to": {},
+                "to deliver": {}
+            },
+            "(hithpael)": {
+                "to slip forth, slip out, escape": {},
+                "to escape": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

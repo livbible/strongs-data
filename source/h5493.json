@@ -1,0 +1,22 @@
+{
+    "originalWords": "סור",
+    "description": "to turn off (literally or figuratively)",
+    "definition": {
+        "to turn aside, depart": {
+            "(qal)": {
+                "to turn aside, turn in unto": {},
+                "to depart, depart from way, avoid": {},
+                "to be removed": {},
+                "to come to an end": {}
+            },
+            "(polel) to turn aside": {},
+            "(hiphil)": {
+                "to cause to turn aside, cause to depart, remove, take away, put away, depose": {},
+                "to put aside, leave undone, retract, reject, abolish": {}
+            },
+            "(hophal) to be taken away, be removed": {}
+        }
+    },
+    "origin": "or ?????; (hosea 9:12), a primitive root",
+    "related": []
+}

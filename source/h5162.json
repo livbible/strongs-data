@@ -1,0 +1,24 @@
+{
+    "originalWords": "נחם",
+    "description": "properly, to sigh, i.e., breathe strongly; by implication, to be sorry, i.e., (in a favorable sense) to pity, console or (reflexively) rue; or (unfavorably) to avenge (oneself)",
+    "definition": {
+        "to be sorry, console oneself, repent, regret, comfort, be comforted": {
+            "(niphal)": {
+                "to be sorry, be moved to pity, have compassion": {},
+                "to be sorry, rue, suffer grief, repent": {},
+                "to comfort oneself, be comforted": {},
+                "to comfort oneself, ease oneself": {}
+            },
+            "(piel) to comfort, console": {},
+            "(pual) to be comforted, be consoled": {},
+            "(hithpael)": {
+                "to be sorry, have compassion": {},
+                "to rue, repent of": {},
+                "to comfort oneself, be comforted": {},
+                "to ease oneself": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

@@ -1,0 +1,22 @@
+{
+    "originalWords": [
+        {
+            "unicode": "νηστεία",
+            "transliteration": "nēsteía"
+        }
+    ],
+    "description": "abstinence (from lack of food, or voluntary and religious); specially, the fast of the day of atonement",
+    "definition": {
+        "a fasting, fast": {
+            "a voluntary, as a religious exercise": {
+                "of private fasting": {},
+                "the public fast as prescribed by the mosaic law and kept yearly on the great day of atonement, the tenth of the month of tisri (the month tisri comprises a part of our september and october); the fast accordingly, occurred in the autumn when navigation was usually dangerous on account of storms": {}
+            },
+            "a fasting caused by want or poverty": {}
+        }
+    },
+    "origin": "from g3522",
+    "related": [
+        "g3522"
+    ]
+}

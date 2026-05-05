@@ -1,0 +1,30 @@
+{
+    "originalWords": [
+        {
+            "unicode": "παρέρχομαι",
+            "transliteration": "parérchomai"
+        }
+    ],
+    "description": "to come near or aside, i.e., to approach (arrive), go by (or away), (figuratively) perish or neglect, (causative) avert",
+    "definition": {
+        "to go past, pass by": {
+            "of persons moving forward": {
+                "to pass by": {}
+            },
+            "of time": {
+                "an act continuing for a time": {}
+            },
+            "metaphorically": {
+                "to pass away, perish": {},
+                "to pass by (pass over), that is, to neglect, omit, (transgress)": {},
+                "to be led by, to be carried past, be averted": {}
+            }
+        },
+        "to come near, come forward, arrive": {}
+    },
+    "origin": "from g3844 and g2064",
+    "related": [
+        "g2064",
+        "g3844"
+    ]
+}

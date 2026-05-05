@@ -1,0 +1,20 @@
+{
+    "originalWords": "נגד",
+    "description": "properly, to front, i.e., stand boldly out opposite; by implication (causatively), to manifest; figuratively, to announce (always by word of mouth to one present); specifically, to expose, predict, explain, praise",
+    "definition": {
+        "to be conspicuous, tell, make known": {
+            "(hiphil) to tell, declare": {
+                "to tell, announce, report": {},
+                "to declare, make known, expound": {},
+                "to inform of": {},
+                "to publish, declare, proclaim": {},
+                "to avow, acknowledge, confess": {
+                    "messenger (participle)": {}
+                }
+            },
+            "(hophal) to be told, be announced, be reported": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

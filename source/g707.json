@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Ἀριμαθαία",
+            "transliteration": "Arimathaía"
+        }
+    ],
+    "description": "arimathaea (or ramah), a place in palestine",
+    "literal": "heights",
+    "definition": {
+        "the name of several cities in palestine": {}
+    },
+    "origin": "of hebrew origin (h7414)",
+    "related": [
+        "h7414"
+    ],
+    "notes": "the city mentioned in matthew 27:57, mark 15:43, luke 23:51, john 19:38 appears to have been the same as the birthplace of samuel in mount ephraim."
+}

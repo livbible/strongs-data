@@ -1,0 +1,20 @@
+{
+    "originalWords": "עדר",
+    "description": "to arrange, as a battle, a vineyard (to hoe); hence, to muster and so to miss (or find wanting)",
+    "definition": {
+        "to help": {
+            "(qal) to help": {}
+        },
+        "to hoe": {
+            "(niphal) to be hoed": {}
+        },
+        "to be lacking, fail": {
+            "(niphal)": {},
+            "(piel) to leave lacking": {
+                "to leave lacking": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

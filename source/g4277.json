@@ -1,0 +1,23 @@
+{
+    "originalWords": [
+        {
+            "unicode": "προέπω",
+            "transliteration": "proépō"
+        }
+    ],
+    "description": "to say already, to predict",
+    "definition": {
+        "to say before": {
+            "to say in what precedes, to say above": {},
+            "to say before i.e., heretofore, formerly": {},
+            "to say beforehand i.e., before the event: prophecies": {}
+        }
+    },
+    "origin": "from g4253 and g2036",
+    "related": [
+        "g2036",
+        "g4253",
+        "g4280"
+    ],
+    "notes": "compare g4280."
+}

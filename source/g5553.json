@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "χρυσίον",
+            "transliteration": "chrysíon"
+        }
+    ],
+    "description": "a golden article, i.e., gold plating, ornament, or coin",
+    "definition": {
+        "gold, both that which lies imbedded in the earth and is dug out of it": {},
+        "that which has been smelted and wrought": {
+            "of a gold coin": {},
+            "of golden ornaments": {},
+            "of precious things made of gold": {}
+        }
+    },
+    "origin": "diminutive of g5557",
+    "related": [
+        "g5557"
+    ]
+}

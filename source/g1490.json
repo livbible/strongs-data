@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "εἰ δὲ μή(γε)",
+            "transliteration": "ei dè mḗ(ge)"
+        }
+    ],
+    "description": "but if not",
+    "definition": {
+        "otherwise, but if not": {}
+    },
+    "origin": "from g1487, g1161, and g3361 (sometimes with g1065 added)",
+    "related": [
+        "g1065",
+        "g1161",
+        "g1487",
+        "g3361"
+    ],
+    "notes": "can also be spelled \"?? ?? ??.\""
+}

@@ -1,0 +1,30 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀπολύω",
+            "transliteration": "apolýō"
+        }
+    ],
+    "description": "to free fully, i.e., (literally) relieve, release, dismiss (reflexively, depart), or (figuratively) let die, pardon or (specially) divorce",
+    "definition": {
+        "to set free": {},
+        "to let go, dismiss, (to detain no longer)": {
+            "a petitioner to whom liberty to depart is given by a decisive answer": {},
+            "to bid depart, send away": {}
+        },
+        "to let go free, release": {
+            "a captive i.e., to loose his bonds and bid him depart, to give him liberty to depart": {},
+            "to acquit one accused of a crime and set him at liberty": {},
+            "indulgently to grant a prisoner leave to depart": {},
+            "to release a debtor, i.e., not to press one's claim against him, to remit his debt": {}
+        },
+        "used of divorce, to dismiss from the house, to repudiate": {},
+        "to send one's self away, to depart": {}
+    },
+    "origin": "from g0575 and g3089",
+    "related": [
+        "g0575",
+        "g3089"
+    ],
+    "notes": "the wife of a greek or roman may divorce her husband."
+}

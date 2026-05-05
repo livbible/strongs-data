@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κλοπή",
+            "transliteration": "klopḗ"
+        }
+    ],
+    "description": "stealing",
+    "definition": {
+        "theft": {}
+    },
+    "origin": "from g2813",
+    "related": [
+        "g2813"
+    ]
+}

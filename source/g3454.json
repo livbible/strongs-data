@@ -1,0 +1,22 @@
+{
+    "originalWords": [
+        {
+            "unicode": "μῦθος",
+            "transliteration": "mŷthos"
+        }
+    ],
+    "description": "a tale, i.e., fiction (\"myth\")",
+    "definition": {
+        "a speech, word, saying": {},
+        "a narrative, story": {
+            "a true narrative": {},
+            "a fiction, a fable": {
+                "an invention, a falsehood": {}
+            }
+        }
+    },
+    "origin": "perhaps from the same as g3453 (through the idea of tuition)",
+    "related": [
+        "g3453"
+    ]
+}

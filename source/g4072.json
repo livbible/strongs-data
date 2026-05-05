@@ -1,0 +1,22 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πέτομαι",
+            "transliteration": "pétomai"
+        },
+        {
+            "unicode": "πετάομαι",
+            "transliteration": "petáomai"
+        },
+        {
+            "unicode": "πτάομαι",
+            "transliteration": "ptáomai"
+        }
+    ],
+    "description": "to fly",
+    "definition": {
+        "to fly": {}
+    },
+    "origin": "middle voice of a primary verb",
+    "related": []
+}

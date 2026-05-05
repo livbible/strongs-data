@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀναγγέλλω",
+            "transliteration": "anangéllō"
+        }
+    ],
+    "description": "to announce (in detail)",
+    "definition": {
+        "to announce, make known": {},
+        "to report, bring back tidings, rehearse": {}
+    },
+    "origin": "from g0303 and the base of g0032",
+    "related": [
+        "g0032",
+        "g0303"
+    ]
+}

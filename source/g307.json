@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀναβιβάζω",
+            "transliteration": "anabibázō"
+        }
+    ],
+    "description": "to cause to go up, i.e., haul (a net)",
+    "definition": {
+        "to cause to go up or ascend, to draw up": {}
+    },
+    "origin": "from g0303 and a derivative of the base of g0939",
+    "related": [
+        "g0303",
+        "g0939"
+    ]
+}

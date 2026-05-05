@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἄψυχος",
+            "transliteration": "ápsychos"
+        }
+    ],
+    "description": "lifeless, i.e., inanimate (mechanical)",
+    "definition": {
+        "without a soul, lifeless": {}
+    },
+    "origin": "from g0001 (as a negative particle) and g5590",
+    "related": [
+        "g0001",
+        "g5590"
+    ]
+}

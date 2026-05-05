@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐκχέω",
+            "transliteration": "ekchéō"
+        },
+        {
+            "unicode": "ἐκχύνω",
+            "transliteration": "ekchýnō"
+        }
+    ],
+    "description": "to pour forth; figuratively, to bestow",
+    "definition": {
+        "to pour out, shed forth": {},
+        "metaphorically to bestow or distribute largely": {}
+    },
+    "origin": "from g1537 and ??? (to pour)",
+    "related": [
+        "g1537"
+    ]
+}

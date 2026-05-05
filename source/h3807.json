@@ -1,0 +1,21 @@
+{
+    "originalWords": "כתת",
+    "description": "to bruise or violently strike",
+    "definition": {
+        "to beat, crush by beating, crush to pieces, crush fine": {
+            "(qal)": {
+                "to beat or crush fine": {},
+                "to beat, hammer": {}
+            },
+            "(piel)": {
+                "to beat or crush fine": {},
+                "to beat, hammer": {}
+            },
+            "(pual) to be beaten": {},
+            "(hiphil) to beat in pieces, shatter": {},
+            "(hophal) to be beaten, be crushed": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

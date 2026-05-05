@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κρίσις",
+            "transliteration": "krísis"
+        }
+    ],
+    "description": "decision (subjectively or objectively, for or against); by extension, a tribunal; by implication, justice (especially, divine law)",
+    "definition": {
+        "a separating, sundering, separation": {
+            "a trial, contest": {}
+        },
+        "selection": {},
+        "judgment": {
+            "opinion or decision given concerning anything": {
+                "especially concerning justice and injustice, right or wrong": {}
+            },
+            "sentence of condemnation, damnatory judgment, condemnation and punishment": {}
+        },
+        "the college of judges (a tribunal of seven men in the several cities of palestine; as distinguished from the sanhedrin, which had its seat at jerusalem)": {},
+        "right, justice": {}
+    },
+    "related": []
+}

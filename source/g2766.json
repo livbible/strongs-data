@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κέραμος",
+            "transliteration": "kéramos"
+        }
+    ],
+    "description": "earthenware, i.e., a tile (by analogy, a thin roof or awning)",
+    "definition": {
+        "clay, potter's earth": {},
+        "anything made of clay, earthen ware": {},
+        "a roofing tile": {
+            "the roof itself": {},
+            "the phrase \"through the roof\", means through the door in the roof to which a ladder or stairway led up from the street (according to the rabbis distinguish two ways of entering a house, \"the way through the door\" and \"the way through the roof\"": {}
+        }
+    },
+    "origin": "probably from the base of g2767 (through the idea of mixing clay and water)",
+    "related": [
+        "g2767"
+    ]
+}

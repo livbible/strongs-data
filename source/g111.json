@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀθέμιτος",
+            "transliteration": "athémitos"
+        }
+    ],
+    "description": "illegal; by implication, flagitious",
+    "definition": {
+        "contrary to law and justice, prohibited by law, illicit, criminal": {}
+    },
+    "origin": "from g0001 (as a negative particle) and a derivative of ????? (statute; from the base of g5087)",
+    "related": [
+        "g0001",
+        "g5087"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "originalWords": "אסף",
+    "description": "to gather for any purpose; hence, to receive, take away, i.e., remove (destroy, leave behind, put up, restore, etc.)",
+    "definition": {
+        "to gather, receive, remove, gather in": {
+            "(qal)": {
+                "to gather, collect": {},
+                "to gather (an individual into company of others)": {},
+                "to bring up the rear": {},
+                "to gather and take away, remove, withdraw": {}
+            },
+            "(niphal)": {
+                "to assemble, be gathered": {},
+                "(pass of qal 1a2)": {
+                    "to be gathered to one's fathers": {},
+                    "to be brought in or into (association with others)": {}
+                },
+                "(pass of qal 1a4)": {
+                    "to be taken away, removed, perish": {}
+                }
+            },
+            "(piel)": {
+                "to gather (harvest)": {},
+                "to take in, receive into": {},
+                "rearguard, rearward (subst)": {}
+            },
+            "(pual) to be gathered": {},
+            "(hithpael) to gather oneself or themselves": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

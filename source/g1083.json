@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "γέννησις",
+            "transliteration": "génnēsis"
+        }
+    ],
+    "description": "nativity",
+    "definition": {
+        "begat, engendering": {},
+        "nativity, birth": {}
+    },
+    "origin": "from g1080",
+    "related": [
+        "g1080"
+    ]
+}

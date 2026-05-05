@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "βελτίον",
+            "transliteration": "beltíon"
+        }
+    ],
+    "description": "better",
+    "definition": {
+        "better": {}
+    },
+    "origin": "neuter of a compound of a derivative of g0906 (used for the comparative of g0018)",
+    "related": [
+        "g0018",
+        "g0906"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πάροικος",
+            "transliteration": "pároikos"
+        }
+    ],
+    "description": "having a home near, i.e., (as noun) a by-dweller (alien resident)",
+    "definition": {
+        "dwelling near, neighbouring": {},
+        "in the new testament, a stranger, a foreigner, one who lives in a place without the right of citizenship": {},
+        "metaphorically": {
+            "without citizenship in god's kingdom": {},
+            "one who lives on earth as a stranger, a sojourner on the earth": {},
+            "of christians whose home is in heaven": {}
+        }
+    },
+    "origin": "from g3844 and g3624",
+    "related": [
+        "g3624",
+        "g3844"
+    ]
+}

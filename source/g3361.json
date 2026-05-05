@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "μή",
+            "transliteration": "mḗ"
+        }
+    ],
+    "description": "(adverb) not, (conjunction) lest; also (as an interrogative implying a negative answer (whereas g3756 expects an affirmative one)) whether",
+    "definition": {
+        "no, not lest": {}
+    },
+    "origin": "a primary particle of qualified negation (whereas g3756 expresses an absolute denial)",
+    "related": [
+        "g3362",
+        "g3363",
+        "g3364",
+        "g3372",
+        "g3373",
+        "g3375",
+        "g3378",
+        "g3756"
+    ],
+    "notes": "often used in compounds in substantially the same relations."
+}

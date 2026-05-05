@@ -1,0 +1,29 @@
+{
+    "originalWords": [
+        {
+            "unicode": "συντελέω",
+            "transliteration": "synteléō"
+        }
+    ],
+    "description": "to complete entirely; generally, to execute (literally or figuratively)",
+    "definition": {
+        "to end together or at the same time": {},
+        "to end completely": {
+            "bring to an end, finish, complete": {}
+        },
+        "to accomplish, bring to fulfilment": {
+            "to come to pass": {}
+        },
+        "to effect, make, (conclude)": {},
+        "to finish": {
+            "to make an end of": {},
+            "to bring to an end": {},
+            "destroy": {}
+        }
+    },
+    "origin": "from g4862 and g5055",
+    "related": [
+        "g4862",
+        "g5055"
+    ]
+}

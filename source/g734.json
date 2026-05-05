@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Ἀρτεμάς",
+            "transliteration": "Artemás"
+        }
+    ],
+    "description": "gift of artemis; artemas (or artemidorus), a christian",
+    "literal": "gift of artemis",
+    "definition": {
+        "a friend of paul the apostle": {}
+    },
+    "origin": "contracted from a compound of g0735 and g1435",
+    "related": [
+        "g0735",
+        "g1435"
+    ]
+}

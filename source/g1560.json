@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἔκδοτος",
+            "transliteration": "ékdotos"
+        }
+    ],
+    "description": "given out or over, i.e., surrendered",
+    "definition": {
+        "given over, delivered up": {
+            "to enemies, or to the power, the will, of some one": {}
+        }
+    },
+    "origin": "from g1537 and a derivative of g1325",
+    "related": [
+        "g1325",
+        "g1537"
+    ]
+}

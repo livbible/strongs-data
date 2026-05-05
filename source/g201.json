@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀκροατήριον",
+            "transliteration": "akroatḗrion"
+        }
+    ],
+    "description": "an audience-room",
+    "definition": {
+        "a place set aside for hearing and deciding cases": {}
+    },
+    "origin": "from g0202",
+    "related": [
+        "g0202"
+    ]
+}

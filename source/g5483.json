@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "χαρίζομαι",
+            "transliteration": "charízomai"
+        }
+    ],
+    "description": "to grant as a favor, i.e., gratuitously, in kindness, pardon or rescue",
+    "definition": {
+        "to do something pleasant or agreeable (to one), to do a favor to, gratify": {
+            "to show one's self gracious, kind, benevolent": {},
+            "to grant forgiveness, to pardon": {},
+            "to give graciously, give freely, bestow": {
+                "to forgive": {},
+                "graciously to restore one to another": {},
+                "to preserve for one a person in peril": {}
+            }
+        }
+    },
+    "origin": "middle voice from g5485",
+    "related": [
+        "g5485"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "originalWords": [
+        {
+            "unicode": "χώρα",
+            "transliteration": "chṓra"
+        }
+    ],
+    "description": "room, i.e., a space of territory (more or less extensive; often including its inhabitants)",
+    "definition": {
+        "the space lying between two places or limits": {},
+        "a region or country i.e., a tract of land": {
+            "the (rural) region surrounding a city or village, the country": {},
+            "the region with towns and villages which surround a metropolis": {}
+        },
+        "land which is ploughed or cultivated, ground": {}
+    },
+    "origin": "feminine of a derivative of the base of g5490 through the idea of empty expanse",
+    "related": [
+        "g5117",
+        "g5490"
+    ],
+    "notes": "compare g5117."
+}

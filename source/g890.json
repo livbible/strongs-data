@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἄχρηστος",
+            "transliteration": "áchrēstos"
+        }
+    ],
+    "description": "inefficient, i.e., (by implication) detrimental",
+    "definition": {
+        "useless, unprofitable": {}
+    },
+    "origin": "from g0001 (as a negative particle) and g5543",
+    "related": [
+        "g0001",
+        "g5543"
+    ]
+}

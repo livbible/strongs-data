@@ -1,0 +1,19 @@
+{
+    "originalWords": "ספה",
+    "description": "properly, to scrape (literally, to shave; but usually figuratively) together (i.e., to accumulate or increase) or away (i.e., to scatter, remove, or ruin; intransitively, to perish)",
+    "definition": {
+        "to sweep or snatch away, catch up, destroy, consume": {
+            "(qal)": {
+                "to be snatched away": {},
+                "to sweep or snatch away": {}
+            },
+            "(niphal)": {
+                "to be swept away, be destroyed": {},
+                "to be caught up, be captured": {}
+            },
+            "(hiphil) to catch up, gather": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

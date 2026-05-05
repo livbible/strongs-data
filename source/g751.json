@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Ἄρχιππος",
+            "transliteration": "Árchippos"
+        }
+    ],
+    "description": "horse-ruler; archippus, a christian",
+    "literal": "master of the horse",
+    "definition": {
+        "a certain christian teacher in colosse": {}
+    },
+    "origin": "from g0746 and g2462",
+    "related": [
+        "g0746",
+        "g2462"
+    ]
+}

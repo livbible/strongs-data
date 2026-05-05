@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐμός",
+            "transliteration": "emós"
+        }
+    ],
+    "description": "my",
+    "definition": {
+        "my, mine, etc.": {}
+    },
+    "origin": "from the oblique cases of g1473 (g1698, g1700, g1691)",
+    "related": [
+        "g1473",
+        "g1691",
+        "g1698",
+        "g1700"
+    ]
+}

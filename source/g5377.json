@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "φιλόθεος",
+            "transliteration": "philótheos"
+        }
+    ],
+    "description": "fond of god, i.e., pious",
+    "definition": {
+        "loving god": {}
+    },
+    "origin": "from g5384 and g2316",
+    "related": [
+        "g2316",
+        "g5384"
+    ]
+}

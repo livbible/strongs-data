@@ -1,0 +1,25 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἕτοιμος",
+            "transliteration": "hétoimos"
+        }
+    ],
+    "description": "adjusted, i.e., ready",
+    "definition": {
+        "prepare ready": {
+            "of things": {
+                "ready at hand": {},
+                "opportune, seasonable": {}
+            },
+            "of persons": {
+                "ready prepared": {
+                    "to do something": {},
+                    "to receive one coming": {}
+                }
+            }
+        }
+    },
+    "origin": "from an old noun ????? (fitness)",
+    "related": []
+}

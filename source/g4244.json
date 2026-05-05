@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πρεσβυτέριον",
+            "transliteration": "presbytérion"
+        }
+    ],
+    "description": "the order of elders, i.e., (specially), israelite sanhedrin or christian \"presbytery\"",
+    "definition": {
+        "body of elders, presbytery, senate, council": {
+            "of the jewish elders": {},
+            "of the elders of any body (assembly) of christians": {}
+        }
+    },
+    "origin": "neuter of a presumed derivative of g4245",
+    "related": [
+        "g4245"
+    ]
+}

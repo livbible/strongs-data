@@ -1,0 +1,25 @@
+{
+    "originalWords": "תעב",
+    "description": "to loathe, i.e., (morally) detest",
+    "definition": {
+        "to abhor, be abominable, do abominably": {
+            "(niphal) to be abhorred, be detested": {
+                "in the ritual sense": {},
+                "in the ethical sense": {}
+            },
+            "(piel)": {
+                "to loathe, abhor, regard as an abomination": {
+                    "in the ritual sense": {},
+                    "in the ethical sense": {}
+                },
+                "to cause to be an abomination": {}
+            },
+            "(hiphil) to make abominable, do abominably": {
+                "in the ritual sense": {},
+                "in the ethical sense": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

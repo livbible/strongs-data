@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κἄν",
+            "transliteration": "kán"
+        }
+    ],
+    "description": "and (or even) if",
+    "definition": {
+        "and if": {},
+        "also or even if": {
+            "of only, at least": {},
+            "even if": {}
+        }
+    },
+    "origin": "from g2532 and g1437",
+    "related": [
+        "g1437",
+        "g2532"
+    ]
+}

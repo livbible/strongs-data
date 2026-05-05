@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἔπαυλις",
+            "transliteration": "épaulis"
+        }
+    ],
+    "description": "a hut over the head, i.e., a dwelling",
+    "definition": {
+        "a farm": {},
+        "a dwelling": {}
+    },
+    "origin": "from g1909 and an equivalent of g0833",
+    "related": [
+        "g0833",
+        "g1909"
+    ]
+}

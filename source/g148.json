@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "αἰσχρολογία",
+            "transliteration": "aischrología"
+        }
+    ],
+    "description": "vile conversation",
+    "definition": {
+        "foul speaking, low and obscene speech": {}
+    },
+    "origin": "from g0150 and g3056",
+    "related": [
+        "g0150",
+        "g3056"
+    ]
+}

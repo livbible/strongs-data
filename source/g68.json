@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀγρός",
+            "transliteration": "agrós"
+        }
+    ],
+    "description": "a field (as a drive for cattle); genitive case, the country; specially, a farm, i.e., hamlet",
+    "definition": {
+        "land": {
+            "the field, the country": {},
+            "a piece of land, bit of tillage": {},
+            "the farms, country seats, neighbouring hamlets": {}
+        }
+    },
+    "origin": "from g0071",
+    "related": [
+        "g0071"
+    ]
+}

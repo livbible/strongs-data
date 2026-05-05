@@ -1,0 +1,10 @@
+{
+    "tasks": {
+        "build": "deno -A build.ts"
+    },
+    "fmt": {
+        "indentWidth": 4,
+        "lineWidth": 512,
+        "semiColons": false
+    }
+}

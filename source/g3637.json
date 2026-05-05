@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὀκταήμερος",
+            "transliteration": "oktaḗmeros"
+        }
+    ],
+    "description": "an eight-day old person or act",
+    "definition": {
+        "eight days old": {},
+        "passing the eighth day": {}
+    },
+    "origin": "from g3638 and g2250",
+    "related": [
+        "g2250",
+        "g3638"
+    ]
+}

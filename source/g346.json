@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀνακεφαλαίομαι",
+            "transliteration": "anakephalaíomai"
+        }
+    ],
+    "description": "to sum up",
+    "definition": {
+        "to sum up (again), to repeat summarily, to condense into a summary": {}
+    },
+    "origin": "from g0303 and g2775 (in its original sense)",
+    "related": [
+        "g0303",
+        "g2775"
+    ]
+}

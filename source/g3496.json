@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Νεάπολις",
+            "transliteration": "Neápolis"
+        }
+    ],
+    "description": "new town; neapolis, a place in macedonia",
+    "literal": "new city",
+    "definition": {
+        "a maritime city of macedonia, on the gulf of syrymon, having a port and colonised by chalcidians": {}
+    },
+    "origin": "from g3501 and g4172",
+    "related": [
+        "g3501",
+        "g4172"
+    ]
+}

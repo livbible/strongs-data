@@ -1,0 +1,26 @@
+{
+    "originalWords": [
+        {
+            "unicode": "τέκνον",
+            "transliteration": "téknon"
+        }
+    ],
+    "description": "a child (as produced)",
+    "definition": {
+        "offspring, children": {
+            "a male child, a son": {},
+            "metaphorically": {
+                "of anything who depends upon it, is possessed by a desire or affection for it, is addicted to it": {},
+                "one who is liable to any fate": {
+                    "thus children of a city: it citizens and inhabitants": {}
+                },
+                "the votaries of wisdom, those souls who have, as it were, been nurtured and moulded by wisdom": {},
+                "cursed children, exposed to a curse and doomed to god's wrath or penalty": {}
+            }
+        }
+    },
+    "origin": "from the base of g5088",
+    "related": [
+        "g5088"
+    ]
+}

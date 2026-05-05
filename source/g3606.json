@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὅθεν",
+            "transliteration": "hóthen"
+        }
+    ],
+    "description": "from which place or source or cause (adverb or conjunction)",
+    "definition": {
+        "from which, whence": {
+            "of the place from which": {},
+            "of the source from which a thing is known, from which, whereby": {},
+            "of the cause from which, for which reason, wherefore, on which account": {}
+        }
+    },
+    "origin": "from g3739 with the directive enclitic of source",
+    "related": [
+        "g3739"
+    ]
+}

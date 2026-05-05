@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πλέω",
+            "transliteration": "pléō"
+        },
+        {
+            "unicode": "πλεύω",
+            "transliteration": "pleúō"
+        }
+    ],
+    "description": "to pass in a vessel",
+    "definition": {
+        "to sail, navigate, travel by ship": {}
+    },
+    "origin": "probably a form of g4150 (through the idea of plunging through the water)",
+    "related": [
+        "g4130",
+        "g4150"
+    ]
+}

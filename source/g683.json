@@ -1,0 +1,23 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀπωθέομαι",
+            "transliteration": "apōthéomai"
+        },
+        {
+            "unicode": "ἀπώθομαι",
+            "transliteration": "apṓthomai"
+        }
+    ],
+    "description": "to push off, figuratively, to reject",
+    "definition": {
+        "to thrust away, push away, repel": {},
+        "to thrust away from one's self, to drive away from one's self": {
+            "repudiate, reject, refuse": {}
+        }
+    },
+    "origin": "from g0575 and the middle voice of ???? or ??? (to shove)",
+    "related": [
+        "g0575"
+    ]
+}

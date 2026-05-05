@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀντιλογία",
+            "transliteration": "antilogía"
+        }
+    ],
+    "description": "dispute, disobedience",
+    "definition": {
+        "gainsaying, contradiction": {},
+        "opposition, rebellion": {}
+    },
+    "origin": "from a derivative of g0483",
+    "related": [
+        "g0483"
+    ]
+}

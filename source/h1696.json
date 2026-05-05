@@ -1,0 +1,19 @@
+{
+    "originalWords": "דבר",
+    "description": "perhaps properly, to arrange; but used figuratively (of words), to speak; rarely (in a destructive sense) to subdue",
+    "definition": {
+        "to speak, declare, converse, command, promise, warn, threaten, sing": {
+            "(qal) to speak": {},
+            "(niphal) to speak with one another, talk": {},
+            "(piel)": {
+                "to speak": {},
+                "to promise": {}
+            },
+            "(pual) to be spoken": {},
+            "(hithpael) to speak": {},
+            "(hiphil) to lead away, put to flight": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

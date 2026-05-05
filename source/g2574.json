@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κάμηλος",
+            "transliteration": "kámēlos"
+        }
+    ],
+    "description": "a \"camel\"",
+    "definition": {
+        "camel": {}
+    },
+    "origin": "of hebrew origin (h1581)",
+    "related": [
+        "h1581"
+    ]
+}

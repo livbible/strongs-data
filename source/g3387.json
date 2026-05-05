@@ -1,0 +1,22 @@
+{
+    "originalWords": [
+        {
+            "unicode": "μήτις",
+            "transliteration": "mḗtis"
+        },
+        {
+            "unicode": "μή τις",
+            "transliteration": "mḗ tis"
+        }
+    ],
+    "description": "whether any",
+    "definition": {
+        "let no one": {},
+        "hath any one": {}
+    },
+    "origin": "from g3361 and g5100",
+    "related": [
+        "g3361",
+        "g5100"
+    ]
+}

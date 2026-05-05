@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "βαρύς",
+            "transliteration": "barýs"
+        }
+    ],
+    "description": "weighty, i.e., (fig) burdensome, grave",
+    "definition": {
+        "heavy in weight": {},
+        "metaphorically": {
+            "burdensome": {},
+            "severe, stern": {},
+            "weighty": {
+                "of great moment": {}
+            },
+            "violent, cruel, unsparing": {}
+        }
+    },
+    "origin": "from the same as g0922",
+    "related": [
+        "g0922"
+    ]
+}

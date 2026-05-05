@@ -1,0 +1,27 @@
+{
+    "originalWords": [
+        {
+            "unicode": "εἰμί",
+            "transliteration": "eimí"
+        }
+    ],
+    "description": "i exist (used only when emphatic)",
+    "definition": {
+        "to be, to exist, to happen, to be present": {}
+    },
+    "origin": "the first person singular present indicative; a prolonged form of a primary and defective verb",
+    "related": [
+        "g1488",
+        "g1498",
+        "g1511",
+        "g1526",
+        "g2070",
+        "g2071",
+        "g2075",
+        "g2076",
+        "g2258",
+        "g2468",
+        "g2771",
+        "g5600"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "originalWords": "סבב",
+    "description": "to revolve, surround, or border; used in various applications, literally and figuratively",
+    "definition": {
+        "to turn, turn about or around or aside or back or towards, go about or around, surround, encircle, change direction": {
+            "(qal)": {
+                "to turn, turn about, be brought round, change": {},
+                "to march or walk around, go partly around, circle about, skirt, make a round, make a circuit, go about to, surround, encompass": {}
+            },
+            "(niphal)": {
+                "to turn oneself, close round, turn round": {},
+                "to be turned over to": {}
+            },
+            "(piel) to turn about, change, transform": {},
+            "(poel)": {
+                "to encompass, surround": {},
+                "to come about, assemble round": {},
+                "to march, go about": {},
+                "to enclose, envelop": {}
+            },
+            "(hiphil)": {
+                "to turn, cause to turn, turn back, reverse, bring over, turn into, bring round": {},
+                "to cause to go around, surround, encompass": {}
+            },
+            "(hophal)": {
+                "to be turned": {},
+                "to be surrounded": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

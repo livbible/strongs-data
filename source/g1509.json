@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "εἰ μή τι",
+            "transliteration": "ei mḗ ti"
+        }
+    ],
+    "description": "if not somewhat",
+    "definition": {
+        "unless indeed, except, unless perhaps": {}
+    },
+    "origin": "from g1508 and the neuter of g5100",
+    "related": [
+        "g1508",
+        "g5100"
+    ]
+}

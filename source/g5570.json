@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ψευδαπόστολος",
+            "transliteration": "pseudapóstolos"
+        }
+    ],
+    "description": "a spurious apostle, i.e., pretended pracher",
+    "definition": {
+        "a false apostle, one who falsely claims to be an ambassador of christ": {}
+    },
+    "origin": "from g5571 and g0652",
+    "related": [
+        "g0652",
+        "g5571"
+    ]
+}

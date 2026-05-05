@@ -1,0 +1,30 @@
+{
+    "originalWords": [
+        {
+            "unicode": "θεός",
+            "transliteration": "theós"
+        }
+    ],
+    "description": "a deity, especially (with g3588) the supreme divinity; figuratively, a magistrate; exceedingly (by hebraism)",
+    "definition": {
+        "a god or goddess, a general name of deities or divinities": {},
+        "the godhead, trinity": {
+            "god the father, the first person in the trinity": {},
+            "christ, the second person of the trinity": {},
+            "holy spirit, the third person in the trinity": {}
+        },
+        "spoken of the only and true god": {
+            "refers to the things of god": {},
+            "his counsels, interests, things due to him": {}
+        },
+        "whatever can in any respect be likened unto god, or resemble him in any way": {
+            "god's representative or viceregent": {
+                "of magistrates and judges": {}
+            }
+        }
+    },
+    "origin": "of uncertain affinity",
+    "related": [
+        "g3588"
+    ]
+}

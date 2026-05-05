@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὄψιος",
+            "transliteration": "ópsios"
+        }
+    ],
+    "description": "late; feminine (as noun) afternoon (early eve) or nightfall (later eve)",
+    "definition": {
+        "late": {},
+        "evening": {
+            "either from three to six o'clock pm": {},
+            "from six o'clock pm to the beginning of night": {}
+        }
+    },
+    "origin": "from g3796",
+    "related": [
+        "g3796"
+    ]
+}

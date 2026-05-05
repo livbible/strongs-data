@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀνεξιχνίαστος",
+            "transliteration": "anexichníastos"
+        }
+    ],
+    "description": "not tracked out, i.e., (by implication) untraceable",
+    "definition": {
+        "that cannot be searched out, that cannot be comprehended": {}
+    },
+    "origin": "from g0001 (as a negative particle) and a presumed derivative of a compound of g1537 and a derivative of g2487",
+    "related": [
+        "g0001",
+        "g1537",
+        "g2487"
+    ]
+}

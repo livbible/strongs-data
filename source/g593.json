@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀποδοκιμάζω",
+            "transliteration": "apodokimázō"
+        }
+    ],
+    "description": "to disapprove, i.e., (by implication) to repudiate",
+    "definition": {
+        "to disapprove, reject, repudiate": {}
+    },
+    "origin": "from g0575 and g1381",
+    "related": [
+        "g0575",
+        "g1381"
+    ]
+}

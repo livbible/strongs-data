@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὑδρωπικός",
+            "transliteration": "hydrōpikós"
+        }
+    ],
+    "description": "to be \"dropsical\"",
+    "definition": {
+        "dropsical, suffering from dropsy": {}
+    },
+    "origin": "from a compound of g5204 and a derivative of g3700 (as if looking watery)",
+    "related": [
+        "g3700",
+        "g5204"
+    ]
+}

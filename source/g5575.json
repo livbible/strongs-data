@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ψευδομάρτυρ",
+            "transliteration": "pseudomártyr"
+        }
+    ],
+    "description": "a spurious witness, i.e., bearer of untrue testimony",
+    "definition": {
+        "a false witness": {}
+    },
+    "origin": "from g5571 and a kindred form of g3144",
+    "related": [
+        "g3144",
+        "g5571"
+    ]
+}

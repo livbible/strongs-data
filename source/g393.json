@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀνατέλλω",
+            "transliteration": "anatéllō"
+        }
+    ],
+    "description": "to (cause to) arise",
+    "definition": {
+        "rise": {
+            "to cause to rise": {
+                "of the earth bring forth plants": {}
+            },
+            "to rise, arise, to rise from, be descended from": {
+                "of sun moon and stars)": {}
+            }
+        }
+    },
+    "origin": "from g0303 and the base of g5056",
+    "related": [
+        "g0303",
+        "g5056"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Πέτρος",
+            "transliteration": "Pétros"
+        }
+    ],
+    "description": "a (piece of) rock (larger than g3037); as a name, petrus, an apostle",
+    "literal": "a rock, a stone",
+    "definition": {
+        "one of the twelve disciples of jesus": {}
+    },
+    "origin": "apparently a primary word",
+    "related": [
+        "g2786",
+        "g3037"
+    ],
+    "notes": "compare g2786."
+}

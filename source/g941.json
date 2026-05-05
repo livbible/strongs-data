@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "βαστάζω",
+            "transliteration": "bastázō"
+        }
+    ],
+    "description": "to lift, literally or figuratively (endure, declare, sustain, receive, etc.)",
+    "definition": {
+        "to take up with the hands": {},
+        "to take up in order to carry or bear, to put upon one's self (something) to be carried": {
+            "to bear what is burdensome": {}
+        },
+        "to bear, to carry": {
+            "to carry on one's person": {},
+            "to sustain, i.e., uphold, support": {}
+        },
+        "to bear away, carry off": {}
+    },
+    "origin": "perhaps remotely derived from the base of g0939 (through the idea of removal)",
+    "related": [
+        "g0939"
+    ]
+}

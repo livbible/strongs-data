@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀπαλλάσσω",
+            "transliteration": "apallássō"
+        }
+    ],
+    "description": "to change away, i.e., release, (reflexively) remove",
+    "definition": {
+        "to remove, release, to be removed, to depart": {},
+        "to set free, deliver": {}
+    },
+    "origin": "from g0575 and g0236",
+    "related": [
+        "g0236",
+        "g0575"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "στάδιον",
+            "transliteration": "stádion"
+        },
+        {
+            "unicode": "στάδιος",
+            "transliteration": "stádios"
+        }
+    ],
+    "description": "a stade or certain measure of distance; by implication, a stadium or race-course",
+    "definition": {
+        "a space or distance of about 600 feet (185 m)": {},
+        "a race course": {
+            "place in which contests in running were held, the one who outstripped the rest and reached the goal first, receiving the prize": {}
+        }
+    },
+    "origin": "from the base of g2476 (as fixed)",
+    "related": [
+        "g2476"
+    ],
+    "notes": "courses of this description were found in most of the larger greek cities and were like that at olympia: 600 greek feet in length."
+}

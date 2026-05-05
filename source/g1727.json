@@ -1,0 +1,22 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐναντίος",
+            "transliteration": "enantíos"
+        }
+    ],
+    "description": "opposite; figuratively, antagonistic",
+    "definition": {
+        "over against, opposite": {
+            "of place, opposite, contrary (of the wind)": {}
+        },
+        "metaphorically": {
+            "opposed as an adversary, hostile, antagonistic in feeling or act": {},
+            "an opponent": {}
+        }
+    },
+    "origin": "from g1725",
+    "related": [
+        "g1725"
+    ]
+}

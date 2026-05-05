@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κοινός",
+            "transliteration": "koinós"
+        }
+    ],
+    "description": "common, i.e., (literally) shared by all or several, or (ceremonially) profane",
+    "definition": {
+        "common": {},
+        "common i.e., ordinary, belonging to generality": {
+            "by the jews, unhallowed, profane, levitically unclean": {}
+        }
+    },
+    "origin": "probably from g4862",
+    "related": [
+        "g4862"
+    ]
+}

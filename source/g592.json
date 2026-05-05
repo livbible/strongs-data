@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀποδιορίζω",
+            "transliteration": "apodiorízō"
+        }
+    ],
+    "description": "to disjoin (by a boundary, figuratively, a party)",
+    "definition": {
+        "to disjoin, part, separate from another": {},
+        "making divisions or separations": {}
+    },
+    "origin": "from g0575 and a compound of g1223 and g3724",
+    "related": [
+        "g0575",
+        "g1223",
+        "g3724"
+    ]
+}

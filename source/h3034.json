@@ -1,0 +1,20 @@
+{
+    "originalWords": "ידה",
+    "description": "physically, to throw (a stone, an arrow) at or away; especially to revere or worship (with extended hands); intensively, to bemoan (by wringing the hands)",
+    "definition": {
+        "to throw, shoot, cast": {
+            "(qal) to shoot (arrows)": {},
+            "(piel) to cast, cast down, throw down": {},
+            "(hiphil)": {
+                "to give thanks,, laud, praise": {},
+                "to confess, confess (the name of god)": {}
+            },
+            "(hithpael)": {
+                "to confess (sin)": {},
+                "to give thanks": {}
+            }
+        }
+    },
+    "origin": "a primitive root; used only as denominative from h3027; literally, to use (i.e., hold out) the hand",
+    "related": []
+}

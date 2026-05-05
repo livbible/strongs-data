@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀπαρασκεύαστος",
+            "transliteration": "aparaskeúastos"
+        }
+    ],
+    "description": "unready",
+    "definition": {
+        "unprepared": {}
+    },
+    "origin": "from g0001 (as a negative particle) and a derivative of g3903",
+    "related": [
+        "g0001",
+        "g3903"
+    ]
+}

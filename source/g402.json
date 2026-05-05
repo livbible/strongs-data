@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀναχωρέω",
+            "transliteration": "anachōréō"
+        }
+    ],
+    "description": "to retire",
+    "definition": {
+        "to go back, return": {},
+        "to withdraw": {
+            "so as to leave a room": {},
+            "of those who through fear seek some other place, or shun sight": {}
+        }
+    },
+    "origin": "from g0303 and g5562",
+    "related": [
+        "g0303",
+        "g5562"
+    ]
+}

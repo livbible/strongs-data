@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀλυσιτελής",
+            "transliteration": "alysitelḗs"
+        }
+    ],
+    "description": "gainless, i.e., (by implication) pernicious",
+    "definition": {
+        "unprofitable, hurtful, pernicious": {}
+    },
+    "origin": "from g0001 (as a negative particle) and the base of g3081",
+    "related": [
+        "g0001",
+        "g3081"
+    ]
+}

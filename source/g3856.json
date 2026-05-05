@@ -1,0 +1,22 @@
+{
+    "originalWords": [
+        {
+            "unicode": "παραδειγματίζω",
+            "transliteration": "paradeigmatízō"
+        }
+    ],
+    "description": "to show alongside (the public), i.e., expose to infamy",
+    "definition": {
+        "to set forth as a public example, make an example of": {
+            "in a bad sense": {
+                "to hold up to infamy": {},
+                "to expose to public disgrace": {}
+            }
+        }
+    },
+    "origin": "from g3844 and g1165",
+    "related": [
+        "g1165",
+        "g3844"
+    ]
+}

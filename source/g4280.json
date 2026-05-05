@@ -1,0 +1,22 @@
+{
+    "originalWords": [
+        {
+            "unicode": "προερέω",
+            "transliteration": "proeréō"
+        }
+    ],
+    "description": "used as alternate of g4277; to say already, predict",
+    "definition": {
+        "to say before": {
+            "to say in what precedes, to say above": {},
+            "to say before i.e., heretofore, formerly": {},
+            "to say beforehand i.e., before the event: prophecies": {}
+        }
+    },
+    "origin": "from g4253 and g2046",
+    "related": [
+        "g2046",
+        "g4253",
+        "g4277"
+    ]
+}

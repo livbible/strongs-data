@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀποσκίασμα",
+            "transliteration": "aposkíasma"
+        }
+    ],
+    "description": "a shading off, i.e., obscuration",
+    "definition": {
+        "a shade cast be one object on another, a shadow": {}
+    },
+    "origin": "from a compound of g0575 and a derivative of g4639",
+    "related": [
+        "g0575",
+        "g4639"
+    ]
+}

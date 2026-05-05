@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "θάλασσα",
+            "transliteration": "thálassa"
+        }
+    ],
+    "description": "the sea (genitive case or specially)",
+    "definition": {
+        "the sea": {
+            "used of the sea in general": {},
+            "used specifically of the mediterranean sea or the red sea": {}
+        }
+    },
+    "origin": "probably prolonged from g0251",
+    "related": [
+        "g0251"
+    ]
+}

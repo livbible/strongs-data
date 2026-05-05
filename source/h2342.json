@@ -1,0 +1,31 @@
+{
+    "originalWords": "חול",
+    "description": "properly, to twist or whirl (in a circular or spiral manner), i.e., (specifically) to dance, to writhe in pain (especially of parturition) or fear; figuratively, to wait, to pervert",
+    "definition": {
+        "to twist, whirl, dance, writhe, fear, tremble, travail, be in anguish, be pained": {
+            "(qal)": {
+                "to dance": {},
+                "to twist, writhe": {},
+                "to whirl, whirl about": {}
+            },
+            "(polel)": {
+                "to dance": {},
+                "to writhe (in travail with), bear, bring forth": {},
+                "to wait anxiously": {}
+            },
+            "(pulal)": {
+                "to be made to writhe, be made to bear": {},
+                "to be brought forth": {}
+            },
+            "(hophal) to be born": {},
+            "(hithpolel)": {
+                "whirling (participle)": {},
+                "writhing, suffering torture (participle)": {},
+                "to wait longingly": {}
+            },
+            "(hithpalpel) to be distressed": {}
+        }
+    },
+    "origin": "or ????; a primitive root",
+    "related": []
+}

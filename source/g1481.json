@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐθνάρχης",
+            "transliteration": "ethnárchēs"
+        }
+    ],
+    "description": "the governor (not king) of a district",
+    "definition": {
+        "an ethnarch, one set over a people as ruler, but without the authority and name of a king": {}
+    },
+    "origin": "from g1484 and g0746",
+    "related": [
+        "g0746",
+        "g1484"
+    ]
+}

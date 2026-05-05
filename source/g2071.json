@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἔσομαι",
+            "transliteration": "ésomai"
+        }
+    ],
+    "description": "will be",
+    "definition": {
+        "future first person singular of \"to be\"": {}
+    },
+    "origin": "future of g1510",
+    "related": [
+        "g1510"
+    ]
+}

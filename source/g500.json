@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀντίχριστος",
+            "transliteration": "antíchristos"
+        }
+    ],
+    "description": "an opponent of the messiah",
+    "definition": {
+        "the adversary of the messiah": {}
+    },
+    "origin": "from g0473 and g5547",
+    "related": [
+        "g0473",
+        "g5547"
+    ]
+}

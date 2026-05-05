@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "φυλακή",
+            "transliteration": "phylakḗ"
+        }
+    ],
+    "description": "a guarding or (concretely, guard), the act, the person; figuratively, the place, the condition, or (specially), the time (as a division of day or night), literally or figuratively",
+    "definition": {
+        "guard, watch": {
+            "a watching, keeping watch": {
+                "to keep watch": {}
+            },
+            "persons keeping watch, a guard, sentinels": {},
+            "of the place where captives are kept, a prison": {},
+            "of the time (of night) during which guard was kept, a watch i.e., a period of time during which part of the guard was on duty, and at the end of which others relieved them": {}
+        }
+    },
+    "origin": "from g5442",
+    "related": [
+        "g5442"
+    ],
+    "notes": "as the earlier greeks divided the night commonly into three parts, so, previous to the exile, the israelites also had three watches in a night; subsequently, however, after they became subject to rome, they adopted the roman custom of dividing the night into four watches."
+}

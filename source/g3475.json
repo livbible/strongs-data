@@ -1,0 +1,25 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Μωσεύς",
+            "transliteration": "Mōseús"
+        },
+        {
+            "unicode": "Μωσῆς",
+            "transliteration": "Mōsēs"
+        },
+        {
+            "unicode": "Μωϋσῆς",
+            "transliteration": "Mōÿsēs"
+        }
+    ],
+    "description": "moseus, moses, or mouses (i.e., mosheh), the hebrew lawgiver",
+    "literal": "drawing out",
+    "definition": {
+        "moses, the lawgiver of the jewish people, editor of the book of genesis and writer of most of the following four books": {}
+    },
+    "origin": "of hebrew origin; (h4872)",
+    "related": [
+        "h4872"
+    ]
+}

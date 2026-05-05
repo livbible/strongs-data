@@ -1,0 +1,23 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀπέχω",
+            "transliteration": "apéchō"
+        }
+    ],
+    "description": "(actively) to have out, i.e., receive in full; (intransitively) to keep (oneself) away, i.e., be distant (literally or figuratively)",
+    "definition": {
+        "have": {
+            "to hold back, keep off, prevent": {},
+            "to have wholly or in full, to have received": {},
+            "it is enough, sufficient": {}
+        },
+        "to be away, absent, distant": {},
+        "to hold one's self off, abstain": {}
+    },
+    "origin": "from g0575 and g2192",
+    "related": [
+        "g0575",
+        "g2192"
+    ]
+}

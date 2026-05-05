@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ναύτης",
+            "transliteration": "naútēs"
+        }
+    ],
+    "description": "a boatman, i.e., seaman",
+    "definition": {
+        "a sailor, seaman, mariner": {}
+    },
+    "origin": "from g3491",
+    "related": [
+        "g3491"
+    ]
+}

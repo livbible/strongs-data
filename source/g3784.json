@@ -1,0 +1,26 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὀφείλω",
+            "transliteration": "opheílō"
+        },
+        {
+            "unicode": "ὀφειλέω",
+            "transliteration": "opheiléō"
+        }
+    ],
+    "description": "to owe (pecuniarily); figuratively, to be under obligation (ought, must, should); morally, to fail in duty",
+    "definition": {
+        "to owe": {
+            "to owe money, be in debt for": {
+                "that which is due, the debt": {}
+            }
+        },
+        "metaphorically the goodwill due": {}
+    },
+    "origin": "probably from the base of g3786 (through the idea of accruing)",
+    "related": [
+        "g3785",
+        "g3786"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀποχωρέω",
+            "transliteration": "apochōréō"
+        }
+    ],
+    "description": "to go away",
+    "definition": {
+        "to go away, depart": {}
+    },
+    "origin": "from g0575 and g5562",
+    "related": [
+        "g0575",
+        "g5562"
+    ]
+}

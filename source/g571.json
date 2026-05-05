@@ -1,0 +1,23 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἄπιστος",
+            "transliteration": "ápistos"
+        }
+    ],
+    "description": "(actively) disbelieving, i.e., without christian faith (specially, a heathen); (passively) untrustworthy (person), or incredible (thing)",
+    "definition": {
+        "unfaithful, faithless, (not to be trusted, perfidious)": {},
+        "incredible": {
+            "of things": {}
+        },
+        "unbelieving, incredulous": {
+            "without trust (in god)": {}
+        }
+    },
+    "origin": "from g0001 (as a negative particle) and g4103",
+    "related": [
+        "g0001",
+        "g4103"
+    ]
+}

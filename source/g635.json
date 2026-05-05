@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀποπλανάω",
+            "transliteration": "apoplanáō"
+        }
+    ],
+    "description": "to lead astray (figuratively); passively, to stray (from truth)",
+    "definition": {
+        "to cause to go astray": {},
+        "to lead away from the truth to error": {},
+        "to go astray, stray away from": {}
+    },
+    "origin": "from g0575 and g4105",
+    "related": [
+        "g0575",
+        "g4105"
+    ]
+}

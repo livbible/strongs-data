@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "εἴδωλον",
+            "transliteration": "eídōlon"
+        }
+    ],
+    "description": "an image (i.e., for worship); by implication, a heathen god, or (plural) the worship of such",
+    "definition": {
+        "an image, likeness": {
+            "i.e., whatever represents the form of an object, either real or imaginary": {},
+            "used of the shades of the departed, apparitions, spectres, phantoms of the mind, etc.": {}
+        },
+        "the image of an heathen god": {},
+        "a false god": {}
+    },
+    "origin": "from g1491",
+    "related": [
+        "g1491"
+    ]
+}

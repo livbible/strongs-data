@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "παροξύνω",
+            "transliteration": "paroxýnō"
+        }
+    ],
+    "description": "to sharpen alongside, i.e., (figuratively) to exasperate",
+    "definition": {
+        "to make sharp, sharpen": {
+            "to stimulate, spur on, urge": {},
+            "to irritate, provoke, arouse to anger": {
+                "to scorn, despise": {},
+                "provoke, make angry": {},
+                "to exasperate, to burn with anger": {}
+            }
+        }
+    },
+    "origin": "from g3844 and a derivative of g3691",
+    "related": [
+        "g3691",
+        "g3844"
+    ]
+}

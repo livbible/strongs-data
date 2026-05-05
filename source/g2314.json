@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "θεομάχος",
+            "transliteration": "theomáchos"
+        }
+    ],
+    "description": "an opponent of deity",
+    "definition": {
+        "fighting against god, resisting god": {}
+    },
+    "origin": "from g2316 and g3164",
+    "related": [
+        "g2316",
+        "g3164"
+    ]
+}

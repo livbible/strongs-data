@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "οἰνοπότης",
+            "transliteration": "oinopótēs"
+        }
+    ],
+    "description": "a tippler",
+    "definition": {
+        "a winebibber, given to wine, a wino": {}
+    },
+    "origin": "from g3631 and a derivative of the alternate of g4095",
+    "related": [
+        "g3631",
+        "g4095"
+    ]
+}

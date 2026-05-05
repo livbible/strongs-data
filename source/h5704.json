@@ -1,0 +1,23 @@
+{
+    "originalWords": "עד",
+    "description": "as far (or long, or much) as, whether of space (even unto) or time (during, while, until) or degree (equally with)",
+    "definition": {
+        "(prep) as far as, even to, until, up to, while, as far as": {
+            "of space": {
+                "as far as, up to, even to": {}
+            },
+            "in combination": {
+                "from...as far as, both...and (with 'min'from)": {}
+            },
+            "of time": {
+                "even to, until, unto, till, during, end": {}
+            },
+            "of degree": {
+                "even to, to the degree of, even like": {}
+            }
+        },
+        "(conj) until, while, to the point that, so that even": {}
+    },
+    "origin": "properly, the same as h5703 (used as a preposition, adverb or conjunction; especially with a preposition)",
+    "related": []
+}

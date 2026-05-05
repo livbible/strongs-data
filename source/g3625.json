@@ -1,0 +1,23 @@
+{
+    "originalWords": [
+        {
+            "unicode": "οἰκουμένη",
+            "transliteration": "oikouménē"
+        }
+    ],
+    "description": "land, i.e., the (terrene part of the) globe; specially, the roman empire",
+    "definition": {
+        "the inhabited earth": {
+            "the portion of the earth inhabited by the greeks, in distinction from the lands of the barbarians": {},
+            "the roman empire, all the subjects of the empire": {},
+            "the whole inhabited earth, the world": {},
+            "the inhabitants of the earth, men": {}
+        },
+        "the universe, the world": {}
+    },
+    "origin": "feminine participle present passive of g3611 (as noun, by implication, of g1093)",
+    "related": [
+        "g1093",
+        "g3611"
+    ]
+}

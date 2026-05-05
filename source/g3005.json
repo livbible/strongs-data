@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "λεῖμμα",
+            "transliteration": "leîmma"
+        }
+    ],
+    "description": "a remainder",
+    "definition": {
+        "a remnant": {}
+    },
+    "origin": "from g3007",
+    "related": [
+        "g3007"
+    ]
+}

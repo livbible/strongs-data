@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "παρεμβολή",
+            "transliteration": "parembolḗ"
+        }
+    ],
+    "description": "a throwing in beside (juxtaposition), i.e., (specially), battle-array, encampment or barracks (tower antonia)",
+    "definition": {
+        "an encampment": {
+            "the camp of israel in the desert": {
+                "used for the city of jerusalem, inasmuch as that was to the israelites what formerly the encampment had been in the desert": {},
+                "of the sacred congregation or assembly of israel, as it had been gathered formerly in camps in the wilderness": {}
+            },
+            "the barracks of the roman soldiers, which at jerusalem were in the castle of antonia": {}
+        },
+        "an army in a line of battle": {}
+    },
+    "origin": "from a compound of g3844 and g1685",
+    "related": [
+        "g1685",
+        "g3844"
+    ]
+}

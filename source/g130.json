@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "αἱματεκχυσία",
+            "transliteration": "haimatekchysía"
+        }
+    ],
+    "description": "an effusion of blood",
+    "definition": {
+        "shedding of blood": {}
+    },
+    "origin": "from g0129 and a derivative of g1632",
+    "related": [
+        "g0129",
+        "g1632"
+    ]
+}

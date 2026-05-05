@@ -1,0 +1,22 @@
+{
+    "originalWords": [
+        {
+            "unicode": "διάδημα",
+            "transliteration": "diádēma"
+        }
+    ],
+    "description": "a \"diadem\" (as bound about the head)",
+    "definition": {
+        "a diadem": {
+            "a blue band marked with white which persian kings used to bind on the turban or tiara": {},
+            "the kingly ornament for the head, the crown": {}
+        }
+    },
+    "origin": "from a compound of g1223 and g1210",
+    "related": [
+        "g1210",
+        "g1223",
+        "g4735"
+    ],
+    "notes": "compare g4735."
+}

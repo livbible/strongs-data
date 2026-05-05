@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "καῦμα",
+            "transliteration": "kaûma"
+        }
+    ],
+    "description": "properly, a burn (concretely), but used (abstractly) of a glow",
+    "definition": {
+        "heat": {
+            "of painful and burning heat": {}
+        }
+    },
+    "origin": "from g2545",
+    "related": [
+        "g2545"
+    ]
+}

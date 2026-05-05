@@ -1,0 +1,23 @@
+{
+    "originalWords": "נסך",
+    "description": "to pour out, especially a libation, or to cast (metal); by analogy, to anoint a king",
+    "definition": {
+        "to pour out, pour, offer, cast": {
+            "(qal)": {
+                "to pour out": {},
+                "to cast metal images": {},
+                "to anoint (a king)": {}
+            },
+            "(niphal) to be anointed": {},
+            "(piel) to pour out (as a libation)": {},
+            "(hiphil) to pour out libations": {},
+            "(hophal) to be poured out": {}
+        },
+        "to set, install": {
+            "(qal) to install": {},
+            "(niphal) to be installed": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

@@ -1,0 +1,26 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἰσχύω",
+            "transliteration": "ischýō"
+        }
+    ],
+    "description": "to have (or exercise) force (literally or figuratively)",
+    "definition": {
+        "to be strong": {
+            "to be strong in body, to be robust, to be in sound health": {}
+        },
+        "to have power": {
+            "to have power as shown by extraordinary deeds": {
+                "to exert, wield power, to have strength to overcome": {}
+            },
+            "to be a force, avail": {},
+            "to be serviceable": {},
+            "to be able, can": {}
+        }
+    },
+    "origin": "from g2479",
+    "related": [
+        "g2479"
+    ]
+}

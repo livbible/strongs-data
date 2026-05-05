@@ -1,0 +1,21 @@
+{
+    "originalWords": "כתב",
+    "description": "to grave, by implication, to write (describe, inscribe, prescribe, subscribe)",
+    "definition": {
+        "to write, record, enrol": {
+            "(qal)": {
+                "to write, inscribe, engrave, write in, write on": {},
+                "to write down, describe in writing": {},
+                "to register, enrol, record": {},
+                "to decree": {}
+            },
+            "(niphal)": {
+                "to be written": {},
+                "to be written down, be recorded, be enrolled": {}
+            },
+            "(piel) to continue writing": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "δοκίμιον",
+            "transliteration": "dokímion"
+        }
+    ],
+    "description": "a testing; by implication, trustworthiness",
+    "definition": {
+        "the proving": {},
+        "that by which something is tried or proved, a test": {}
+    },
+    "origin": "neuter of a presumed derivative of g1382",
+    "related": [
+        "g1382"
+    ]
+}

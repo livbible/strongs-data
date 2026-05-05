@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὑπόδειγμα",
+            "transliteration": "hypódeigma"
+        }
+    ],
+    "description": "an exhibit for imitation or warning (figuratively, specimen, adumbration)",
+    "definition": {
+        "a sign suggestive of anything, delineation of a thing, representation, figure, copy": {},
+        "an example: for imitation": {
+            "of the thing to be imitated": {},
+            "for a warning, of a thing to be shunned": {}
+        }
+    },
+    "origin": "from g5263",
+    "related": [
+        "g5263"
+    ]
+}

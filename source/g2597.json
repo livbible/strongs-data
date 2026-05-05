@@ -1,0 +1,31 @@
+{
+    "originalWords": [
+        {
+            "unicode": "καταβαίνω",
+            "transliteration": "katabaínō"
+        }
+    ],
+    "description": "to descend (literally or figuratively)",
+    "definition": {
+        "to go down, come down, descend": {
+            "the place from which one has come down from": {},
+            "to come down": {
+                "as from the temple at jerusalem, from the city of jerusalem": {},
+                "of celestial beings coming down to earth": {}
+            },
+            "to be cast down": {}
+        },
+        "of things": {
+            "to come (i.e., be sent) down": {},
+            "to come (i.e., fall) down": {
+                "from the upper regions of the air": {}
+            }
+        },
+        "metaphorically to (go i.e.,) be cast down to the lowest state of wretchedness and shame": {}
+    },
+    "origin": "from g2596 and the base of g0939",
+    "related": [
+        "g0939",
+        "g2596"
+    ]
+}

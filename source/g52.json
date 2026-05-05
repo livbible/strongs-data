@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἄγνοια",
+            "transliteration": "ágnoia"
+        }
+    ],
+    "description": "ignorance (properly, the quality)",
+    "definition": {
+        "lack of knowledge, ignorance": {
+            "especially of divine things": {},
+            "of moral blindness": {}
+        }
+    },
+    "origin": "from g0050",
+    "related": [
+        "g0050"
+    ]
+}

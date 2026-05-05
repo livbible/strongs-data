@@ -1,0 +1,30 @@
+{
+    "originalWords": [
+        {
+            "unicode": "καθαρίζω",
+            "transliteration": "katharízō"
+        }
+    ],
+    "description": "to cleanse (literally or figuratively)",
+    "definition": {
+        "to make clean, cleanse": {
+            "from physical stains and dirt": {
+                "utensils, food": {},
+                "a leper, to cleanse by curing": {},
+                "to remove by cleansing": {}
+            },
+            "in a moral sense": {
+                "to free from defilement of sin and from faults": {},
+                "to purify from wickedness": {},
+                "to free from guilt of sin, to purify": {},
+                "to consecrate by cleansing or purifying": {},
+                "to consecrate, dedicate": {}
+            }
+        },
+        "to pronounce clean in a levitical sense": {}
+    },
+    "origin": "from g2513",
+    "related": [
+        "g2513"
+    ]
+}

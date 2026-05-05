@@ -1,0 +1,28 @@
+{
+    "originalWords": [
+        {
+            "unicode": "θεωρέω",
+            "transliteration": "theōréō"
+        }
+    ],
+    "description": "to be a spectator of, i.e., discern, (literally, figuratively (experience) or intensively (acknowledge))",
+    "definition": {
+        "to be a spectator, look at, behold": {
+            "to view attentively, take a view of, survey": {
+                "to view mentally, consider": {}
+            }
+        },
+        "to see": {
+            "to perceive with the eyes, to enjoy the presence of one": {},
+            "to discern, descry": {},
+            "to ascertain, find out by seeing": {}
+        }
+    },
+    "origin": "from a derivative of g2300 (perhaps by addition of g3708)",
+    "related": [
+        "g2300",
+        "g3700",
+        "g3708"
+    ],
+    "notes": "compare g3700."
+}

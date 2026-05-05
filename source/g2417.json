@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἱερόσυλος",
+            "transliteration": "hierósylos"
+        }
+    ],
+    "description": "a temple-despoiler",
+    "definition": {
+        "guilty of sacrilege": {}
+    },
+    "origin": "from g2411 and g4813",
+    "related": [
+        "g2411",
+        "g4813"
+    ]
+}

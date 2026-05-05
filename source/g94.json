@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἄδικος",
+            "transliteration": "ádikos"
+        }
+    ],
+    "description": "unjust; by extension wicked; by implication, treacherous; specially, heathen",
+    "definition": {
+        "descriptive of one who violates or has violated justice": {
+            "unjust": {},
+            "unrighteous, sinful": {},
+            "of one who deals fraudulently with others, deceitful": {}
+        }
+    },
+    "origin": "from g0001 (as a negative particle) and g1349",
+    "related": [
+        "g0001",
+        "g1349"
+    ]
+}

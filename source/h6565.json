@@ -1,0 +1,25 @@
+{
+    "originalWords": "פרר",
+    "description": "to break up (usually figuratively), i.e., to violate, frustrate",
+    "definition": {
+        "to break, frustrate": {
+            "(hiphil)": {
+                "to break, violate": {},
+                "to frustrate, make ineffectual": {}
+            },
+            "(hophal)": {
+                "to be frustrated": {},
+                "to be broken": {},
+                "to break": {}
+            },
+            "(pilpel) to break to bits, shatter": {}
+        },
+        "to split, divide": {
+            "(qal) to split, crack through": {},
+            "(poel) to break apart": {},
+            "(hithpoel) to be split, be cracked through": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

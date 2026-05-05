@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἄντλημα",
+            "transliteration": "ántlēma"
+        }
+    ],
+    "description": "a baling-vessel",
+    "definition": {
+        "what is drawn": {},
+        "the act of drawing water": {},
+        "a thing to draw with, e.g., bucket and rope let down into a well": {}
+    },
+    "origin": "from g0501",
+    "related": [
+        "g0501"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "τάφος",
+            "transliteration": "táphos"
+        }
+    ],
+    "description": "a grave (the place of interment)",
+    "definition": {
+        "burial": {},
+        "a grave, a sepulcher": {}
+    },
+    "origin": "masculine from g2290",
+    "related": [
+        "g2290"
+    ]
+}

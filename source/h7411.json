@@ -1,0 +1,21 @@
+{
+    "originalWords": "רמה",
+    "description": "to hurl; specifically, to shoot; figuratively, to delude or betray (as if causing to fall)",
+    "definition": {
+        "to cast, shoot, hurl": {
+            "(qal)": {
+                "to throw": {},
+                "bow-shooters, bowmen (participle)": {}
+            },
+            "(piel) to throw down": {}
+        },
+        "to beguile, deceive, mislead, deal treacherously": {
+            "(piel)": {
+                "to beguile, deceive, mislead, trick": {},
+                "to deal treacherously with, betray": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

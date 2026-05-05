@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πάροινος",
+            "transliteration": "pároinos"
+        }
+    ],
+    "description": "staying near wine, i.e., tippling (a toper)",
+    "definition": {
+        "given to wine, drunken": {}
+    },
+    "origin": "from g3844 and g3631",
+    "related": [
+        "g3631",
+        "g3844"
+    ]
+}

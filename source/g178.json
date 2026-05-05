@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀκατάκριτος",
+            "transliteration": "akatákritos"
+        }
+    ],
+    "description": "without (legal) trial",
+    "definition": {
+        "uncondemned, punished without being tried": {}
+    },
+    "origin": "from g0001 (as a negative particle) and a derivative of g2632",
+    "related": [
+        "g0001",
+        "g2632"
+    ]
+}

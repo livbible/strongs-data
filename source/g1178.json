@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "δεκαπέντε",
+            "transliteration": "dekapénte"
+        }
+    ],
+    "description": "ten and five, i.e., fifteen",
+    "definition": {
+        "fifteen": {}
+    },
+    "origin": "from g1176 and g4002",
+    "related": [
+        "g1176",
+        "g4002"
+    ]
+}

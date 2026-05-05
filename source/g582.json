@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀπογραφή",
+            "transliteration": "apographḗ"
+        }
+    ],
+    "description": "an enrollment; by implication, an assessment",
+    "definition": {
+        "a writing off, transcript (from some pattern)": {},
+        "an enrolment or registration in the public records of persons together with their income and property, as the basis of a census or valuation, i.e., that it might appear how much tax should be levied upon each one": {}
+    },
+    "origin": "from g0583",
+    "related": [
+        "g0583"
+    ]
+}

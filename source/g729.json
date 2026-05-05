@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἄῤῥαφος",
+            "transliteration": "árrhaphos"
+        }
+    ],
+    "description": "unsewed, i.e., of a single piece",
+    "definition": {
+        "not sewed together, without a seam": {}
+    },
+    "origin": "from g0001 (as a negative particle) and a presumed derivative of the same as g4476",
+    "related": [
+        "g0001",
+        "g4476"
+    ]
+}

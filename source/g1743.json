@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐνδυναμόω",
+            "transliteration": "endynamóō"
+        }
+    ],
+    "description": "to empower",
+    "definition": {
+        "to be strong, endue with strength, strengthen": {},
+        "to receive strength, be strengthened, increase in strength": {},
+        "in a bad sense": {
+            "be bold, headstrong": {}
+        }
+    },
+    "origin": "from g1722 and g1412",
+    "related": [
+        "g1412",
+        "g1722"
+    ]
+}

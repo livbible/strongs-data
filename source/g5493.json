@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "χείμαῤῥος",
+            "transliteration": "cheímarrhos"
+        }
+    ],
+    "description": "a storm-runlet, i.e., winter-torrent",
+    "definition": {
+        "flowing in winter, a torrent": {}
+    },
+    "origin": "from the base of g5494 and g4482",
+    "related": [
+        "g4482",
+        "g5494"
+    ]
+}

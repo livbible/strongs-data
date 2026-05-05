@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἄτιμος",
+            "transliteration": "átimos"
+        }
+    ],
+    "description": "(negatively) unhonored or (positively) dishonored",
+    "definition": {
+        "without honor, unhonored, dishonored": {},
+        "base, of less esteem": {}
+    },
+    "origin": "from g0001 (as a negative particle) and g5092",
+    "related": [
+        "g0001",
+        "g5092"
+    ]
+}

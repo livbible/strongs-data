@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐκδέχομαι",
+            "transliteration": "ekdéchomai"
+        }
+    ],
+    "description": "to accept from some source, i.e., (by implication) to await",
+    "definition": {
+        "to receive, accept": {},
+        "to look for, expect, wait for, await": {}
+    },
+    "origin": "from g1537 and g1209",
+    "related": [
+        "g1209",
+        "g1537"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "originalWords": "בעה",
+    "description": "to gush over, i.e., to swell; (figuratively) to desire earnestly; by implication to ask",
+    "definition": {
+        "to seek out, swell, cause to swell, boil up, enquire": {
+            "(qal)": {
+                "to seek, enquire": {},
+                "to cause to boil up": {}
+            },
+            "(niphal)": {
+                "to be searched out": {},
+                "to be swelling, bulging, swelling out": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κατάκρισις",
+            "transliteration": "katákrisis"
+        }
+    ],
+    "description": "sentencing adversely (the act)",
+    "definition": {
+        "condemnation": {}
+    },
+    "origin": "from g2632",
+    "related": [
+        "g2632"
+    ]
+}

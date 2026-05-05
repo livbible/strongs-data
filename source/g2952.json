@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κυνάριον",
+            "transliteration": "kynárion"
+        }
+    ],
+    "description": "a puppy",
+    "definition": {
+        "a little dog": {}
+    },
+    "origin": "neuter of a presumed derivative of g2965",
+    "related": [
+        "g2965"
+    ]
+}

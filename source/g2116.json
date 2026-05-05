@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "εὐθύνω",
+            "transliteration": "euthýnō"
+        }
+    ],
+    "description": "to straighten (level); technically, to steer",
+    "definition": {
+        "to make straight, level, plain": {},
+        "to lead or guide straight, to keep straight or direct": {
+            "of the steersman or helmsman of a ship": {},
+            "of a charioteer": {}
+        }
+    },
+    "origin": "from g2117",
+    "related": [
+        "g2117"
+    ]
+}

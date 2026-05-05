@@ -1,0 +1,16 @@
+{
+    "originalWords": "יחל",
+    "description": "to wait; by implication, to be patient, hope",
+    "definition": {
+        "to wait, hope, expect": {
+            "(niphal) to wait": {},
+            "(piel)": {
+                "to wait, await, tarry": {},
+                "to wait for, hope for": {}
+            },
+            "(hiphil) to wait, tarry, wait for, hope for": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

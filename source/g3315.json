@@ -1,0 +1,22 @@
+{
+    "originalWords": [
+        {
+            "unicode": "μεσιτεύω",
+            "transliteration": "mesiteúō"
+        }
+    ],
+    "description": "to interpose (as arbiter), i.e (by implication) to ratify (as surety)",
+    "definition": {
+        "to act as a mediator between litigating or covenanting parties": {
+            "to accomplish something by interposing between two parties": {},
+            "to mediate": {}
+        },
+        "act as a sponsor or surety": {
+            "to pledge one's self, give surety": {}
+        }
+    },
+    "origin": "from g3316",
+    "related": [
+        "g3316"
+    ]
+}

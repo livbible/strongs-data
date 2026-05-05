@@ -1,0 +1,22 @@
+{
+    "originalWords": "כלם",
+    "description": "properly, to wound; but only figuratively, to taunt or insult",
+    "definition": {
+        "to insult, shame, humiliate, blush, be ashamed, be put to shame, be reproached, be put to confusion, be humiliated": {
+            "(niphal)": {
+                "to be humiliated, be ashamed": {},
+                "to be put to shame, be dishonored, be confounded": {}
+            },
+            "(hiphil)": {
+                "to put to shame, insult, humiliate, cause shame to": {},
+                "to exhibit shame": {}
+            },
+            "(hophal)": {
+                "to be insulted, be humiliated": {},
+                "to be put to shame, be dishonored, be confounded": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

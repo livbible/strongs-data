@@ -1,0 +1,21 @@
+{
+    "originalWords": "חתת",
+    "description": "properly, to prostrate; hence, to break down, either (literally) by violence, or (figuratively) by confusion and fear",
+    "definition": {
+        "to be shattered, be dismayed, be broken, be abolished, be afraid": {
+            "(qal)": {
+                "to be shattered, be broken": {},
+                "to be dismayed": {}
+            },
+            "(niphal) to be broken, be dismayed": {},
+            "(piel) to be shattered, be dismayed, be scared": {},
+            "(hiphil)": {
+                "to cause to be dismayed": {},
+                "to dismay, terrify": {},
+                "to shatter": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

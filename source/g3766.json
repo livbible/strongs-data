@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "οὐκοῦν",
+            "transliteration": "oukoûn"
+        }
+    ],
+    "description": "is it not therefore that, i.e., (affirmatively) hence or so",
+    "definition": {
+        "not therefore": {}
+    },
+    "origin": "from g3756 and g3767",
+    "related": [
+        "g3756",
+        "g3767"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "originalWords": [
+        {
+            "unicode": "καταφέρω",
+            "transliteration": "kataphérō"
+        }
+    ],
+    "description": "to bear down, i.e., (figuratively) overcome (with drowsiness); specially, to cast a vote",
+    "definition": {
+        "to bear down, bring down, cast down": {
+            "to cast a pebble or calculus into the urn": {
+                "to give one's vote, to approve": {}
+            },
+            "to be born down, to sink, (from the window to the pavement)": {},
+            "metaphorically": {
+                "to be weighted down by, overcome, carried away": {},
+                "to sink into sleep, drop asleep": {}
+            }
+        }
+    },
+    "origin": "from g2596 and g5342 (including its alternate)",
+    "related": [
+        "g2596",
+        "g5342"
+    ]
+}

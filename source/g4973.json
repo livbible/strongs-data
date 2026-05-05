@@ -1,0 +1,23 @@
+{
+    "originalWords": [
+        {
+            "unicode": "σφραγίς",
+            "transliteration": "sphragís"
+        }
+    ],
+    "description": "a signet (as fencing in or protecting from misappropriation); by implication, the stamp impressed (as a mark of privacy, or genuineness), literally or figuratively",
+    "definition": {
+        "a seal": {
+            "the seal placed upon books": {},
+            "a signet ring": {},
+            "the inscription or impression made by a seal": {
+                "of the name of god and christ stamped upon their foreheads": {}
+            },
+            "that by which anything is confirmed, proved, authenticated, as by a seal (a token or proof)": {}
+        }
+    },
+    "origin": "probably strengthened from g5420",
+    "related": [
+        "g5420"
+    ]
+}

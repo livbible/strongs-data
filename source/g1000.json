@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "βολή",
+            "transliteration": "bolḗ"
+        }
+    ],
+    "description": "a throw (as a measure of distance)",
+    "definition": {
+        "a throw": {}
+    },
+    "origin": "from g0906",
+    "related": [
+        "g0906"
+    ]
+}

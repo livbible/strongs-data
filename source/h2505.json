@@ -1,0 +1,37 @@
+{
+    "originalWords": "חלק",
+    "description": "to be smooth (figuratively); by implication (as smooth stones were used for lots) to apportion or separate",
+    "definition": {
+        "to divide, share, plunder, allot, apportion, assign": {
+            "(qal)": {
+                "to divide, apportion": {},
+                "to assign, distribute": {},
+                "to assign, impart": {},
+                "to share": {},
+                "to divide up, plunder": {}
+            },
+            "(niphal)": {
+                "to divide oneself": {},
+                "to be divided": {},
+                "to assign, distribute": {}
+            },
+            "(piel)": {
+                "to divide, apportion": {},
+                "to assign, distribute": {},
+                "to scatter": {}
+            },
+            "(pual) to be divided": {},
+            "(hiphil) to receive a portion or part": {},
+            "(hithpael) to divide among themselves": {}
+        },
+        "to be smooth, slippery, deceitful": {
+            "(qal) to be smooth, slippery": {},
+            "(hiphil)": {
+                "to be smooth": {},
+                "to flatter": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

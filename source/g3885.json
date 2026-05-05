@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "παραλυτικός",
+            "transliteration": "paralytikós"
+        }
+    ],
+    "description": "as if dissolved, i.e., \"paralytic\"",
+    "definition": {
+        "paralytic": {
+            "suffering from the relaxing of the nerves of one's side": {},
+            "disabled, weak of limb": {}
+        }
+    },
+    "origin": "from a derivative of g3886",
+    "related": [
+        "g3886"
+    ]
+}

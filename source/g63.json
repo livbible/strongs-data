@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀγραυλέω",
+            "transliteration": "agrauléō"
+        }
+    ],
+    "description": "to camp out",
+    "definition": {
+        "to live in the fields, be under the open sky, even at night": {}
+    },
+    "origin": "from g0068 and g0832 (in the sense of g0833)",
+    "related": [
+        "g0068",
+        "g0832",
+        "g0833"
+    ]
+}

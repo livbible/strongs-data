@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "θυρίς",
+            "transliteration": "thyrís"
+        }
+    ],
+    "description": "an aperture, i.e., window",
+    "definition": {
+        "a window": {}
+    },
+    "origin": "from g2374",
+    "related": [
+        "g2374"
+    ]
+}

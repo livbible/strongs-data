@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐπίτροπος",
+            "transliteration": "epítropos"
+        }
+    ],
+    "description": "a commissioner, i.e., domestic manager, guardian",
+    "definition": {
+        "one to whose care or honor anything has been instructed": {
+            "a curator, a guardian": {},
+            "a steward or manager of a household, or of lands": {
+                "overseer": {}
+            },
+            "one who has the care and tutelage of children, either where the father is dead (a guardian of minors), or where the father is still alive": {}
+        }
+    },
+    "origin": "from g1909 and g5158 (in the sense of g2011)",
+    "related": [
+        "g1909",
+        "g2011",
+        "g5158"
+    ]
+}

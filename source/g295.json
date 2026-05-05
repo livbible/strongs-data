@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Ἀμφίπολις",
+            "transliteration": "Amphípolis"
+        }
+    ],
+    "description": "a city surrounded by a river; amphipolis, a place in macedonia",
+    "literal": "a city surrounded by the sea",
+    "definition": {
+        "a city in macedonia prima, so called because the strymon flowed around it": {}
+    },
+    "origin": "from the base of g0297 and g4172",
+    "related": [
+        "g0297",
+        "g4172"
+    ]
+}

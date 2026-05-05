@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Παμφυλία",
+            "transliteration": "Pamphylía"
+        }
+    ],
+    "description": "every-tribal, i.e., heterogeneous (g5561 being implied); pamphylia, a region of asia minor",
+    "literal": "of every tribe",
+    "definition": {
+        "a province in asia minor, bounded on the east by cilicia, on the west by lycia and phrygia minor, on the north by galatia and cappadocia, and on the south by the mediterranean sea": {}
+    },
+    "origin": "from a compound of g3956 and g4443",
+    "related": [
+        "g3956",
+        "g4443",
+        "g5561"
+    ]
+}

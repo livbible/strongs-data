@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἱνατί",
+            "transliteration": "hinatí"
+        }
+    ],
+    "description": "for what reason ?, i.e., why?",
+    "definition": {
+        "for what purpose, wherefore, why": {}
+    },
+    "origin": "from g2443 and g5101",
+    "related": [
+        "g2443",
+        "g5101"
+    ]
+}

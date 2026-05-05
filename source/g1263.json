@@ -1,0 +1,23 @@
+{
+    "originalWords": [
+        {
+            "unicode": "διαμαρτύρομαι",
+            "transliteration": "diamartýromai"
+        }
+    ],
+    "description": "to attest or protest earnestly, or (by implication) hortatively",
+    "definition": {
+        "to testify": {
+            "earnestly, religiously to charge": {}
+        },
+        "to attest, testify to, solemnly affirm": {
+            "to give solemn testimony to one": {},
+            "to confirm a thing by testimony, to testify, cause it to be believed": {}
+        }
+    },
+    "origin": "from g1223 and g3140",
+    "related": [
+        "g1223",
+        "g3140"
+    ]
+}

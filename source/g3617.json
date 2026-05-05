@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "οἰκοδεσπότης",
+            "transliteration": "oikodespótēs"
+        }
+    ],
+    "description": "the head of a family",
+    "definition": {
+        "master of the house, householder": {}
+    },
+    "origin": "from g3624 and g1203",
+    "related": [
+        "g1203",
+        "g3624"
+    ]
+}

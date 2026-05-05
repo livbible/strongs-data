@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐνεργέω",
+            "transliteration": "energéō"
+        }
+    ],
+    "description": "to be active, efficient",
+    "definition": {
+        "to be operative, be at work, put forth power": {
+            "to work for one, aid one": {}
+        },
+        "to effect": {},
+        "to display one's activity, show one's self operative": {}
+    },
+    "origin": "from g1756",
+    "related": [
+        "g1756"
+    ]
+}

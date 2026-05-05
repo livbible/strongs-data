@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἄτεκνος",
+            "transliteration": "áteknos"
+        }
+    ],
+    "description": "childless",
+    "definition": {
+        "without offspring, childless": {}
+    },
+    "origin": "from g0001 (as a negative particle) and g5043",
+    "related": [
+        "g0001",
+        "g5043"
+    ]
+}

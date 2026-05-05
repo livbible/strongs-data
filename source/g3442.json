@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "μονόφθαλμος",
+            "transliteration": "monóphthalmos"
+        }
+    ],
+    "description": "one-eyed",
+    "definition": {
+        "deprived of one eye, having one eye": {}
+    },
+    "origin": "from g3441 and g3788",
+    "related": [
+        "g3441",
+        "g3788"
+    ]
+}

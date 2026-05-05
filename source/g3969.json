@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Πατροβᾶς",
+            "transliteration": "Patrobâs"
+        }
+    ],
+    "description": "father's life; patrobas, a christian",
+    "literal": "paternal",
+    "definition": {
+        "a certain christian in rome": {}
+    },
+    "origin": "perhaps a contraction for ????????? (a compound of g3962 and g0979)",
+    "related": [
+        "g0979",
+        "g3962"
+    ]
+}

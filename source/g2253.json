@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἡμιθανής",
+            "transliteration": "hēmithanḗs"
+        }
+    ],
+    "description": "half dead, i.e., entirely exhausted",
+    "definition": {
+        "half dead": {}
+    },
+    "origin": "from a presumed compound of the base of g2255 and g2348",
+    "related": [
+        "g2255",
+        "g2348"
+    ]
+}

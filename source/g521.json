@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀπαίδευτος",
+            "transliteration": "apaídeutos"
+        }
+    ],
+    "description": "uninstructed, i.e., (figuratively) stupid",
+    "definition": {
+        "without instruction, and disciple, uneducated, ignorant, rude": {}
+    },
+    "origin": "from g0001 (as a negative particle) and a derivative of g3811",
+    "related": [
+        "g0001",
+        "g3811"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "διέξοδος",
+            "transliteration": "diéxodos"
+        }
+    ],
+    "description": "an outlet through, i.e., probably an open square (from which roads diverge)",
+    "definition": {
+        "a way out through, outlet, exit": {
+            "literally the ways through which ways go out": {},
+            "the places before the city where the roads from the country terminate, therefore outlets of the country highways, also entrances into the city": {},
+            "of boundaries of countries": {}
+        }
+    },
+    "origin": "from g1223 and g1841",
+    "related": [
+        "g1223",
+        "g1841"
+    ]
+}

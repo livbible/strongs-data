@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐντολή",
+            "transliteration": "entolḗ"
+        }
+    ],
+    "description": "injunction, i.e., an authoritative prescription",
+    "definition": {
+        "an order, command, charge, precept, injunction": {
+            "that which is prescribed to one by reason of his office": {}
+        },
+        "a commandment": {
+            "a prescribed rule in accordance with which a thing is done": {
+                "a precept relating to lineage, of the mosaic precept concerning the priesthood": {},
+                "ethically used of the commandments in the mosaic law or jewish tradition": {}
+            }
+        }
+    },
+    "origin": "from g1781",
+    "related": [
+        "g1781"
+    ]
+}

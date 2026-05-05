@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "γωνία",
+            "transliteration": "gōnía"
+        }
+    ],
+    "description": "an angle",
+    "definition": {
+        "corner": {
+            "an external angle, a corner": {},
+            "internal corner, i.e., a secret place": {}
+        }
+    },
+    "origin": "probably akin to g1119",
+    "related": [
+        "g1119"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "originalWords": "חיי",
+    "description": "to live; causatively to revive",
+    "definition": {
+        "to live, have life, remain alive, sustain life, live prosperously, live for ever, be quickened, be alive, be restored to life or health": {
+            "(qal)": {
+                "to live": {
+                    "to have life": {},
+                    "to continue in life, remain alive": {},
+                    "to sustain life, to live on or upon": {},
+                    "to live (prosperously)": {}
+                },
+                "to revive, be quickened": {
+                    "from sickness": {},
+                    "from discouragement": {},
+                    "from faintness": {},
+                    "from death": {}
+                }
+            },
+            "(piel)": {
+                "to preserve alive, let live": {},
+                "to give life": {},
+                "to quicken, revive, refresh": {
+                    "to restore to life": {},
+                    "to cause to grow": {},
+                    "to restore": {},
+                    "to revive": {}
+                }
+            },
+            "(hiph)": {
+                "to preserve alive, let live": {},
+                "to quicken, revive": {
+                    "to restore (to health)": {},
+                    "to revive": {},
+                    "to restore to life": {}
+                }
+            }
+        }
+    },
+    "origin": "a primitive root (compare h2421)",
+    "related": []
+}

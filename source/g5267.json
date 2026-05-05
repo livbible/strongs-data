@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὑπόδικος",
+            "transliteration": "hypódikos"
+        }
+    ],
+    "description": "under sentence, i.e., (by implication) condemned",
+    "definition": {
+        "under judgment, one who lost his suit": {},
+        "debtor to one, owing satisfaction to": {
+            "of liable to punishment from god": {}
+        }
+    },
+    "origin": "from g5259 and g1349",
+    "related": [
+        "g1349",
+        "g5259"
+    ]
+}

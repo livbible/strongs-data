@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "συμπολίτης",
+            "transliteration": "sympolítēs"
+        }
+    ],
+    "description": "a native of the same town, i.e., (figuratively) co-religionist (fellow-christian)",
+    "definition": {
+        "possessing the same citizenship with others, a fellow citizen": {
+            "of gentiles as received into communion of the saints": {},
+            "of the people consecrated to god": {}
+        }
+    },
+    "origin": "from g4862 and g4177",
+    "related": [
+        "g4177",
+        "g4862"
+    ]
+}

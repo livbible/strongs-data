@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀναγκαῖος",
+            "transliteration": "anankaîos"
+        }
+    ],
+    "description": "necessary; by implication, close (of kin)",
+    "definition": {
+        "necessary": {
+            "what one can not do without, indispensable": {},
+            "connected by bonds of nature or friendship": {},
+            "what ought according to the law of duty be done, what is required by the circumstances": {}
+        }
+    },
+    "origin": "from g0318",
+    "related": [
+        "g0318"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "originalWords": "ירד",
+    "description": "to descend (literally, to go downwards; or conventionally to a lower region, as the shore, a boundary, the enemy, etc.; or figuratively, to fall); causatively, to bring down (in all the above applications)",
+    "definition": {
+        "to go down, descend, decline, march down, sink down": {
+            "(qal)": {
+                "to go or come down": {},
+                "to sink": {},
+                "to be prostrated": {},
+                "to come down (of revelation)": {}
+            },
+            "(hiphil)": {
+                "to bring down": {},
+                "to send down": {},
+                "to take down": {},
+                "to lay prostrate": {},
+                "to let down": {}
+            },
+            "(hophal)": {
+                "to be brought down": {},
+                "to be taken down": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

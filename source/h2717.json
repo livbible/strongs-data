@@ -1,0 +1,24 @@
+{
+    "originalWords": "חרב",
+    "description": "to parch (through drought) i.e., (by analogy,) to desolate, destroy, kill",
+    "definition": {
+        "to be waste, lay waste, make desolate, be desolate, be in ruins": {
+            "(qal) to be waste, be desolate": {},
+            "(niphal)": {
+                "to be made desolate": {},
+                "desolate (participle)": {}
+            },
+            "(hiphil) to lay waste, make desolate": {},
+            "(hophal) to be laid waste": {}
+        },
+        "to be dry, be dried up": {
+            "(qal) to be dried, be dried up": {},
+            "(pual) to be dried": {},
+            "(hiphil) to dry up": {},
+            "(hophal) to be dried up": {}
+        },
+        "to attack, smite down, slay, fight": {}
+    },
+    "origin": "or ?????; a primitive root",
+    "related": []
+}

@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πρόσπεινος",
+            "transliteration": "próspeinos"
+        }
+    ],
+    "description": "hungering further, i.e., intensely hungry",
+    "definition": {
+        "very hungry": {}
+    },
+    "origin": "from g4314 and the same as g3983",
+    "related": [
+        "g3983",
+        "g4314"
+    ]
+}

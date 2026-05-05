@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀμήτωρ",
+            "transliteration": "amḗtōr"
+        }
+    ],
+    "description": "motherless, i.e., of unknown maternity",
+    "definition": {
+        "born without a mother": {},
+        "bereft of a mother": {},
+        "born of a base or unknown mother": {},
+        "unmotherly, not worthy of the name of mother": {}
+    },
+    "origin": "from g0001 (as a negative particle) and g3384",
+    "related": [
+        "g0001",
+        "g3384"
+    ]
+}

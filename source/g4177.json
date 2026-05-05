@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πολίτης",
+            "transliteration": "polítēs"
+        }
+    ],
+    "description": "a townsman",
+    "definition": {
+        "a citizen": {
+            "the inhabitant of any city or country": {},
+            "the association of another in citizenship": {
+                "a fellow citizen, fellow countryman": {}
+            }
+        }
+    },
+    "origin": "from g4172",
+    "related": [
+        "g4172"
+    ]
+}

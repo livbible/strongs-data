@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐπίλοιπος",
+            "transliteration": "epíloipos"
+        }
+    ],
+    "description": "left over, i.e., remaining",
+    "definition": {
+        "remaining besides, left over": {}
+    },
+    "origin": "from g1909 and g3062",
+    "related": [
+        "g1909",
+        "g3062"
+    ]
+}

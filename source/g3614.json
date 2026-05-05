@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "οἰκία",
+            "transliteration": "oikía"
+        }
+    ],
+    "description": "properly, residence (abstractly), but usually (concretely) an abode (literally or figuratively); by implication, a family (especially domestics)",
+    "definition": {
+        "a house": {
+            "an inhabited edifice, a dwelling": {},
+            "the inmates of a house, the family": {},
+            "property, wealth, goods": {}
+        }
+    },
+    "origin": "from g3624",
+    "related": [
+        "g3624"
+    ]
+}

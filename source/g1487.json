@@ -1,0 +1,26 @@
+{
+    "originalWords": [
+        {
+            "unicode": "εἰ",
+            "transliteration": "ei"
+        }
+    ],
+    "description": "if, whether, that, etc",
+    "definition": {
+        "if, whether": {}
+    },
+    "origin": "a primary particle of conditionality",
+    "related": [
+        "g1437",
+        "g1489",
+        "g1490",
+        "g1499",
+        "g1508",
+        "g1509",
+        "g1512",
+        "g1513",
+        "g1536",
+        "g1537"
+    ],
+    "notes": "often used in connection or composition with other particles, especially as in g1489, g1490, g1499, g1508, g1509, g1512, g1513, g1536, g1537."
+}

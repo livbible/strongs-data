@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "συνέρχομαι",
+            "transliteration": "synérchomai"
+        }
+    ],
+    "description": "to convene, depart in company with, associate with, or (specially), cohabit (conjugally)",
+    "definition": {
+        "to come together": {
+            "to assemble": {},
+            "of conjugal cohabitation": {}
+        },
+        "to go (depart) or come with one, to accompany one": {}
+    },
+    "origin": "from g4862 and g2064",
+    "related": [
+        "g2064",
+        "g4862"
+    ]
+}

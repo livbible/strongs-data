@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐπαγγελία",
+            "transliteration": "epangelía"
+        }
+    ],
+    "description": "an announcement (for information, assent or pledge; especially a divine assurance of good)",
+    "definition": {
+        "announcement": {},
+        "promise": {
+            "the act of promising, a promise given or to be given": {},
+            "a promised good or blessing": {}
+        }
+    },
+    "origin": "from g1861",
+    "related": [
+        "g1861"
+    ]
+}

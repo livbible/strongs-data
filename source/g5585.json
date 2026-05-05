@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ψηφίζω",
+            "transliteration": "psēphízō"
+        }
+    ],
+    "description": "to use pebbles in enumeration, i.e., (generally) to compute",
+    "definition": {
+        "to count with pebbles, to compute, calculate, reckon": {},
+        "to give one's vote by casting a pebble into the urn": {},
+        "to decide by voting": {}
+    },
+    "origin": "from g5586",
+    "related": [
+        "g5586"
+    ]
+}

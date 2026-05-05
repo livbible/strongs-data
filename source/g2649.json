@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "καταμαρτυρέω",
+            "transliteration": "katamartyréō"
+        }
+    ],
+    "description": "to testify against",
+    "definition": {
+        "to bear witness against, to testify against one": {}
+    },
+    "origin": "from g2596 and g3140",
+    "related": [
+        "g2596",
+        "g3140"
+    ]
+}

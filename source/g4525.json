@@ -1,0 +1,25 @@
+{
+    "originalWords": [
+        {
+            "unicode": "σαίνω",
+            "transliteration": "saínō"
+        }
+    ],
+    "description": "to wag (as a dog its tail fawningly), i.e., (generally) to shake (figuratively, disturb)",
+    "definition": {
+        "to wag the tail": {
+            "of dogs": {}
+        },
+        "metaphorically": {
+            "to flatter, fawn upon": {},
+            "to move (the mind of one)": {
+                "agreeably": {},
+                "to agitate, disturb, trouble": {}
+            }
+        }
+    },
+    "origin": "akin to g4579",
+    "related": [
+        "g4579"
+    ]
+}

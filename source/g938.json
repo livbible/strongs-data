@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "βασίλισσα",
+            "transliteration": "basílissa"
+        }
+    ],
+    "description": "a queen",
+    "definition": {
+        "queen": {}
+    },
+    "origin": "feminine from g0936",
+    "related": [
+        "g0936"
+    ]
+}

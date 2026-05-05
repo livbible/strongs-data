@@ -1,0 +1,22 @@
+{
+    "originalWords": [
+        {
+            "unicode": "συναγωγή",
+            "transliteration": "synagōgḗ"
+        }
+    ],
+    "description": "an assemblage of persons; specially, a jewish \"synagogue\" (the meeting or the place); by analogy, a christian church",
+    "definition": {
+        "a bringing together, gathering (as of fruits), a contracting": {},
+        "in the new testament, an assembling together of men, an assembly of men": {},
+        "a synagogue": {
+            "an assembly of jews formally gathered together to offer prayers and listen to the reading and expositions of the scriptures; assemblies of that sort were held every sabbath and feast day, afterwards also on the second and fifth days of every week; name transferred to an assembly of christians formally gathered together for religious purposes": {},
+            "the buildings where those solemn jewish assemblies are held": {}
+        }
+    },
+    "origin": "from (the reduplicated form of) g4863",
+    "related": [
+        "g4863"
+    ],
+    "notes": "synagogues seem to date their origin from the babylonian exile. in the times of jesus and the apostles, every town, not only in palestine but also among the gentiles if it contained a considerable number of jewish inhabitants, had at least one synagogue; the larger towns had several. these were also used for trials and inflicting punishment."
+}

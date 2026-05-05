@@ -1,0 +1,15 @@
+{
+    "originalWords": "אפה",
+    "description": "to cook, especially to bake",
+    "definition": {
+        "to bake": {
+            "(qal)": {
+                "to bake": {},
+                "(subst) baker": {}
+            },
+            "(niphal) to be baked, baked": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

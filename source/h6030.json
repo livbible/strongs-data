@@ -1,0 +1,23 @@
+{
+    "originalWords": "ענה",
+    "description": "properly, to eye or (generally) to heed, i.e., pay attention; by implication, to respond; by extension to begin to speak; specifically to sing, shout, testify, announce",
+    "definition": {
+        "to answer, respond, testify, speak, shout": {
+            "(qal)": {
+                "to answer, respond to": {},
+                "to testify, respond as a witness": {}
+            },
+            "(niphal)": {
+                "to make answer": {},
+                "to be answered, receive answer": {}
+            }
+        },
+        "(qal) to sing, utter tunefully": {},
+        "(qal) to dwell": {}
+    },
+    "origin": "a primitive root",
+    "related": [
+        "h1042",
+        "h1043"
+    ]
+}

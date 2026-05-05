@@ -1,0 +1,31 @@
+{
+    "originalWords": "תמם",
+    "description": "to complete, in a good or a bad sense, literal, or figurative, transitive or intransitive",
+    "definition": {
+        "to be complete, be finished, be at an end": {
+            "(qal)": {
+                "to be finished, be completed": {
+                    "completely, wholly, entirely (as auxiliary with verb)": {}
+                },
+                "to be finished, come to an end, cease": {},
+                "to be complete (of number)": {},
+                "to be consumed, be exhausted, be spent": {},
+                "to be finished, be consumed, be destroyed": {},
+                "to be complete, be sound, be unimpaired, be upright (ethically)": {},
+                "to complete, finish": {},
+                "to be completely crossed over": {}
+            },
+            "(niphal) to be consumed": {},
+            "(hiphil)": {
+                "to finish, complete, perfect": {},
+                "to finish, cease doing, leave off doing": {},
+                "to complete, sum up, make whole": {},
+                "to destroy (uncleanness)": {},
+                "to make sound": {}
+            },
+            "(hithpael) to deal in integrity, act uprightly": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

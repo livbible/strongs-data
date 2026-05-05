@@ -1,0 +1,20 @@
+{
+    "originalWords": "חרד",
+    "description": "to shudder with terror; hence, to fear; also to hasten (with anxiety)",
+    "definition": {
+        "to tremble, quake, move about, be afraid, be startled, be terrified": {
+            "(qal)": {
+                "to tremble, quake (of a mountain)": {},
+                "to tremble (of people)": {},
+                "to be anxiously careful": {},
+                "to go or come trembling (with prep)": {}
+            },
+            "(hiphil)": {
+                "to cause to tremble": {},
+                "to drive in terror, rout (an army)": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

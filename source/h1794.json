@@ -1,0 +1,16 @@
+{
+    "originalWords": "דכה",
+    "description": "to collapse (phys. or mentally)",
+    "definition": {
+        "to crush, be crushed, be contrite, be broken": {
+            "(qal) to be crushed, collapse": {},
+            "(niphal) to be crushed, be contrite, be broken": {},
+            "(piel)": {
+                "to crush down": {},
+                "to crush to pieces": {}
+            }
+        }
+    },
+    "origin": "a primitive root (compare h1790, h1792)",
+    "related": []
+}

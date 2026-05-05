@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀπορέω",
+            "transliteration": "aporéō"
+        }
+    ],
+    "description": "to have no way out, i.e., be at a loss (mentally)",
+    "definition": {
+        "to be without resources, to be in straits, to be left wanting, to be embarrassed, to be in doubt, not to know which way to turn": {},
+        "to be at a loss with one's self, be in doubt": {},
+        "not to know how to decide or what to do, to be perplexed": {}
+    },
+    "origin": "from a compound of g0001 (as a negative particle) and the base of g4198",
+    "related": [
+        "g0001",
+        "g4198"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "σκωληκόβρωτος",
+            "transliteration": "skōlēkóbrōtos"
+        }
+    ],
+    "description": "worm-eaten, i.e., diseased with maggots",
+    "definition": {
+        "eaten of worms": {}
+    },
+    "origin": "from g4663 and a derivative of g0977",
+    "related": [
+        "g0977",
+        "g4663"
+    ]
+}

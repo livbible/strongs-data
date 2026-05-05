@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πραγματεία",
+            "transliteration": "pragmateía"
+        }
+    ],
+    "description": "a transaction, i.e., negotiation",
+    "definition": {
+        "prosecution of any affair": {
+            "business, occupation": {}
+        }
+    },
+    "origin": "from g4231",
+    "related": [
+        "g4231"
+    ]
+}

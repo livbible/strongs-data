@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "συνοδία",
+            "transliteration": "synodía"
+        }
+    ],
+    "description": "companionship on a journey, i.e., (by implication), a caravan",
+    "definition": {
+        "a journey in company": {
+            "of a company of travellers, associates on a journey, a caravan": {}
+        }
+    },
+    "origin": "from a compound of g4862 and g3598 (\"synod\")",
+    "related": [
+        "g3598",
+        "g4862"
+    ]
+}

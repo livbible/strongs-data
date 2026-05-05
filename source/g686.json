@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἄρα",
+            "transliteration": "ára"
+        }
+    ],
+    "description": "a particle denoting an inference more or less decisive (as follows)",
+    "definition": {
+        "therefore, so then, wherefore": {}
+    },
+    "origin": "probably from g0142 (through the idea of drawing a conclusion)",
+    "related": [
+        "g0142",
+        "g0687",
+        "g1065",
+        "g1487",
+        "g3767"
+    ],
+    "notes": "often used in connection with other particles, especially g1065 or g3767 (after) or g1487 (before). compare also g0687."
+}

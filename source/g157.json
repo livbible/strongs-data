@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "αἰτίαμα",
+            "transliteration": "aitíama"
+        }
+    ],
+    "description": "a thing charged",
+    "definition": {
+        "to accuse, bring a charge against, complaint": {}
+    },
+    "origin": "from a derivative of g0156",
+    "related": [
+        "g0156"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἥλιος",
+            "transliteration": "hḗlios"
+        }
+    ],
+    "description": "the sun; by implication, light",
+    "definition": {
+        "the sun": {},
+        "the rays of the sun": {},
+        "the light of day": {}
+    },
+    "origin": "from ??? (a ray; perhaps akin to the alternate of g0138)",
+    "related": [
+        "g0138"
+    ]
+}

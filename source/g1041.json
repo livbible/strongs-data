@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "βωμός",
+            "transliteration": "bōmós"
+        }
+    ],
+    "description": "properly, a stand, i.e., (specially) an altar",
+    "definition": {
+        "an elevated place": {
+            "very often a raised place on which to offer a sacrifice, an altar": {}
+        }
+    },
+    "origin": "from the base of g0939",
+    "related": [
+        "g0939"
+    ]
+}

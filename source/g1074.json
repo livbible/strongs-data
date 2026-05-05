@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "γενεά",
+            "transliteration": "geneá"
+        }
+    ],
+    "description": "a generation; by implication, an age (the period or the persons)",
+    "definition": {
+        "fathered, birth, nativity": {},
+        "that which has been begotten, men of the same stock, a family": {
+            "the several ranks of natural descent, the successive members of a genealogy": {},
+            "metaphorically a race of men very like each other in endowments, pursuits, character": {
+                "especially in a bad sense, a perverse race": {}
+            }
+        },
+        "the whole multitude of men living at the same time": {},
+        "an age (i.e., the time ordinarily occupied be each successive generation), a space of 3033 years": {}
+    },
+    "origin": "from (a presumed derivative of) g1085",
+    "related": [
+        "g1085"
+    ]
+}

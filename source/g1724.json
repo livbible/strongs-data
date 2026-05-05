@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐνάλιος",
+            "transliteration": "enálios"
+        }
+    ],
+    "description": "in the sea, i.e., marine",
+    "definition": {
+        "that which is in the sea, marine": {}
+    },
+    "origin": "from g1722 and g0251",
+    "related": [
+        "g0251",
+        "g1722"
+    ]
+}

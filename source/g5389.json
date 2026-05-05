@@ -1,0 +1,23 @@
+{
+    "originalWords": [
+        {
+            "unicode": "φιλοτιμέομαι",
+            "transliteration": "philotiméomai"
+        }
+    ],
+    "description": "to be fond of honor, i.e., emulous (eager or earnest to do something)",
+    "definition": {
+        "to be fond of honor": {
+            "to be actuated by love of honor": {},
+            "from a love of honor to strive to bring something to pass": {}
+        },
+        "to be ambitious": {
+            "to strive earnestly, make it one's aim": {}
+        }
+    },
+    "origin": "middle voice from a compound of g5384 and g5092",
+    "related": [
+        "g5092",
+        "g5384"
+    ]
+}

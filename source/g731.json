@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἄῤῥητος",
+            "transliteration": "árrhētos"
+        }
+    ],
+    "description": "unsaid, i.e., (by implication) inexpressible",
+    "definition": {
+        "unsaid, unspoken": {},
+        "unspeakable (on account of its sacredness)": {}
+    },
+    "origin": "from g0001 (as a negative particle) and the same as g4490",
+    "related": [
+        "g0001",
+        "g4490"
+    ]
+}

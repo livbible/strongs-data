@@ -1,0 +1,23 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐξουσιάζω",
+            "transliteration": "exousiázō"
+        }
+    ],
+    "description": "to control",
+    "definition": {
+        "to have power or authority, use power": {
+            "to be master of any one, exercise authority over one": {},
+            "to be master of the body": {
+                "to have full and entire authority over the body": {},
+                "to hold the body subject to one's will": {}
+            },
+            "to be brought under the power of anyone": {}
+        }
+    },
+    "origin": "from g1849",
+    "related": [
+        "g1849"
+    ]
+}

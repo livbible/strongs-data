@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὁδοιπορέω",
+            "transliteration": "hodoiporéō"
+        }
+    ],
+    "description": "to be a wayfarer, i.e., travel",
+    "definition": {
+        "to travel, journey": {}
+    },
+    "origin": "from a compound of g3598 and g4198",
+    "related": [
+        "g3598",
+        "g4198"
+    ]
+}

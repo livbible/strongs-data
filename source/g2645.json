@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κατάλοιπος",
+            "transliteration": "katáloipos"
+        }
+    ],
+    "description": "left down (behind), i.e remaining (plural the rest)",
+    "definition": {
+        "left remaining": {}
+    },
+    "origin": "from g2596 and g3062",
+    "related": [
+        "g2596",
+        "g3062"
+    ]
+}

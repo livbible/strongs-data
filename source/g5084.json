@@ -1,0 +1,22 @@
+{
+    "originalWords": [
+        {
+            "unicode": "τήρησις",
+            "transliteration": "tḗrēsis"
+        }
+    ],
+    "description": "a watching, i.e., (figuratively) observance, or (concretely) a prison",
+    "definition": {
+        "a watching": {
+            "of prisoners": {},
+            "a place where prisoners are kept, a prison": {}
+        },
+        "a keeping": {
+            "complying with, obeying": {}
+        }
+    },
+    "origin": "from g5083",
+    "related": [
+        "g5083"
+    ]
+}

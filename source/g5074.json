@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "τετράπους",
+            "transliteration": "tetrápous"
+        }
+    ],
+    "description": "a quadruped",
+    "definition": {
+        "a fourfooted animal": {}
+    },
+    "origin": "from g5064 and g4228",
+    "related": [
+        "g4228",
+        "g5064"
+    ]
+}

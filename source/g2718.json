@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κατέρχομαι",
+            "transliteration": "katérchomai"
+        }
+    ],
+    "description": "to come (or go) down (literally or figuratively)",
+    "definition": {
+        "to come down, go down": {
+            "of one who goes from a higher to a lower locality": {},
+            "of those who come to a place by a ship": {}
+        }
+    },
+    "origin": "from g2596 and g2064 (including its alternate)",
+    "related": [
+        "g2064",
+        "g2596"
+    ]
+}

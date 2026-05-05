@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κοινόω",
+            "transliteration": "koinóō"
+        }
+    ],
+    "description": "to make (or consider) profane (ceremonially)",
+    "definition": {
+        "to make common": {
+            "to make (levitically) unclean, render unhallowed, defile, profane": {},
+            "to declare or count unclean": {}
+        }
+    },
+    "origin": "from g2839",
+    "related": [
+        "g2839"
+    ]
+}

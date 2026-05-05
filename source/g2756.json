@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κενός",
+            "transliteration": "kenós"
+        }
+    ],
+    "description": "empty (literally or figuratively)",
+    "definition": {
+        "empty, vain, devoid of truth": {
+            "of places, vessels, etc. which contain nothing": {},
+            "of men": {
+                "empty handed": {},
+                "without a gift": {}
+            },
+            "metaphorically destitute of spiritual wealth, of one who boasts of his faith as a transcendent possession, yet is without the fruits of faith": {},
+            "metaphorically of endeavors, labors, acts, which result in nothing, vain, fruitless, without effect": {
+                "vain of no purpose": {}
+            }
+        }
+    },
+    "origin": "apparently a primary word",
+    "related": []
+}

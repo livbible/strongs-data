@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἄκακος",
+            "transliteration": "ákakos"
+        }
+    ],
+    "description": "not bad, i.e., (objectively) innocent or (subjectively) unsuspecting",
+    "definition": {
+        "without guile or fraud, harmless, free from guilt": {},
+        "fearing no evil from others, distrusting no one": {}
+    },
+    "origin": "from g0001 (as a negative particle) and g2556",
+    "related": [
+        "g0001",
+        "g2556"
+    ]
+}

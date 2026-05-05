@@ -1,0 +1,21 @@
+{
+    "originalWords": "שגה",
+    "description": "to stray (causatively, mislead), usually (figuratively) to mistake, especially (morally) to transgress; by extension (through the idea of intoxication) to reel, (figuratively) be enraptured",
+    "definition": {
+        "to go astray, stray, err": {
+            "(qal)": {
+                "to err, stray": {},
+                "to swerve, meander, reel, roll, be intoxicated, err (in drunkenness)": {},
+                "to go astray (morally)": {},
+                "to commit sin of ignorance or inadvertence, err (ignorantly)": {}
+            },
+            "(hiphil)": {
+                "to lead astray": {},
+                "to lead astray, mislead (mentally)": {},
+                "to lead astray (morally)": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

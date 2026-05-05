@@ -1,0 +1,27 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐκπορεύομαι",
+            "transliteration": "ekporeúomai"
+        }
+    ],
+    "description": "to depart, be discharged, proceed, project",
+    "definition": {
+        "to go forth, go out, depart": {},
+        "metaphorically": {
+            "to come forth, to issue, to proceed": {
+                "of feelings, affections, deeds, sayings": {}
+            },
+            "to flow forth": {
+                "of a river": {}
+            },
+            "to project, from the mouth of one": {},
+            "to spread abroad, of a rumour": {}
+        }
+    },
+    "origin": "from g1537 and g4198",
+    "related": [
+        "g1537",
+        "g4198"
+    ]
+}

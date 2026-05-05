@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἄμπελος",
+            "transliteration": "ámpelos"
+        }
+    ],
+    "description": "a vine (as coiling about a support)",
+    "definition": {
+        "a vine": {}
+    },
+    "origin": "probably from the base of g0297 and that of g0257",
+    "related": [
+        "g0257",
+        "g0297"
+    ]
+}

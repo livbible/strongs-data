@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐξαποστέλλω",
+            "transliteration": "exapostéllō"
+        }
+    ],
+    "description": "to send away forth, i.e., (on a mission) to despatch, or (peremptorily) to dismiss",
+    "definition": {
+        "to send forth": {},
+        "to send away": {}
+    },
+    "origin": "from g1537 and g0649",
+    "related": [
+        "g0649",
+        "g1537"
+    ]
+}

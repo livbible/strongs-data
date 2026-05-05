@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀποτρέπω",
+            "transliteration": "apotrépō"
+        }
+    ],
+    "description": "to deflect, i.e., (reflexively) avoid",
+    "definition": {
+        "to turn one's self away from": {},
+        "to shun, avoid": {}
+    },
+    "origin": "from g0575 and the base of g5157",
+    "related": [
+        "g0575",
+        "g5157"
+    ]
+}

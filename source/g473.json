@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀντί",
+            "transliteration": "antí"
+        }
+    ],
+    "description": "opposite, i.e., instead or because of (rarely in addition to)",
+    "definition": {
+        "over against, opposite to, before": {},
+        "for, instead of, in place of (something)": {
+            "instead of": {},
+            "for": {},
+            "for that, because": {},
+            "wherefore, for this cause": {}
+        }
+    },
+    "origin": "a primary particle",
+    "related": []
+}

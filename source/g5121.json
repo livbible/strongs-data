@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "τοὐναντίον",
+            "transliteration": "tounantíon"
+        }
+    ],
+    "description": "on the contrary",
+    "definition": {
+        "on the contrary, contrariwise": {}
+    },
+    "origin": "contraction for the neuter of g3588 and g1726",
+    "related": [
+        "g1726",
+        "g3588"
+    ]
+}

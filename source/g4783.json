@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "συγκατάθεσις",
+            "transliteration": "synkatáthesis"
+        }
+    ],
+    "description": "a deposition (of sentiment) in company with, i.e., (figuratively) accord with",
+    "definition": {
+        "a putting together or joint deposit (of votes)": {
+            "hence approval, assent, agreement": {}
+        }
+    },
+    "origin": "from g4784",
+    "related": [
+        "g4784"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "originalWords": [
+        {
+            "unicode": "συναρμολογέω",
+            "transliteration": "synarmologéō"
+        }
+    ],
+    "description": "to render close-jointed together, i.e., organize compactly",
+    "definition": {
+        "to join closely together": {},
+        "to frame together": {
+            "parts of a building": {},
+            "the members of the body": {}
+        }
+    },
+    "origin": "from g4862 and a derivative of a compound of g0719 and g3004 (in its original sense of laying)",
+    "related": [
+        "g0719",
+        "g3004",
+        "g4862"
+    ]
+}

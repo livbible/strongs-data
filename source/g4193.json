@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Ποντικός",
+            "transliteration": "Pontikós"
+        }
+    ],
+    "description": "a pontican, i.e., native of pontus",
+    "definition": {
+        "belonging to pontus, born in pontus": {}
+    },
+    "origin": "from g4195",
+    "related": [
+        "g4195"
+    ]
+}

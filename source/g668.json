@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀποφεύγω",
+            "transliteration": "apopheúgō"
+        }
+    ],
+    "description": "(figuratively) to escape",
+    "definition": {
+        "to flee from, escape": {}
+    },
+    "origin": "from g0575 and g5343",
+    "related": [
+        "g0575",
+        "g5343"
+    ]
+}

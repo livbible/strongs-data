@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐπιδίδωμι",
+            "transliteration": "epidídōmi"
+        }
+    ],
+    "description": "to give over (by hand or surrender)",
+    "definition": {
+        "to hand, give by hand": {},
+        "to give over": {
+            "give up to the power or will of one": {}
+        }
+    },
+    "origin": "from g1909 and g1325",
+    "related": [
+        "g1325",
+        "g1909"
+    ]
+}

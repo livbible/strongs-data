@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀπαγγέλλω",
+            "transliteration": "apangéllō"
+        }
+    ],
+    "description": "to announce",
+    "definition": {
+        "to bring tidings (from a person or a thing), bring word, report": {},
+        "to proclaim, to make known openly, declare": {}
+    },
+    "origin": "from g0575 and the base of g0032",
+    "related": [
+        "g0032",
+        "g0575"
+    ]
+}

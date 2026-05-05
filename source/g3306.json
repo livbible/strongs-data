@@ -1,0 +1,31 @@
+{
+    "originalWords": [
+        {
+            "unicode": "μένω",
+            "transliteration": "ménō"
+        }
+    ],
+    "description": "to stay (in a given place, state, relation or expectancy)",
+    "definition": {
+        "to remain, abide": {
+            "in reference to place": {
+                "to sojourn, tarry": {},
+                "not to depart": {
+                    "to continue to be present": {},
+                    "to be held, kept, continually": {}
+                }
+            },
+            "in reference to time": {
+                "to continue to be, not to perish, to last, endure": {
+                    "of persons, to survive, live": {}
+                }
+            },
+            "in reference to state or condition": {
+                "to remain as one, not to become another or different": {}
+            }
+        },
+        "to wait for, await one": {}
+    },
+    "origin": "a primary verb",
+    "related": []
+}

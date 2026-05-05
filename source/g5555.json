@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "χρυσόλιθος",
+            "transliteration": "chrysólithos"
+        }
+    ],
+    "description": "gold-stone, i.e., a yellow gem (\"chrysolite\")",
+    "definition": {
+        "chrysolite is a precious stone of golden color": {}
+    },
+    "origin": "from g5557 and g3037",
+    "related": [
+        "g3037",
+        "g5557"
+    ]
+}

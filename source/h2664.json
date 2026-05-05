@@ -1,0 +1,22 @@
+{
+    "originalWords": "חפש",
+    "description": "to seek; causatively, to conceal oneself (i.e., let be sought), or mask",
+    "definition": {
+        "to search, search for, to search out, disguise oneself": {
+            "(qal)": {
+                "to search for": {},
+                "to think out, devise": {},
+                "to search, test": {}
+            },
+            "(niphal) to be searched out, be exposed": {},
+            "(piel) to search, search through, search for": {},
+            "(pual) to be searched for, be sought out": {},
+            "(hithpael)": {
+                "to disguise oneself": {},
+                "to let oneself be searched for": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀγενεαλόγητος",
+            "transliteration": "agenealógētos"
+        }
+    ],
+    "description": "unregistered as to birth",
+    "definition": {
+        "one whose descent there is no record of, without genealogy": {}
+    },
+    "origin": "from g0001 (as negative particle) and g1075",
+    "related": [
+        "g0001",
+        "g1075"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "originalWords": [
+        {
+            "unicode": "προσευχή",
+            "transliteration": "proseuchḗ"
+        }
+    ],
+    "description": "prayer (worship); by implication, an oratory (chapel)",
+    "definition": {
+        "prayer addressed to god": {},
+        "a place set apart or suited for the offering of prayer": {
+            "a synagogue": {},
+            "a place in the open air where the jews were wont to pray, outside the cities, where they had no synagogue": {
+                "such places were situated upon the bank of a stream or the shore of a sea, where there was a supply of water for washing the hands before prayer": {}
+            }
+        }
+    },
+    "origin": "from g4336",
+    "related": [
+        "g4336"
+    ]
+}

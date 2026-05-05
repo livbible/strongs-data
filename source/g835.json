@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "αὐλίζομαι",
+            "transliteration": "aulízomai"
+        }
+    ],
+    "description": "to pass the night (properly, in the open air)",
+    "definition": {
+        "to lodge in the court-yard, especially at night": {
+            "of flocks and shepherds": {}
+        },
+        "to pass the night in the open air": {},
+        "to pass the night, lodge": {}
+    },
+    "origin": "middle voice from g0833",
+    "related": [
+        "g0833"
+    ]
+}

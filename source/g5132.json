@@ -1,0 +1,27 @@
+{
+    "originalWords": [
+        {
+            "unicode": "τράπεζα",
+            "transliteration": "trápeza"
+        }
+    ],
+    "description": "a table or stool (as being four-legged), usually for food (figuratively, a meal); also a counter for money (figuratively, a broker's office for loans at interest)",
+    "definition": {
+        "a table": {
+            "a table on which food is placed, an eating place": {
+                "the table in the temple at jerusalem on which the consecrated loaves were placed": {}
+            },
+            "equivalent to the food placed upon the table": {
+                "to set a table": {},
+                "put food before one": {}
+            },
+            "a banquet, feast": {}
+        },
+        "the table or stand of a money changer, where he sits, exchanging different kinds of money for a fee (agio), and paying back with interest loans or deposits": {}
+    },
+    "origin": "probably contracted from g5064 and g3979",
+    "related": [
+        "g3979",
+        "g5064"
+    ]
+}

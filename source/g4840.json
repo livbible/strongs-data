@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "συμπάρειμι",
+            "transliteration": "sympáreimi"
+        }
+    ],
+    "description": "to be at hand together, i.e., now present",
+    "definition": {
+        "to be present together": {}
+    },
+    "origin": "from g4862 and g3918",
+    "related": [
+        "g3918",
+        "g4862"
+    ]
+}

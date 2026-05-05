@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "διαβλέπω",
+            "transliteration": "diablépō"
+        }
+    ],
+    "description": "to look through, i.e., recover full vision",
+    "definition": {
+        "to look through, penetrate by vision": {
+            "to look fixedly, stare straight before one": {},
+            "to see clearly": {}
+        }
+    },
+    "origin": "from g1223 and g0991",
+    "related": [
+        "g0991",
+        "g1223"
+    ]
+}

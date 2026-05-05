@@ -1,0 +1,23 @@
+{
+    "originalWords": "מחה",
+    "description": "properly, to stroke or rub; by implication, to erase",
+    "definition": {
+        "to wipe, wipe out": {
+            "(qal)": {
+                "to wipe": {},
+                "to blot out, obliterate": {},
+                "to blot out, exterminate": {}
+            },
+            "(niphal)": {
+                "to be wiped out": {},
+                "to be blotted out": {},
+                "to be exterminated": {}
+            },
+            "(hiphil) to blot out (from memory)": {}
+        },
+        "(qal) to strike": {},
+        "(pual) full of marrow (participle)": {}
+    },
+    "origin": "a primitive root",
+    "related": []
+}

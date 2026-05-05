@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀρτέμων",
+            "transliteration": "artémōn"
+        }
+    ],
+    "description": "properly, something ready (or else more remotely from g0142 (compare g0740); something hung up), i.e., (specially) the topsail (rather foresail or jib) of a vessel",
+    "definition": {
+        "a top-sail or foresail of a ship": {}
+    },
+    "origin": "from a derivative of g0737",
+    "related": [
+        "g0142",
+        "g0737",
+        "g0740"
+    ]
+}

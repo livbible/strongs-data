@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "συμμέτοχος",
+            "transliteration": "symmétochos"
+        }
+    ],
+    "description": "a co-participant",
+    "definition": {
+        "partaking together with one, a joint partaker": {
+            "of something": {}
+        }
+    },
+    "origin": "from g4862 and g3353",
+    "related": [
+        "g3353",
+        "g4862"
+    ]
+}

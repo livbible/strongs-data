@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Ἑλληνιστί",
+            "transliteration": "Hellēnistí"
+        }
+    ],
+    "description": "hellenistically, i.e., in the grecian language",
+    "definition": {
+        "in greek, the greek language": {}
+    },
+    "origin": "adverb from the same as g1675",
+    "related": [
+        "g1675"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "originalWords": [
+        {
+            "unicode": "χρηματίζω",
+            "transliteration": "chrēmatízō"
+        }
+    ],
+    "description": "to utter an oracle (compare the original sense of g5530), i.e., divinely intimate; by implication, (compare the secular sense of g5532) to constitute a firm for business, i.e., (generally) bear as a title",
+    "definition": {
+        "to transact business, especially to manage public affairs": {
+            "to advise or consult with one about public affairs": {},
+            "to make answer to those who ask for advice, present enquiries or requests, etc.": {
+                "of judges, magistrates, rulers, kings": {}
+            }
+        },
+        "to give a response to those consulting an oracle, to give a divine command or admonition, to teach from heaven": {
+            "to be divinely commanded, admonished, instructed": {},
+            "to be the mouthpiece of divine revelations, to promulgate the commands of god": {}
+        },
+        "to assume or take to one's self a name from one's public business": {
+            "to receive a name or title, be called": {}
+        }
+    },
+    "origin": "from g5536",
+    "related": [
+        "g5530",
+        "g5532",
+        "g5536"
+    ]
+}

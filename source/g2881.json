@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Κορίνθιος",
+            "transliteration": "Korínthios"
+        }
+    ],
+    "description": "a corinthian, i.e., inhabitant of corinth",
+    "definition": {
+        "a corinthian, and inhabitant of corinth": {}
+    },
+    "origin": "from g2882",
+    "related": [
+        "g2882"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "καθεύδω",
+            "transliteration": "katheúdō"
+        }
+    ],
+    "description": "to lie down to rest, i.e., (by implication) to fall asleep (literally or figuratively)",
+    "definition": {
+        "to fall asleep, drop off to sleep": {},
+        "to sleep": {
+            "to sleep normally": {},
+            "euphemistically, to be dead": {},
+            "metaphorically": {
+                "to yield to sloth and sin": {},
+                "to be indifferent to one's salvation": {}
+            }
+        }
+    },
+    "origin": "from g2596 and ???? (to sleep)",
+    "related": [
+        "g2596"
+    ]
+}

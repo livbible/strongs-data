@@ -1,0 +1,25 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κρίμα",
+            "transliteration": "kríma"
+        }
+    ],
+    "description": "a decision (the function or the effect, for or against (\"crime\"))",
+    "definition": {
+        "a decree, judgments": {},
+        "judgment": {
+            "condemnation of wrong, the decision (whether severe or mild) which one passes on the faults of others": {},
+            "in a forensic sense": {
+                "the sentence of a judge": {},
+                "the punishment with which one is sentenced": {},
+                "condemnatory sentence, penal judgment, sentence": {}
+            }
+        },
+        "a matter to be judicially decided, a lawsuit, a case in court": {}
+    },
+    "origin": "from g2919",
+    "related": [
+        "g2919"
+    ]
+}

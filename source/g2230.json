@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἡγεμονεύω",
+            "transliteration": "hēgemoneúō"
+        }
+    ],
+    "description": "to act as ruler",
+    "definition": {
+        "to be leader, to lead the way": {},
+        "to rule, command": {
+            "of a province, to be governor of a province": {},
+            "said of a proconsul, of a procurator": {}
+        }
+    },
+    "origin": "from g2232",
+    "related": [
+        "g2232"
+    ]
+}

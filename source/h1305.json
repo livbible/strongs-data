@@ -1,0 +1,26 @@
+{
+    "originalWords": "ברר",
+    "description": "to clarify (i.e., brighten), examine, select",
+    "definition": {
+        "to purify, select, polish, choose, purge, cleanse or make bright, test or prove": {
+            "(qal)": {
+                "to purge, purge out, purify": {},
+                "to choose, select": {},
+                "to cleanse, make shining, polish": {},
+                "to test, prove": {}
+            },
+            "(niphal) to purify oneself": {},
+            "(piel) to purify": {},
+            "(hiphil)": {
+                "to purify": {},
+                "to polish arrows": {}
+            },
+            "(hithpael)": {
+                "to purify oneself": {},
+                "to show oneself pure, just, kind": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

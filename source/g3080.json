@@ -1,0 +1,23 @@
+{
+    "originalWords": [
+        {
+            "unicode": "λύσις",
+            "transliteration": "lýsis"
+        }
+    ],
+    "description": "a loosening, i.e., (specially), divorce",
+    "definition": {
+        "a loosing, setting free": {
+            "of a prisoner": {},
+            "of the bond of marriage, divorce": {}
+        },
+        "release, ransoming, deliverance": {
+            "of liquidating a debt": {}
+        },
+        "means or power of releasing or loosing": {}
+    },
+    "origin": "from g3089",
+    "related": [
+        "g3089"
+    ]
+}

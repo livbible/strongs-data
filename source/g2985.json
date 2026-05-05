@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "λαμπάς",
+            "transliteration": "lampás"
+        }
+    ],
+    "description": "a \"lamp\" or flambeau",
+    "definition": {
+        "a torch": {},
+        "a lamp, the flame of which is fed with oil": {}
+    },
+    "origin": "from g2989",
+    "related": [
+        "g2989"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "originalWords": "בנה",
+    "description": "to build (literally and figuratively)",
+    "definition": {
+        "to build, rebuild, establish, cause to continue": {
+            "(qal)": {
+                "to build, rebuild": {},
+                "to build a house (ie, establish a family)": {}
+            },
+            "(niphal)": {
+                "to be built": {},
+                "to be rebuilt": {},
+                "established (of restored exiles) (figuratively)": {},
+                "established (made permanent)": {},
+                "to be built up (of childless wife becoming the mother of a family through the children of a concubine)": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

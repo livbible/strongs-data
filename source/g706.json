@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀριθμός",
+            "transliteration": "arithmós"
+        }
+    ],
+    "description": "a number (as reckoned up)",
+    "definition": {
+        "a fixed and definite number": {},
+        "an indefinite number, a multitude": {}
+    },
+    "origin": "from g0142",
+    "related": [
+        "g0142"
+    ]
+}

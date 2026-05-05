@@ -1,0 +1,27 @@
+{
+    "originalWords": "כסה",
+    "description": "properly, to plump, i.e., fill up hollows; by implication, to cover (for clothing or secrecy)",
+    "definition": {
+        "to cover, conceal, hide": {
+            "(qal) conceal, covered (participle)": {},
+            "(niphal) to be covered": {},
+            "(piel)": {
+                "to cover, clothe": {},
+                "to cover, conceal": {},
+                "to cover (for protection)": {},
+                "to cover over, spread over": {},
+                "to cover, overwhelm": {}
+            },
+            "(pual)": {
+                "to be covered": {},
+                "to be clothed": {}
+            },
+            "(hithpael) to cover oneself, clothe oneself": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": [
+        "h3780"
+    ],
+    "notes": "compare h3780."
+}

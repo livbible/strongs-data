@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ψευδολόγος",
+            "transliteration": "pseudológos"
+        }
+    ],
+    "description": "mendacious, i.e., promulgating erroneous christian doctrine",
+    "definition": {
+        "speaking (teaching) falsely, speaking lies": {}
+    },
+    "origin": "from g5571 and g3004",
+    "related": [
+        "g3004",
+        "g5571"
+    ]
+}

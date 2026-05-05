@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀκατάστατος",
+            "transliteration": "akatástatos"
+        }
+    ],
+    "description": "inconstant",
+    "definition": {
+        "unstable, inconstant, restless": {}
+    },
+    "origin": "from g0001 (as a negative particle) and a derivative of g2525",
+    "related": [
+        "g0001",
+        "g2525"
+    ]
+}

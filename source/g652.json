@@ -1,0 +1,22 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀπόστολος",
+            "transliteration": "apóstolos"
+        }
+    ],
+    "description": "a delegate; specially, an ambassador of the gospel; officially a commissioner of christ (\"apostle\") (with miraculous powers)",
+    "definition": {
+        "a delegate, messenger, one sent forth with orders": {
+            "specifically applied to the twelve apostles of christ": {},
+            "in a broader sense applied to other eminent christian teachers": {
+                "of barnabas": {},
+                "of timothy and silvanus": {}
+            }
+        }
+    },
+    "origin": "from g0649",
+    "related": [
+        "g0649"
+    ]
+}

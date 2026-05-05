@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "σιτόμετρον",
+            "transliteration": "sitómetron"
+        }
+    ],
+    "description": "a grain-measure, i.e., (by implication) ration (allowance of food)",
+    "definition": {
+        "a measured 'portion of' grain or 'food'": {}
+    },
+    "origin": "from g4621 and g3358",
+    "related": [
+        "g3358",
+        "g4621"
+    ]
+}

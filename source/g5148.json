@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "τριετία",
+            "transliteration": "trietía"
+        }
+    ],
+    "description": "a three years' period (triennium)",
+    "definition": {
+        "a space of three years": {}
+    },
+    "origin": "from a compound of g5140 and g2094",
+    "related": [
+        "g2094",
+        "g5140"
+    ]
+}

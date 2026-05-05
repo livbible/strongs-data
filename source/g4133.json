@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πλήν",
+            "transliteration": "plḗn"
+        }
+    ],
+    "description": "moreover (besides), i.e., albeit, save that, rather, yet",
+    "definition": {
+        "moreover, besides, but, nevertheless": {},
+        "besides, except, but": {}
+    },
+    "origin": "from g4119",
+    "related": [
+        "g4119"
+    ]
+}

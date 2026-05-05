@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "καλῶς",
+            "transliteration": "kalōs"
+        }
+    ],
+    "description": "well (usually morally)",
+    "definition": {
+        "beautifully, finely, excellently, well": {
+            "rightly, so that there shall be no room for blame, well, truly": {},
+            "excellently, nobly, commendably": {},
+            "honorably, in honor": {
+                "in a good place, comfortable": {}
+            },
+            "to speak well of one, to do good": {},
+            "to be well (of those recovering health)": {}
+        }
+    },
+    "origin": "adverb from g2570",
+    "related": [
+        "g2570"
+    ]
+}

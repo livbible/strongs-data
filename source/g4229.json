@@ -1,0 +1,23 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πρᾶγμα",
+            "transliteration": "prâgma"
+        }
+    ],
+    "description": "a deed; by implication, an affair; by extension, an object (material)",
+    "definition": {
+        "that which has been done, a deed, an accomplished fact": {},
+        "what is done or being accomplished": {
+            "specifically business, a commercial transaction": {}
+        },
+        "a matter, question, affair": {
+            "specifically in a forensic sense, a matter at law, case, suit": {}
+        },
+        "that which is or exists, a thing": {}
+    },
+    "origin": "from g4238",
+    "related": [
+        "g4238"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀπελπίζω",
+            "transliteration": "apelpízō"
+        }
+    ],
+    "description": "to hope out, i.e., fully expect",
+    "definition": {
+        "nothing despairing": {},
+        "despairing of no one": {},
+        "causing no one to despair": {}
+    },
+    "origin": "from g0575 and g1679",
+    "related": [
+        "g0575",
+        "g1679"
+    ]
+}

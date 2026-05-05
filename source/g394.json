@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀνατίθεμαι",
+            "transliteration": "anatíthemai"
+        }
+    ],
+    "description": "to set forth (for oneself), i.e propound",
+    "definition": {
+        "to set forth (in words), communicate": {}
+    },
+    "origin": "from g0303 and the middle voice of g5087",
+    "related": [
+        "g0303",
+        "g5087"
+    ]
+}

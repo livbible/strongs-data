@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀψευδής",
+            "transliteration": "apseudḗs"
+        }
+    ],
+    "description": "veracious",
+    "definition": {
+        "without lie, truthful": {}
+    },
+    "origin": "from g0001 (as a negative particle) and g5579",
+    "related": [
+        "g0001",
+        "g5579"
+    ]
+}

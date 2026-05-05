@@ -1,0 +1,22 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐπιτιμάω",
+            "transliteration": "epitimáō"
+        }
+    ],
+    "description": "to tax upon, i.e., censure or admonish; by implication, forbid",
+    "definition": {
+        "to show honor to, to honor": {},
+        "to raise the price of": {},
+        "to adjudge, award, in the sense of merited penalty": {},
+        "to tax with fault, rate, chide, rebuke, reprove, censure severely": {
+            "to admonish or charge sharply": {}
+        }
+    },
+    "origin": "from g1909 and g5091",
+    "related": [
+        "g1909",
+        "g5091"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "originalWords": "אכל",
+    "description": "food",
+    "definition": {
+        "food": {
+            "cereal": {},
+            "meat": {}
+        },
+        "food supply": {},
+        "meal, dinner": {}
+    },
+    "origin": "from h0398",
+    "related": []
+}

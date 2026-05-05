@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀχειροποίητος",
+            "transliteration": "acheiropoíētos"
+        }
+    ],
+    "description": "unmanufactured, i.e., inartificial",
+    "definition": {
+        "not made with hands": {}
+    },
+    "origin": "from g0001 (as a negative particle) and g5499",
+    "related": [
+        "g0001",
+        "g5499"
+    ]
+}

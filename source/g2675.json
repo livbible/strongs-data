@@ -1,0 +1,25 @@
+{
+    "originalWords": [
+        {
+            "unicode": "καταρτίζω",
+            "transliteration": "katartízō"
+        }
+    ],
+    "description": "to complete thoroughly, i.e., repair (literally or figuratively) or adjust",
+    "definition": {
+        "to render, i.e., to fit, sound, complete": {
+            "to mend (what has been broken or rent), to repair": {
+                "to complete": {}
+            },
+            "to fit out, equip, put in order, arrange, adjust": {
+                "to fit or frame for one's self, prepare": {}
+            },
+            "ethically: to strengthen, perfect, complete, make one what he ought to be": {}
+        }
+    },
+    "origin": "from g2596 and a derivative of g0739",
+    "related": [
+        "g0739",
+        "g2596"
+    ]
+}

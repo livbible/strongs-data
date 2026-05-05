@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "τετράρχης",
+            "transliteration": "tetrárchēs"
+        }
+    ],
+    "description": "the ruler of a fourth part of a country (\"tetrarch\")",
+    "definition": {
+        "a tetrarch": {
+            "a governor of the fourth part of a region": {},
+            "the governor of a third part or half a country, or even a ruler of an entire country or district provided it were of comparatively narrow limits; a petty prince": {}
+        }
+    },
+    "origin": "from g5064 and g0757",
+    "related": [
+        "g0757",
+        "g5064"
+    ],
+    "notes": "strabo states that galactia was formerly divided into three parts, each one of which was distributed into four smaller subdivisions, each of which was governed by a tetrarch. strabo relates that thessaly, before the time of philip of macedon, had been divided into four tetrarchies, each having its own tetrarch. antony made herod (afterwards king) and phasael, sons of antipater, tetrarchs of palestine. after the death of herod the great, his sons, achelaus styled an ethnarch, but antipas and philip with the title of tetrarchs, divided and governed the kingdom left by their father."
+}

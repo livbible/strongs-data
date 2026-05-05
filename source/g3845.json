@@ -1,0 +1,23 @@
+{
+    "originalWords": [
+        {
+            "unicode": "παραβαίνω",
+            "transliteration": "parabaínō"
+        }
+    ],
+    "description": "to go contrary to, i.e., violate a command",
+    "definition": {
+        "to go by the side of": {},
+        "to go past or pass over without touching a thing": {},
+        "to overstep, neglect, violate, transgress": {},
+        "so to go past as to turn aside from": {
+            "to depart, leave, be turned from": {}
+        },
+        "one who abandons his trust": {}
+    },
+    "origin": "from g3844 and the base of g0939",
+    "related": [
+        "g0939",
+        "g3844"
+    ]
+}

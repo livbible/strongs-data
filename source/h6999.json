@@ -1,0 +1,23 @@
+{
+    "originalWords": "קטר",
+    "description": "to smoke, i.e., turn into fragrance by fire (especially as an act of worship)",
+    "definition": {
+        "(v) to sacrifice, burn incense, burn sacrifices, make sacrifices smoke": {
+            "(piel)": {
+                "to make sacrifices smoke": {},
+                "to sacrifice": {}
+            },
+            "(pual) to smoke a sacrifice": {},
+            "(hiphil)": {
+                "to make sacrifices smoke": {},
+                "to cause incense to smoke, offer incense": {},
+                "to make smoke upon": {}
+            },
+            "(hophal) to be made to smoke": {}
+        },
+        "(n m) incense": {},
+        "(n f) incense-altar": {}
+    },
+    "origin": "a primitive root (identical with through the idea of fumigation in a close place and perhaps thus driving out the occupants)",
+    "related": []
+}

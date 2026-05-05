@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀνέκλειπτος",
+            "transliteration": "anékleiptos"
+        }
+    ],
+    "description": "not left out, i.e., (by implication) inexhaustible",
+    "definition": {
+        "unfailing": {}
+    },
+    "origin": "from g0001 (as a negative particle) and a presumed derivative of g1587",
+    "related": [
+        "g0001",
+        "g1587"
+    ]
+}

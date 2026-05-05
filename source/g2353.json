@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "θρέμμα",
+            "transliteration": "thrémma"
+        }
+    ],
+    "description": "stock (as raised on a farm)",
+    "definition": {
+        "whatever is fed or nursed": {
+            "a ward, nursling, child": {}
+        },
+        "a flock, cattle, especially sheep and goats": {}
+    },
+    "origin": "from g5142",
+    "related": [
+        "g5142"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κατάβασις",
+            "transliteration": "katábasis"
+        }
+    ],
+    "description": "a declivity",
+    "definition": {
+        "descent": {
+            "the act of descending": {},
+            "the place of descent": {
+                "that part of the mountain where the descent is made": {}
+            }
+        }
+    },
+    "origin": "from g2597",
+    "related": [
+        "g2597"
+    ]
+}

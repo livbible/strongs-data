@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Νικόπολις",
+            "transliteration": "Nikópolis"
+        }
+    ],
+    "description": "victorious city; nicopolis, a place in macedonia",
+    "literal": "city of victory",
+    "definition": {
+        "a city in macedonia where paul temporarily dwelt (perhaps thracian nicopolis, founded by trojan on the river nestus)": {}
+    },
+    "origin": "from g3534 and g4172",
+    "related": [
+        "g3534",
+        "g4172"
+    ],
+    "notes": "there were many cities by this name."
+}

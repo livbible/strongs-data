@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ζήτημα",
+            "transliteration": "zḗtēma"
+        }
+    ],
+    "description": "a search (properly concretely), i.e., (in words) a debate",
+    "definition": {
+        "a question, debate": {
+            "about the law": {}
+        }
+    },
+    "origin": "from g2212",
+    "related": [
+        "g2212"
+    ]
+}

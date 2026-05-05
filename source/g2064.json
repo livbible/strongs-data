@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἔρχομαι",
+            "transliteration": "érchomai"
+        }
+    ],
+    "description": "to come or go (in a great variety of applications, literally and figuratively)",
+    "definition": {
+        "to come": {
+            "of persons": {
+                "to come from one place to another, and used both of persons arriving": {},
+                "to appear, make one's appearance, come before the public": {}
+            }
+        },
+        "metaphorically": {
+            "to come into being, arise, come forth, show itself, find place or influence": {},
+            "be established, become known, to come (fall) into or unto": {}
+        },
+        "to go, to follow one": {}
+    },
+    "origin": "middle voice of a primary verb (used only in the present and imperfect tenses, the others being supplied by a kindred (middle voice) ????????? <pronunciation strongs=\"el-yoo'-thom-ahee\"/>, or (active) ???? <pronunciation strongs=\"el'-tho\"/>, which do not otherwise occur)",
+    "related": []
+}

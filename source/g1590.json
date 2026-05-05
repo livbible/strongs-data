@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐκλύω",
+            "transliteration": "eklýō"
+        }
+    ],
+    "description": "to relax (literally or figuratively)",
+    "definition": {
+        "to loose, unloose, to set free": {},
+        "to dissolve, metaphorically, to weaken, relax, exhaust": {
+            "to have one's strength relaxed, to be enfeebled through exhaustion, to grow weak, grow weary, be tired out": {},
+            "to despond, become faint hearted": {}
+        }
+    },
+    "origin": "from g1537 and g3089",
+    "related": [
+        "g1537",
+        "g3089"
+    ]
+}

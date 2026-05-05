@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ψαλμός",
+            "transliteration": "psalmós"
+        }
+    ],
+    "description": "a set piece of music, i.e., a sacred ode (accompanied with the voice, harp or other instrument; a \"psalm\"); collectively, the book of the psalms",
+    "definition": {
+        "a striking, twanging": {
+            "of a striking the chords of a musical instrument": {},
+            "of a pious song, a psalm": {}
+        }
+    },
+    "origin": "from g5567",
+    "related": [
+        "g5567",
+        "g5603"
+    ],
+    "notes": "compare g5603."
+}

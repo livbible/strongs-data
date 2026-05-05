@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ζητέω",
+            "transliteration": "zētéō"
+        }
+    ],
+    "description": "to seek (literally or figuratively); specially, (by hebraism) to worship (god), or (in a bad sense) to plot (against life)",
+    "definition": {
+        "to seek in order to find": {
+            "to seek a thing": {},
+            "to seek [in order to find out] by thinking, meditating, reasoning, to enquire into": {},
+            "to seek after, seek for, aim at, strive after": {}
+        },
+        "to seek i.e., require, demand": {
+            "to crave, demand something from someone": {}
+        }
+    },
+    "origin": "of uncertain affinity",
+    "related": [
+        "g4441"
+    ],
+    "notes": "compare g4441."
+}

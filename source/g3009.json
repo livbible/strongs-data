@@ -1,0 +1,25 @@
+{
+    "originalWords": [
+        {
+            "unicode": "λειτουργία",
+            "transliteration": "leitourgía"
+        }
+    ],
+    "description": "public function (as priest (\"liturgy\") or almsgiver)",
+    "definition": {
+        "a public office which a citizen undertakes to administer at his own expense": {},
+        "any service": {
+            "of military service": {},
+            "of the service of workmen": {},
+            "of that done to nature in the cohabitation of man and wife": {}
+        },
+        "biblical usage": {
+            "a service or ministry of the priests relative to the prayers and sacrifices offered to god": {},
+            "a gift or benefaction for the relief of the needy": {}
+        }
+    },
+    "origin": "from g3008",
+    "related": [
+        "g3008"
+    ]
+}

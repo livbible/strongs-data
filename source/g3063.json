@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "λοιπόν",
+            "transliteration": "loipón"
+        }
+    ],
+    "description": "something remaining (adverbially)",
+    "definition": {
+        "remaining, the rest": {
+            "hereafter, for the future, henceforth": {},
+            "at last, already": {},
+            "for the rest, besides, moreover": {}
+        }
+    },
+    "origin": "neuter singular of the same as g3062",
+    "related": [
+        "g3062"
+    ]
+}

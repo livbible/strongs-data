@@ -1,0 +1,23 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀνήρ",
+            "transliteration": "anḗr"
+        }
+    ],
+    "description": "a man (properly as an individual male)",
+    "definition": {
+        "with reference to sex": {
+            "of a male": {},
+            "of a husband": {},
+            "of a betrothed or future husband": {}
+        },
+        "with reference to age, and to distinguish an adult man from a boy": {},
+        "any male": {},
+        "used generically of a group of both men and women": {}
+    },
+    "origin": "a primary word (compare g0444)",
+    "related": [
+        "g0444"
+    ]
+}

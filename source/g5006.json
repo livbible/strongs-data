@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ταλαντιαῖος",
+            "transliteration": "talantiaîos"
+        }
+    ],
+    "description": "talent-like in weight",
+    "definition": {
+        "a weight or worth of a talent": {
+            "a talent of silver weighed about 100 pounds (45 kg)": {},
+            "a talent of gold, 200 pounds (91 kg)": {}
+        }
+    },
+    "origin": "from g5007",
+    "related": [
+        "g5007"
+    ]
+}

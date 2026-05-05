@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὑπεράνω",
+            "transliteration": "hyperánō"
+        }
+    ],
+    "description": "above upward, i.e., greatly higher (in place or rank)",
+    "definition": {
+        "above": {
+            "above a thing": {},
+            "of a place": {},
+            "of rank or power": {}
+        }
+    },
+    "origin": "from g5228 and g0507",
+    "related": [
+        "g0507",
+        "g5228"
+    ]
+}

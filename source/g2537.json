@@ -1,0 +1,23 @@
+{
+    "originalWords": [
+        {
+            "unicode": "καινός",
+            "transliteration": "kainós"
+        }
+    ],
+    "description": "new (especially in freshness; while g3501 is properly so with respect to age",
+    "definition": {
+        "new": {
+            "as respects form": {
+                "recently made, fresh, recent, unused, unworn": {}
+            },
+            "as respects substance": {
+                "of a new kind, unprecedented, novel, uncommon, unheard of": {}
+            }
+        }
+    },
+    "origin": "of uncertain affinity",
+    "related": [
+        "g3501"
+    ]
+}

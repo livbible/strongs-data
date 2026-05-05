@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Ἰταλικός",
+            "transliteration": "Italikós"
+        }
+    ],
+    "description": "italic, i.e., belonging to italia",
+    "definition": {
+        "italian": {}
+    },
+    "origin": "from g2482",
+    "related": [
+        "g2482"
+    ]
+}

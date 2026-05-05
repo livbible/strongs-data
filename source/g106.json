@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἄζυμος",
+            "transliteration": "ázymos"
+        }
+    ],
+    "description": "unleavened, i.e., (figuratively) uncorrupted; (in the neutral plural) specially (by implication) the passover week",
+    "definition": {
+        "unfermented, free from leaven or yeast": {
+            "of the unleavened loaves used in the paschal feast of the jews": {},
+            "metaphorically free from faults or the \"leaven of iniquity\"": {}
+        }
+    },
+    "origin": "from g0001 (as a negative particle) and g2219",
+    "related": [
+        "g0001",
+        "g2219"
+    ]
+}

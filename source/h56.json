@@ -1,0 +1,24 @@
+{
+    "originalWords": "אבל",
+    "description": "to bewail",
+    "definition": {
+        "to mourn, lament": {
+            "(qal) to mourn, lament": {
+                "of humans": {},
+                "of inanimate objects (figuratively)": {
+                    "of gates": {},
+                    "of land": {}
+                }
+            },
+            "(hiphil)": {
+                "to mourn, cause to mourn (figuratively)": {}
+            },
+            "(hithpael)": {
+                "to mourn": {},
+                "play the mourner": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

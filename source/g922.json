@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "βάρος",
+            "transliteration": "báros"
+        }
+    ],
+    "description": "weight; in the new testament only, figuratively, a load, abundance, authority",
+    "definition": {
+        "heaviness, weight, burden, trouble": {}
+    },
+    "origin": "probably from the same as g0939 (through the notion of going down; compare g0899)",
+    "related": [
+        "g0899",
+        "g0939"
+    ]
+}

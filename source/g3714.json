@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὀρεινός",
+            "transliteration": "oreinós"
+        }
+    ],
+    "description": "mountainous, i.e., (feminine by implication, of g5561) the highlands (of judaea)",
+    "definition": {
+        "mountainous, hilly": {},
+        "the mountain district, hill country": {}
+    },
+    "origin": "from g3735",
+    "related": [
+        "g3735",
+        "g5561"
+    ]
+}

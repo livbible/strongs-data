@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀναβαίνω",
+            "transliteration": "anabaínō"
+        }
+    ],
+    "description": "to go up (literally or figuratively)",
+    "definition": {
+        "ascend": {
+            "to go up": {},
+            "to rise, mount, be borne up, spring up": {}
+        }
+    },
+    "origin": "from g0303 and the base of g0939",
+    "related": [
+        "g0303",
+        "g0939"
+    ]
+}

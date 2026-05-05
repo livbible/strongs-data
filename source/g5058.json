@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "τελώνιον",
+            "transliteration": "telṓnion"
+        }
+    ],
+    "description": "a tax-gatherer's place of business",
+    "definition": {
+        "customs, toll": {},
+        "toll house, place of toll, tax office": {},
+        "the place in which the tax collector sat to collect the taxes": {}
+    },
+    "origin": "neuter of a presumed derivative of g5057",
+    "related": [
+        "g5057"
+    ]
+}

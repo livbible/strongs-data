@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "μήτιγε",
+            "transliteration": "mḗtige"
+        }
+    ],
+    "description": "not at all then, i.e., not to say (the rather still)",
+    "definition": {
+        "to say nothing of, not to mention": {
+            "much less": {},
+            "much more, much rather": {}
+        }
+    },
+    "origin": "from g3385 and g1065",
+    "related": [
+        "g1065",
+        "g3385"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "μακροχρόνιος",
+            "transliteration": "makrochrónios"
+        }
+    ],
+    "description": "long-timed, i.e., long-lived",
+    "definition": {
+        "long lived": {}
+    },
+    "origin": "from g3117 and g5550",
+    "related": [
+        "g3117",
+        "g5550"
+    ]
+}

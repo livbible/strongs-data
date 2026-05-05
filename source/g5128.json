@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "τούτους",
+            "transliteration": "toútous"
+        }
+    ],
+    "description": "these (persons, as objective of verb or preposition)",
+    "definition": {
+        "these": {}
+    },
+    "origin": "accusative case plural masculine of g3778",
+    "related": [
+        "g3778"
+    ]
+}

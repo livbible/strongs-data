@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "καίπερ",
+            "transliteration": "kaíper"
+        }
+    ],
+    "description": "and indeed, i.e., nevertheless or notwithstanding",
+    "definition": {
+        "although": {}
+    },
+    "origin": "from g2532 and g4007",
+    "related": [
+        "g2532",
+        "g4007"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "μηδέ",
+            "transliteration": "mēdé"
+        }
+    ],
+    "description": "but not, not even; in a continued negation, nor",
+    "definition": {
+        "and not, but not, nor, not": {}
+    },
+    "origin": "from g3361 and g1161",
+    "related": [
+        "g1161",
+        "g3361"
+    ]
+}

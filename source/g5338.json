@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "φέγγος",
+            "transliteration": "phéngos"
+        }
+    ],
+    "description": "brilliancy",
+    "definition": {
+        "light": {
+            "of the moon": {},
+            "of a candle or lamp": {}
+        },
+        "the bright sunshine, the beam of light": {}
+    },
+    "origin": "probably akin to the base of g5457 (compare g5350)",
+    "related": [
+        "g5350",
+        "g5457"
+    ]
+}

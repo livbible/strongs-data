@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "μυλικός",
+            "transliteration": "mylikós"
+        }
+    ],
+    "description": "belonging to a mill",
+    "definition": {
+        "belonging to a mill": {},
+        "made of millstone": {}
+    },
+    "origin": "from g3458",
+    "related": [
+        "g3458"
+    ]
+}

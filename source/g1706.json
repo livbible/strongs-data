@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐμπίπτω",
+            "transliteration": "empíptō"
+        }
+    ],
+    "description": "to fall on, i.e., (literally) to be entrapped by, or (figuratively) be overwhelmed with",
+    "definition": {
+        "to fall into": {
+            "to fall among robbers": {},
+            "fall into one's power": {}
+        }
+    },
+    "origin": "from g1722 and g4098",
+    "related": [
+        "g1722",
+        "g4098"
+    ]
+}

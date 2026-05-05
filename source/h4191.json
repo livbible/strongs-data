@@ -1,0 +1,23 @@
+{
+    "originalWords": "מות",
+    "description": "to die (literally or figuratively); causatively, to kill",
+    "definition": {
+        "to die, kill, have one executed": {
+            "(qal)": {
+                "to die": {},
+                "to die (as penalty), be put to death": {},
+                "to die, perish (of a nation)": {},
+                "to die prematurely (by neglect of wise moral conduct)": {}
+            },
+            "(polel) to kill, put to death, dispatch": {},
+            "(hiphil) to kill, put to death": {},
+            "(hophal)": {
+                "to be killed, be put to death": {
+                    "to die prematurely": {}
+                }
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

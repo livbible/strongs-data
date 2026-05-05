@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὁλοκαύτωμα",
+            "transliteration": "holokaútōma"
+        }
+    ],
+    "description": "a wholly-consumed sacrifice (\"holocaust\")",
+    "definition": {
+        "a whole burnt offering": {
+            "a victim the whole (and not like other victims only a part) of which was burned": {}
+        }
+    },
+    "origin": "from a derivative of a compound of g3650 and a derivative of g2545",
+    "related": [
+        "g2545",
+        "g3650"
+    ]
+}

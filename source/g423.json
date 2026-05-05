@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀνεπίληπτος",
+            "transliteration": "anepílēptos"
+        }
+    ],
+    "description": "not arrested, i.e., (by implication) inculpable",
+    "definition": {
+        "not apprehended, that cannot be laid hold of": {},
+        "that cannot be reprehended, not open to censure, irreproachable": {}
+    },
+    "origin": "from g0001 (as a negative particle) and a derivative of g1949",
+    "related": [
+        "g0001",
+        "g1949"
+    ]
+}

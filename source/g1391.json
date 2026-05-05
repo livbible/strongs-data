@@ -1,0 +1,37 @@
+{
+    "originalWords": [
+        {
+            "unicode": "δόξα",
+            "transliteration": "dóxa"
+        }
+    ],
+    "description": "glory (as very apparent), in a wide application (literal or figurative, objective or subjective)",
+    "definition": {
+        "opinion, judgment, view": {},
+        "opinion, estimate, whether good or bad concerning someone": {
+            "in the new testament always a good opinion concerning one, resulting in praise, honor, and glory": {}
+        },
+        "splendor, brightness": {
+            "of the moon, sun, stars": {},
+            "magnificence, excellence, preeminence, dignity, grace": {},
+            "majesty": {
+                "the kingly majesty which belongs to him as supreme ruler, majesty in the sense of the absolute perfection of the deity": {},
+                "a thing belonging to christ": {
+                    "the kingly majesty of the messiah": {},
+                    "the absolutely perfect inward or personal excellency of christ; the majesty": {}
+                },
+                "of the angels": {
+                    "as apparent in their exterior brightness": {}
+                }
+            }
+        },
+        "a most glorious condition, most exalted state": {
+            "of that condition with god the father in heaven to which christ was raised after he had achieved his work on earth": {},
+            "the glorious condition of blessedness into which is appointed and promised that true christians shall enter after their saviour's return from heaven": {}
+        }
+    },
+    "origin": "from the base of g1380",
+    "related": [
+        "g1380"
+    ]
+}

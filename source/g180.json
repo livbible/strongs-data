@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀκατάπαυστος",
+            "transliteration": "akatápaustos"
+        }
+    ],
+    "description": "unrefraining",
+    "definition": {
+        "unable to stop, unceasing": {},
+        "not quieted, that cannot be quieted": {}
+    },
+    "origin": "from g0001 (as a negative particle) and a derivative of g2664",
+    "related": [
+        "g0001",
+        "g2664"
+    ]
+}

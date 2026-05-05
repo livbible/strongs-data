@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κόραξ",
+            "transliteration": "kórax"
+        }
+    ],
+    "description": "a crow (from its voracity)",
+    "definition": {
+        "a raven": {}
+    },
+    "origin": "perhaps from g2880",
+    "related": [
+        "g2880"
+    ]
+}

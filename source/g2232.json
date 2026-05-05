@@ -1,0 +1,25 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἡγεμών",
+            "transliteration": "hēgemṓn"
+        }
+    ],
+    "description": "a leader, i.e., chief person (or figuratively, place) of a province",
+    "definition": {
+        "a leader of any kind, a guide, ruler, prefect, president, chief, general, commander, sovereign": {
+            "a \"legatus caesaris\" (an officer administering a province in the name and with the authority of the roman emperor)": {
+                "the governor of a province": {}
+            },
+            "a procurator, an officer who was attached to a proconsul or a proprietor and had charge of the imperial revenues": {
+                "in causes relating to these revenues he administered justice": {}
+            },
+            "of a principal town as the capital of the region": {}
+        }
+    },
+    "origin": "from g2233",
+    "related": [
+        "g2233"
+    ],
+    "notes": "in the smaller provinces also, which were so to speak appendages of the greater, he discharged the functions of governor of the province; and such was the relation of the procurator of judaea to the governor of syria."
+}

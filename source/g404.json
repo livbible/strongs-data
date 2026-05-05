@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀναψύχω",
+            "transliteration": "anapsýchō"
+        }
+    ],
+    "description": "properly, to cool off, i.e., (figuratively) relieve",
+    "definition": {
+        "to cool again, to cool off, recover from the effects of heat": {
+            "to refresh (one's spirit)": {}
+        },
+        "to recover breath, take the air, cool off, revive, refresh one's self": {}
+    },
+    "origin": "from g0303 and g5594",
+    "related": [
+        "g0303",
+        "g5594"
+    ]
+}

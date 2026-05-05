@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἄνευ",
+            "transliteration": "áneu"
+        }
+    ],
+    "description": "without",
+    "definition": {
+        "without one's will or intervention": {}
+    },
+    "origin": "a primary particle",
+    "related": [
+        "g0001"
+    ],
+    "notes": "compare g0001."
+}

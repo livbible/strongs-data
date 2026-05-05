@@ -1,0 +1,22 @@
+{
+    "originalWords": "לוץ",
+    "description": "properly, to make mouths at, i.e., to scoff; hence (from the effort to pronounce a foreign language) to interpret, or (generally) intercede",
+    "definition": {
+        "to scorn, make mouths at, talk arrogantly": {
+            "(qal)": {
+                "to boast": {},
+                "to scorn": {}
+            },
+            "(hiphil)": {
+                "to mock, deride": {},
+                "to interpret (language)": {
+                    "interpreter (participle)": {},
+                    "ambassador (figuratively)": {}
+                }
+            },
+            "(hithpalpel) to be inflated, scoff, act as a scorner, show oneself a mocker": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

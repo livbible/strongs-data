@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐνδείκνυμι",
+            "transliteration": "endeíknymi"
+        }
+    ],
+    "description": "to indicate (by word or act)",
+    "definition": {
+        "to point out": {
+            "to show, demonstrate, prove, whether by arguments or by acts": {}
+        },
+        "to manifest, display, put forth": {}
+    },
+    "origin": "from g1722 and g1166",
+    "related": [
+        "g1166",
+        "g1722"
+    ]
+}

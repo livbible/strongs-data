@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὁροθεσία",
+            "transliteration": "horothesía"
+        }
+    ],
+    "description": "a limit-placing, i.e., (concretely) boundary-line",
+    "definition": {
+        "a setting of boundaries, laying down limits": {},
+        "a definite limit, bounds": {}
+    },
+    "origin": "from a compound of the base of g3725 and a derivative of g5087",
+    "related": [
+        "g3725",
+        "g5087"
+    ]
+}

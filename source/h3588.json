@@ -1,0 +1,27 @@
+{
+    "originalWords": "כי",
+    "description": "(by implication) very widely used as a relative conjunction or adverb (as below); often largely modified by other particles annexed",
+    "definition": {
+        "that, for, because, when, as though, as, because that, but, then, certainly, except, surely, since": {
+            "that": {
+                "yea, indeed": {}
+            },
+            "when (of time)": {
+                "when, if, though (with a concessive force)": {}
+            },
+            "because, since (causal connection)": {},
+            "but (after negative)": {},
+            "that if, for if, indeed if, for though, but if": {},
+            "but rather, but": {},
+            "except that": {},
+            "only, nevertheless": {},
+            "surely": {},
+            "that is": {},
+            "but if": {},
+            "for though": {},
+            "forasmuch as, for therefore": {}
+        }
+    },
+    "origin": "a primitive particle (the full form of the prepositional prefix) indicating causal relations of all kinds, antecedent or consequent",
+    "related": []
+}

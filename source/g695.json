@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀργυροκόπος",
+            "transliteration": "argyrokópos"
+        }
+    ],
+    "description": "a beater (i.e., worker) of silver",
+    "definition": {
+        "a silversmith": {}
+    },
+    "origin": "from g0696 and g2875",
+    "related": [
+        "g0696",
+        "g2875"
+    ]
+}

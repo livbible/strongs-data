@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "παραγίνομαι",
+            "transliteration": "paragínomai"
+        }
+    ],
+    "description": "to become near, i.e., approach (have arrived); by implication, to appear publicly",
+    "definition": {
+        "to be present, to come near, approach": {},
+        "to come forth, make one's public appearance": {}
+    },
+    "origin": "from g3844 and g1096",
+    "related": [
+        "g1096",
+        "g3844"
+    ]
+}

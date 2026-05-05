@@ -1,0 +1,34 @@
+{
+    "originalWords": "שמם",
+    "description": "to stun (or intransitively, grow numb), i.e., devastate or (figuratively) stupefy (both usually in a passive sense)",
+    "definition": {
+        "to be desolate, be appalled, stun, stupefy": {
+            "(qal)": {
+                "to be desolated, be deflowered, be deserted, be appalled": {},
+                "to be appalled, be awestruck": {}
+            },
+            "(niphal)": {
+                "to be desolated, be made desolate": {},
+                "to be appalled": {}
+            },
+            "(polel)": {
+                "to be stunned": {},
+                "appalling, causing horror (participle)": {
+                    "horror-causer, appaller (subst)": {}
+                }
+            },
+            "(hiphil)": {
+                "to devastate, ravage, make desolated": {},
+                "to appal, show horror": {}
+            },
+            "(hophal) to lay desolate, be desolated": {},
+            "(hithpolel)": {
+                "to cause to be desolate": {},
+                "to be appalled, be astounded": {},
+                "to cause oneself desolation, cause oneself ruin": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

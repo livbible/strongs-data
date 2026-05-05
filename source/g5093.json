@@ -1,0 +1,25 @@
+{
+    "originalWords": [
+        {
+            "unicode": "τίμιος",
+            "transliteration": "tímios"
+        },
+        {
+            "unicode": "τιμιώτερος",
+            "transliteration": "timiṓteros"
+        },
+        {
+            "unicode": "τιμιώτατος",
+            "transliteration": "timiṓtatos"
+        }
+    ],
+    "description": "valuable, i.e., (objectively) costly, or (subjectively) honored, esteemed, or (figuratively) beloved",
+    "definition": {
+        "as of great price, precious": {},
+        "held in honor, esteemed, especially dear": {}
+    },
+    "origin": "from g5092",
+    "related": [
+        "g5092"
+    ]
+}

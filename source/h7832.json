@@ -1,0 +1,20 @@
+{
+    "originalWords": "שחק",
+    "description": "to laugh (in pleasure or detraction); by implication, to play",
+    "definition": {
+        "to laugh, play, mock": {
+            "(qal)": {
+                "to laugh (usually in contempt or derision)": {},
+                "to sport, play": {}
+            },
+            "(piel)": {
+                "to make sport": {},
+                "to jest": {},
+                "to play (including instrumental music, singing, dancing)": {}
+            },
+            "(hiphil) to laugh mockingly": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

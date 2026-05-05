@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐνέργημα",
+            "transliteration": "enérgēma"
+        }
+    ],
+    "description": "an effect",
+    "definition": {
+        "thing wrought": {},
+        "effect operation": {}
+    },
+    "origin": "from g1754",
+    "related": [
+        "g1754"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κόλασις",
+            "transliteration": "kólasis"
+        }
+    ],
+    "description": "penal infliction",
+    "definition": {
+        "correction, punishment, penalty": {}
+    },
+    "origin": "from g2849",
+    "related": [
+        "g2849"
+    ]
+}

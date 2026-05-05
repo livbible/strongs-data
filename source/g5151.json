@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "τρίς",
+            "transliteration": "trís"
+        }
+    ],
+    "description": "three times",
+    "definition": {
+        "thrice": {}
+    },
+    "origin": "adverb from g5140",
+    "related": [
+        "g5140"
+    ]
+}

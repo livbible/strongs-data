@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἄγνωστος",
+            "transliteration": "ágnōstos"
+        }
+    ],
+    "description": "unknown",
+    "definition": {
+        "unknown, forgotten": {}
+    },
+    "origin": "from g0001 (as negative particle) and g1110",
+    "related": [
+        "g0001",
+        "g1110"
+    ]
+}

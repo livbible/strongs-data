@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "προμαρτύρομαι",
+            "transliteration": "promartýromai"
+        }
+    ],
+    "description": "to be a witness in advance i.e., predict",
+    "definition": {
+        "antetestor": {},
+        "to testify beforehand": {
+            "to make known, predict": {}
+        }
+    },
+    "origin": "from g4253 and g3143",
+    "related": [
+        "g3143",
+        "g4253"
+    ]
+}

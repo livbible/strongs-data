@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἤπερ",
+            "transliteration": "ḗper"
+        }
+    ],
+    "description": "than at all (or than perhaps, than indeed)",
+    "definition": {
+        "than": {}
+    },
+    "origin": "from g2228 and g4007",
+    "related": [
+        "g2228",
+        "g4007"
+    ]
+}

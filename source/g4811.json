@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "συκοφαντέω",
+            "transliteration": "sykophantéō"
+        }
+    ],
+    "description": "to be a fig-informer (reporter of the law forbidding the exportation of figs from greece), \"sycophant\", i.e., (genitive and by extension) to defraud (exact unlawfully, extort)",
+    "definition": {
+        "to accuse wrongfully, to calumniate, to attack by malicious devices": {},
+        "to exact money wrongfully": {
+            "to extort from, defraud": {}
+        }
+    },
+    "origin": "from a compound of g4810 and a derivative of g5316",
+    "related": [
+        "g4810",
+        "g5316"
+    ],
+    "notes": "at athens those were ?????????? whose business it was to inform against any one whom they might detect exporting figs out of attica, and as sometimes they seemed to extort money from those loath to be exposed, the name \"??????????\" from the time of aristophanes down was a general term of opprobrium to designate, a malignant and base accuser for love of gain."
+}

@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ποταμοφόρητος",
+            "transliteration": "potamophórētos"
+        }
+    ],
+    "description": "river-borne, i.e., overwhelmed by a stream",
+    "definition": {
+        "carried away by a stream (i.e., overwhelmed, drowned in the waters)": {}
+    },
+    "origin": "from g4215 and a derivative of g5409",
+    "related": [
+        "g4215",
+        "g5409"
+    ]
+}

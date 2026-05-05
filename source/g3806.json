@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πάθος",
+            "transliteration": "páthos"
+        }
+    ],
+    "description": "properly, suffering (\"pathos\"), i.e., (subjectively) a passion (especially concupiscence)",
+    "definition": {
+        "whatever befalls one, whether it be sad or joyous": {
+            "specifically a calamity, mishap, evil, affliction": {}
+        },
+        "a feeling which the mind suffers": {
+            "an affliction of the mind, emotion, passion": {},
+            "passionate deed": {},
+            "used by the greeks in either a good or bad sense": {},
+            "in the new testament in a bad sense, depraved passion, vile passions": {}
+        }
+    },
+    "origin": "from the alternate of g3958",
+    "related": [
+        "g3958"
+    ]
+}

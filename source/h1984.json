@@ -1,0 +1,28 @@
+{
+    "originalWords": "הלל",
+    "description": "to be clear (orig. of sound, but usually of color); to shine; hence, to make a show, to boast; and thus to be (clamorously) foolish; to rave; causatively, to celebrate; also to stultify",
+    "definition": {
+        "to shine": {
+            "(qal) to shine (figurative for god's favor)": {},
+            "(hiphil) to flash forth light": {}
+        },
+        "to praise, boast, be boastful": {
+            "(qal)": {
+                "to be boastful": {},
+                "boastful ones, boasters (participle)": {}
+            },
+            "(piel)": {
+                "to praise": {},
+                "to boast, make a boast": {}
+            },
+            "(pual)": {
+                "to be praised, be made praiseworthy, be commended, be worthy of praise": {}
+            },
+            "(hithpael) to boast, glory, make one's boast": {},
+            "(poel) to make a fool of, make into a fool": {},
+            "(hithpoel) to act madly, act like a madman": {}
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κυλλός",
+            "transliteration": "kyllós"
+        }
+    ],
+    "description": "rocking about, i.e., crippled (maimed, in feet or hands)",
+    "definition": {
+        "crooked": {
+            "of the members of the body": {},
+            "injured, disabled": {}
+        },
+        "maimed, mutilated": {}
+    },
+    "origin": "from the same as g2947",
+    "related": [
+        "g2947"
+    ]
+}

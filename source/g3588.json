@@ -1,0 +1,22 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ὁ",
+            "transliteration": "ho"
+        },
+        {
+            "unicode": "ἡ",
+            "transliteration": "hē"
+        },
+        {
+            "unicode": "τό",
+            "transliteration": "tó"
+        }
+    ],
+    "description": "the (sometimes to be supplied, at others omitted, in english idiom)",
+    "definition": {
+        "this, that, these, etc. only significant renderings other than \"the\" counted": {}
+    },
+    "origin": "the definite article",
+    "related": []
+}

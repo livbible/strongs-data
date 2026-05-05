@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "γράμμα",
+            "transliteration": "grámma"
+        }
+    ],
+    "description": "a writing, i.e., a letter, note, epistle, book, etc.; plural learning",
+    "definition": {
+        "a letter": {},
+        "any writing, a document or record": {
+            "a note of hand, bill, bond, account, written acknowledgement of a debt": {},
+            "a letter, an epistle": {},
+            "the sacred writings (of the old testament)": {}
+        },
+        "letters, i.e., learning": {
+            "of sacred learning": {}
+        }
+    },
+    "origin": "from g1125",
+    "related": [
+        "g1125"
+    ]
+}

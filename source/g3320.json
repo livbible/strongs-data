@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "μεσότοιχον",
+            "transliteration": "mesótoichon"
+        }
+    ],
+    "description": "a partition (figuratively)",
+    "definition": {
+        "a partition wall": {}
+    },
+    "origin": "from g3319 and g5109",
+    "related": [
+        "g3319",
+        "g5109"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "συγγένεια",
+            "transliteration": "syngéneia"
+        }
+    ],
+    "description": "relationship, i.e., (concretely) relatives",
+    "definition": {
+        "a kinship, relationship": {},
+        "kindred, relations collectively, family": {}
+    },
+    "origin": "from g4773",
+    "related": [
+        "g4773"
+    ]
+}

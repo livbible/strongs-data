@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "συναποστέλλω",
+            "transliteration": "synapostéllō"
+        }
+    ],
+    "description": "to despatch (on an errand) in company with",
+    "definition": {
+        "to send with": {}
+    },
+    "origin": "from g4862 and g0649",
+    "related": [
+        "g0649",
+        "g4862"
+    ]
+}

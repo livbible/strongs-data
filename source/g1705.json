@@ -1,0 +1,22 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐμπίπλημι",
+            "transliteration": "empíplēmi"
+        },
+        {
+            "unicode": "ἐμπλήθω",
+            "transliteration": "emplḗthō"
+        }
+    ],
+    "description": "to fill in (up), i.e., (by implication) to satisfy (literally or figuratively)",
+    "definition": {
+        "to fill up, fill full": {},
+        "to take one's fill of, glut one's desire for, satisfy, satiate": {}
+    },
+    "origin": "from g1722 and the base of g4118",
+    "related": [
+        "g1722",
+        "g4118"
+    ]
+}

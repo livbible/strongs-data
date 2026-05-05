@@ -1,0 +1,26 @@
+{
+    "originalWords": [
+        {
+            "unicode": "τρέχω",
+            "transliteration": "tréchō"
+        }
+    ],
+    "description": "which uses ????? <pronunciation strongs=\"drem'-o\"/> (the base of g1408) as alternate in certain tenses; to run or walk hastily (literally or figuratively)",
+    "definition": {
+        "to run": {
+            "of persons in haste": {},
+            "of those who run in a race course": {}
+        },
+        "metaphorically": {
+            "of doctrine rapidly propagated": {},
+            "by a metaphor taken from runners in a race, to exert one's self, strive hard": {},
+            "to spend one's strength in performing or attaining something": {},
+            "word occurs in greek writings denoting to incur extreme peril, which it requires the exertion of all one's effort to overcome": {}
+        }
+    },
+    "origin": "apparently a primary verb (properly, ?????; compare g2359)",
+    "related": [
+        "g1408",
+        "g2359"
+    ]
+}

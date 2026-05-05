@@ -1,0 +1,20 @@
+{
+    "originalWords": "הרס",
+    "description": "to pull down or in pieces, break, destroy",
+    "definition": {
+        "to tear down, break down, overthrow, beat down, break, break through, destroy, pluck down, pull down, throw down, ruined, destroyer, utterly": {
+            "(qal)": {
+                "to throw down, tear down": {},
+                "to break through": {},
+                "to break down, break away": {}
+            },
+            "(niphal) to be torn down, be thrown down": {},
+            "(piel)": {
+                "to overthrow, tear down": {},
+                "destroyer (participle)": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

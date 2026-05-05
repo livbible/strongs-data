@@ -1,0 +1,37 @@
+{
+    "originalWords": "שמע",
+    "description": "to hear intelligently (often with implication of attention, obedience, etc.; causatively, to tell, etc.)",
+    "definition": {
+        "(v) to hear, listen to, obey": {
+            "(qal)": {
+                "to hear (perceive by ear)": {},
+                "to hear of or concerning": {},
+                "to hear (have power to hear)": {},
+                "to hear with attention or interest, listen to": {},
+                "to understand (language)": {},
+                "to hear (of judicial cases)": {},
+                "to listen, give heed": {
+                    "to consent, agree": {},
+                    "to grant request": {}
+                },
+                "to listen to, yield to": {},
+                "to obey, be obedient": {}
+            },
+            "(niphal)": {
+                "to be heard (of voice or sound)": {},
+                "to be heard of": {},
+                "to be regarded, be obeyed": {}
+            },
+            "(piel) to cause to hear, call to hear, summon": {},
+            "(hiphil)": {
+                "to cause to hear, tell, proclaim, utter a sound": {},
+                "to sound aloud (musical term)": {},
+                "to make proclamation, summon": {},
+                "to cause to be heard": {}
+            }
+        },
+        "(n m) sound": {}
+    },
+    "origin": "a primitive root",
+    "related": []
+}

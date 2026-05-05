@@ -1,0 +1,22 @@
+{
+    "originalWords": "חצב",
+    "description": "to cut or carve (wood, stone or other material); by implication, to hew, split, square, quarry, engrave",
+    "definition": {
+        "to dig, cleave, divide, hew, make, cut out, dig out, cut down, quarry, hewer, mason": {
+            "(qal)": {
+                "to hew out, dig": {},
+                "to hew": {
+                    "stone": {},
+                    "wood": {}
+                },
+                "to hew in pieces (metaphorically)": {},
+                "to divide, cleave": {}
+            },
+            "(niphal) to be cut, be hewn, be engraved": {},
+            "(hiphil) to hew into pieces, cut up into pieces": {},
+            "(pual) to be cut from, be hewn from": {}
+        }
+    },
+    "origin": "or ?????; a primitive root",
+    "related": []
+}

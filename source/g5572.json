@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ψευδοδιδάσκαλος",
+            "transliteration": "pseudodidáskalos"
+        }
+    ],
+    "description": "a spurious teacher, i.e., propagator of erroneous christian doctrine",
+    "definition": {
+        "a false teacher": {}
+    },
+    "origin": "from g5571 and g1320",
+    "related": [
+        "g1320",
+        "g5571"
+    ]
+}

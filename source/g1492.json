@@ -1,0 +1,43 @@
+{
+    "originalWords": [
+        {
+            "unicode": "εἴδω",
+            "transliteration": "eídō"
+        }
+    ],
+    "description": "used only in certain past tenses, the others being borrowed from the equivalent g3700 and g3708; properly, to see (literally or figuratively); by implication, (in the perfect tense only) to know",
+    "definition": {
+        "to see": {
+            "to perceive with the eyes": {},
+            "to perceive by any of the senses": {},
+            "to perceive, notice, discern, discover": {},
+            "to see": {
+                "i.e., to turn the eyes, the mind, the attention to anything": {},
+                "to pay attention, observe": {},
+                "to see about something": {
+                    "i.e., to ascertain what must be done about it": {}
+                },
+                "to inspect, examine": {},
+                "to look at, behold": {}
+            },
+            "to experience any state or condition": {},
+            "to see i.e., have an interview with, to visit": {}
+        },
+        "to know": {
+            "to know of anything": {},
+            "to know, i.e., get knowledge of, understand, perceive": {
+                "of any fact": {},
+                "the force and meaning of something which has definite meaning": {},
+                "to know how, to be skilled in": {}
+            },
+            "to have regard for one, cherish, pay attention to (1 thessalonians 5:12)": {}
+        }
+    },
+    "origin": "a primary verb",
+    "related": [
+        "g3700",
+        "g3700",
+        "g3708"
+    ],
+    "notes": "compare g3700."
+}

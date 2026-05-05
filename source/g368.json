@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀναντίῤῥητος",
+            "transliteration": "anantírrhētos"
+        }
+    ],
+    "description": "indisputable",
+    "definition": {
+        "not to be contradicted, undeniable": {}
+    },
+    "origin": "from g0001 (as a negative particle) and a presumed derivative of a compound of g0473 and g4483",
+    "related": [
+        "g0001",
+        "g0473",
+        "g4483"
+    ]
+}

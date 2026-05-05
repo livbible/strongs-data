@@ -1,0 +1,22 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐργάζομαι",
+            "transliteration": "ergázomai"
+        }
+    ],
+    "description": "to toil (as a task, occupation, etc.), (by implication) effect, be engaged in or with, etc",
+    "definition": {
+        "to work, labor, do work": {},
+        "to trade, to make gains by trading, \"do business\"": {},
+        "to do, work out": {
+            "exercise, perform, commit": {},
+            "to cause to exist, produce": {}
+        },
+        "to work for, earn by working, to acquire": {}
+    },
+    "origin": "middle voice from g2041",
+    "related": [
+        "g2041"
+    ]
+}

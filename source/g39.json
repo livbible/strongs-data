@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἅγιον",
+            "transliteration": "hágion"
+        }
+    ],
+    "description": "a sacred thing (i.e., spot)",
+    "definition": {
+        "reverend, worthy of veneration": {
+            "of things which on account of some connection with god possess a certain distinction and claim to reverence, as places sacred to god which are not to be profaned": {},
+            "of persons whose services god employs, for example, apostles": {}
+        },
+        "set apart for god, to be as it were, exclusively his": {},
+        "services and offerings": {
+            "prepared for god with solemn rite, pure, clean": {}
+        },
+        "in a moral sense, pure sinless upright holy": {}
+    },
+    "origin": "neuter of g0040",
+    "related": [
+        "g0040"
+    ]
+}

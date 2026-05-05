@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀπολαμβάνω",
+            "transliteration": "apolambánō"
+        }
+    ],
+    "description": "to receive (specially, in full, or as a host); also to take aside",
+    "definition": {
+        "to receive": {
+            "of what is due or promised": {}
+        },
+        "to take again or back, to recover": {
+            "to receive by way of retribution": {}
+        },
+        "to take from others, take apart or aside": {},
+        "to receive any one hospitably": {}
+    },
+    "origin": "from g0575 and g2983",
+    "related": [
+        "g0575",
+        "g2983"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "originalWords": "אבד",
+    "description": "properly, to wander away, i.e., lose oneself; by implication to perish (causative, destroy)",
+    "definition": {
+        "perish, vanish, go astray, be destroyed": {
+            "(qal)": {
+                "perish, die, be exterminated": {},
+                "vanish (figuratively)": {},
+                "be lost, strayed": {}
+            },
+            "(piel)": {
+                "to destroy, kill, cause to perish, to give up (as lost), exterminate": {},
+                "to blot out (figuratively), do away with (figuratively), cause to vanish (figuratively)": {},
+                "cause to stray, lose": {}
+            },
+            "(hiphil)": {
+                "to destroy, put to death": {
+                    "of divine judgment": {}
+                },
+                "object name of kings (figuratively)": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

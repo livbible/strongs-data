@@ -1,0 +1,27 @@
+{
+    "originalWords": "נכה",
+    "description": "to strike (lightly or severely, literally or figuratively)",
+    "definition": {
+        "to strike, smite, hit, beat, slay, kill": {
+            "(niphal) to be stricken or smitten": {},
+            "(pual) to be stricken or smitten": {},
+            "(hiphil)": {
+                "to smite, strike, beat, scourge, clap, applaud, give a thrust": {},
+                "to smite, kill, slay (man or beast)": {},
+                "to smite, attack, attack and destroy, conquer, subjugate, ravage": {},
+                "to smite, chastise, send judgment upon, punish, destroy": {}
+            },
+            "(hophal) to be smitten": {
+                "to receive a blow": {},
+                "to be wounded": {},
+                "to be beaten": {},
+                "to be (fatally) smitten, be killed, be slain": {},
+                "to be attacked and captured": {},
+                "to be smitten (with disease)": {},
+                "to be blighted (of plants)": {}
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

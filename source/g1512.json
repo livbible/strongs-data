@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "εἴ περ",
+            "transliteration": "eí per"
+        }
+    ],
+    "description": "if perhaps",
+    "definition": {
+        "if indeed, since, if after all": {}
+    },
+    "origin": "from g1487 and g4007",
+    "related": [
+        "g1487",
+        "g4007"
+    ]
+}

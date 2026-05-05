@@ -1,0 +1,25 @@
+{
+    "originalWords": [
+        {
+            "unicode": "προσλαμβάνω",
+            "transliteration": "proslambánō"
+        }
+    ],
+    "description": "to take to oneself, i.e., use (food), lead (aside), admit (to friendship or hospitality)",
+    "definition": {
+        "to take to, take in addition, to take to one's self": {
+            "to take as one's companion": {},
+            "to take by the hand in order to lead aside": {},
+            "to take or receive into one's home, with the collateral idea of kindness": {},
+            "to receive, i.e., grant one access to one's heart": {
+                "to take into friendship and intercourse": {}
+            },
+            "to take to one's self, to take: i.e., food": {}
+        }
+    },
+    "origin": "from g4314 and g2983",
+    "related": [
+        "g2983",
+        "g4314"
+    ]
+}

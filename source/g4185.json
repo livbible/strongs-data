@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πολυτελής",
+            "transliteration": "polytelḗs"
+        }
+    ],
+    "description": "extremely expensive",
+    "definition": {
+        "precious": {
+            "requiring very great outlay, very costly": {},
+            "excellent, of surpassing value": {}
+        }
+    },
+    "origin": "from g4183 and g5056",
+    "related": [
+        "g4183",
+        "g5056"
+    ]
+}

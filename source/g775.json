@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "Ἀσιάρχης",
+            "transliteration": "Asiárchēs"
+        }
+    ],
+    "description": "an asiarch or president of the public festivities in a city of asia minor",
+    "definition": {
+        "an asiarch, president of asia": {}
+    },
+    "origin": "from g0773 and g0746",
+    "related": [
+        "g0746",
+        "g0773"
+    ],
+    "notes": "each of the cities of proconsular asia, at the autumnal equinox, assembled its most honorable and opulent citizens in order to select one to preside over the games to be exhibited that year, at his expense, in the honor of the gods and the roman emperor. thereupon each city reported the name of the person selected to a general assembly held by some leading city, as ephesus, smyrna, sardis. the general council selected ten out of the number of candidates, and sent them to the proconsul, and the proconsul chose one of these ten to preside over the rest."
+}

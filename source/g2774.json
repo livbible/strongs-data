@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "κεφάλαιον",
+            "transliteration": "kephálaion"
+        }
+    ],
+    "description": "a principal thing, i.e., main point; specially, an amount (of money)",
+    "definition": {
+        "the chief or main point, the principal thing": {},
+        "the pecuniary sum total of a reckoning, amount": {
+            "the principal, capital, as distinguished from the interest": {},
+            "a sum of money, sum": {}
+        }
+    },
+    "origin": "neuter of a derivative of g2776",
+    "related": [
+        "g2776"
+    ]
+}

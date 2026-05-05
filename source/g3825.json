@@ -1,0 +1,21 @@
+{
+    "originalWords": [
+        {
+            "unicode": "πάλιν",
+            "transliteration": "pálin"
+        }
+    ],
+    "description": "(adverbially) anew, i.e., (of place) back, (of time) once more, or (conjunctionally) furthermore or on the other hand",
+    "definition": {
+        "anew, again": {
+            "renewal or repetition of the action": {},
+            "again, anew": {}
+        },
+        "again, i.e., further, moreover": {},
+        "in turn, on the other hand": {}
+    },
+    "origin": "probably from the same as g3823 (through the idea of oscillatory repetition)",
+    "related": [
+        "g3823"
+    ]
+}

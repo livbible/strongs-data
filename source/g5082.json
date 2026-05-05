@@ -1,0 +1,28 @@
+{
+    "originalWords": [
+        {
+            "unicode": "τηλικοῦτος",
+            "transliteration": "tēlikoûtos"
+        },
+        {
+            "unicode": "τηλικαύτη",
+            "transliteration": "tēlikaútē"
+        }
+    ],
+    "description": "such as this, i.e., (in (figurative) magnitude) so vast",
+    "definition": {
+        "of age": {
+            "of such an age": {},
+            "of so great an age, so old": {},
+            "so young": {}
+        },
+        "of so great a size, in bulk": {},
+        "such and so great": {}
+    },
+    "origin": "from a compound of g3588 with g2245 and g3778",
+    "related": [
+        "g2245",
+        "g3588",
+        "g3778"
+    ]
+}

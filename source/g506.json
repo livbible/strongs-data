@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀνυπότακτος",
+            "transliteration": "anypótaktos"
+        }
+    ],
+    "description": "unsubdued, i.e., insubordinate (in fact or temper)",
+    "definition": {
+        "not made subject, unsubjected": {},
+        "that cannot be subjected to control, disobedient, unruly, refractory": {}
+    },
+    "origin": "from g0001 (as a negative particle) and a presumed derivative of g5293",
+    "related": [
+        "g0001",
+        "g5293"
+    ]
+}

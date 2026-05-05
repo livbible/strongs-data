@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "μήτε",
+            "transliteration": "mḗte"
+        }
+    ],
+    "description": "not too, i.e., (in continued negation) neither or nor; also, not even",
+    "definition": {
+        "and not, neither ... nor, not so": {}
+    },
+    "origin": "from g3361 and g5037",
+    "related": [
+        "g3361",
+        "g5037"
+    ]
+}

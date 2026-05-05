@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἐπιγραφή",
+            "transliteration": "epigraphḗ"
+        }
+    ],
+    "description": "an inscription",
+    "definition": {
+        "an inscription, title": {
+            "in the new testament of an inscription in black letters upon a whitened tablet": {},
+            "of the inscription on a coin": {}
+        }
+    },
+    "origin": "from g1924",
+    "related": [
+        "g1924"
+    ]
+}

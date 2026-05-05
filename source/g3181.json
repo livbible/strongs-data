@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "μεθόριος",
+            "transliteration": "methórios"
+        }
+    ],
+    "description": "bounded alongside, i.e., contiguous (neuter plural as noun, frontier)",
+    "definition": {
+        "a border, frontier": {}
+    },
+    "origin": "from g3326 and g3725",
+    "related": [
+        "g3326",
+        "g3725"
+    ]
+}

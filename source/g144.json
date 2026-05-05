@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "αἴσθησις",
+            "transliteration": "aísthēsis"
+        }
+    ],
+    "description": "perception, i.e., (figuratively) discernment",
+    "definition": {
+        "perception, not only by the senses but by the intellect": {},
+        "cognition, discernment": {
+            "of moral discernment in ethical matters": {}
+        }
+    },
+    "origin": "from g0143",
+    "related": [
+        "g0143"
+    ]
+}

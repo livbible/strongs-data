@@ -1,0 +1,19 @@
+{
+    "originalWords": [
+        {
+            "unicode": "εἰκῆ",
+            "transliteration": "eikē"
+        }
+    ],
+    "description": "idly, i.e., without reason (or effect)",
+    "definition": {
+        "inconsiderably, without purpose, without just cause": {},
+        "in vain": {
+            "without success or effort": {}
+        }
+    },
+    "origin": "probably from g1502 (through the idea of failure)",
+    "related": [
+        "g1502"
+    ]
+}

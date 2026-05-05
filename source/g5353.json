@@ -1,0 +1,16 @@
+{
+    "originalWords": [
+        {
+            "unicode": "φθόγγος",
+            "transliteration": "phthóngos"
+        }
+    ],
+    "description": "utterance, i.e., a musical note (vocal or instrumental)",
+    "definition": {
+        "musical sound, whether vocal or instrumental": {}
+    },
+    "origin": "from g5350",
+    "related": [
+        "g5350"
+    ]
+}

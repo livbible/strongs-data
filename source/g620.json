@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀπολείπω",
+            "transliteration": "apoleípō"
+        }
+    ],
+    "description": "to leave behind (passively, remain); by implication, to forsake",
+    "definition": {
+        "to leave, to leave behind": {},
+        "to desert or forsake": {}
+    },
+    "origin": "from g0575 and g3007",
+    "related": [
+        "g0575",
+        "g3007"
+    ]
+}

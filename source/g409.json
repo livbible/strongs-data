@@ -1,0 +1,17 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀνδροφόνος",
+            "transliteration": "androphónos"
+        }
+    ],
+    "description": "a murderer",
+    "definition": {
+        "a murderer": {}
+    },
+    "origin": "from g0435 and g5408",
+    "related": [
+        "g0435",
+        "g5408"
+    ]
+}

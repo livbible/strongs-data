@@ -1,0 +1,22 @@
+{
+    "originalWords": "יבש",
+    "description": "to be ashamed, confused or disappointed; also (as failing) to dry up (as water) or wither (as herbage)",
+    "definition": {
+        "to make dry, wither, be dry, become dry, be dried up, be withered": {
+            "(qal)": {
+                "to be dry, be dried up, be without moisture": {},
+                "to be dried up": {}
+            },
+            "(piel) to make dry, dry up": {},
+            "(hiphil)": {
+                "to dry up, make dry": {
+                    "to dry up (water)": {},
+                    "to make dry, wither": {},
+                    "to exhibit dryness": {}
+                }
+            }
+        }
+    },
+    "origin": "a primitive root",
+    "related": []
+}

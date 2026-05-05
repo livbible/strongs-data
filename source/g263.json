@@ -1,0 +1,18 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀμάραντος",
+            "transliteration": "amárantos"
+        }
+    ],
+    "description": "unfading, i.e., (by implication) perpetual",
+    "definition": {
+        "not fading away, unfading, perennial": {}
+    },
+    "origin": "from g0001 (as a negative particle) and a presumed derivative of g3133",
+    "related": [
+        "g0001",
+        "g0262",
+        "g3133"
+    ]
+}

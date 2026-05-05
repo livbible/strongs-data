@@ -1,0 +1,20 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἄφωνος",
+            "transliteration": "áphōnos"
+        }
+    ],
+    "description": "voiceless, i.e., mute (by nature or choice); figuratively, unmeaning",
+    "definition": {
+        "voiceless, dumb": {},
+        "without faculty of speech": {
+            "of idols": {}
+        }
+    },
+    "origin": "from g0001 (as a negative particle) and g5456",
+    "related": [
+        "g0001",
+        "g5456"
+    ]
+}

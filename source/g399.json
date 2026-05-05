@@ -1,0 +1,24 @@
+{
+    "originalWords": [
+        {
+            "unicode": "ἀναφέρω",
+            "transliteration": "anaphérō"
+        }
+    ],
+    "description": "to take up (literally or figuratively)",
+    "definition": {
+        "to carry or bring up, to lead up": {
+            "men to a higher place": {}
+        },
+        "to put upon the altar, to bring to the altar, to offer": {},
+        "to lift up one's self, to take upon one's self": {
+            "to place on one's self anything as a load to be carried": {},
+            "to sustain, i.e., their punishment": {}
+        }
+    },
+    "origin": "from g0303 and g5342",
+    "related": [
+        "g0303",
+        "g5342"
+    ]
+}
